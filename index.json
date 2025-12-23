@@ -2,128 +2,6 @@
   "index_version": 1,
   "worlds": [
     {
-      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/apraiser_v120/actraiser.apworld",
-      "size": 68437,
-      "hash_sha256": "37522bb9c39d5e4dfb04de04dcc3dd46c78743b433e4032bc2a7033dc8f472e1",
-      "metadata": {
-        "game": "Actraiser",
-        "id": "actraiser",
-        "world_version": "1.2.0",
-        "tag_version": "1.2.0",
-        "created_at": "2025-04-15T23:59:33Z"
-      }
-    },
-    {
-      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/apraiser_v121/actraiser.apworld",
-      "size": 68439,
-      "hash_sha256": "2f0b4b2df70d1840a9eed81fbe446888ca71b796e14f79d41dc4c1cf5556851d",
-      "metadata": {
-        "game": "Actraiser",
-        "id": "actraiser",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2025-06-26T18:35:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/apraiser_v130/actraiser.apworld",
-      "size": 86528,
-      "hash_sha256": "34bcef2b4c22988e94002582f7170fe39c92f5748c4fac03e6809a0ac20092ab",
-      "metadata": {
-        "game": "Actraiser",
-        "id": "actraiser",
-        "world_version": "1.3.0",
-        "tag_version": "1.3.0",
-        "created_at": "2025-08-19T15:57:25Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/apraiser_v131/actraiser.apworld",
-      "size": 82991,
-      "hash_sha256": "0483c1960848f8c030628cdfa431feaddc56b8e1cf91d20ffb5666a48c57bae3",
-      "metadata": {
-        "game": "Actraiser",
-        "id": "actraiser",
-        "world_version": "0.3.1",
-        "tag_version": "0.3.1",
-        "created_at": "2025-09-18T19:26:07Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/apraiser_v132/actraiser.apworld",
-      "size": 84648,
-      "hash_sha256": "4f8b5feff8077cd329e436e74ae9e5089ee10e8b702838400803130dfe77c7c7",
-      "metadata": {
-        "game": "Actraiser",
-        "id": "actraiser",
-        "world_version": "1.3.2",
-        "tag_version": "1.3.2",
-        "created_at": "2025-09-18T19:26:07Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/ClaudeChibout/Archipelago-ADOFAI/releases/download/v1.0.0/adofai.apworld",
-      "size": 12337,
-      "hash_sha256": "86b10d0894cc1ced7e02a2604de475740e1f8d71599157d6af8978f44b22f60c",
-      "metadata": {
-        "game": "A Dance of Fire and Ice",
-        "id": "adofai",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-08-30T13:14:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ClaudeChibout/Archipelago-ADOFAI/releases/download/v1.0.0-beta/adofai.apworld",
-      "size": 3126,
-      "hash_sha256": "026e34c08fbeae70021da86b8f03c7846aaa3d6d6f31388bfa234cbdfddcc7a1",
-      "metadata": {
-        "game": "A Dance of Fire and Ice",
-        "id": "adofai",
-        "world_version": "1.0.0b0",
-        "tag_version": "1.0.0b0",
-        "created_at": "2025-08-16T11:57:29Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/ClaudeChibout/Archipelago-ADOFAI/releases/download/v1.1.0/adofai.apworld",
-      "size": 12375,
-      "hash_sha256": "a1e88543363d30c3293267e18067b86713d9a05b0235de9c960340d05fadd38f",
-      "metadata": {
-        "game": "A Dance of Fire and Ice",
-        "id": "adofai",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2025-10-30T21:09:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ClaudeChibout/Archipelago-ADOFAI/releases/download/v2.0.0-beta/adofai.apworld",
-      "size": 12337,
-      "hash_sha256": "86b10d0894cc1ced7e02a2604de475740e1f8d71599157d6af8978f44b22f60c",
-      "metadata": {
-        "game": "A Dance of Fire and Ice",
-        "id": "adofai",
-        "world_version": "2.0.0b0",
-        "tag_version": "2.0.0b0",
-        "created_at": "2025-08-21T15:11:54Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.1.0-alpha/against_the_storm.apworld",
       "size": 7739,
       "hash_sha256": "b0f24ebe471afa8b891010410f346ecbb3b3188e11f5ddbbe41b1cf05bea6855",
@@ -936,326 +814,6 @@
         "tag_version": "0.5.3",
         "created_at": "2025-06-14T20:56:51Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.0/anodyne.apworld",
-      "size": 21804,
-      "hash_sha256": "6934f664d1f0164265f71f1d7e242c28e11e36db28ff53e414c527166f706d10",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2024-07-20T21:50:19Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.1/anodyne.apworld",
-      "size": 22667,
-      "hash_sha256": "ac592dc818a4eaf9f583eb6e682b1b1f94678d48a73c352914dd5bd5d2fd6f9f",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2024-07-21T17:53:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.2/anodyne.apworld",
-      "size": 22753,
-      "hash_sha256": "77bdddf8a156321b3362ad05337464c2da3ac10b2b25e96bb87d5365563939eb",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2024-07-22T03:13:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.3/anodyne.apworld",
-      "size": 59843,
-      "hash_sha256": "f75fc0406189dfdfcd2fe972e4231237c8198cac9dbaf2b435d64664316fa338",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.3",
-        "tag_version": "0.1.3",
-        "created_at": "2024-07-17T22:49:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.4/anodyne.apworld",
-      "size": 25385,
-      "hash_sha256": "a5875c49e8a9ec58b41e3d7a7c176a5f6191b99bb10239de489ab2190e291491",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.4",
-        "tag_version": "0.1.4",
-        "created_at": "2024-08-02T20:47:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.5/anodyne.apworld",
-      "size": 23590,
-      "hash_sha256": "96b352106225de10448a755a4213cece60a681386cf578e36f944ca69da51a00",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.5",
-        "tag_version": "0.1.5",
-        "created_at": "2024-08-08T02:53:23Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.6/anodyne.apworld",
-      "size": 23596,
-      "hash_sha256": "26726613565591966fc59aa629449541c375aae5087dc6e13c8b70db84b769ee",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.6",
-        "tag_version": "0.1.6",
-        "created_at": "2024-11-21T20:20:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.7/anodyne.apworld",
-      "size": 23598,
-      "hash_sha256": "35852163f08770fac13e03e7089486689a01d80ca81c1de7726f20bed8f50e99",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.7",
-        "tag_version": "0.1.7",
-        "created_at": "2024-11-22T18:46:25Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.8/anodyne.apworld",
-      "size": 23604,
-      "hash_sha256": "3ec6f47e89d23925049de4d5525364bc30f14fedf6228ecbacc31612f8b8ad62",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.8",
-        "tag_version": "0.1.8",
-        "created_at": "2024-12-08T20:09:43Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.9/anodyne.apworld",
-      "size": 23604,
-      "hash_sha256": "28d0599d757a75e2351b32697dede11511e561d3e1c070ba3406cf7863a85c33",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.1.9",
-        "tag_version": "0.1.9",
-        "created_at": "2025-01-18T14:13:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.0/anodyne.apworld",
-      "size": 50559,
-      "hash_sha256": "3524c45a56980e106ff8c65e4613254e4620a1a1194300c7dc12d07783c8c358",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-04-08T18:45:26Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.1/anodyne.apworld",
-      "size": 31747,
-      "hash_sha256": "6b9c878a8dc24979f3594adfe281acd2a68e94a6fd78f82a9c9e8fc93f9ebcf3",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.2.1",
-        "tag_version": "0.2.1",
-        "created_at": "2025-04-09T19:14:27Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.2/anodyne.apworld",
-      "size": 31866,
-      "hash_sha256": "7798c8049fdcae74f23d0c127cb3081b834eb1689e2f24aaf699987f79a21871",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.2.2",
-        "tag_version": "0.2.2",
-        "created_at": "2025-04-10T13:29:23Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.3/anodyne.apworld",
-      "size": 31863,
-      "hash_sha256": "547e9b76153ffd5db4859ce848e299a99fe63cb95bb0de33a20a97707900a85b",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.2.3",
-        "tag_version": "0.2.3",
-        "created_at": "2025-04-15T06:00:21Z"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.3/anodyne.apworld",
-      "size": 31865,
-      "hash_sha256": "959ee05776be297d82ee8228c2629e0590e19f3723294b25280e3c2a054b7c6a",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.2.3.post2",
-        "tag_version": "0.2.3.post2",
-        "created_at": "2025-04-15T06:00:21Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.4/anodyne.apworld",
-      "size": 32288,
-      "hash_sha256": "3cf5118a51a7c50068c99ddc269e967be7ba44bf1ca6cf331befc68429f9f33d",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.2.4",
-        "tag_version": "0.2.4",
-        "created_at": "2025-05-07T19:06:31Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.5/anodyne.apworld",
-      "size": 32286,
-      "hash_sha256": "90af3359bdcd1c6f86c3bd8930fd539709afdd098ebde10206a0f7dcdc54bd50",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.2.5",
-        "tag_version": "0.2.5",
-        "created_at": "2025-05-13T10:23:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.6/anodyne.apworld",
-      "size": 32271,
-      "hash_sha256": "5fab8474d69c5314e2596279a27729f8defe2e609ef8be16ee56d371adb4cf33",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.2.6",
-        "tag_version": "0.2.6",
-        "created_at": "2025-06-08T17:29:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.7/anodyne.apworld",
-      "size": 99975,
-      "hash_sha256": "c2b58b9cd9256dc892a207a78876af74b3d7e71f9c44bb220e4bdc6be0db7b98",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.2.7",
-        "tag_version": "0.2.7",
-        "created_at": "2025-06-29T08:55:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.3.0/anodyne.apworld",
-      "size": 100852,
-      "hash_sha256": "14f94a553bb4a8e67c3033e43ae3a97288a758e994b54db0d3a1481f2068ff68",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2025-07-03T17:42:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.3.1/anodyne.apworld",
-      "size": 100797,
-      "hash_sha256": "a66fb2ad8f35d5de0c1eea40ebaaefad828a14fa949b5c6fd0a07b212f1df558",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.3.1",
-        "tag_version": "0.3.1",
-        "created_at": "2025-07-11T12:33:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.4.0/anodyne.apworld",
-      "size": 3941607,
-      "hash_sha256": "65e2cf027d9fc375a5f4a023a22b766e94f36a1bfa0df84d074fa2b71318a3c6",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.4.0",
-        "tag_version": "0.4.0",
-        "created_at": "2025-10-08T11:58:26Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.4.1/anodyne.apworld",
-      "size": 39850,
-      "hash_sha256": "9902971203a7874fde6609ff23f1a2a9a3fa1f77fb1c82ba15246f0ec3671cad",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.4.1",
-        "tag_version": "0.4.1",
-        "created_at": "2025-10-12T18:37:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.5.0/anodyne.apworld",
-      "size": 43973,
-      "hash_sha256": "cf8497352ae65a60c5320708d31ab489416b339dfb6bd9ab58f884e416499f59",
-      "metadata": {
-        "game": "Anodyne",
-        "id": "anodyne",
-        "world_version": "0.5.0",
-        "tag_version": "0.5.0",
-        "created_at": "2025-12-15T15:29:53Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -5975,6 +5533,19 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-09-18T19:26:07Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/bombquest_v0.1.1/bomberman_quest.apworld",
+      "size": 25775,
+      "hash_sha256": "894eb11f4686d1f84c39133d64519d08149e79076d63f74840b9105e111271ec",
+      "metadata": {
+        "game": "Bomberman Quest",
+        "id": "bomberman_quest",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2025-11-05T01:53:53Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -12675,6 +12246,19 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.20/dk64.apworld",
+      "size": 26543061,
+      "hash_sha256": "bf7fb185efd67d65e9761f026805882c1bd9efbc014250e012a421b193f04b8d",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.20",
+        "tag_version": "1.4.20",
+        "created_at": "2025-12-23T06:55:21Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -38391,6 +37975,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.2/nine_sols.apworld",
+      "size": 2923043,
+      "hash_sha256": "588bdcc442bc2e7a7ebd58b02e8a3410897bd20536d7a7602bc0d2df239db1f3",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2025-12-23T02:44:54Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_0/no100f.apworld",
       "size": 216707,
       "hash_sha256": "c7a73db59222d8761aa6528118924eca25b97a3f3e6fde3dd3e74ba64d9abda0",
@@ -42258,6 +41855,19 @@
         "tag_version": "0.0.1.post2",
         "created_at": "2025-04-05T22:13:34Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/plok_v011/plok.apworld",
+      "size": 28011,
+      "hash_sha256": "ac1d0fe77b70157481b6b0802d9d4b97d85d6fdadc0527102f1469c0237e8644",
+      "metadata": {
+        "game": "Plok",
+        "id": "plok",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2025-11-05T01:53:53Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -63287,318 +62897,6 @@
       }
     },
     {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.0.0/ty_the_tasmanian_tiger.apworld",
-      "size": 56824,
-      "hash_sha256": "d620cb9e1c2a3c7da55a52f4ce681b9ab8ebfe57b731cc4745914963858d8021",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-02-06T19:07:06Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.0.1/ty_the_tasmanian_tiger.apworld",
-      "size": 56845,
-      "hash_sha256": "005bce991f879e6e49f06f6d4ca7b61fcd10c173f83ddcfc843ebcf6845e5117",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2025-02-07T01:44:41Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.0.3/ty_the_tasmanian_tiger.apworld",
-      "size": 56911,
-      "hash_sha256": "795c21ff379327155afc28059a21af943a008c0729452ded7b000a20f4accea0",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.0.3",
-        "tag_version": "1.0.3",
-        "created_at": "2025-02-07T20:46:00Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.0.4/ty_the_tasmanian_tiger.apworld",
-      "size": 56903,
-      "hash_sha256": "10acf9cf84ea327ee55a70e5907c42a2950fee01b8913c5401997c7c3e41bcc6",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.0.4",
-        "tag_version": "1.0.4",
-        "created_at": "2025-02-09T03:17:36Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.0/ty_the_tasmanian_tiger.apworld",
-      "size": 59930,
-      "hash_sha256": "8f6e7bbc354859dd8d76bd397549eff2684f8794f597beb8e270f0c9e7b6df12",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2025-02-12T21:41:25Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.1/ty_the_tasmanian_tiger.apworld",
-      "size": 60908,
-      "hash_sha256": "42bdd4959191cdb9f1809e743445a971be2e8dd2c5aeee37d77c9de2f61a132d",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.1",
-        "tag_version": "1.1.1",
-        "created_at": "2025-02-14T20:25:15Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.10/ty_the_tasmanian_tiger.apworld",
-      "size": 62677,
-      "hash_sha256": "f91c9511078098bf4c6391af30ca5cd85069a04726405ac1f5347e5aabf715d0",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.10",
-        "tag_version": "1.1.10",
-        "created_at": "2025-03-18T09:21:05Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.2/ty_the_tasmanian_tiger.apworld",
-      "size": 61272,
-      "hash_sha256": "731b788abd11480def659c2ab433ebea0abf233460290c374005b5a8494b2257",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.2",
-        "tag_version": "1.1.2",
-        "created_at": "2025-02-17T18:58:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.3/ty_the_tasmanian_tiger.apworld",
-      "size": 59048,
-      "hash_sha256": "2fef18f47c1a8bbee838f0ccf6c27115ee85f9ec2105f00bfcefb9da9c5aefbe",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.3",
-        "tag_version": "1.1.3",
-        "created_at": "2025-02-20T21:04:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.4/ty_the_tasmanian_tiger.apworld",
-      "size": 59048,
-      "hash_sha256": "2fef18f47c1a8bbee838f0ccf6c27115ee85f9ec2105f00bfcefb9da9c5aefbe",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.4",
-        "tag_version": "1.1.4",
-        "created_at": "2025-02-22T12:22:46Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.5/ty_the_tasmanian_tiger.apworld",
-      "size": 62619,
-      "hash_sha256": "ea8b6eb4638d9a135ee7a88576c59b96f0774b4f5599261303ac7518f534bda7",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.5",
-        "tag_version": "1.1.5",
-        "created_at": "2025-02-24T15:47:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.6/ty_the_tasmanian_tiger.apworld",
-      "size": 62619,
-      "hash_sha256": "29515987841966fb106cb042329bd7287990f611f1367bfdf42982e13e93e68d",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.6",
-        "tag_version": "1.1.6",
-        "created_at": "2025-02-24T15:47:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.7/ty_the_tasmanian_tiger.apworld",
-      "size": 62644,
-      "hash_sha256": "4871062b95199e31d2e5133095b54b7d8296a653e87de56cb6f2c04accb8b0d4",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.7",
-        "tag_version": "1.1.7",
-        "created_at": "2025-03-02T16:41:31Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.8/ty_the_tasmanian_tiger.apworld",
-      "size": 62666,
-      "hash_sha256": "039d70726a84438e420c5d2d47753b3d636ebee03800787997d473e0b89399e6",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.8",
-        "tag_version": "1.1.8",
-        "created_at": "2025-03-08T20:36:04Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.9/ty_the_tasmanian_tiger.apworld",
-      "size": 62673,
-      "hash_sha256": "24dbb3b20f3c1b229b8f32561c5b6af0171433979e2d3d29dc6f94d3f00a737b",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.9",
-        "tag_version": "1.1.9",
-        "created_at": "2025-03-13T00:20:15Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.2.0/ty_the_tasmanian_tiger.apworld",
-      "size": 125295,
-      "hash_sha256": "ff284bef604cfb9b1e107d729d9f2bf590eb8eb218c97faa8dacccdb5cb85b32",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.2.0",
-        "tag_version": "1.2.0",
-        "created_at": "2025-03-28T21:14:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.2.1/ty_the_tasmanian_tiger.apworld",
-      "size": 125310,
-      "hash_sha256": "64daf8d471cd6d39f81ea4bcdb28f7e98f9af269a31055d57aacbd75517074df",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2025-04-01T00:36:24Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.2.2/ty_the_tasmanian_tiger.apworld",
-      "size": 125312,
-      "hash_sha256": "6a46faec3eaae2d62cd5bb94ba7c495b487a91752b1afc367d5cda23507520ff",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.2.2",
-        "tag_version": "1.2.2",
-        "created_at": "2025-04-02T07:57:02Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.2.3/ty_the_tasmanian_tiger.apworld",
-      "size": 125306,
-      "hash_sha256": "e9a5c68b183575e4bf98187123e65aec4b217d4ee8768defef7e739cdbb46b8a",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.2.3",
-        "tag_version": "1.2.3",
-        "created_at": "2025-04-02T20:21:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.0/ty_the_tasmanian_tiger.apworld",
-      "size": 125794,
-      "hash_sha256": "109eb119005af5cc024cb30c1f3cf0d1697eb4003056db9b04f64f50657bda19",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.0",
-        "tag_version": "1.3.0",
-        "created_at": "2025-04-28T09:03:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.1/ty_the_tasmanian_tiger.apworld",
-      "size": 125885,
-      "hash_sha256": "22eee70dc36340dbb2d72f284e25b992f790fe117a75f5034647bb1568abbcca",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.1",
-        "tag_version": "1.3.1",
-        "created_at": "2025-05-26T21:00:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.2/ty_the_tasmanian_tiger.apworld",
-      "size": 125884,
-      "hash_sha256": "1a2b45185fef6d9e221dd535fa27ab8bcb23d1d83c5aee1a250fb4d05f51e424",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.2",
-        "tag_version": "1.3.2",
-        "created_at": "2025-06-27T20:01:37Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.3/ty_the_tasmanian_tiger.apworld",
-      "size": 126019,
-      "hash_sha256": "b23f27ba60cfee0f0598aee07655ada7fe0a88fa6b2ea639df39542398ef577f",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.3",
-        "tag_version": "1.3.3",
-        "created_at": "2025-08-31T02:32:55Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/v1.3.4/ty_the_tasmanian_tiger.apworld",
-      "size": 124271,
-      "hash_sha256": "a206040a4a96ef52684be1c127236d2fb97f7fab00a60d1269a46ddb50a04a26",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.4",
-        "tag_version": "1.3.4",
-        "created_at": "2025-11-07T22:27:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/FyreDay/Archipelago-TyTheTasmanianTiger2/releases/download/v0.0.1/ty_the_tasmanian_tiger_2.apworld",
       "size": 56924,
       "hash_sha256": "7a322b3c62ad96d1403d693a6771e5f09d5b54c01e3e038952c710deff2b7d5c",
@@ -66671,15 +65969,6 @@
     }
   ],
   "meta": {
-    "actraiser": {
-      "game": "Actraiser",
-      "description": "Actraiser whose apworld code had a lot of it's base code mirrored from \nthe Majoras Mask and Donkey Kong Country 3 Apworlds.",
-      "tracker": "https://github.com/ShinyNT/actraiser-poptracker/releases/tag/1.3.0"
-    },
-    "adofai": {
-      "game": "A Dance of Fire and Ice",
-      "description": ""
-    },
     "against_the_storm": {
       "game": "Against the Storm",
       "description": "Against the Storm is a roguelite city builder"
@@ -66699,10 +65988,6 @@
     "animal_well": {
       "game": "ANIMAL WELL",
       "description": "Hatch from your flower and spelunk through the beautiful and sometimes haunting world of ANIMAL WELL, a pixelated\naction-exploration game rendered in intricate audio and visual detail. Encounter lively creatures small and large,\nhelpful and ominous as you discover unconventional upgrades and unravel the well\u2019s secrets."
-    },
-    "anodyne": {
-      "game": "Anodyne",
-      "description": "Anodyne is a unique Zelda-like game, influenced by games such as Yume Nikki and Link's Awakening. \nIn Anodyne, you'll visit areas urban, natural, and bizarre, fighting your way through dungeons \nand areas in Young's subconscious."
     },
     "another_crab": {
       "game": "Another Crab's Treasure",
@@ -68472,10 +67757,6 @@
     "tww3": {
       "game": "Total War Warhammer 3",
       "description": "Insert description of the world/game here."
-    },
-    "ty_the_tasmanian_tiger": {
-      "game": "Ty the Tasmanian Tiger",
-      "description": "Ty the Tasmanian Tiger is a 3D platformer collectathon created by Australian developers Krome Studios.\nPlay as Ty and travel the Australian outback to snowy mountains to defeat Boss Cass and rescue your family from The Dreaming."
     },
     "ty_the_tasmanian_tiger_2": {
       "game": "Ty the Tasmanian Tiger 2",
