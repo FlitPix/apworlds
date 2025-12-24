@@ -1,13 +1,16 @@
 {
   "total_repositories": 443,
-  "total_packages": 508,
-  "total_versions": 4842,
+  "total_packages": 511,
+  "total_versions": 4907,
   "manifest_ready": {
+    "actraiser": true,
+    "adofai": false,
     "against_the_storm": true,
     "air_delivery": false,
     "albw": false,
     "am2r": true,
     "animal_well": false,
+    "anodyne": true,
     "another_crab": false,
     "ape_escape_3": true,
     "apeescape": true,
@@ -448,6 +451,7 @@
     "turnipboy": false,
     "twistycube": true,
     "tww3": false,
+    "ty_the_tasmanian_tiger": false,
     "ty_the_tasmanian_tiger_2": true,
     "tyrian": true,
     "ufo50": false,
@@ -469,7 +473,7 @@
     "xenobladex": false,
     "yachtdice": true,
     "yooka_laylee": false,
-    "yugiohddm": false,
+    "yugiohddm": true,
     "zelda2": false,
     "zork_grand_inquisitor": true
   }
