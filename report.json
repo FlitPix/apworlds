@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 510,
-  "total_versions": 4930,
+  "total_versions": 4935,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -26,7 +26,7 @@
     "axiomverge": false,
     "backlog_expedition": false,
     "balatro": false,
-    "banjo_tooie": false,
+    "banjo_tooie": true,
     "bfm": true,
     "bg3": true,
     "bingo": false,
