@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 510,
-  "total_versions": 4954,
+  "total_packages": 511,
+  "total_versions": 4965,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -401,6 +401,7 @@
     "sly2": true,
     "sm64hacks": true,
     "smrpg": true,
+    "sms": false,
     "smsa2": false,
     "smushi_come_home": true,
     "smw": false,
