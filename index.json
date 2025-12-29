@@ -12845,6 +12845,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.21/dk64.apworld",
+      "size": 26572272,
+      "hash_sha256": "8b525a72c96e0004e16c31c0e86a9ba620b390c93a1a061231b415ee570af4ac",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.21",
+        "tag_version": "1.4.21",
+        "created_at": "2025-12-28T23:57:41Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.3/dk64.apworld",
       "size": 26177344,
       "hash_sha256": "2b53a792c050403111555ef31dd425e5acf274560aebe8c7dd80398bc84e9489",
@@ -12933,19 +12946,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.21/dk64.apworld",
-      "size": 26572272,
-      "hash_sha256": "8b525a72c96e0004e16c31c0e86a9ba620b390c93a1a061231b415ee570af4ac",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.21",
-        "tag_version": "1.4.21",
-        "created_at": "2025-12-28T23:57:41Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -19681,6 +19681,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.0.3/gl.apworld",
+      "size": 429190,
+      "hash_sha256": "c525d4455194685a8798c125f42f286ed7ba830e621ac9b03933aee3d953cb0d",
+      "metadata": {
+        "game": "Gauntlet Legends",
+        "id": "gl",
+        "world_version": "2.0.3",
+        "tag_version": "2.0.3",
+        "created_at": "2025-12-29T03:28:34Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Smg065/GloverArchipelago/releases/download/beta/glover.apworld",
       "size": 286172,
       "hash_sha256": "16627aa16fca1346d900ac4069c4c6af108442ce51caf73f638343f0a827b98d",
@@ -24302,6 +24315,22 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/keymasters_keep-2.1.2/keymasters_keep.apworld",
+      "size": 583269,
+      "hash_sha256": "167e9073e8fd2922adafb7f9b914157bc52d8b63f49a954abe808094689aee8f",
+      "metadata": {
+        "game": "Keymaster's Keep",
+        "id": "keymasters_keep",
+        "world_version": "2.1.2",
+        "tag_version": "2.1.2",
+        "created_at": "2025-12-29T00:18:54Z",
+        "minimum_ap_version": "0.6.1",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/kmk-0001/keymasters_keep.apworld",
       "size": 50525,
       "hash_sha256": "904e020f13a24a5e31c4e666eb539b20f9c2b7cce65aba74c0c05da2c0615568",
@@ -24530,22 +24559,6 @@
         "flags": [
           "tracker_included",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/silasary/Archipelago/releases/download/keymasters_keep-2.1.2/keymasters_keep.apworld",
-      "size": 583269,
-      "hash_sha256": "167e9073e8fd2922adafb7f9b914157bc52d8b63f49a954abe808094689aee8f",
-      "metadata": {
-        "game": "Keymaster's Keep",
-        "id": "keymasters_keep",
-        "world_version": "2.1.2",
-        "tag_version": "2.1.2",
-        "created_at": "2025-12-29T00:18:54Z",
-        "minimum_ap_version": "0.6.1",
-        "flags": [
-          "tracker_included"
         ]
       }
     },
@@ -25583,6 +25596,19 @@
         "world_version": "0.1.6",
         "tag_version": "0.1.6",
         "created_at": "2025-12-13T06:20:41Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Silvris/Archipelago/releases/download/kss_0.1.7/kss.apworld",
+      "size": 48659,
+      "hash_sha256": "b7326d5b877dab680ad526bde2256c0c011d22e5dd0f9066ee5b7750779f0195",
+      "metadata": {
+        "game": "Kirby Super Star",
+        "id": "kss",
+        "world_version": "0.1.7",
+        "tag_version": "0.1.7",
+        "created_at": "2025-12-29T05:07:34Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -27249,6 +27275,19 @@
       }
     },
     {
+      "world": "https://github.com/Kli333/LobCorp-AP/releases/download/v.1.3.0.0/lobotomycorporation.apworld",
+      "size": 82065,
+      "hash_sha256": "04c45df2a2b86905feb0f9cc5ec7b8f74833c812f568885b5dbb5be462138d5c",
+      "metadata": {
+        "game": "Lobotomy Corporation",
+        "id": "lobotomycorporation",
+        "world_version": "1.3.0.0.post3",
+        "tag_version": "1.3.0.0.post3",
+        "created_at": "2025-12-27T12:18:11Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Kli333/LobCorp-AP/releases/download/v1.0.0.0/lobotomycorporation.apworld",
       "size": 36068,
       "hash_sha256": "b27d63e74c6f41d5fb787bc0119c530f28fc86c41e1d3fde3befe20e0c3c9f8a",
@@ -27310,19 +27349,6 @@
         "world_version": "1.2.0.0",
         "tag_version": "1.2.0.0",
         "created_at": "2025-07-23T16:23:16Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Kli333/LobCorp-AP/releases/download/v.1.3.0.0/lobotomycorporation.apworld",
-      "size": 82065,
-      "hash_sha256": "04c45df2a2b86905feb0f9cc5ec7b8f74833c812f568885b5dbb5be462138d5c",
-      "metadata": {
-        "game": "Lobotomy Corporation",
-        "id": "lobotomycorporation",
-        "world_version": "1.3.0.0.post3",
-        "tag_version": "1.3.0.0.post3",
-        "created_at": "2025-12-27T12:18:11Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -42881,6 +42907,19 @@
         "world_version": "0.1.4b2",
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.3.2/plateup.apworld",
+      "size": 10422893,
+      "hash_sha256": "e629e53fe1f0a1672be110d54d4c269784fc2a9343db6433e28af5a5815af3cc",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.3.2",
+        "tag_version": "0.2.3.2",
+        "created_at": "2025-12-05T01:09:52Z",
         "maximum_ap_version": "0.6.99"
       }
     },
