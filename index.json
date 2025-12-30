@@ -3802,6 +3802,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.7/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2025-12-29T22:19:14Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/mail-liam/Archipelago/releases/download/beta/axiomverge.apworld",
       "size": 70109,
       "hash_sha256": "3bff3001756b9a21599834a0243dabdda83c1a14a0cc587474b3e5579fd26b3b",
@@ -11394,6 +11407,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.1/dc1.apworld",
+      "size": 65681,
+      "hash_sha256": "9d6f0c493190aeded3c9adfb0b47f6d8c1ad107f1b74dedb1d3fc836d4f2d08d",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-12-29T19:06:05Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DC2AP/releases/download/0.0.1/dc2.apworld",
       "size": 52154,
       "hash_sha256": "d4615813efa2f112097438694e9791af6bb95b7f032c034af3e3d96f207b5c4e",
@@ -12946,6 +12972,19 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.22/dk64.apworld",
+      "size": 26572244,
+      "hash_sha256": "1a0285629ba4c8b0307b0bf4cb3d83f52f020ab898d81b7bc519766122528015",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.22",
+        "tag_version": "1.4.22",
+        "created_at": "2025-12-29T15:26:08Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -21036,6 +21075,22 @@
       }
     },
     {
+      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.15.0/hades.apworld",
+      "size": 90474,
+      "hash_sha256": "2673d4d80a177c70494a930ba45c1b2bdf6056993312c95e4713d96ba0d22295",
+      "metadata": {
+        "game": "Hades",
+        "id": "hades",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2025-12-29T15:51:04Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v0.7/hammerwatch.apworld",
       "size": 195650,
       "hash_sha256": "7581aaf8180511f250de7f00fe1eb4c51f7c15224c224b6ebf9b00444f187481",
@@ -27349,6 +27404,19 @@
         "world_version": "1.2.0.0",
         "tag_version": "1.2.0.0",
         "created_at": "2025-07-23T16:23:16Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Kli333/LobCorp-AP/releases/download/v.1.3.0.0/lobotomycorporation.apworld",
+      "size": 82066,
+      "hash_sha256": "31317ded7fd3a673042491a0251890fea53fa802ef8e9e2ace924fd9557ca4fa",
+      "metadata": {
+        "game": "Lobotomy Corporation",
+        "id": "lobotomycorporation",
+        "world_version": "1.3.0.0.post4",
+        "tag_version": "1.3.0.0.post4",
+        "created_at": "2025-12-27T12:18:11Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -34972,6 +35040,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.7/medievil.apworld",
+      "size": 26517,
+      "hash_sha256": "a525f764e32cb5c1f8c990de7ee40730f25d77a80210368067579069ed1d0db7",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2025-12-29T16:59:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.1/medievil2.apworld",
       "size": 13553,
       "hash_sha256": "cefd4b5b02da1b467ee3e2508c5d9af5096f100f16f07d8dd1d5d92cfc72f6e6",
@@ -35628,6 +35709,19 @@
         "tag_version": "1.0.0",
         "created_at": "2024-07-03T21:21:03Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.4.2B/megamix.apworld",
+      "size": 45331,
+      "hash_sha256": "83a4ab75c8e29522fddbba97ba4833a5e8e945b6b071fd70174fc2dc219a14b3",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2025-12-29T16:53:23Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -37032,6 +37126,18 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-11-14T18:36:06Z"
+      }
+    },
+    {
+      "world": "https://github.com/RischDev/Archipelago/releases/download/v0.1.1/mmbn6.apworld",
+      "size": 173006,
+      "hash_sha256": "942c79172256aaa51be07794d8ce1191101ccdc3e894d4c937805af6c4e52ed1",
+      "metadata": {
+        "game": "MegaMan Battle Network 6",
+        "id": "mmbn6",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2025-12-29T00:33:43Z"
       }
     },
     {
@@ -42898,19 +43004,6 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
-      "size": 15365,
-      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.1.4b2",
-        "tag_version": "0.1.4b2",
-        "created_at": "2025-02-26T20:49:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.3.2/plateup.apworld",
       "size": 10422893,
       "hash_sha256": "e629e53fe1f0a1672be110d54d4c269784fc2a9343db6433e28af5a5815af3cc",
@@ -42920,6 +43013,19 @@
         "world_version": "0.2.3.2",
         "tag_version": "0.2.3.2",
         "created_at": "2025-12-05T01:09:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
+      "size": 15365,
+      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.1.4b2",
+        "tag_version": "0.1.4b2",
+        "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -48690,6 +48796,22 @@
         "tag_version": "0.3.0",
         "created_at": "2025-12-23T17:34:57Z",
         "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.3.1-pre/rac3.apworld",
+      "size": 2805824,
+      "hash_sha256": "c216452a9d4e96a848b63ef317b9cdc09afb4a93032b3d74fd3c4ba1133179c6",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2025-12-29T14:26:49Z",
+        "minimum_ap_version": "0.5.0",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
