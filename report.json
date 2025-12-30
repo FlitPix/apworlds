@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 511,
-  "total_versions": 4977,
+  "total_packages": 512,
+  "total_versions": 4981,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -88,6 +88,7 @@
     "dkc": true,
     "dkc2": true,
     "dlcquest": false,
+    "dmc3": true,
     "dome_keeper": false,
     "dontstarvetogether": true,
     "doom_1993": false,

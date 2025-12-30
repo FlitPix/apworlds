@@ -3575,6 +3575,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.7/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2025-12-29T22:19:14Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.2.0/autopelago.apworld",
       "size": 17653,
       "hash_sha256": "6da348c9a260a47f110fe8ab15da60369dc2825ce66c79ad71c958649397de3d",
@@ -3799,19 +3812,6 @@
         "tag_version": "0.9.0",
         "created_at": "2025-02-09T20:18:09Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.7/autopelago.apworld",
-      "size": 25294,
-      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
-      "metadata": {
-        "game": "Autopelago",
-        "id": "autopelago",
-        "world_version": "0.11.0",
-        "tag_version": "0.11.0",
-        "created_at": "2025-12-29T22:19:14Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -12884,6 +12884,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.22/dk64.apworld",
+      "size": 26572244,
+      "hash_sha256": "1a0285629ba4c8b0307b0bf4cb3d83f52f020ab898d81b7bc519766122528015",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.22",
+        "tag_version": "1.4.22",
+        "created_at": "2025-12-29T15:26:08Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.3/dk64.apworld",
       "size": 26177344,
       "hash_sha256": "2b53a792c050403111555ef31dd425e5acf274560aebe8c7dd80398bc84e9489",
@@ -12972,19 +12985,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.22/dk64.apworld",
-      "size": 26572244,
-      "hash_sha256": "1a0285629ba4c8b0307b0bf4cb3d83f52f020ab898d81b7bc519766122528015",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.22",
-        "tag_version": "1.4.22",
-        "created_at": "2025-12-29T15:26:08Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -13293,6 +13293,19 @@
         "world_version": "3.0.4",
         "tag_version": "3.0.4",
         "created_at": "2025-10-02T01:10:45Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/AshIndigo/Archipelago/releases/download/v0.4.0/dmc3.apworld",
+      "size": 26053,
+      "hash_sha256": "5c820d7e64f2afa9c2f840bd83236c70dae335a9984c695025648c9631f7ec85",
+      "metadata": {
+        "game": "Devil May Cry 3",
+        "id": "dmc3",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-12-30T10:40:32Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -17217,6 +17230,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.13/ff1pr.apworld",
+      "size": 28092,
+      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.5.12",
+        "tag_version": "0.5.12",
+        "created_at": "2025-12-30T12:32:48Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Rosalie-A/Archipelago/releases/download/FFIV-0.1/ff4fe.apworld",
       "size": 8830168,
       "hash_sha256": "496401bbc1f82f9500347bc60d2178880a53104bab69e3f3064f2c09f98a30ee",
@@ -20861,6 +20887,22 @@
       }
     },
     {
+      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.15.0/hades.apworld",
+      "size": 90474,
+      "hash_sha256": "2673d4d80a177c70494a930ba45c1b2bdf6056993312c95e4713d96ba0d22295",
+      "metadata": {
+        "game": "Hades",
+        "id": "hades",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2025-12-29T15:51:04Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.3.1/hades.apworld",
       "size": 44750,
       "hash_sha256": "21695c20bd6f647a1afeb8574ff79f5210b12f8c13a47387e52080a0a6ba76ec",
@@ -21068,22 +21110,6 @@
         "world_version": "0.13.0",
         "tag_version": "0.13.0",
         "created_at": "2024-10-13T17:21:55Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.15.0/hades.apworld",
-      "size": 90474,
-      "hash_sha256": "2673d4d80a177c70494a930ba45c1b2bdf6056993312c95e4713d96ba0d22295",
-      "metadata": {
-        "game": "Hades",
-        "id": "hades",
-        "world_version": "0.15.0",
-        "tag_version": "0.15.0",
-        "created_at": "2025-12-29T15:51:04Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -27343,6 +27369,19 @@
       }
     },
     {
+      "world": "https://github.com/Kli333/LobCorp-AP/releases/download/v.1.3.0.0/lobotomycorporation.apworld",
+      "size": 82066,
+      "hash_sha256": "31317ded7fd3a673042491a0251890fea53fa802ef8e9e2ace924fd9557ca4fa",
+      "metadata": {
+        "game": "Lobotomy Corporation",
+        "id": "lobotomycorporation",
+        "world_version": "1.3.0.0.post4",
+        "tag_version": "1.3.0.0.post4",
+        "created_at": "2025-12-27T12:18:11Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Kli333/LobCorp-AP/releases/download/v1.0.0.0/lobotomycorporation.apworld",
       "size": 36068,
       "hash_sha256": "b27d63e74c6f41d5fb787bc0119c530f28fc86c41e1d3fde3befe20e0c3c9f8a",
@@ -27404,19 +27443,6 @@
         "world_version": "1.2.0.0",
         "tag_version": "1.2.0.0",
         "created_at": "2025-07-23T16:23:16Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Kli333/LobCorp-AP/releases/download/v.1.3.0.0/lobotomycorporation.apworld",
-      "size": 82066,
-      "hash_sha256": "31317ded7fd3a673042491a0251890fea53fa802ef8e9e2ace924fd9557ca4fa",
-      "metadata": {
-        "game": "Lobotomy Corporation",
-        "id": "lobotomycorporation",
-        "world_version": "1.3.0.0.post4",
-        "tag_version": "1.3.0.0.post4",
-        "created_at": "2025-12-27T12:18:11Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -32148,6 +32174,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.2.0/manual_onemorenight_wolfboi008.apworld",
+      "size": 65560,
+      "hash_sha256": "9b7ebcabd9abb9a2a09e2fecf8ff4d9c8ae37bc118ed5598402a4ff6a01a188f",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2025-12-30T07:39:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/nicopop/ManualApworlds/releases/download/6.4.0/manual_outerwilds_nicopopxd.apworld",
       "size": 73676,
       "hash_sha256": "d6f034c2e7a17a3d1f4a53f83d24c1a35f17f82c01a48539257ad408220bdffe",
@@ -35699,19 +35738,6 @@
       }
     },
     {
-      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
-      "size": 470162,
-      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
-      "metadata": {
-        "game": "Hatsune Miku Project Diva Mega Mix+",
-        "id": "megamix",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2024-07-03T21:21:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.4.2B/megamix.apworld",
       "size": 45331,
       "hash_sha256": "83a4ab75c8e29522fddbba97ba4833a5e8e945b6b071fd70174fc2dc219a14b3",
@@ -35722,6 +35748,19 @@
         "tag_version": "1.4.2",
         "created_at": "2025-12-29T16:53:23Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
+      "size": 470162,
+      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2024-07-03T21:21:03Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -39155,6 +39194,19 @@
         "world_version": "0.4.2",
         "tag_version": "0.4.2",
         "created_at": "2025-12-23T02:44:54Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.3/nine_sols.apworld",
+      "size": 2923964,
+      "hash_sha256": "9f88b516e12192dbd354368b8a3e2c3814b71cab291fa39caf7f8d0c40e529b0",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.4.3",
+        "tag_version": "0.4.3",
+        "created_at": "2025-12-30T05:44:33Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -68122,6 +68174,10 @@
     "dlcquest": {
       "game": "DLCQuest",
       "description": "DLCQuest is a metroid ish game where everything is an in-game dlc."
+    },
+    "dmc3": {
+      "game": "Devil May Cry 3",
+      "description": ""
     },
     "dome_keeper": {
       "game": "Dome Keeper",
