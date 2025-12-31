@@ -1730,6 +1730,22 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.5%2B1/ape_escape_3.apworld",
+      "size": 140856,
+      "hash_sha256": "c040dcb6e863af0c5183014ee7c7ebb4090b92f323c778911815d59e163ce18c",
+      "metadata": {
+        "game": "Ape Escape 3",
+        "id": "ape_escape_3",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2025-06-19T01:39:46Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00beta-1/ape_escape_3.apworld",
       "size": 111109,
       "hash_sha256": "c8ca4577c007234ea6a9d7d80671d323839f977c1469a077d475b453c4353c8f",
@@ -1755,22 +1771,6 @@
         "world_version": "2.0.0b2",
         "tag_version": "2.0.0b2",
         "created_at": "2025-07-16T13:51:45Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.5%2B1/ape_escape_3.apworld",
-      "size": 140856,
-      "hash_sha256": "c040dcb6e863af0c5183014ee7c7ebb4090b92f323c778911815d59e163ce18c",
-      "metadata": {
-        "game": "Ape Escape 3",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2025-06-19T01:39:46Z",
-        "minimum_ap_version": "0.6.3",
         "flags": [
           "prerelease"
         ]
@@ -7705,6 +7705,19 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2025-12-25T09:33:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.1/casualtiesunknown.apworld",
+      "size": 73901,
+      "hash_sha256": "615e44777e0cffa8b9a231915974892b2204aeef024084176e0206e62758f0d1",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2025-12-30T01:17:51Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -35224,6 +35237,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.13/medievil2.apworld",
+      "size": 15907,
+      "hash_sha256": "f99b5bfe96c244031a4dba96744b98c88f7eb0aec0d8c3d79530c53b612659b8",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.0.13",
+        "tag_version": "0.0.13",
+        "created_at": "2025-12-30T16:11:37Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.2/medievil2.apworld",
       "size": 14482,
       "hash_sha256": "072924572a42b0a7d3f04794d22d954f4523020e33195ad8a67cb46cdfa3b030",
@@ -35324,19 +35350,6 @@
         "world_version": "0.0.9",
         "tag_version": "0.0.9",
         "created_at": "2025-09-25T19:57:56Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.13/medievil2.apworld",
-      "size": 15907,
-      "hash_sha256": "f99b5bfe96c244031a4dba96744b98c88f7eb0aec0d8c3d79530c53b612659b8",
-      "metadata": {
-        "game": "Medievil 2",
-        "id": "medievil2",
-        "world_version": "0.0.13",
-        "tag_version": "0.0.13",
-        "created_at": "2025-12-30T16:11:37Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -42143,6 +42156,19 @@
       }
     },
     {
+      "world": "https://github.com/CrusherRL/AP_Parkitect_World/releases/download/1.1.0/parkitect.apworld",
+      "size": 56365,
+      "hash_sha256": "470b987496b8fb3bd10164b128d74e86c09c21b06b197955f62578bfde7ecd08",
+      "metadata": {
+        "game": "Parkitect",
+        "id": "parkitect",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2025-12-31T10:44:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ThePhar/ThePasswordGameArchipelago/releases/download/1.0/password.apworld",
       "size": 6381,
       "hash_sha256": "d9d1d8b2e4482eef4a8e7dc5c22af6c5fa54acf313365fd0816f0a63d35df97b",
@@ -42550,6 +42576,19 @@
         "id": "pikmin2",
         "world_version": "0.6.0.post2",
         "tag_version": "0.6.0.post2",
+        "created_at": "2025-12-28T00:52:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.6.1/pikmin2.apworld",
+      "size": 780191,
+      "hash_sha256": "716b723135e1263691a7aa0b5442cf4d0b4351da76aae58a118491e551ab7189",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
         "created_at": "2025-12-28T00:52:04Z",
         "maximum_ap_version": "0.6.99"
       }
