@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 512,
-  "total_versions": 4981,
+  "total_versions": 4986,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -369,7 +369,7 @@
     "rain_world": true,
     "rayman2": false,
     "refunct": true,
-    "residentevil2remake": false,
+    "residentevil2remake": true,
     "residentevil3remake": true,
     "residentevil7biohazard": true,
     "reventure": false,

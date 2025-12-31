@@ -1761,6 +1761,22 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.5%2B1/ape_escape_3.apworld",
+      "size": 140856,
+      "hash_sha256": "c040dcb6e863af0c5183014ee7c7ebb4090b92f323c778911815d59e163ce18c",
+      "metadata": {
+        "game": "Ape Escape 3",
+        "id": "ape_escape_3",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2025-06-19T01:39:46Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.3.0/apeescape.apworld",
       "size": 181274,
       "hash_sha256": "9ccc189c239d744a190f6e8eb6ca34c74d37490cde0723159d931dc6828da145",
@@ -17126,6 +17142,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.13/ff1pr.apworld",
+      "size": 28092,
+      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.5.12",
+        "tag_version": "0.5.12",
+        "created_at": "2025-12-30T12:32:48Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.2/ff1pr.apworld",
       "size": 90130,
       "hash_sha256": "6225e452222deddbb2a3fd390794563ab691f29b4ffbecb9e68b18785af216bc",
@@ -17226,19 +17255,6 @@
         "world_version": "0.5.8",
         "tag_version": "0.5.8",
         "created_at": "2025-10-04T17:02:17Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.13/ff1pr.apworld",
-      "size": 28092,
-      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
-      "metadata": {
-        "game": "FF1 Pixel Remaster",
-        "id": "ff1pr",
-        "world_version": "0.5.12",
-        "tag_version": "0.5.12",
-        "created_at": "2025-12-30T12:32:48Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -32030,6 +32046,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.2.0/manual_onemorenight_wolfboi008.apworld",
+      "size": 65560,
+      "hash_sha256": "9b7ebcabd9abb9a2a09e2fecf8ff4d9c8ae37bc118ed5598402a4ff6a01a188f",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2025-12-30T07:39:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -32171,19 +32200,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.2.0/manual_onemorenight_wolfboi008.apworld",
-      "size": 65560,
-      "hash_sha256": "9b7ebcabd9abb9a2a09e2fecf8ff4d9c8ae37bc118ed5598402a4ff6a01a188f",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.2.0",
-        "tag_version": "2.2.0",
-        "created_at": "2025-12-30T07:39:44Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -35308,6 +35324,19 @@
         "world_version": "0.0.9",
         "tag_version": "0.0.9",
         "created_at": "2025-09-25T19:57:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.13/medievil2.apworld",
+      "size": 15907,
+      "hash_sha256": "f99b5bfe96c244031a4dba96744b98c88f7eb0aec0d8c3d79530c53b612659b8",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.0.13",
+        "tag_version": "0.0.13",
+        "created_at": "2025-12-30T16:11:37Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -49392,6 +49421,21 @@
       }
     },
     {
+      "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.3.0/residentevil2remake.apworld",
+      "size": 85620,
+      "hash_sha256": "7c6c1ecc889af46c358d70fffb0039bc2d36edb752bb3df00fa8cd5e15e63966",
+      "metadata": {
+        "game": "Resident Evil 2 Remake",
+        "id": "residentevil2remake",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2025-12-30T14:58:13Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/TheRealSolidusSnake/RE3R_AP_World/releases/download/0.0.1/residentevil3remake.apworld",
       "size": 35945,
       "hash_sha256": "e9c46fd879085f8b19103e13b6cd5fdfdee0243f791e7d70774d8bad7cba9942",
@@ -60434,6 +60478,22 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.3.5/tevi.apworld",
+      "size": 170015,
+      "hash_sha256": "44fc95bbb603128ff423a775c0a66386650e660065f8ecd99db66c61cc45a7f7",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.3.5",
+        "tag_version": "1.4.3.5",
+        "created_at": "2025-12-30T20:07:12Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nepley/eosd-apworld/releases/download/v1.0.0/th06.apworld",
       "size": 36935,
       "hash_sha256": "f8933f1f567291737d842690df98952e62bfbfc11ff39af4d0cbdbcf1151bb0b",
@@ -67433,6 +67493,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/ArchipelagoYachtDice/releases/download/v2.3.1/yachtdice.apworld",
+      "size": 197840,
+      "hash_sha256": "f44a5fb83c0d6edce4fdbc4858101356e13f7d7a80a02c612a9dc2a074112c25",
+      "metadata": {
+        "game": "Yacht Dice",
+        "id": "yachtdice",
+        "world_version": "2.3.1",
+        "tag_version": "2.3.1",
+        "created_at": "2025-12-30T22:16:38Z",
+        "minimum_ap_version": "0.6.1"
       }
     },
     {
