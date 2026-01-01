@@ -1,7 +1,10 @@
 {
   "description": "KeyWe is a co-op puzzle game where the players control Jeff and Debra,\ntwo Kiwis tasked with manning the stations at a post office.",
   "game": "KeyWe",
-  "github": "https://github.com/xMcacutt/Archipelago-KeyWe",
+  "github": [
+    "https://github.com/xMcacutt/Archipelago-KeyWe",
+    "https://github.com/xMcacutt-Archipelago/Archipelago-KeyWe"
+  ],
   "license": null,
   "versions": {
     "1.0.0": {

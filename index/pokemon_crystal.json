@@ -1,9 +1,26 @@
 {
   "description": "Pok\u00e9mon Crystal is the culmination of the Generation I and II Pok\u00e9mon games.\nExplore the Johto and Kanto regions, become the Pok\u00e9mon League Champion, and\ndefeat the elusive Red at the peak of Mt. Silver!",
   "game": "Pokemon Crystal",
-  "github": "https://github.com/gerbiljames/Archipelago",
+  "github": [
+    "https://github.com/gerbiljames/Archipelago",
+    "https://github.com/gerbiljames/Archipelago-Crystal",
+    "https://github.com/Eijebong/Archipelago"
+  ],
   "license": null,
   "versions": {
+    "0.0.1": {
+      "created_at": "2025-01-27T23:24:02Z",
+      "download_url": "https://github.com/daxtm/Archipelago/releases/download/0.0.1/pokemon_crystal.apworld",
+      "has_manifest": false,
+      "hash_sha256": "2fb5ef0648c2e9e9b6ad7adcbd1c852680df489392fce66c0623325848782548",
+      "prerelease": true,
+      "size": 333465,
+      "source_url": "https://api.github.com/repos/daxtm/Archipelago",
+      "tag": "0.0.1",
+      "title": "Dax_Item_Label_test",
+      "version_simple": "0.0.1",
+      "world_version": "0.0.1"
+    },
     "0.1": {
       "created_at": "2024-02-18T23:24:38Z",
       "download_url": "https://github.com/AliceMousie/Archipelago/releases/download/0.1/pokemon_crystal.apworld",
@@ -1303,6 +1320,30 @@
       "title": "5.3.5",
       "version_simple": "5.3.5",
       "world_version": "5.3.5"
+    },
+    "69.0.42": {
+      "created_at": "2025-08-28T21:18:58Z",
+      "download_url": "https://github.com/Eijebong/Archipelago/releases/download/69.0.42/pokemon_crystal.apworld",
+      "has_manifest": false,
+      "hash_sha256": "38c5623c10230f99db9c00b19dcd2bf6d934f35f49d3ac28e411e692c94ca661",
+      "size": 504046,
+      "source_url": "https://api.github.com/repos/Eijebong/Archipelago",
+      "tag": "69.0.42",
+      "title": "69.0.42",
+      "version_simple": "69.0.42",
+      "world_version": "69.0.42"
+    },
+    "v2.1.2": {
+      "created_at": "2025-03-12T12:30:39Z",
+      "download_url": "https://github.com/zuils/Archipelago/releases/download/v2.1.2/pokemon_crystal.apworld",
+      "has_manifest": false,
+      "hash_sha256": "46e0f91f7c0adb6d0c6643d70c4d77572cc787e3a6af0b99b08cd766e4d9389d",
+      "size": 326707,
+      "source_url": "https://api.github.com/repos/zuils/Archipelago",
+      "tag": "v2.1.2",
+      "title": "pokecrystal-2.1.2",
+      "version_simple": "2.1.2",
+      "world_version": "2.1.2"
     }
   }
 }
