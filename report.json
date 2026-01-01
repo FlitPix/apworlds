@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 513,
-  "total_versions": 4994,
+  "total_versions": 4997,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -104,7 +104,7 @@
     "earthbound": true,
     "enderlilies": false,
     "enter_the_gungeon": false,
-    "everhood_2": false,
+    "everhood_2": true,
     "exocolonist": true,
     "factorio_bobs": true,
     "factorio_saws": true,
