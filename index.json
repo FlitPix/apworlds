@@ -9154,6 +9154,19 @@
       }
     },
     {
+      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.7/commandmission.apworld",
+      "size": 50268,
+      "hash_sha256": "1cfa8e8886abc7c44d794b91de46841999e3439d4a9374f11ef5011e7e2423c0",
+      "metadata": {
+        "game": "Mega Man X Command Mission",
+        "id": "commandmission",
+        "world_version": "0.1.7",
+        "tag_version": "0.1.7",
+        "created_at": "2025-12-31T21:27:17Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Simik1997/AP_CookieClicker/releases/download/0.2/cookieclicker.apworld",
       "size": 86036,
       "hash_sha256": "4dbd8cb38d5e5e2c713ec675b98e5e5576b3b7cd3130addd89371a0781ab7090",
@@ -29020,6 +29033,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre1/lunacid.apworld",
+      "size": 93229,
+      "hash_sha256": "61e61f77e9480e9b2a8d7746d3a70febcb1594ab01b83f05dbaf0659ee83431f",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.0rc1",
+        "tag_version": "1.0.0rc1",
+        "created_at": "2025-07-02T22:10:18Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari/madou.apworld",
       "size": 167900,
       "hash_sha256": "133e880c112ff3e50f37a5920e0db2c1e97e3fe09081a88f4c2f418b79693fb3",
@@ -35803,6 +35831,19 @@
         "tag_version": "1.0.0",
         "created_at": "2024-07-03T21:21:03Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.4.3B/megamix.apworld",
+      "size": 45311,
+      "hash_sha256": "574faf813d5050531b5793254c760412bfcff3b8aeaae3b9b78ae0ae956297bf",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2025-12-31T15:26:03Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -46864,6 +46905,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.1.0/pokepark.apworld",
+      "size": 74572,
+      "hash_sha256": "ddb99000bb6a1fbb6a95a5415ec2d30b61683b8bfc666a87dc04919c9349b473",
+      "metadata": {
+        "game": "PokePark",
+        "id": "pokepark",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2025-12-31T13:21:58Z"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1/powerwashsimulator.apworld",
       "size": 11917,
       "hash_sha256": "c88117dc5d4eddea733e8f152b3ab1258b881e80a27e71d1363a770b06cace88",
@@ -55066,6 +55119,18 @@
         "id": "smushi_come_home",
         "world_version": "1.0.7",
         "tag_version": "1.0.7",
+        "created_at": "2025-12-20T17:12:57Z"
+      }
+    },
+    {
+      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-SmushiComeHome/releases/download/1.0.7/smushi_come_home.apworld",
+      "size": 11730,
+      "hash_sha256": "e2312f30d7b96bef8e33b1d07994ad92f5e0b498c0df2217ad21f1b2fd41cf5a",
+      "metadata": {
+        "game": "Smushi Come Home",
+        "id": "smushi_come_home",
+        "world_version": "1.0.7.post2",
+        "tag_version": "1.0.7.post2",
         "created_at": "2025-12-20T17:12:57Z"
       }
     },
