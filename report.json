@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 513,
-  "total_versions": 5016,
+  "total_versions": 5022,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -111,7 +111,7 @@
     "faxanadu": false,
     "fe8": true,
     "fez": true,
-    "ff12_open_world": false,
+    "ff12_open_world": true,
     "ff1pr": true,
     "ff4fe": false,
     "ffta": false,
