@@ -10787,6 +10787,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02i.1/cuphead.apworld",
+      "size": 72995,
+      "hash_sha256": "67c1a7687f0886f0088baf10724a3fef411b21e71274c9b19c28f9702797dc71",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2026-01-03T23:35:41Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -10916,19 +10929,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02i.1/cuphead.apworld",
-      "size": 72995,
-      "hash_sha256": "67c1a7687f0886f0088baf10724a3fef411b21e71274c9b19c28f9702797dc71",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "2",
-        "tag_version": "2",
-        "created_at": "2026-01-03T23:35:41Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -19989,6 +19989,19 @@
         "id": "gl",
         "world_version": "2.1.1",
         "tag_version": "2.1.1",
+        "created_at": "2026-01-01T07:26:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.1/gl.apworld",
+      "size": 432281,
+      "hash_sha256": "d22e3816b62c45fd648b996b5fa9bdfce52a666416625476d909c9a515892b3b",
+      "metadata": {
+        "game": "Gauntlet Legends",
+        "id": "gl",
+        "world_version": "2.1.1.post2",
+        "tag_version": "2.1.1.post2",
         "created_at": "2026-01-01T07:26:26Z",
         "maximum_ap_version": "0.6.99"
       }
@@ -29305,6 +29318,21 @@
         "id": "lunacid",
         "world_version": "1.0.0rc3",
         "tag_version": "1.0.0rc3",
+        "created_at": "2025-07-02T22:10:18Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre4/lunacid.apworld",
+      "size": 4894180,
+      "hash_sha256": "c6e30ec32f5ec5b344faf0a2f50e2467dddfe6fb0797e2314e0e9abd1a355fbf",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.0rc4",
+        "tag_version": "1.0.0rc4",
         "created_at": "2025-07-02T22:10:18Z",
         "flags": [
           "prerelease"
@@ -46195,6 +46223,19 @@
         "world_version": "5.3.5",
         "tag_version": "5.3.5",
         "created_at": "2025-12-28T21:25:29Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.3.6/pokemon_crystal.apworld",
+      "size": 617562,
+      "hash_sha256": "40b847489711f208197d753dc1c87c113126456e570a60e51e3cf15abbdab885",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.3.6",
+        "tag_version": "5.3.6",
+        "created_at": "2026-01-04T02:57:55Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -66579,6 +66620,19 @@
         "world_version": "1.2.2",
         "tag_version": "1.2.2",
         "created_at": "2026-01-03T02:09:01Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.2.3/waffles.apworld",
+      "size": 219615,
+      "hash_sha256": "e97626c1d4fba8760bfbb4fc84d0af4971354b23c214b25cdd0d62a39835b840",
+      "metadata": {
+        "game": "SMW: Spicy Mycena Waffles",
+        "id": "waffles",
+        "world_version": "1.2.3",
+        "tag_version": "1.2.3",
+        "created_at": "2026-01-04T06:06:31Z",
         "minimum_ap_version": "0.6.5"
       }
     },
