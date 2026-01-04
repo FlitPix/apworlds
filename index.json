@@ -8708,6 +8708,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.9.1/civv.apworld",
+      "size": 144406,
+      "hash_sha256": "59e0aceb1141f3c66b3e9cf5f83a9dc1bf68576526d84842c4e090e04f04565e",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.9.1",
+        "tag_version": "0.9.1",
+        "created_at": "2026-01-03T12:43:06Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/ckd-v0.0.1/ckd.apworld",
       "size": 217567,
       "hash_sha256": "53671f3f057ead0462a4f5b570d96c0014858ae78fbb573471b83bcc6ec06943",
@@ -10904,6 +10916,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02i.1/cuphead.apworld",
+      "size": 72995,
+      "hash_sha256": "67c1a7687f0886f0088baf10724a3fef411b21e71274c9b19c28f9702797dc71",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2026-01-03T23:35:41Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -19238,6 +19263,22 @@
       }
     },
     {
+      "world": "https://github.com/cheesepak/ap-forged-curse/releases/download/v1.1.0-beta/forgedcurse.apworld",
+      "size": 8207,
+      "hash_sha256": "f859b6b291316cfc76723281ffd3a0a3a212678ce8e6bc4ee2c76a7e014c9346",
+      "metadata": {
+        "game": "Forged Curse",
+        "id": "forgedcurse",
+        "world_version": "1.1.0b0",
+        "tag_version": "1.1.0b0",
+        "created_at": "2025-12-30T07:27:07Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Knuxfan24/Freedom-Planet-2-Archipelago/releases/download/0.1.0/fp2.apworld",
       "size": 49817,
       "hash_sha256": "a33b0a0538dfd4718e232ed506711ba9145dbe0d020e49f99c889f43084c8e88",
@@ -21110,6 +21151,22 @@
       }
     },
     {
+      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.15.0-hotfix/hades.apworld",
+      "size": 90479,
+      "hash_sha256": "15038186c2daa0b09368c20da02626b7d03c9f837b2572193759ae2b6afc16d9",
+      "metadata": {
+        "game": "Hades",
+        "id": "hades",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-01-02T12:58:28Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.3.1/hades.apworld",
       "size": 44750,
       "hash_sha256": "21695c20bd6f647a1afeb8574ff79f5210b12f8c13a47387e52080a0a6ba76ec",
@@ -21317,22 +21374,6 @@
         "world_version": "0.13.0",
         "tag_version": "0.13.0",
         "created_at": "2024-10-13T17:21:55Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.15.0-hotfix/hades.apworld",
-      "size": 90479,
-      "hash_sha256": "15038186c2daa0b09368c20da02626b7d03c9f837b2572193759ae2b6afc16d9",
-      "metadata": {
-        "game": "Hades",
-        "id": "hades",
-        "world_version": "0.15.0",
-        "tag_version": "0.15.0",
-        "created_at": "2026-01-02T12:58:28Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -29256,6 +29297,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre3/lunacid.apworld",
+      "size": 4894180,
+      "hash_sha256": "c6e30ec32f5ec5b344faf0a2f50e2467dddfe6fb0797e2314e0e9abd1a355fbf",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.0rc3",
+        "tag_version": "1.0.0rc3",
+        "created_at": "2025-07-02T22:10:18Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari/madou.apworld",
       "size": 167900,
       "hash_sha256": "133e880c112ff3e50f37a5920e0db2c1e97e3fe09081a88f4c2f418b79693fb3",
@@ -35499,6 +35555,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.15/medievil2.apworld",
+      "size": 17143,
+      "hash_sha256": "8cc1782736c22433d269562c673cd0b5657b3f40f46f895069e74fcbf7a6e426",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.0.15",
+        "tag_version": "0.0.15",
+        "created_at": "2026-01-03T02:46:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.2/medievil2.apworld",
       "size": 14482,
       "hash_sha256": "072924572a42b0a7d3f04794d22d954f4523020e33195ad8a67cb46cdfa3b030",
@@ -35599,19 +35668,6 @@
         "world_version": "0.0.9",
         "tag_version": "0.0.9",
         "created_at": "2025-09-25T19:57:56Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.15/medievil2.apworld",
-      "size": 17143,
-      "hash_sha256": "8cc1782736c22433d269562c673cd0b5657b3f40f46f895069e74fcbf7a6e426",
-      "metadata": {
-        "game": "Medievil 2",
-        "id": "medievil2",
-        "world_version": "0.0.15",
-        "tag_version": "0.0.15",
-        "created_at": "2026-01-03T02:46:14Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -66501,19 +66557,6 @@
       }
     },
     {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.2.2/waffles.apworld",
-      "size": 219602,
-      "hash_sha256": "bc45722cdccf3f1f25eb4ecb81f46156c11a09a98f750c69f052236d3487d462",
-      "metadata": {
-        "game": "SMW: Spicy Mycena Waffles",
-        "id": "waffles",
-        "world_version": "1.2.2",
-        "tag_version": "1.2.2",
-        "created_at": "2026-01-03T02:09:01Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.2.1/waffles.apworld",
       "size": 219534,
       "hash_sha256": "02a70c8aadac1b9dde399f9e30c1d31fe5be177a4f8e1260d074ebbac56e009e",
@@ -66523,6 +66566,19 @@
         "world_version": "1.2.1",
         "tag_version": "1.2.1",
         "created_at": "2025-12-28T07:37:58Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.2.2/waffles.apworld",
+      "size": 219602,
+      "hash_sha256": "bc45722cdccf3f1f25eb4ecb81f46156c11a09a98f750c69f052236d3487d462",
+      "metadata": {
+        "game": "SMW: Spicy Mycena Waffles",
+        "id": "waffles",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-01-03T02:09:01Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -68135,6 +68191,18 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2025-12-23T18:10:23Z"
+      }
+    },
+    {
+      "world": "https://github.com/JustinMarshall98/Archipelago---YuGiOh-Dungeon-Dice-Monsters-GBA-/releases/download/v0.3.1/yugiohddm.apworld",
+      "size": 70886,
+      "hash_sha256": "913cd3e2e0c2b286d858867a6fcbc98cc0294472bde8ff85d1d4c6ff9cfe6c0e",
+      "metadata": {
+        "game": "Yu-Gi-Oh! Dungeon Dice Monsters",
+        "id": "yugiohddm",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-01-03T20:58:04Z"
       }
     },
     {
