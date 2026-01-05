@@ -10213,6 +10213,22 @@
       }
     },
     {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.13.0/crystal_project.apworld",
+      "size": 151131,
+      "hash_sha256": "318a15a63d790f246d53917a1cde5ed53ef9fd11358a872d6d94d2767b30ea40",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-01-04T19:55:34Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.5.0/crystal_project.apworld",
       "size": 242135,
       "hash_sha256": "364cf700e1b81b87404be45fb83d8e5c7a20f5e6607c1ba5357a621d2e2b4d7d",
@@ -10430,22 +10446,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-05-21T22:20:48Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "tracker_included"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.13.0/crystal_project.apworld",
-      "size": 151131,
-      "hash_sha256": "318a15a63d790f246d53917a1cde5ed53ef9fd11358a872d6d94d2767b30ea40",
-      "metadata": {
-        "game": "Crystal Project",
-        "id": "crystal_project",
-        "world_version": "0.13.0",
-        "tag_version": "0.13.0",
-        "created_at": "2026-01-04T19:55:34Z",
-        "minimum_ap_version": "0.6.4",
         "flags": [
           "tracker_included"
         ]
@@ -13067,6 +13067,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.25/dk64.apworld",
+      "size": 26573091,
+      "hash_sha256": "446a09345e515e1d5858c4be2d22aff1ac9f57929c11f60c7ca4daec318ee5ad",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.25",
+        "tag_version": "1.4.25",
+        "created_at": "2026-01-04T23:54:20Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.3/dk64.apworld",
       "size": 26177344,
       "hash_sha256": "2b53a792c050403111555ef31dd425e5acf274560aebe8c7dd80398bc84e9489",
@@ -13155,19 +13168,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.25/dk64.apworld",
-      "size": 26573091,
-      "hash_sha256": "446a09345e515e1d5858c4be2d22aff1ac9f57929c11f60c7ca4daec318ee5ad",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.25",
-        "tag_version": "1.4.25",
-        "created_at": "2026-01-04T23:54:20Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -16054,6 +16054,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.3.4/everhood_2.apworld",
+      "size": 18248,
+      "hash_sha256": "8db6547f432651823e97ac60838fa9e4eb62d37dfcc12b79ee3220a6d2bec3cf",
+      "metadata": {
+        "game": "Everhood 2",
+        "id": "everhood_2",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-01-05T02:31:40Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/pamymaf/Exocolonist-AP/releases/download/v0.1.0/exocolonist.apworld",
       "size": 15304,
       "hash_sha256": "1f37ae2ec86a7faa870ec7be57c78d762d6102087091daf67c103ffa5b2895c3",
@@ -16987,6 +17000,19 @@
         "tag_version": "0.6.0",
         "created_at": "2026-01-03T02:16:27Z",
         "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Bartz24/Archipelago/releases/download/0.6.0.1/ff12_open_world.apworld",
+      "size": 83059,
+      "hash_sha256": "41af017f303e54dbab43cfb6177ca2a660f07a593d83a20eef9f32626c43080d",
+      "metadata": {
+        "game": "Final Fantasy 12 Open World",
+        "id": "ff12_open_world",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-01-05T04:57:13Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -31623,6 +31649,19 @@
       }
     },
     {
+      "world": "https://github.com/BigBradley/Mario-Kart-7-Manual-APworld/releases/download/1.2/manual_mariokart7_bigbradley.apworld",
+      "size": 60476,
+      "hash_sha256": "d9faaaecaafec7711c203e56db391a1cc5972c4acf72766073f45e8801226cee",
+      "metadata": {
+        "game": "Manual_MarioKart7_BigBradley",
+        "id": "manual_mariokart7_bigbradley",
+        "world_version": "1.2",
+        "tag_version": "1.2",
+        "created_at": "2026-01-04T21:16:40Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/BigBradley/Mario-Kart-7-Manual-APworld/releases/download/V1.0/manual_mariokart7_bigbradley.apworld",
       "size": 60452,
       "hash_sha256": "51d94e907cbbaecbdc08b7c9e0bced5696f0bee70a9aa1d8c89eba27609916a0",
@@ -31644,19 +31683,6 @@
         "world_version": "1.1",
         "tag_version": "1.1",
         "created_at": "2025-11-05T19:25:51Z"
-      }
-    },
-    {
-      "world": "https://github.com/BigBradley/Mario-Kart-7-Manual-APworld/releases/download/1.2/manual_mariokart7_bigbradley.apworld",
-      "size": 60476,
-      "hash_sha256": "d9faaaecaafec7711c203e56db391a1cc5972c4acf72766073f45e8801226cee",
-      "metadata": {
-        "game": "Manual_MarioKart7_BigBradley",
-        "id": "manual_mariokart7_bigbradley",
-        "world_version": "1.2",
-        "tag_version": "1.2",
-        "created_at": "2026-01-04T21:16:40Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -35638,6 +35664,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.16/medievil2.apworld",
+      "size": 17218,
+      "hash_sha256": "2c3fa9547a022b343b12e08225ce4565c97f5f45647e47f271c99e219e135632",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.0.16",
+        "tag_version": "0.0.16",
+        "created_at": "2026-01-04T12:44:21Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.2/medievil2.apworld",
       "size": 14482,
       "hash_sha256": "072924572a42b0a7d3f04794d22d954f4523020e33195ad8a67cb46cdfa3b030",
@@ -35738,19 +35777,6 @@
         "world_version": "0.0.9",
         "tag_version": "0.0.9",
         "created_at": "2025-09-25T19:57:56Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.16/medievil2.apworld",
-      "size": 17218,
-      "hash_sha256": "2c3fa9547a022b343b12e08225ce4565c97f5f45647e47f271c99e219e135632",
-      "metadata": {
-        "game": "Medievil 2",
-        "id": "medievil2",
-        "world_version": "0.0.16",
-        "tag_version": "0.0.16",
-        "created_at": "2026-01-04T12:44:21Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -51292,6 +51318,19 @@
         "world_version": "0.6.1",
         "tag_version": "0.6.1",
         "created_at": "2025-09-05T05:14:23Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/studkid/RoR_Archipelago/releases/download/v0.6.2/ror1.apworld",
+      "size": 54939,
+      "hash_sha256": "0a96f6efb7c3417e3303e240b4e41f4cfeaa697ec400125b031ad6c227f023ca",
+      "metadata": {
+        "game": "Risk of Rain",
+        "id": "ror1",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2026-01-05T08:36:30Z",
         "maximum_ap_version": "0.6.99"
       }
     },
