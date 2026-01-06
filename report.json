@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 513,
-  "total_versions": 5043,
+  "total_versions": 5055,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -123,7 +123,7 @@
     "fm": true,
     "forgedcurse": false,
     "fp2": false,
-    "frogmonster": false,
+    "frogmonster": true,
     "garfkart": true,
     "gauntlet_legends": false,
     "getting_over_it": false,
