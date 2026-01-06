@@ -1759,6 +1759,22 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.5%2B2/ape_escape_3.apworld",
+      "size": 140915,
+      "hash_sha256": "7f4d88184d8e354042340635e82a9d4674476dc67b92c1b54cca3cbe75a766df",
+      "metadata": {
+        "game": "Ape Escape 3",
+        "id": "ape_escape_3",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-01-05T14:27:12Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00beta-1/ape_escape_3.apworld",
       "size": 111109,
       "hash_sha256": "c8ca4577c007234ea6a9d7d80671d323839f977c1469a077d475b453c4353c8f",
@@ -1784,22 +1800,6 @@
         "world_version": "2.0.0b2",
         "tag_version": "2.0.0b2",
         "created_at": "2025-07-16T13:51:45Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.5%2B2/ape_escape_3.apworld",
-      "size": 140915,
-      "hash_sha256": "7f4d88184d8e354042340635e82a9d4674476dc67b92c1b54cca3cbe75a766df",
-      "metadata": {
-        "game": "Ape Escape 3",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2026-01-05T14:27:12Z",
-        "minimum_ap_version": "0.6.3",
         "flags": [
           "prerelease"
         ]
@@ -3920,6 +3920,19 @@
         "world_version": "3.post2",
         "tag_version": "3.post2",
         "created_at": "2024-08-08T18:33:13Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/mail-liam/Archipelago/releases/download/beta3.2/axiomverge.apworld",
+      "size": 196413,
+      "hash_sha256": "c3b6758a989ac9852b0e7594d83c4a5fa60114063822bb53f37f2b2f318e7ed2",
+      "metadata": {
+        "game": "Axiom Verge",
+        "id": "axiomverge",
+        "world_version": "3.2",
+        "tag_version": "3.2",
+        "created_at": "2026-01-06T12:32:40Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -8736,18 +8749,6 @@
       }
     },
     {
-      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.9.3/civv.apworld",
-      "size": 144546,
-      "hash_sha256": "d9b24621c1797494f2311de938c9bdafdaeaab8302564fb43d09cc3afb189dd9",
-      "metadata": {
-        "game": "Civilization V",
-        "id": "civv",
-        "world_version": "0.9.3",
-        "tag_version": "0.9.3",
-        "created_at": "2026-01-05T15:14:32Z"
-      }
-    },
-    {
       "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.9.2/civv.apworld",
       "size": 144539,
       "hash_sha256": "513fb1f170ba9a6754d3404fda637ab7cf5713ad4a47c0c571049e5f16786dd1",
@@ -8757,6 +8758,18 @@
         "world_version": "0.9.2",
         "tag_version": "0.9.2",
         "created_at": "2026-01-05T13:01:28Z"
+      }
+    },
+    {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.9.3/civv.apworld",
+      "size": 144546,
+      "hash_sha256": "d9b24621c1797494f2311de938c9bdafdaeaab8302564fb43d09cc3afb189dd9",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.9.3",
+        "tag_version": "0.9.3",
+        "created_at": "2026-01-05T15:14:32Z"
       }
     },
     {
@@ -13120,6 +13133,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.26/dk64.apworld",
+      "size": 36024559,
+      "hash_sha256": "1571e16dfad91afd8f3e866c96e3ff81b29c0ab84914c24f10d65c8f8f55f601",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.26",
+        "tag_version": "1.4.26",
+        "created_at": "2026-01-05T13:35:04Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.3/dk64.apworld",
       "size": 26177344,
       "hash_sha256": "2b53a792c050403111555ef31dd425e5acf274560aebe8c7dd80398bc84e9489",
@@ -13208,19 +13234,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.26/dk64.apworld",
-      "size": 36024559,
-      "hash_sha256": "1571e16dfad91afd8f3e866c96e3ff81b29c0ab84914c24f10d65c8f8f55f601",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.26",
-        "tag_version": "1.4.26",
-        "created_at": "2026-01-05T13:35:04Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -16460,6 +16473,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.4/factorio_saws.apworld",
+      "size": 888174,
+      "hash_sha256": "3fc4b296603539a044ec2a60f533cc1d2631fce482c6a657097ddb2b298dc80c",
+      "metadata": {
+        "game": "Factorio - Space Age Without Space",
+        "id": "factorio_saws",
+        "world_version": "0.8.4",
+        "tag_version": "0.8.4",
+        "created_at": "2026-01-06T05:46:09Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.0/fe8.apworld",
       "size": 167155,
       "hash_sha256": "868ec07f4dfa231d385458a07892587188b600b52a812c3b662801c8a6a9488d",
@@ -18253,6 +18279,22 @@
       }
     },
     {
+      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v.83.0/ffvcd.apworld",
+      "size": 1537644,
+      "hash_sha256": "1206806733921731e810269f3b5b293993c90ad34fd936a804361b72db36bfb4",
+      "metadata": {
+        "game": "Final Fantasy V Career Day",
+        "id": "ffvcd",
+        "world_version": "83.0",
+        "tag_version": "83.0",
+        "created_at": "2026-01-05T23:31:53Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v0.63t/ffvcd.apworld",
       "size": 1751436,
       "hash_sha256": "32cda94935a76ab7bbc5994e1d2d8035d85f6abad58247473cb4fcd02edfa2e9",
@@ -18278,22 +18320,6 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2024-05-23T01:36:42Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v.83.0/ffvcd.apworld",
-      "size": 1537644,
-      "hash_sha256": "1206806733921731e810269f3b5b293993c90ad34fd936a804361b72db36bfb4",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "83.0",
-        "tag_version": "83.0",
-        "created_at": "2026-01-05T23:31:53Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "unready"
@@ -54142,6 +54168,21 @@
       }
     },
     {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.0-beta.2/sims4.apworld",
+      "size": 248581,
+      "hash_sha256": "ccc63aa6385b224b0f92a42b4431ea8f25990fb683bbe7834212b1d44c538b5f",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2025-12-30T05:39:54Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Archipelago/releases/download/sims-1.5.1/sims4.apworld",
       "size": 35754,
       "hash_sha256": "7d01350c1e5acacabc577b4ef96f026090ab0af1b6dcdf36c0f73bab20383e37",
@@ -54220,21 +54261,6 @@
         "tag_version": "1.5.1",
         "created_at": "2025-01-25T02:41:47Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.0-beta.2/sims4.apworld",
-      "size": 248581,
-      "hash_sha256": "ccc63aa6385b224b0f92a42b4431ea8f25990fb683bbe7834212b1d44c538b5f",
-      "metadata": {
-        "game": "The Sims 4",
-        "id": "sims4",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2025-12-30T05:39:54Z",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -61190,6 +61216,19 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/V1.4.4/tevi.apworld",
+      "size": 170161,
+      "hash_sha256": "8b90d6ece2c4edae51ccada1e76afc3f83a88e32c69b8e1a9e12426c795f07ac",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.4",
+        "tag_version": "1.4.4",
+        "created_at": "2026-01-05T21:35:49Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.2.1/tevi.apworld",
       "size": 77019,
       "hash_sha256": "08963d86db21d6d2faecdf605bca4b9691121488ee1c53e378529c778e1bd4e4",
@@ -61322,19 +61361,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/V1.4.4/tevi.apworld",
-      "size": 170161,
-      "hash_sha256": "8b90d6ece2c4edae51ccada1e76afc3f83a88e32c69b8e1a9e12426c795f07ac",
-      "metadata": {
-        "game": "Tevi",
-        "id": "tevi",
-        "world_version": "1.4.4",
-        "tag_version": "1.4.4",
-        "created_at": "2026-01-05T21:35:49Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
