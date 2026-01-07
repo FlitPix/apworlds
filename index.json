@@ -3911,19 +3911,6 @@
       }
     },
     {
-      "world": "https://github.com/mail-liam/Archipelago/releases/download/beta3/axiomverge.apworld",
-      "size": 84720,
-      "hash_sha256": "d378456e516bcdc125777ce0679945dde964b489bbacc80ec40cb0f0eed94866",
-      "metadata": {
-        "game": "Axiom Verge",
-        "id": "axiomverge",
-        "world_version": "3.post2",
-        "tag_version": "3.post2",
-        "created_at": "2024-08-08T18:33:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/mail-liam/Archipelago/releases/download/beta3.2/axiomverge.apworld",
       "size": 196413,
       "hash_sha256": "c3b6758a989ac9852b0e7594d83c4a5fa60114063822bb53f37f2b2f318e7ed2",
@@ -3933,6 +3920,19 @@
         "world_version": "3.2",
         "tag_version": "3.2",
         "created_at": "2026-01-06T12:32:40Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/mail-liam/Archipelago/releases/download/beta3/axiomverge.apworld",
+      "size": 84720,
+      "hash_sha256": "d378456e516bcdc125777ce0679945dde964b489bbacc80ec40cb0f0eed94866",
+      "metadata": {
+        "game": "Axiom Verge",
+        "id": "axiomverge",
+        "world_version": "3.post2",
+        "tag_version": "3.post2",
+        "created_at": "2024-08-08T18:33:13Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -58431,6 +58431,22 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/test_jan_6/spyro2.apworld",
+      "size": 32021,
+      "hash_sha256": "2ea0010e8de2b915a04ebc3e16a919a7958a1f58e342368ef80395d4e01cd9b1",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "6",
+        "tag_version": "6",
+        "created_at": "2026-01-06T21:03:55Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/S3AP/releases/download/0.0.1/spyro3.apworld",
       "size": 30477,
       "hash_sha256": "6aa47ee49c270d6587fec285ca70062a530aa45b351a7aa79e9b0d1a60f1d8b8",
@@ -60767,6 +60783,19 @@
         "tag_version": "0.1.1",
         "created_at": "2025-09-12T20:08:47Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.2/tboir.apworld",
+      "size": 1258783,
+      "hash_sha256": "fbf19ca2306dd0ab51964aec68b74ce9cf16a191d7fefe64f3efa05bcf5993d6",
+      "metadata": {
+        "game": "The Binding of Isaac Repentance",
+        "id": "tboir",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-01-06T19:57:01Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
