@@ -8234,6 +8234,19 @@
       }
     },
     {
+      "world": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.6/celeste_open_world.apworld",
+      "size": 154878,
+      "hash_sha256": "2366bc1be8145917b3938319524105447dfc94182a3093ca7ad46f2273d5cebc",
+      "metadata": {
+        "game": "Celeste (Open World)",
+        "id": "celeste_open_world",
+        "world_version": "1.0.6",
+        "tag_version": "1.0.6",
+        "created_at": "2026-01-07T23:49:23Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Samupo/ChainedEchoesAPWorld/releases/download/v1.0.0/chainedechoes.apworld",
       "size": 19300,
       "hash_sha256": "8cdad99acd9d3c7d5a09281a9454144286faeee7a0e328f30a58c6be9b49183a",
@@ -8770,6 +8783,18 @@
         "world_version": "0.9.3",
         "tag_version": "0.9.3",
         "created_at": "2026-01-05T15:14:32Z"
+      }
+    },
+    {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.9.4/civv.apworld",
+      "size": 145027,
+      "hash_sha256": "55d9b69d7f59bc9126e8a01b0ab4e7c7d74c1334d6fdd9f7fc1803d681aa01ff",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.9.4",
+        "tag_version": "0.9.4",
+        "created_at": "2026-01-07T13:36:50Z"
       }
     },
     {
@@ -35663,6 +35688,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.8/medievil.apworld",
+      "size": 26517,
+      "hash_sha256": "8a281c926012d1ca5c45fff608a353d78d8ea90e8e4d56163384ff617505f651",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-01-07T21:48:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.1/medievil2.apworld",
       "size": 13553,
       "hash_sha256": "cefd4b5b02da1b467ee3e2508c5d9af5096f100f16f07d8dd1d5d92cfc72f6e6",
@@ -35931,6 +35969,19 @@
         "world_version": "0.0.9",
         "tag_version": "0.0.9",
         "created_at": "2025-09-25T19:57:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.1.0/medievil2.apworld",
+      "size": 17224,
+      "hash_sha256": "4b5e9add45c5b2159230a5ae8c6eaec2268ca6f1414bea4d1033e0c196c398cf",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-01-07T18:50:40Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -37769,19 +37820,6 @@
       }
     },
     {
-      "world": "https://github.com/RecompRando/MMRecompRando/releases/download/v0.9.5/mm_recomp.apworld",
-      "size": 40261,
-      "hash_sha256": "222ed8282ab88a89a44f2926cc78f32709c40e189eb17db5c24460fa3744414a",
-      "metadata": {
-        "game": "Majora's Mask Recompiled",
-        "id": "mm_recomp",
-        "world_version": "0.9.5.post2",
-        "tag_version": "0.9.5.post2",
-        "created_at": "2025-11-23T04:10:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/RecompRando/MMRecompRando/releases/download/v0.9.5a/mm_recomp.apworld",
       "size": 40261,
       "hash_sha256": "222ed8282ab88a89a44f2926cc78f32709c40e189eb17db5c24460fa3744414a",
@@ -37791,6 +37829,19 @@
         "world_version": "0.9.5a0",
         "tag_version": "0.9.5a0",
         "created_at": "2025-12-31T09:50:47Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/RecompRando/MMRecompRando/releases/download/v0.9.5/mm_recomp.apworld",
+      "size": 40261,
+      "hash_sha256": "222ed8282ab88a89a44f2926cc78f32709c40e189eb17db5c24460fa3744414a",
+      "metadata": {
+        "game": "Majora's Mask Recompiled",
+        "id": "mm_recomp",
+        "world_version": "0.9.5.post2",
+        "tag_version": "0.9.5.post2",
+        "created_at": "2025-11-23T04:10:12Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -49767,23 +49818,6 @@
         "world_version": "1.4.0",
         "tag_version": "1.4.0",
         "created_at": "2025-11-28T04:01:33Z"
-      }
-    },
-    {
-      "world": "https://github.com/Aeltumn/Archipelago/releases/download/v0.0.1/rayman2.apworld",
-      "size": 27398,
-      "hash_sha256": "c4771f61ade229a0754d9b39bd06713a04aab2d2c99ea2ac4c36416606f7f1d8",
-      "metadata": {
-        "game": "Rayman 2",
-        "id": "rayman2",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2025-03-24T23:33:22Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready",
-          "prerelease"
-        ]
       }
     },
     {
@@ -70386,10 +70420,6 @@
     "rain_world": {
       "game": "Rain World",
       "description": "You are a nomadic slugcat, both predator and prey in a broken ecosystem. Grab your spear and brave the\nindustrial wastes, hunting enough food to survive, but be wary\u2014 other, bigger creatures have the same plan...\nand slugcats look delicious."
-    },
-    "rayman2": {
-      "game": "Rayman 2",
-      "description": "Rayman 2 is a classic 3D platformer where Rayman sets out on an adventure to obtain four\nmasks to defeat an army of Robo-Pirates attacking the Glade of Dreams."
     },
     "refunct": {
       "game": "Refunct",

@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 513,
-  "total_versions": 5061,
+  "total_packages": 512,
+  "total_versions": 5064,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -47,7 +47,7 @@
     "cavesofqud": false,
     "celeste": false,
     "celeste64": false,
-    "celeste_open_world": false,
+    "celeste_open_world": true,
     "chainedechoes": false,
     "checksmate": false,
     "christmasdeliveryapworld-main": false,
@@ -367,7 +367,6 @@
     "rac2": false,
     "rac3": true,
     "rain_world": true,
-    "rayman2": false,
     "refunct": true,
     "residentevil2remake": true,
     "residentevil3remake": true,
