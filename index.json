@@ -29574,6 +29574,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre7/lunacid.apworld",
+      "size": 4894579,
+      "hash_sha256": "53ba5e00d038bf123ced4e3ec9337d058c59fcb8700597b84a7534d5d75cd491",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.0rc7",
+        "tag_version": "1.0.0rc7",
+        "created_at": "2025-07-02T22:10:18Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari/madou.apworld",
       "size": 167900,
       "hash_sha256": "133e880c112ff3e50f37a5920e0db2c1e97e3fe09081a88f4c2f418b79693fb3",
@@ -66676,6 +66691,18 @@
       }
     },
     {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.2.7/ultrakill.apworld",
+      "size": 39368,
+      "hash_sha256": "d72f8f4a558a582370f1ef9bbf38ff8ad793bdb0eb3a5390ec8cfb9937566105",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.2.7",
+        "tag_version": "3.2.7",
+        "created_at": "2026-01-08T09:26:40Z"
+      }
+    },
+    {
       "world": "https://github.com/soaringjupiter/UT99-Archipelago/releases/download/v0.0.1/ut99.apworld",
       "size": 21714,
       "hash_sha256": "01278bc88b369098538e80891c4708eea69cef8ae94a83c4b00a06bcff7efbb5",
@@ -67693,6 +67720,19 @@
         "tag_version": "3.2.1",
         "created_at": "2025-11-01T23:27:39Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/lilDavid/Archipelago-Wario-Land-4/releases/download/3.3.0/wl4.apworld",
+      "size": 63411,
+      "hash_sha256": "ebf0d1ac96557c6e20fc932f8d88052c5a3d8ce4214a1b9ceca354b70c0d2a16",
+      "metadata": {
+        "game": "Wario Land 4",
+        "id": "wl4",
+        "world_version": "3.3.0",
+        "tag_version": "3.3.0",
+        "created_at": "2026-01-08T02:37:11Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {

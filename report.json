@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 512,
-  "total_versions": 5064,
+  "total_versions": 5067,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -455,7 +455,7 @@
     "ty_the_tasmanian_tiger_2": true,
     "tyrian": true,
     "ufo50": false,
-    "ultrakill": false,
+    "ultrakill": true,
     "ut99": true,
     "vampire_survivors": false,
     "vespadian": false,
@@ -467,7 +467,7 @@
     "webfishing": false,
     "westofloathing": false,
     "wl": false,
-    "wl4": false,
+    "wl4": true,
     "wordipelago": false,
     "x2wotc": true,
     "xenobladex": false,
