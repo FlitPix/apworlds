@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 512,
-  "total_versions": 5067,
+  "total_versions": 5072,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -360,7 +360,7 @@
     "pokepark": true,
     "powerwashsimulator": false,
     "pseudoregalia": true,
-    "psychonauts": false,
+    "psychonauts": true,
     "quake": false,
     "rabi_ribi": true,
     "rac1": false,
