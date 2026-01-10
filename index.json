@@ -28976,6 +28976,19 @@
       }
     },
     {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.20/luigismansion.apworld",
+      "size": 205944,
+      "hash_sha256": "45cef26d96b5d805fa13de03a7b49f318dd8c63c3c23e188467434db7d8de48b",
+      "metadata": {
+        "game": "Luigi's Mansion",
+        "id": "luigismansion",
+        "world_version": "0.5.20",
+        "tag_version": "0.5.20",
+        "created_at": "2026-01-09T17:30:07Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.3/luigismansion.apworld",
       "size": 162619,
       "hash_sha256": "d3af92d5f70f2b82d769a377380d9047ef4cad21ef6296d5f4dfd144992b2c56",
@@ -29079,19 +29092,6 @@
         "tag_version": "0.3.0",
         "created_at": "2025-04-20T10:42:37Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.20/luigismansion.apworld",
-      "size": 205944,
-      "hash_sha256": "45cef26d96b5d805fa13de03a7b49f318dd8c63c3c23e188467434db7d8de48b",
-      "metadata": {
-        "game": "Luigi's Mansion",
-        "id": "luigismansion",
-        "world_version": "0.5.20",
-        "tag_version": "0.5.20",
-        "created_at": "2026-01-09T17:30:07Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -44318,6 +44318,19 @@
       }
     },
     {
+      "world": "https://github.com/CrypticMonkey33/ArchipelagoExplorersOfSky/releases/download/v0.3.2/pmd_eos.apworld",
+      "size": 784980,
+      "hash_sha256": "8313990c3da20154909698ecce3acf8b16e4e434371604f28ae1957ce90eedb9",
+      "metadata": {
+        "game": "Pokemon Mystery Dungeon Explorers of Sky",
+        "id": "pmd_eos",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-01-09T04:10:56Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/CrypticMonkey33/ArchipelagoExplorersOfSky/releases/download/v0.3.2rc1/pmd_eos.apworld",
       "size": 707314,
       "hash_sha256": "a435e56b5faa630162ff9bb9440f6bc6203f6d4cc4d8c047be2142f31509f966",
@@ -44363,19 +44376,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/CrypticMonkey33/ArchipelagoExplorersOfSky/releases/download/v0.3.2/pmd_eos.apworld",
-      "size": 784980,
-      "hash_sha256": "8313990c3da20154909698ecce3acf8b16e4e434371604f28ae1957ce90eedb9",
-      "metadata": {
-        "game": "Pokemon Mystery Dungeon Explorers of Sky",
-        "id": "pmd_eos",
-        "world_version": "0.3.2",
-        "tag_version": "0.3.2",
-        "created_at": "2026-01-09T04:10:56Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -48713,6 +48713,22 @@
       "world": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.9.3-BETA/psychonauts.apworld",
       "size": 76487,
       "hash_sha256": "a98e4a0137ee6eb2f589d703a664c54e04857171f3ed75413125f11621ff6c3e",
+      "metadata": {
+        "game": "Psychonauts",
+        "id": "psychonauts",
+        "world_version": "0.9.3",
+        "tag_version": "0.9.3",
+        "created_at": "2026-01-08T12:14:47Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.9.3-BETA/psychonauts.apworld",
+      "size": 76751,
+      "hash_sha256": "e82a33e7888cacb75fe8358d5887809411f33c24b9564e8efdd7f0011b456b54",
       "metadata": {
         "game": "Psychonauts",
         "id": "psychonauts",
@@ -55275,15 +55291,15 @@
       }
     },
     {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.2/sly2.apworld",
-      "size": 3672211,
-      "hash_sha256": "d8bf6e877499cfcaf445cbe5221f394f1ae4b7ceab431c22ab24efee16c80ded",
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.0/sly2.apworld",
+      "size": 15563213,
+      "hash_sha256": "247eb36446be3413d176631b416a4be4292ff91e6f72c159d9039827b08c5369",
       "metadata": {
         "game": "Sly 2: Band of Thieves",
         "id": "sly2",
-        "world_version": "0.8.1",
-        "tag_version": "0.8.1",
-        "created_at": "2026-01-09T17:39:11Z"
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-01-09T16:23:55Z"
       }
     },
     {
@@ -55299,15 +55315,15 @@
       }
     },
     {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.0/sly2.apworld",
-      "size": 15563213,
-      "hash_sha256": "247eb36446be3413d176631b416a4be4292ff91e6f72c159d9039827b08c5369",
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.2/sly2.apworld",
+      "size": 3672211,
+      "hash_sha256": "d8bf6e877499cfcaf445cbe5221f394f1ae4b7ceab431c22ab24efee16c80ded",
       "metadata": {
         "game": "Sly 2: Band of Thieves",
         "id": "sly2",
-        "world_version": "0.8.0",
-        "tag_version": "0.8.0",
-        "created_at": "2026-01-09T16:23:55Z"
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-01-09T17:39:11Z"
       }
     },
     {
@@ -58646,6 +58662,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/1.0.0/spyro2.apworld",
+      "size": 31432,
+      "hash_sha256": "f1ae4bb241b1b455aeb1f013eda6921176b98a3e60918f7c087863c3b16c9759",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-01-09T20:55:31Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S2AP/releases/download/full_gemsanity_31_10_25/spyro2.apworld",
       "size": 30729,
       "hash_sha256": "140e609154fe0bd3d5d15d6eea5948bd54ed750f4439fbecce2e069885ec86ab",
@@ -58707,19 +58736,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S2AP/releases/download/1.0.0/spyro2.apworld",
-      "size": 31432,
-      "hash_sha256": "f1ae4bb241b1b455aeb1f013eda6921176b98a3e60918f7c087863c3b16c9759",
-      "metadata": {
-        "game": "Spyro 2",
-        "id": "spyro2",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-01-09T20:55:31Z",
-        "minimum_ap_version": "0.6.1"
       }
     },
     {
