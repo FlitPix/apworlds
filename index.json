@@ -8798,6 +8798,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.9.4/civv.apworld",
+      "size": 81446,
+      "hash_sha256": "e2268467f5345282f26df97923a4e38bd0b6de71e3dd08a044148752519843cb",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.9.4",
+        "tag_version": "0.9.4",
+        "created_at": "2026-01-07T13:36:50Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/ckd-v0.0.1/ckd.apworld",
       "size": 217567,
       "hash_sha256": "53671f3f057ead0462a4f5b570d96c0014858ae78fbb573471b83bcc6ec06943",
@@ -20560,6 +20572,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.4.0/grinch.apworld",
+      "size": 108418,
+      "hash_sha256": "624f54caacd76dd507bf2432a07cb239a658f1f84393639b9f2df6d0f6fa0c44",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-01-09T21:50:41Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/cjmang/Archipelago/releases/download/0.1.0-alpha/gstla.apworld",
       "size": 423011,
       "hash_sha256": "bf202c029df370f29525cd0aa7645e6a6408955f5a42c853dfa62e83bffe45f1",
@@ -24890,6 +24915,22 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/keymasters_keep-2.1.3/keymasters_keep.apworld",
+      "size": 583678,
+      "hash_sha256": "313e5ec7c2db41932a4218e756aee6affb0b7bdf661573ce3c82c337ec807d8d",
+      "metadata": {
+        "game": "Keymaster's Keep",
+        "id": "keymasters_keep",
+        "world_version": "2.1.3",
+        "tag_version": "2.1.3",
+        "created_at": "2026-01-09T05:00:46Z",
+        "minimum_ap_version": "0.6.1",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/kmk-0001/keymasters_keep.apworld",
       "size": 50525,
       "hash_sha256": "904e020f13a24a5e31c4e666eb539b20f9c2b7cce65aba74c0c05da2c0615568",
@@ -25118,22 +25159,6 @@
         "flags": [
           "tracker_included",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/silasary/Archipelago/releases/download/keymasters_keep-2.1.3/keymasters_keep.apworld",
-      "size": 583678,
-      "hash_sha256": "313e5ec7c2db41932a4218e756aee6affb0b7bdf661573ce3c82c337ec807d8d",
-      "metadata": {
-        "game": "Keymaster's Keep",
-        "id": "keymasters_keep",
-        "world_version": "2.1.3",
-        "tag_version": "2.1.3",
-        "created_at": "2026-01-09T05:00:46Z",
-        "minimum_ap_version": "0.6.1",
-        "flags": [
-          "tracker_included"
         ]
       }
     },
@@ -29054,6 +29079,19 @@
         "tag_version": "0.3.0",
         "created_at": "2025-04-20T10:42:37Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.20/luigismansion.apworld",
+      "size": 205944,
+      "hash_sha256": "45cef26d96b5d805fa13de03a7b49f318dd8c63c3c23e188467434db7d8de48b",
+      "metadata": {
+        "game": "Luigi's Mansion",
+        "id": "luigismansion",
+        "world_version": "0.5.20",
+        "tag_version": "0.5.20",
+        "created_at": "2026-01-09T17:30:07Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -37029,6 +37067,19 @@
       }
     },
     {
+      "world": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.1.7_hotfix/minecraft.apworld",
+      "size": 45129,
+      "hash_sha256": "b644437a62fc1e6067024fc75e15c4fbdf921e4c00e939a5bb3e3550c9c70da1",
+      "metadata": {
+        "game": "Minecraft",
+        "id": "minecraft",
+        "world_version": "0.1.7",
+        "tag_version": "0.1.7",
+        "created_at": "2026-01-09T18:53:11Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/KonoTyran/Minecraft_AP_Randomizer/releases/download/v0.0.-2/minecraft-dig.apworld",
       "size": 11859,
       "hash_sha256": "f07b56e23cf72a5f83daf13401345970783b5ef17396bf04b1e310754274149f",
@@ -39343,6 +39394,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.28/musedash.apworld",
+      "size": 33177,
+      "hash_sha256": "ed0d7e9e38490445a7e28c218b547ff5e34aaec01e432e360b8fcd6548026e4a",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.28",
+        "tag_version": "1.5.28",
+        "created_at": "2025-11-29T00:36:12Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.8/musedash.apworld",
       "size": 174988,
       "hash_sha256": "4f5cc010f60f3cd9d0d3309169c91a9e132de356c3ffb5f4b4d7b67cc966811c",
@@ -39366,19 +39430,6 @@
         "tag_version": "1.5.9",
         "created_at": "2025-01-26T11:09:47Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.28/musedash.apworld",
-      "size": 33177,
-      "hash_sha256": "ed0d7e9e38490445a7e28c218b547ff5e34aaec01e432e360b8fcd6548026e4a",
-      "metadata": {
-        "game": "Muse Dash",
-        "id": "musedash",
-        "world_version": "1.5.28",
-        "tag_version": "1.5.28",
-        "created_at": "2025-11-29T00:36:12Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -44312,6 +44363,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CrypticMonkey33/ArchipelagoExplorersOfSky/releases/download/v0.3.2/pmd_eos.apworld",
+      "size": 784980,
+      "hash_sha256": "8313990c3da20154909698ecce3acf8b16e4e434371604f28ae1957ce90eedb9",
+      "metadata": {
+        "game": "Pokemon Mystery Dungeon Explorers of Sky",
+        "id": "pmd_eos",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-01-09T04:10:56Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -55211,6 +55275,42 @@
       }
     },
     {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.2/sly2.apworld",
+      "size": 3672211,
+      "hash_sha256": "d8bf6e877499cfcaf445cbe5221f394f1ae4b7ceab431c22ab24efee16c80ded",
+      "metadata": {
+        "game": "Sly 2: Band of Thieves",
+        "id": "sly2",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-01-09T17:39:11Z"
+      }
+    },
+    {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.1/sly2.apworld",
+      "size": 15563522,
+      "hash_sha256": "cbd552d0a7ce1dc58df17a1afad1fcbe665963591c74fc8d798d7c6da657de80",
+      "metadata": {
+        "game": "Sly 2: Band of Thieves",
+        "id": "sly2",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-01-09T17:39:11Z"
+      }
+    },
+    {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.0/sly2.apworld",
+      "size": 15563213,
+      "hash_sha256": "247eb36446be3413d176631b416a4be4292ff91e6f72c159d9039827b08c5369",
+      "metadata": {
+        "game": "Sly 2: Band of Thieves",
+        "id": "sly2",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-01-09T16:23:55Z"
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.1.0/sm64hacks.apworld",
       "size": 18419,
       "hash_sha256": "ad1a79658f6647b9db2516ae5d516cc086f783a98b8961d679972b2f77230908",
@@ -58610,6 +58710,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/1.0.0/spyro2.apworld",
+      "size": 31432,
+      "hash_sha256": "f1ae4bb241b1b455aeb1f013eda6921176b98a3e60918f7c087863c3b16c9759",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-01-09T20:55:31Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/S3AP/releases/download/0.0.1/spyro3.apworld",
       "size": 30477,
       "hash_sha256": "6aa47ee49c270d6587fec285ca70062a530aa45b351a7aa79e9b0d1a60f1d8b8",
@@ -61566,6 +61679,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.5/tevi.apworld",
+      "size": 170161,
+      "hash_sha256": "c7ba12117fd0d7a82b34e9a19cc16ed4069205437f3f3384379fcc8a637aafda",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.5",
+        "tag_version": "1.4.5",
+        "created_at": "2026-01-09T23:02:01Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {

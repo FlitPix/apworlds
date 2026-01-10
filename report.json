@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 512,
-  "total_versions": 5075,
+  "total_versions": 5085,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -348,7 +348,7 @@
     "placidplasticducksim": false,
     "plateup": false,
     "plok": true,
-    "pmd_eos": false,
+    "pmd_eos": true,
     "pocket_dungeon": true,
     "poe": false,
     "pokemon_bw": true,
@@ -417,7 +417,7 @@
     "spire": true,
     "spiritvalley": true,
     "spyro": false,
-    "spyro2": false,
+    "spyro2": true,
     "spyro3": true,
     "ss": false,
     "ss2": false,
