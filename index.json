@@ -2331,6 +2331,19 @@
       }
     },
     {
+      "world": "https://github.com/aki665/react-native-archipelago/releases/download/0.7.0/apgo.apworld",
+      "size": 18045,
+      "hash_sha256": "05554df37e269ecde040ffe20ec16f735a6492af28471185511fa967506370a1",
+      "metadata": {
+        "game": "Archipela-Go!",
+        "id": "apgo",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-01-11T11:06:46Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/NewSoupVi/Archipelago/releases/download/apquest0.1.1/apquest.apworld",
       "size": 14445870,
       "hash_sha256": "9bfe3a84d543d5d029d4b9300b4ba3954afa264ae900e22096abb5247e612c9e",
@@ -13208,6 +13221,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.28/dk64.apworld",
+      "size": 36024847,
+      "hash_sha256": "1c5ffb3d6c4201935335c545191c77840b0631169b390644f7708b4c26b8d4b5",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.28",
+        "tag_version": "1.4.28",
+        "created_at": "2026-01-10T17:39:11Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.3/dk64.apworld",
       "size": 26177344,
       "hash_sha256": "2b53a792c050403111555ef31dd425e5acf274560aebe8c7dd80398bc84e9489",
@@ -13299,15 +13325,41 @@
       }
     },
     {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.28/dk64.apworld",
-      "size": 36024847,
-      "hash_sha256": "1c5ffb3d6c4201935335c545191c77840b0631169b390644f7708b4c26b8d4b5",
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.31/dk64.apworld",
+      "size": 36023857,
+      "hash_sha256": "45771b3316f21cc2a23f79cc72d0d57d133555f2ec2856ab24467c4098dc2815",
       "metadata": {
         "game": "",
         "id": "dk64",
-        "world_version": "1.4.28",
-        "tag_version": "1.4.28",
-        "created_at": "2026-01-10T17:39:11Z",
+        "world_version": "1.4.31",
+        "tag_version": "1.4.31",
+        "created_at": "2026-01-11T07:18:08Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.30/dk64.apworld",
+      "size": 36024502,
+      "hash_sha256": "d127461d6029be5e91e1d13b41c050e5d1a44120fd36759a2795b4dbb3a670fe",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.30",
+        "tag_version": "1.4.30",
+        "created_at": "2026-01-11T05:27:05Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.29/dk64.apworld",
+      "size": 36116034,
+      "hash_sha256": "4071d398c2f2b5dfa0e4eb0b06f0b436445d7156ed9e618960547b0c472b6790",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.29",
+        "tag_version": "1.4.29",
+        "created_at": "2026-01-11T03:09:39Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -50175,6 +50227,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.4.0/refunct.apworld",
+      "size": 13189,
+      "hash_sha256": "c78c35e2460e333d4ee8f2ee863d8fc468c93be18098171fa4780cc68f73a733",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-01-10T18:21:49Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.4.1/refunct.apworld",
       "size": 13187,
       "hash_sha256": "13fc1a28d0256f57d43e5ff018f362fb2aee028b52cf462d5724d73548b83fec",
@@ -50188,15 +50253,44 @@
       }
     },
     {
-      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.4.0/refunct.apworld",
-      "size": 13189,
-      "hash_sha256": "c78c35e2460e333d4ee8f2ee863d8fc468c93be18098171fa4780cc68f73a733",
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.5.1/refunct.apworld",
+      "size": 13971,
+      "hash_sha256": "ba85c754e1b023e70f4b71aca9316774d386c240eacb6a3e957e161bdce35521",
       "metadata": {
         "game": "Refunct",
         "id": "refunct",
-        "world_version": "0.4.0",
-        "tag_version": "0.4.0",
-        "created_at": "2026-01-10T18:21:49Z",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-01-11T12:00:32Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.5.0/refunct.apworld",
+      "size": 13973,
+      "hash_sha256": "2108212d99d2187341754af48e639e360046c1523ffae19e02ad811facf8e37d",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-01-11T11:36:43Z",
+        "minimum_ap_version": "0.6.1",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.4.2/refunct.apworld",
+      "size": 13189,
+      "hash_sha256": "7ff3103a194427130f4afb791ddd88ed0f220734062059e1eab6d3ee63e484dd",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-01-11T09:05:43Z",
         "minimum_ap_version": "0.6.1"
       }
     },
@@ -61199,6 +61293,19 @@
       }
     },
     {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.2.2/tboir.apworld",
+      "size": 1258811,
+      "hash_sha256": "8fdcbd5a46cbc6232b2c182937360f95eb37e04e80bb996a634584b12a2d257c",
+      "metadata": {
+        "game": "The Binding of Isaac Repentance",
+        "id": "tboir",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-01-11T03:11:09Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v0.0.2/tcg_card_shop_simulator.apworld",
       "size": 113282,
       "hash_sha256": "858f5f436c8c01f19bec029d02a2f7c5ead58707291d6030c39a4d657944eb8a",
@@ -68373,6 +68480,22 @@
       }
     },
     {
+      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.8-beta/x2wotc.apworld",
+      "size": 57211,
+      "hash_sha256": "7808aa49061e5efda57acdc866b88948c35d07f64ff34ced3fa707359816f740",
+      "metadata": {
+        "game": "XCOM 2 War of the Chosen",
+        "id": "x2wotc",
+        "world_version": "0.10.8",
+        "tag_version": "0.10.8",
+        "created_at": "2026-01-10T21:33:13Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.2.0-alpha/x2wotc.apworld",
       "size": 16127,
       "hash_sha256": "bfa89bf2522ad81ed499415eb523a86200e3fb2149b2d0170f1ba27182aa7ffe",
@@ -68655,22 +68778,6 @@
         "tag_version": "0.9.2",
         "created_at": "2025-08-25T15:31:34Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.8-beta/x2wotc.apworld",
-      "size": 57211,
-      "hash_sha256": "7808aa49061e5efda57acdc866b88948c35d07f64ff34ced3fa707359816f740",
-      "metadata": {
-        "game": "XCOM 2 War of the Chosen",
-        "id": "x2wotc",
-        "world_version": "0.10.8",
-        "tag_version": "0.10.8",
-        "created_at": "2026-01-10T21:33:13Z",
-        "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
         ]
