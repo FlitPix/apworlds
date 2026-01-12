@@ -462,6 +462,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.1.5/albw.apworld",
+      "size": 16654339,
+      "hash_sha256": "fad8ecacac8832406269c566264554c9cf5bbc660b2d4eec0446ea861ece648c",
+      "metadata": {
+        "game": "A Link Between Worlds",
+        "id": "albw",
+        "world_version": "0.1.5",
+        "tag_version": "0.1.5",
+        "created_at": "2026-01-11T19:12:25Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.0/am2r.apworld",
       "size": 33004,
       "hash_sha256": "8d10309d941f39d8223bedb6cecc636bc509ec5f4815b05341538b703e745c69",
@@ -2339,6 +2352,19 @@
         "id": "apgo",
         "world_version": "0.7.0",
         "tag_version": "0.7.0",
+        "created_at": "2026-01-11T11:06:46Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/aki665/react-native-archipelago/releases/download/0.7.0/apgo.apworld",
+      "size": 17947,
+      "hash_sha256": "5356fcd0a488a1f044a54bc83b199280fa7d55af76193b82e48097a037ae8c73",
+      "metadata": {
+        "game": "Archipela-Go!",
+        "id": "apgo",
+        "world_version": "0.7.0.post2",
+        "tag_version": "0.7.0.post2",
         "created_at": "2026-01-11T11:06:46Z",
         "maximum_ap_version": "0.6.99"
       }
@@ -4274,6 +4300,19 @@
         "world_version": "0.1.9.post2",
         "tag_version": "0.1.9.post2",
         "created_at": "2025-05-06T12:13:02Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BurndiL/BalatroAP/releases/download/v0.1.9f/balatro.apworld",
+      "size": 18251,
+      "hash_sha256": "5a767baa3a5b592b76b242b94080561a9c0973c2fc2351d78ac7817794985ee0",
+      "metadata": {
+        "game": "Balatro",
+        "id": "balatro",
+        "world_version": "0.1.9",
+        "tag_version": "0.1.9",
+        "created_at": "2026-01-11T13:17:55Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -10155,6 +10194,21 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.0-pre.1/crosscode.apworld",
+      "size": 1239429,
+      "hash_sha256": "4c7fc656989325ce4a29abf73b762a0b7eaed9242736b9a5fcfb34802f317fe1",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-01-11T23:55:54Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/densebamboo/CrosswordAP/releases/download/v1.0.0-release/crossword_ap.apworld",
       "size": 33338,
       "hash_sha256": "aa76a3c3e9f505d06bd2d7cd4d76bd1e540a67f2fccd9d6cffc6cf7d80951812",
@@ -13234,6 +13288,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.29/dk64.apworld",
+      "size": 36116034,
+      "hash_sha256": "4071d398c2f2b5dfa0e4eb0b06f0b436445d7156ed9e618960547b0c472b6790",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.29",
+        "tag_version": "1.4.29",
+        "created_at": "2026-01-11T03:09:39Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.3/dk64.apworld",
       "size": 26177344,
       "hash_sha256": "2b53a792c050403111555ef31dd425e5acf274560aebe8c7dd80398bc84e9489",
@@ -13244,6 +13311,32 @@
         "tag_version": "1.4.3",
         "created_at": "2025-10-14T01:12:40Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.30/dk64.apworld",
+      "size": 36024502,
+      "hash_sha256": "d127461d6029be5e91e1d13b41c050e5d1a44120fd36759a2795b4dbb3a670fe",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.30",
+        "tag_version": "1.4.30",
+        "created_at": "2026-01-11T05:27:05Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.31/dk64.apworld",
+      "size": 36023857,
+      "hash_sha256": "45771b3316f21cc2a23f79cc72d0d57d133555f2ec2856ab24467c4098dc2815",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.31",
+        "tag_version": "1.4.31",
+        "created_at": "2026-01-11T07:18:08Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -13325,41 +13418,15 @@
       }
     },
     {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.31/dk64.apworld",
-      "size": 36023857,
-      "hash_sha256": "45771b3316f21cc2a23f79cc72d0d57d133555f2ec2856ab24467c4098dc2815",
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.32/dk64.apworld",
+      "size": 36115967,
+      "hash_sha256": "fa8ef514b6a4274b4a985de481a0b0c2457fe11c42d920007b9d7f5ba0f8bd0f",
       "metadata": {
         "game": "",
         "id": "dk64",
-        "world_version": "1.4.31",
-        "tag_version": "1.4.31",
-        "created_at": "2026-01-11T07:18:08Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.30/dk64.apworld",
-      "size": 36024502,
-      "hash_sha256": "d127461d6029be5e91e1d13b41c050e5d1a44120fd36759a2795b4dbb3a670fe",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.30",
-        "tag_version": "1.4.30",
-        "created_at": "2026-01-11T05:27:05Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.29/dk64.apworld",
-      "size": 36116034,
-      "hash_sha256": "4071d398c2f2b5dfa0e4eb0b06f0b436445d7156ed9e618960547b0c472b6790",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.29",
-        "tag_version": "1.4.29",
-        "created_at": "2026-01-11T03:09:39Z",
+        "world_version": "1.4.32",
+        "tag_version": "1.4.32",
+        "created_at": "2026-01-11T18:33:30Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -16481,6 +16548,18 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2025-10-11T18:43:22Z"
+      }
+    },
+    {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.0.0/factorio_bobs.apworld",
+      "size": 989917,
+      "hash_sha256": "502998c19d29a18db0cd90c1121735ae8d4daf585bf2ba6f2d20f943a889e384",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "1.3.3",
+        "tag_version": "1.3.3",
+        "created_at": "2026-01-11T20:34:03Z"
       }
     },
     {
@@ -50253,15 +50332,15 @@
       }
     },
     {
-      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.5.1/refunct.apworld",
-      "size": 13971,
-      "hash_sha256": "ba85c754e1b023e70f4b71aca9316774d386c240eacb6a3e957e161bdce35521",
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.4.2/refunct.apworld",
+      "size": 13189,
+      "hash_sha256": "7ff3103a194427130f4afb791ddd88ed0f220734062059e1eab6d3ee63e484dd",
       "metadata": {
         "game": "Refunct",
         "id": "refunct",
-        "world_version": "0.5.1",
-        "tag_version": "0.5.1",
-        "created_at": "2026-01-11T12:00:32Z",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-01-11T09:05:43Z",
         "minimum_ap_version": "0.6.1"
       }
     },
@@ -50282,15 +50361,31 @@
       }
     },
     {
-      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.4.2/refunct.apworld",
-      "size": 13189,
-      "hash_sha256": "7ff3103a194427130f4afb791ddd88ed0f220734062059e1eab6d3ee63e484dd",
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.5.1/refunct.apworld",
+      "size": 13971,
+      "hash_sha256": "ba85c754e1b023e70f4b71aca9316774d386c240eacb6a3e957e161bdce35521",
       "metadata": {
         "game": "Refunct",
         "id": "refunct",
-        "world_version": "0.4.2",
-        "tag_version": "0.4.2",
-        "created_at": "2026-01-11T09:05:43Z",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-01-11T12:00:32Z",
+        "minimum_ap_version": "0.6.1",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.5.2/refunct.apworld",
+      "size": 13971,
+      "hash_sha256": "17c8d40efc4fb42799de343795e5f423fb67df7acf3b9f1c8716cc0329aede2d",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-01-11T15:22:26Z",
         "minimum_ap_version": "0.6.1"
       }
     },
@@ -50560,6 +50655,21 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2025-12-30T14:58:13Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.3.1/residentevil2remake.apworld",
+      "size": 85948,
+      "hash_sha256": "28c3380c64f6bd026186cbeef4d51b954cd9aefb99aa504c6e25d353a3e36246",
+      "metadata": {
+        "game": "Resident Evil 2 Remake",
+        "id": "residentevil2remake",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-01-11T19:17:46Z",
         "flags": [
           "after_dark"
         ]
@@ -55513,6 +55623,30 @@
         "world_version": "0.8.1",
         "tag_version": "0.8.1",
         "created_at": "2026-01-09T17:39:11Z"
+      }
+    },
+    {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.4/sly2.apworld",
+      "size": 3492826,
+      "hash_sha256": "8d8c820cbf2d64c5354323b97cb4334f5ca740dac4b7cb48074667b3a8420b6e",
+      "metadata": {
+        "game": "Sly 2: Band of Thieves",
+        "id": "sly2",
+        "world_version": "0.8.4",
+        "tag_version": "0.8.4",
+        "created_at": "2026-01-11T15:54:56Z"
+      }
+    },
+    {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.3/sly2.apworld",
+      "size": 3492752,
+      "hash_sha256": "f3b4fda3c089f79985babbedb2e48e979d286bc7f8f165074d1158c08f381d1d",
+      "metadata": {
+        "game": "Sly 2: Band of Thieves",
+        "id": "sly2",
+        "world_version": "0.8.3",
+        "tag_version": "0.8.3",
+        "created_at": "2026-01-11T15:32:56Z"
       }
     },
     {
@@ -61909,6 +62043,19 @@
         "world_version": "1.4.5",
         "tag_version": "1.4.5",
         "created_at": "2026-01-09T23:02:01Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.6/tevi.apworld",
+      "size": 170224,
+      "hash_sha256": "aec9618ad80653b5ae02631631266ca537b5bf9bc45951e22a805150e4a8032f",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.6",
+        "tag_version": "1.4.6",
+        "created_at": "2026-01-11T12:07:22Z",
         "maximum_ap_version": "0.6.99"
       }
     },
