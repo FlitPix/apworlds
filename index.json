@@ -2214,6 +2214,19 @@
       }
     },
     {
+      "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.5/apeescape.apworld",
+      "size": 659054,
+      "hash_sha256": "dd681c5bcb5a467735199c95e8a7d6c0b29236a237f947895a3b796238303141",
+      "metadata": {
+        "game": "Ape Escape",
+        "id": "apeescape",
+        "world_version": "0.9.5",
+        "tag_version": "0.9.5",
+        "created_at": "2026-01-12T01:50:16Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/aki665/react-native-archipelago/releases/download/0.4.0/apgo.apworld",
       "size": 53592,
       "hash_sha256": "54494fb34b7f25169747ecf567cca998d946cb0a5bf626fd342c5fbe897c047e",
@@ -2690,6 +2703,30 @@
         "world_version": "0.0.9",
         "tag_version": "0.0.9",
         "created_at": "2025-05-01T04:24:22Z"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.22/apworld_manager.apworld",
+      "size": 86472,
+      "hash_sha256": "eaae41e383439e1be0d663126196169a5de6bb01e54e145e885906135a8eb673",
+      "metadata": {
+        "game": "APWorld Manager",
+        "id": "apworld_manager",
+        "world_version": "0.0.22",
+        "tag_version": "0.0.22",
+        "created_at": "2026-01-12T08:06:07Z"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.21/apworld_manager.apworld",
+      "size": 86517,
+      "hash_sha256": "39bd8acfd5e40dd9d4329443a5e0bb6d33022d20e50ce55e62627d2caf8beacb",
+      "metadata": {
+        "game": "APWorld Manager",
+        "id": "apworld_manager",
+        "world_version": "0.0.21",
+        "tag_version": "0.0.21",
+        "created_at": "2026-01-12T07:55:15Z"
       }
     },
     {
@@ -13340,6 +13377,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.32/dk64.apworld",
+      "size": 36115967,
+      "hash_sha256": "fa8ef514b6a4274b4a985de481a0b0c2457fe11c42d920007b9d7f5ba0f8bd0f",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.32",
+        "tag_version": "1.4.32",
+        "created_at": "2026-01-11T18:33:30Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.4/dk64.apworld",
       "size": 26179659,
       "hash_sha256": "481d1fb297d24e056ecbad2c41c1e1d0c5a469bfda16c98519423713deff3f35",
@@ -13415,19 +13465,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.32/dk64.apworld",
-      "size": 36115967,
-      "hash_sha256": "fa8ef514b6a4274b4a985de481a0b0c2457fe11c42d920007b9d7f5ba0f8bd0f",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.32",
-        "tag_version": "1.4.32",
-        "created_at": "2026-01-11T18:33:30Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -16527,6 +16564,18 @@
       }
     },
     {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.0.0/factorio_bobs.apworld",
+      "size": 989917,
+      "hash_sha256": "502998c19d29a18db0cd90c1121735ae8d4daf585bf2ba6f2d20f943a889e384",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "1.3.3",
+        "tag_version": "1.3.3",
+        "created_at": "2026-01-11T20:34:03Z"
+      }
+    },
+    {
       "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
       "size": 981844,
       "hash_sha256": "ce7caf8cceb9ac42c4ddf95b746584131947b667289822d40ad7b1d53aa54352",
@@ -16548,18 +16597,6 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2025-10-11T18:43:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.0.0/factorio_bobs.apworld",
-      "size": 989917,
-      "hash_sha256": "502998c19d29a18db0cd90c1121735ae8d4daf585bf2ba6f2d20f943a889e384",
-      "metadata": {
-        "game": "Factorio Bob's",
-        "id": "factorio_bobs",
-        "world_version": "1.3.3",
-        "tag_version": "1.3.3",
-        "created_at": "2026-01-11T20:34:03Z"
       }
     },
     {
@@ -33910,6 +33947,19 @@
       }
     },
     {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.5/manual_residentevil4_vincentssin.apworld",
+      "size": 85788,
+      "hash_sha256": "bea7698dd31b68fa6b08281f1e6721925bac03ff00f377a51be0de307a645cac",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.0.5",
+        "tag_version": "2.0.5",
+        "created_at": "2025-09-21T22:22:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Archipelago_Manuals/releases/download/re5-1.0.5/manual_residentevil5_garbo.apworld",
       "size": 58784,
       "hash_sha256": "8af2ad2eb467377c27d1a43755c839dc88c89ebddf2ba06880fb4926a02b0e19",
@@ -42641,6 +42691,18 @@
       }
     },
     {
+      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.6.0/paint.apworld",
+      "size": 8295,
+      "hash_sha256": "f22372babdc30c019c942426185dd9aef25019746ac20421447c15c664abe66a",
+      "metadata": {
+        "game": "Paint",
+        "id": "paint",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-01-12T00:52:26Z"
+      }
+    },
+    {
       "world": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.1.5/papermario.apworld",
       "size": 1450994,
       "hash_sha256": "54dd4783c2d383cebc8b03fe1a73352857205407842e71fe1ab51a491849b13c",
@@ -50386,7 +50448,10 @@
         "world_version": "0.5.2",
         "tag_version": "0.5.2",
         "created_at": "2026-01-11T15:22:26Z",
-        "minimum_ap_version": "0.6.1"
+        "minimum_ap_version": "0.6.1",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -55626,18 +55691,6 @@
       }
     },
     {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.4/sly2.apworld",
-      "size": 3492826,
-      "hash_sha256": "8d8c820cbf2d64c5354323b97cb4334f5ca740dac4b7cb48074667b3a8420b6e",
-      "metadata": {
-        "game": "Sly 2: Band of Thieves",
-        "id": "sly2",
-        "world_version": "0.8.4",
-        "tag_version": "0.8.4",
-        "created_at": "2026-01-11T15:54:56Z"
-      }
-    },
-    {
       "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.3/sly2.apworld",
       "size": 3492752,
       "hash_sha256": "f3b4fda3c089f79985babbedb2e48e979d286bc7f8f165074d1158c08f381d1d",
@@ -55647,6 +55700,18 @@
         "world_version": "0.8.3",
         "tag_version": "0.8.3",
         "created_at": "2026-01-11T15:32:56Z"
+      }
+    },
+    {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.4/sly2.apworld",
+      "size": 3492826,
+      "hash_sha256": "8d8c820cbf2d64c5354323b97cb4334f5ca740dac4b7cb48074667b3a8420b6e",
+      "metadata": {
+        "game": "Sly 2: Band of Thieves",
+        "id": "sly2",
+        "world_version": "0.8.4",
+        "tag_version": "0.8.4",
+        "created_at": "2026-01-11T15:54:56Z"
       }
     },
     {
