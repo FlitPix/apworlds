@@ -24448,6 +24448,22 @@
       }
     },
     {
+      "world": "https://github.com/ArchipelaGOAL/Archipelago/releases/download/v1.1.4/jakanddaxter.apworld",
+      "size": 129061,
+      "hash_sha256": "1c3c9a1d9eff7ba71fc71745bbbc0845ca0ff77fc8b8e406ae5b38c557a03197",
+      "metadata": {
+        "game": "Jak and Daxter The Precursor Legacy",
+        "id": "jakanddaxter",
+        "world_version": "1.1.4",
+        "tag_version": "1.1.4",
+        "created_at": "2025-12-19T13:57:10Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/narramoment/Archipelago/releases/download/0.0.1/jakii.apworld",
       "size": 97924,
       "hash_sha256": "f1c2c821df1ddac68ba8448356b29ed504752e7cfeb22486d7515a0baf638360",
@@ -42402,6 +42418,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.20/outer_wilds.apworld",
+      "size": 76752,
+      "hash_sha256": "66cd9952db874dbc07a00cd826dcc9d563f5d616cf4036ddad8f8e05216113b9",
+      "metadata": {
+        "game": "Outer Wilds",
+        "id": "outer_wilds",
+        "world_version": "0.3.20",
+        "tag_version": "0.3.20",
+        "created_at": "2026-01-12T18:48:27Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.3/outer_wilds.apworld",
       "size": 123076,
       "hash_sha256": "dba05ba408ba73474f34a0c47081af574a163127ef13261623229e7a42b4e36d",
@@ -42532,19 +42561,6 @@
         "tag_version": "0.3.9",
         "created_at": "2024-12-06T17:41:10Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.20/outer_wilds.apworld",
-      "size": 76752,
-      "hash_sha256": "66cd9952db874dbc07a00cd826dcc9d563f5d616cf4036ddad8f8e05216113b9",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.20",
-        "tag_version": "0.3.20",
-        "created_at": "2026-01-12T18:48:27Z",
-        "minimum_ap_version": "0.5.0"
       }
     },
     {
@@ -55751,6 +55767,18 @@
         "world_version": "0.8.4",
         "tag_version": "0.8.4",
         "created_at": "2026-01-11T15:54:56Z"
+      }
+    },
+    {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.5/sly2.apworld",
+      "size": 3492899,
+      "hash_sha256": "48028406cbbfef057e1ee76b3e4c1d3487e197ec8c3f84ffec4004d9ee22284f",
+      "metadata": {
+        "game": "Sly 2: Band of Thieves",
+        "id": "sly2",
+        "world_version": "0.8.5",
+        "tag_version": "0.8.5",
+        "created_at": "2026-01-13T10:23:20Z"
       }
     },
     {
