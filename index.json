@@ -2634,6 +2634,30 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.21/apworld_manager.apworld",
+      "size": 86517,
+      "hash_sha256": "39bd8acfd5e40dd9d4329443a5e0bb6d33022d20e50ce55e62627d2caf8beacb",
+      "metadata": {
+        "game": "APWorld Manager",
+        "id": "apworld_manager",
+        "world_version": "0.0.21",
+        "tag_version": "0.0.21",
+        "created_at": "2026-01-12T07:55:15Z"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.22/apworld_manager.apworld",
+      "size": 86472,
+      "hash_sha256": "eaae41e383439e1be0d663126196169a5de6bb01e54e145e885906135a8eb673",
+      "metadata": {
+        "game": "APWorld Manager",
+        "id": "apworld_manager",
+        "world_version": "0.0.22",
+        "tag_version": "0.0.22",
+        "created_at": "2026-01-12T08:06:07Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.4/apworld_manager.apworld",
       "size": 75521,
       "hash_sha256": "bdbbf4b450e1ba798dc093ff9e88e63eb6f2515708a56507e388624165f7dd7f",
@@ -2703,30 +2727,6 @@
         "world_version": "0.0.9",
         "tag_version": "0.0.9",
         "created_at": "2025-05-01T04:24:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.22/apworld_manager.apworld",
-      "size": 86472,
-      "hash_sha256": "eaae41e383439e1be0d663126196169a5de6bb01e54e145e885906135a8eb673",
-      "metadata": {
-        "game": "APWorld Manager",
-        "id": "apworld_manager",
-        "world_version": "0.0.22",
-        "tag_version": "0.0.22",
-        "created_at": "2026-01-12T08:06:07Z"
-      }
-    },
-    {
-      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.21/apworld_manager.apworld",
-      "size": 86517,
-      "hash_sha256": "39bd8acfd5e40dd9d4329443a5e0bb6d33022d20e50ce55e62627d2caf8beacb",
-      "metadata": {
-        "game": "APWorld Manager",
-        "id": "apworld_manager",
-        "world_version": "0.0.21",
-        "tag_version": "0.0.21",
-        "created_at": "2026-01-12T07:55:15Z"
       }
     },
     {
@@ -32155,6 +32155,19 @@
       }
     },
     {
+      "world": "https://github.com/BigBradley/Mario-Kart-7-Manual-APworld/releases/download/V1.2.2/manual_mariokart7_bigbradley.apworld",
+      "size": 60313,
+      "hash_sha256": "1874a9d38d42afaa1fa1815d697b7fc03d22e5936c58304a3f4af74575dc152b",
+      "metadata": {
+        "game": "Manual_MarioKart7_BigBradley",
+        "id": "manual_mariokart7_bigbradley",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-01-12T21:12:43Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/BigBradley/Mario-Kart-7-Manual-APworld/releases/download/V1.0/manual_mariokart7local_bigbradley.apworld",
       "size": 60956,
       "hash_sha256": "5f2d485d528f66905aeb152fdbabec8721c6a3395e6848efbfabb7343617854a",
@@ -42519,6 +42532,19 @@
         "tag_version": "0.3.9",
         "created_at": "2024-12-06T17:41:10Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.20/outer_wilds.apworld",
+      "size": 76752,
+      "hash_sha256": "66cd9952db874dbc07a00cd826dcc9d563f5d616cf4036ddad8f8e05216113b9",
+      "metadata": {
+        "game": "Outer Wilds",
+        "id": "outer_wilds",
+        "world_version": "0.3.20",
+        "tag_version": "0.3.20",
+        "created_at": "2026-01-12T18:48:27Z",
+        "minimum_ap_version": "0.5.0"
       }
     },
     {
@@ -53384,6 +53410,19 @@
       }
     },
     {
+      "world": "https://github.com/Grenhunterr/Archipelago/releases/download/v2.7/severed_soul.apworld",
+      "size": 43884,
+      "hash_sha256": "4e18193d0ef30f2e600045298d6d90096ff148305623fcaf970639a545786fa7",
+      "metadata": {
+        "game": "Severed Soul",
+        "id": "severed_soul",
+        "world_version": "2.7",
+        "tag_version": "2.7",
+        "created_at": "2026-01-12T22:54:30Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ishanpm/ap-sgtpuzzles-web/releases/download/v0.1.1-prealpha/sgtpuzzles.apworld",
       "size": 5343,
       "hash_sha256": "7c71eceed46df04701c5cd8ef91fc0a6f2b81a839aa5bd7e6b6f20a10a090a05",
@@ -56510,6 +56549,18 @@
         "world_version": "1.0.8",
         "tag_version": "1.0.8",
         "created_at": "2025-12-20T17:12:57Z"
+      }
+    },
+    {
+      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-SmushiComeHome/releases/download/1.0.9/smushi_come_home.apworld",
+      "size": 11938,
+      "hash_sha256": "fb74e363f37484e959011e943808ca5452b4a203d86b3538715b2e4a9c78c274",
+      "metadata": {
+        "game": "Smushi Come Home",
+        "id": "smushi_come_home",
+        "world_version": "1.0.9",
+        "tag_version": "1.0.9",
+        "created_at": "2026-01-12T22:56:10Z"
       }
     },
     {
@@ -61067,6 +61118,22 @@
         "world_version": "7.3.7",
         "tag_version": "7.3.7",
         "created_at": "2026-01-01T18:28:22Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.3.9/stardew_valley.apworld",
+      "size": 522448,
+      "hash_sha256": "35d364c5b5b5dec7bd23dcac9b656606feee2d9afb9c29b852473b2d8e35e489",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "7.3.7",
+        "tag_version": "7.3.7",
+        "created_at": "2026-01-12T21:16:33Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
