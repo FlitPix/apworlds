@@ -16729,6 +16729,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.5/factorio_saws.apworld",
+      "size": 888234,
+      "hash_sha256": "4c2efbbf1384726f30afd9f17d10ee9f4eb6ec2a678ddfdff9dea4f28d597195",
+      "metadata": {
+        "game": "Factorio - Space Age Without Space",
+        "id": "factorio_saws",
+        "world_version": "0.8.5",
+        "tag_version": "0.8.5",
+        "created_at": "2026-01-14T01:43:42Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.0/fe8.apworld",
       "size": 167155,
       "hash_sha256": "868ec07f4dfa231d385458a07892587188b600b52a812c3b662801c8a6a9488d",
@@ -17334,6 +17347,19 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-01-05T04:57:13Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Bartz24/Archipelago/releases/download/0.6.0.2/ff12_open_world.apworld",
+      "size": 83077,
+      "hash_sha256": "876decb298f50769170919dcd5811731dbfd11eca0bc298a99c0681eb2681264",
+      "metadata": {
+        "game": "Final Fantasy 12 Open World",
+        "id": "ff12_open_world",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2024-04-20T18:18:06Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -50497,6 +50523,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.5.3/refunct.apworld",
+      "size": 13973,
+      "hash_sha256": "3b64308e7b85afb5c5142cc912baf81e72eebe53a508ad9857f9072e91e9be75",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-01-13T19:18:27Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -61596,6 +61635,19 @@
         "world_version": "0.2.1",
         "tag_version": "0.2.1",
         "created_at": "2026-01-11T03:11:09Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.2.3/tboir.apworld",
+      "size": 1258929,
+      "hash_sha256": "f8260bbec1441b25ff76fda9768116365191568a20e10edd559e8586639a4195",
+      "metadata": {
+        "game": "The Binding of Isaac Repentance",
+        "id": "tboir",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-01-13T23:21:55Z",
         "minimum_ap_version": "0.6.4"
       }
     },
