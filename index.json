@@ -1648,6 +1648,19 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00/ape_escape_3.apworld",
+      "size": 143949,
+      "hash_sha256": "98e526bf6b03730e6acb3200f6b87f9242060d5f564efed217dd5aa63eaf4ee1",
+      "metadata": {
+        "game": "Ape Escape 3",
+        "id": "ape_escape_3",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2025-06-19T01:39:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.2/ape_escape_3.apworld",
       "size": 112614,
       "hash_sha256": "ea9a78cac7413fd74c27f83c135ee7082ba13e0e47a3f4677528cfbb288a3170",
@@ -1816,19 +1829,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00/ape_escape_3.apworld",
-      "size": 143949,
-      "hash_sha256": "98e526bf6b03730e6acb3200f6b87f9242060d5f564efed217dd5aa63eaf4ee1",
-      "metadata": {
-        "game": "Ape Escape 3",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2025-06-19T01:39:46Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -7616,6 +7616,19 @@
         "world_version": "0.0.0.post9",
         "tag_version": "0.0.0.post9",
         "created_at": "2025-04-29T13:05:21Z"
+      }
+    },
+    {
+      "world": "https://github.com/vicr123/Archipelago/releases/download/20260115-1/candybox2.apworld",
+      "size": 26338,
+      "hash_sha256": "020d2f8f56286d8710fc3de20a4009c8f6427e57b57c3925c2788472a5d11a35",
+      "metadata": {
+        "game": "Candy Box 2",
+        "id": "candybox2",
+        "world_version": "1.20260115.1",
+        "tag_version": "1.20260115.1",
+        "created_at": "2026-01-15T09:47:52Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -13520,6 +13533,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.33/dk64.apworld",
+      "size": 35146529,
+      "hash_sha256": "a7fd9b1c2b3246e2903fe83ea99647d61cb51e8b50dfa9e166c69cde7d8fb9b2",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.33",
+        "tag_version": "1.4.33",
+        "created_at": "2026-01-15T05:20:42Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.0.0/dkc.apworld",
       "size": 56776,
       "hash_sha256": "15d2d8a12aad3d4e068bd805e8f0da29b132cbaca62ae022c3c0f4f80cc439e4",
@@ -13959,6 +13985,19 @@
       }
     },
     {
+      "world": "https://github.com/DragonWolfLeo/Archipelago-DST/releases/download/dst-v1.3.3/dontstarvetogether.apworld",
+      "size": 77313,
+      "hash_sha256": "0f948c372254e5b83a660f12278a37aef9f3273eac436ce8759a9c99569dc9d8",
+      "metadata": {
+        "game": "Don't Starve Together",
+        "id": "dontstarvetogether",
+        "world_version": "1.3.3",
+        "tag_version": "1.3.3",
+        "created_at": "2026-01-14T16:11:20Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/DragonWolfLeo/Archipelago-DST/releases/download/v1.0/dontstarvetogether.apworld",
       "size": 32283,
       "hash_sha256": "a661345d3838a190d83e8bc2e38c90ae927e0ddf0219cdcecef2947a3542763f",
@@ -14268,19 +14307,6 @@
         "tag_version": "1.3.1.1",
         "created_at": "2025-04-07T02:34:38Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DragonWolfLeo/Archipelago-DST/releases/download/dst-v1.3.3/dontstarvetogether.apworld",
-      "size": 77313,
-      "hash_sha256": "0f948c372254e5b83a660f12278a37aef9f3273eac436ce8759a9c99569dc9d8",
-      "metadata": {
-        "game": "Don't Starve Together",
-        "id": "dontstarvetogether",
-        "world_version": "1.3.3",
-        "tag_version": "1.3.3",
-        "created_at": "2026-01-14T16:11:20Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -19930,6 +19956,19 @@
       }
     },
     {
+      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/0.4.4-beta/garfkart.apworld",
+      "size": 17319,
+      "hash_sha256": "4cf312d6e4f3e5478c75ea76a8d0a13801ec39e0f7c0053d43ec64af6cafe5f3",
+      "metadata": {
+        "game": "Garfield Kart - Furious Racing",
+        "id": "garfkart",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-01-14T16:29:08Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/FeluciaPS/Archipelago/releases/download/v0.1-alpha/garfkart.apworld",
       "size": 14276,
       "hash_sha256": "cb0225bc0439a39331a7ac84dfa69f62dd419626c633bfd66da8bf2e86e538b9",
@@ -20071,19 +20110,6 @@
         "tag_version": "0.4.3b0",
         "created_at": "2025-12-26T18:00:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/0.4.4-beta/garfkart.apworld",
-      "size": 17319,
-      "hash_sha256": "4cf312d6e4f3e5478c75ea76a8d0a13801ec39e0f7c0053d43ec64af6cafe5f3",
-      "metadata": {
-        "game": "Garfield Kart - Furious Racing",
-        "id": "garfkart",
-        "world_version": "0.4.2",
-        "tag_version": "0.4.2",
-        "created_at": "2026-01-14T16:29:08Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -44429,6 +44455,19 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.4.1/plateup.apworld",
+      "size": 10423690,
+      "hash_sha256": "a948ed51bcbd97e7a0f378e36251ccd11aa8da2a5c1df23c0dca0edc280a732a",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.4.1",
+        "tag_version": "0.2.4.1",
+        "created_at": "2025-12-05T01:09:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/aplok_v010/plok.apworld",
       "size": 27287,
       "hash_sha256": "18f68733febdebbac0e3e8c83ec3e8ccacfd367066b1be24900f902c960dd7db",
@@ -61342,6 +61381,22 @@
         "world_version": "7.3.7",
         "tag_version": "7.3.7",
         "created_at": "2026-01-12T21:16:33Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.3.10/stardew_valley.apworld",
+      "size": 522536,
+      "hash_sha256": "9877d839dc47dfe3ddf977e54b89733c2c8626a64d674e67d548918a52fcfcd8",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "7.3.10",
+        "tag_version": "7.3.10",
+        "created_at": "2026-01-15T03:18:34Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
