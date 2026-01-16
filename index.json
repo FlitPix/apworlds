@@ -6585,6 +6585,35 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-43/borderlands2.apworld",
+      "size": 45580,
+      "hash_sha256": "3cd674afba3a7f9336de59c0a68d3e1134128daec2fdab554c4b601beef5ae99",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "43",
+        "tag_version": "43",
+        "created_at": "2026-01-15T22:21:14Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.4.1/borderlands2.apworld",
+      "size": 47362,
+      "hash_sha256": "59bb65e20df8b8f810cba5199cffde26a4b1122baf697948c25e8cf0c42c8146",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2025-12-24T17:37:48Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -7214,6 +7243,19 @@
       }
     },
     {
+      "world": "https://github.com/vicr123/Archipelago/releases/download/20260115-1/candybox2.apworld",
+      "size": 26338,
+      "hash_sha256": "020d2f8f56286d8710fc3de20a4009c8f6427e57b57c3925c2788472a5d11a35",
+      "metadata": {
+        "game": "Candy Box 2",
+        "id": "candybox2",
+        "world_version": "1.20260115.1",
+        "tag_version": "1.20260115.1",
+        "created_at": "2026-01-15T09:47:52Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/latest/candybox2.apworld",
       "size": 12332,
       "hash_sha256": "157a99688b065d1dbdd580a36a10e93ca985199896ec40ac3e8134ca4ae9d21b",
@@ -7616,19 +7658,6 @@
         "world_version": "0.0.0.post9",
         "tag_version": "0.0.0.post9",
         "created_at": "2025-04-29T13:05:21Z"
-      }
-    },
-    {
-      "world": "https://github.com/vicr123/Archipelago/releases/download/20260115-1/candybox2.apworld",
-      "size": 26338,
-      "hash_sha256": "020d2f8f56286d8710fc3de20a4009c8f6427e57b57c3925c2788472a5d11a35",
-      "metadata": {
-        "game": "Candy Box 2",
-        "id": "candybox2",
-        "world_version": "1.20260115.1",
-        "tag_version": "1.20260115.1",
-        "created_at": "2026-01-15T09:47:52Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -8960,6 +8989,18 @@
         "world_version": "0.9.5",
         "tag_version": "0.9.5",
         "created_at": "2026-01-10T22:01:13Z"
+      }
+    },
+    {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.9.6/civv.apworld",
+      "size": 303801,
+      "hash_sha256": "b12af517f91f75721ad7a454d2a11b85289be5df246cf3947259dd5a0c839507",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.9.6",
+        "tag_version": "0.9.6",
+        "created_at": "2026-01-15T18:16:28Z"
       }
     },
     {
@@ -13455,6 +13496,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.33/dk64.apworld",
+      "size": 35146529,
+      "hash_sha256": "a7fd9b1c2b3246e2903fe83ea99647d61cb51e8b50dfa9e166c69cde7d8fb9b2",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.33",
+        "tag_version": "1.4.33",
+        "created_at": "2026-01-15T05:20:42Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.4/dk64.apworld",
       "size": 26179659,
       "hash_sha256": "481d1fb297d24e056ecbad2c41c1e1d0c5a469bfda16c98519423713deff3f35",
@@ -13530,19 +13584,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.33/dk64.apworld",
-      "size": 35146529,
-      "hash_sha256": "a7fd9b1c2b3246e2903fe83ea99647d61cb51e8b50dfa9e166c69cde7d8fb9b2",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.33",
-        "tag_version": "1.4.33",
-        "created_at": "2026-01-15T05:20:42Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -15196,6 +15237,22 @@
         "tag_version": "0.0.9",
         "created_at": "2025-01-18T20:07:11Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.0.21.0/dsr.apworld",
+      "size": 43750,
+      "hash_sha256": "99b13a6e74bad0e6dc2330aecfc6107a9f9f12f99e7a9cbb7d03b5f252638ea4",
+      "metadata": {
+        "game": "Dark Souls Remastered",
+        "id": "dsr",
+        "world_version": "0.0.21",
+        "tag_version": "0.0.21",
+        "created_at": "2026-01-15T22:57:52Z",
+        "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
         ]
@@ -32288,6 +32345,18 @@
       }
     },
     {
+      "world": "https://github.com/nicopop/linklink/releases/download/1.2.1/manual_linklink_nicopopxd.apworld",
+      "size": 78596,
+      "hash_sha256": "4b24c82f21a5071c69278b1071366651ce8ad0755313d8c23e7132a353beb08d",
+      "metadata": {
+        "game": "Manual_LinkLink_Nicopopxd",
+        "id": "manual_linklink_nicopopxd",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-01-15T20:18:53Z"
+      }
+    },
+    {
       "world": "https://github.com/BigBradley/Mario-Kart-7-Manual-APworld/releases/download/1.2/manual_mariokart7_bigbradley.apworld",
       "size": 60476,
       "hash_sha256": "d9faaaecaafec7711c203e56db391a1cc5972c4acf72766073f45e8801226cee",
@@ -34165,6 +34234,19 @@
         "world_version": "2.0.5",
         "tag_version": "2.0.5",
         "created_at": "2025-09-21T22:22:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.6/manual_residentevil4_vincentssin.apworld",
+      "size": 85797,
+      "hash_sha256": "904b5c742be27695fa48803374876aeb17c7e112356dec21d0e5a0c6f076b98c",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.0.6",
+        "tag_version": "2.0.6",
+        "created_at": "2026-01-15T12:46:29Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -44442,19 +44524,6 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
-      "size": 15365,
-      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.1.4b2",
-        "tag_version": "0.1.4b2",
-        "created_at": "2025-02-26T20:49:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.4.1/plateup.apworld",
       "size": 10423690,
       "hash_sha256": "a948ed51bcbd97e7a0f378e36251ccd11aa8da2a5c1df23c0dca0edc280a732a",
@@ -44464,6 +44533,19 @@
         "world_version": "0.2.4.1",
         "tag_version": "0.2.4.1",
         "created_at": "2025-12-05T01:09:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
+      "size": 15365,
+      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.1.4b2",
+        "tag_version": "0.1.4b2",
+        "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -58814,6 +58896,19 @@
       }
     },
     {
+      "world": "https://github.com/cjmang/StS-AP-World/releases/download/2.3.1/spire.apworld",
+      "size": 26075,
+      "hash_sha256": "a4a5effc292719240ea3b450873a5eb42e98c8a4b817aec7c4376c1cf638a49a",
+      "metadata": {
+        "game": "Slay the Spire",
+        "id": "spire",
+        "world_version": "2.3.1",
+        "tag_version": "2.3.1",
+        "created_at": "2026-01-15T01:49:19Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V0.1.0/spiritvalley.apworld",
       "size": 51376,
       "hash_sha256": "3eedfcb6acbf297627e454a73ecf578b29da11b4520e39f7a6589a4065fb5f73",
@@ -61260,6 +61355,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.3.10/stardew_valley.apworld",
+      "size": 522536,
+      "hash_sha256": "9877d839dc47dfe3ddf977e54b89733c2c8626a64d674e67d548918a52fcfcd8",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "7.3.10",
+        "tag_version": "7.3.10",
+        "created_at": "2026-01-15T03:18:34Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.3.2/stardew_valley.apworld",
       "size": 521541,
       "hash_sha256": "428fd5425a93903caf8bc911f31cb89b76aeece766da35172e4a3599caa10085",
@@ -61381,22 +61492,6 @@
         "world_version": "7.3.7",
         "tag_version": "7.3.7",
         "created_at": "2026-01-12T21:16:33Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.3.10/stardew_valley.apworld",
-      "size": 522536,
-      "hash_sha256": "9877d839dc47dfe3ddf977e54b89733c2c8626a64d674e67d548918a52fcfcd8",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "7.3.10",
-        "tag_version": "7.3.10",
-        "created_at": "2026-01-15T03:18:34Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -67739,6 +67834,18 @@
         "world_version": "3.3.0",
         "tag_version": "3.3.0",
         "created_at": "2026-01-14T16:31:21Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.3.1/ultrakill.apworld",
+      "size": 42381,
+      "hash_sha256": "ef305b5c2a967d54e2f2188e646ae3ea56bd4f60d90dad79c3db912155c8508a",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.3.1",
+        "tag_version": "3.3.1",
+        "created_at": "2026-01-15T15:02:01Z"
       }
     },
     {
