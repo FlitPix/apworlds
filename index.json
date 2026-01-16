@@ -6507,6 +6507,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-43/borderlands2.apworld",
+      "size": 45580,
+      "hash_sha256": "3cd674afba3a7f9336de59c0a68d3e1134128daec2fdab554c4b601beef5ae99",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "43",
+        "tag_version": "43",
+        "created_at": "2026-01-15T22:21:14Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -6572,35 +6588,6 @@
       }
     },
     {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.4/borderlands2.apworld",
-      "size": 47306,
-      "hash_sha256": "633afb832ac45e77b85f4faa9afdecfe8322ef7582a1bcb898602c80a3501f63",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "0.4.post2",
-        "tag_version": "0.4.post2",
-        "created_at": "2025-12-18T22:44:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-43/borderlands2.apworld",
-      "size": 45580,
-      "hash_sha256": "3cd674afba3a7f9336de59c0a68d3e1134128daec2fdab554c4b601beef5ae99",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "43",
-        "tag_version": "43",
-        "created_at": "2026-01-15T22:21:14Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.4.1/borderlands2.apworld",
       "size": 47362,
       "hash_sha256": "59bb65e20df8b8f810cba5199cffde26a4b1122baf697948c25e8cf0c42c8146",
@@ -6610,6 +6597,19 @@
         "world_version": "0.4.1",
         "tag_version": "0.4.1",
         "created_at": "2025-12-24T17:37:48Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.4/borderlands2.apworld",
+      "size": 47306,
+      "hash_sha256": "633afb832ac45e77b85f4faa9afdecfe8322ef7582a1bcb898602c80a3501f63",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "0.4.post2",
+        "tag_version": "0.4.post2",
+        "created_at": "2025-12-18T22:44:03Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -10336,6 +10336,33 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.0-pre.2/crosscode.apworld",
+      "size": 1239448,
+      "hash_sha256": "7b96d29eee9a633a1f9fc5a3ae76722763b73bcd42e11e2720d4a556128d17dd",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-01-16T08:33:31Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.7.5/crosscode.apworld",
+      "size": 1229314,
+      "hash_sha256": "0b125cbf995f433b97b42761d19fdd474945482e2feca60837b9663d15d83833",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.7.4",
+        "tag_version": "0.7.4",
+        "created_at": "2026-01-16T08:45:00Z"
       }
     },
     {
@@ -15131,6 +15158,22 @@
       }
     },
     {
+      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.0.21.0/dsr.apworld",
+      "size": 43750,
+      "hash_sha256": "99b13a6e74bad0e6dc2330aecfc6107a9f9f12f99e7a9cbb7d03b5f252638ea4",
+      "metadata": {
+        "game": "Dark Souls Remastered",
+        "id": "dsr",
+        "world_version": "0.0.21",
+        "tag_version": "0.0.21",
+        "created_at": "2026-01-15T22:57:52Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.0.3/dsr.apworld",
       "size": 83344,
       "hash_sha256": "024737209706ae3407f01a6e6543b58859ed14b4ef834a03cdcef9bb17320bec",
@@ -15237,22 +15280,6 @@
         "tag_version": "0.0.9",
         "created_at": "2025-01-18T20:07:11Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.0.21.0/dsr.apworld",
-      "size": 43750,
-      "hash_sha256": "99b13a6e74bad0e6dc2330aecfc6107a9f9f12f99e7a9cbb7d03b5f252638ea4",
-      "metadata": {
-        "game": "Dark Souls Remastered",
-        "id": "dsr",
-        "world_version": "0.0.21",
-        "tag_version": "0.0.21",
-        "created_at": "2026-01-15T22:57:52Z",
-        "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
         ]
@@ -22578,6 +22605,18 @@
         "world_version": "0.1.1",
         "tag_version": "0.1.1",
         "created_at": "2025-11-23T04:29:19Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/HbkArchipelago/releases/download/0.1.2/hi_fi_rush.apworld",
+      "size": 13282,
+      "hash_sha256": "615fd4f0721cea124003692fa0f6937552d8dd30f87c837236f6373071773785",
+      "metadata": {
+        "game": "Hi-Fi RUSH",
+        "id": "hi_fi_rush",
+        "world_version": "0.1.2",
+        "tag_version": "0.1.2",
+        "created_at": "2025-12-05T07:44:10Z"
       }
     },
     {
