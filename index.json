@@ -3735,6 +3735,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.8/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-01-16T14:06:21Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.2.0/autopelago.apworld",
       "size": 17653,
       "hash_sha256": "6da348c9a260a47f110fe8ab15da60369dc2825ce66c79ad71c958649397de3d",
@@ -3959,19 +3972,6 @@
         "tag_version": "0.9.0",
         "created_at": "2025-02-09T20:18:09Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.8/autopelago.apworld",
-      "size": 25294,
-      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
-      "metadata": {
-        "game": "Autopelago",
-        "id": "autopelago",
-        "world_version": "0.11.0",
-        "tag_version": "0.11.0",
-        "created_at": "2026-01-16T14:06:21Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -7942,6 +7942,19 @@
         "world_version": "0.5.1",
         "tag_version": "0.5.1",
         "created_at": "2025-12-30T01:17:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.2/casualtiesunknown.apworld",
+      "size": 74363,
+      "hash_sha256": "b82168d33327e52b98c7baeca47e2a21408718b77e406b488194db70d6b31fa8",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-01-17T07:42:33Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -53326,6 +53339,22 @@
       "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0/sadx.apworld",
       "size": 3155872,
       "hash_sha256": "1240c1aadb6ecd30f6fe4178b1e0949afb4f2a311537a067990fda2b95e1fe88",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-01-17T00:42:33Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0/sadx.apworld",
+      "size": 3155707,
+      "hash_sha256": "e07fa313e17479fac211128ca5fa89c2b439300b7f4b00f4882ae098f55b2bc3",
       "metadata": {
         "game": "Sonic Adventure DX",
         "id": "sadx",
