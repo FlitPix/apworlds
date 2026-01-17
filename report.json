@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 512,
-  "total_versions": 5159,
+  "total_versions": 5163,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -40,7 +40,7 @@
     "borderlands2": false,
     "brotato": true,
     "candybox2": true,
-    "cassette_beasts": false,
+    "cassette_beasts": true,
     "casualtiesunknown": false,
     "cat_quest": false,
     "cavern_of_dreams": false,
@@ -379,7 +379,7 @@
     "rotn": true,
     "rusted_moss": false,
     "sadv2": true,
-    "sadx": false,
+    "sadx": true,
     "satisfactory": false,
     "saving_princess": false,
     "scp": false,
