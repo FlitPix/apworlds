@@ -9042,6 +9042,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.9.7/civv.apworld",
+      "size": 303953,
+      "hash_sha256": "5271382863efca7b7e899e49537be6eb9da4df0723d13e8bf356f3e5a01c1346",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.9.7",
+        "tag_version": "0.9.7",
+        "created_at": "2026-01-17T19:42:55Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/ckd-v0.0.1/ckd.apworld",
       "size": 217567,
       "hash_sha256": "53671f3f057ead0462a4f5b570d96c0014858ae78fbb573471b83bcc6ec06943",
@@ -10810,6 +10822,22 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-05-21T22:20:48Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.14.0/crystal_project.apworld",
+      "size": 213050,
+      "hash_sha256": "2a862640185a74bc44c3dc46e70390170c11f1b553aa4e2263ecd1f1b3b184eb",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.14.0",
+        "tag_version": "0.14.0",
+        "created_at": "2026-01-17T19:52:51Z",
+        "minimum_ap_version": "0.6.4",
         "flags": [
           "tracker_included"
         ]
@@ -22077,6 +22105,22 @@
       }
     },
     {
+      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.15.1/hades.apworld",
+      "size": 90482,
+      "hash_sha256": "a2137dd62b0eba3b52090e256d5034535c21b699471b973128a1abfd272037ac",
+      "metadata": {
+        "game": "Hades",
+        "id": "hades",
+        "world_version": "0.15.1",
+        "tag_version": "0.15.1",
+        "created_at": "2026-01-17T13:08:36Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v0.7/hammerwatch.apworld",
       "size": 195650,
       "hash_sha256": "7581aaf8180511f250de7f00fe1eb4c51f7c15224c224b6ebf9b00444f187481",
@@ -22482,6 +22526,19 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2025-10-17T17:58:52Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/niieli/Niko-Archipelago/releases/download/0.8.1/hcniko.apworld",
+      "size": 41782,
+      "hash_sha256": "3e7d874ad64c920954cb5418044cbade03c25b60e1def29a72812503e0b9f0be",
+      "metadata": {
+        "game": "Here Comes Niko!",
+        "id": "hcniko",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-01-18T00:14:31Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -30168,6 +30225,30 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
+      "size": 4894976,
+      "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.1/lunacid.apworld",
+      "size": 4894976,
+      "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari/madou.apworld",
       "size": 167900,
       "hash_sha256": "133e880c112ff3e50f37a5920e0db2c1e97e3fe09081a88f4c2f418b79693fb3",
@@ -36678,6 +36759,19 @@
         "world_version": "0.1.1",
         "tag_version": "0.1.1",
         "created_at": "2026-01-10T15:58:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.1.2/medievil2.apworld",
+      "size": 18832,
+      "hash_sha256": "29506fcdeef4d85300e93e0bffd5565b89c77d1af4ba9e61b2ac2591b2ca6466",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.1.2",
+        "tag_version": "0.1.2",
+        "created_at": "2026-01-17T13:53:41Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -44070,6 +44164,19 @@
       }
     },
     {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.0/pikmin2.apworld",
+      "size": 781286,
+      "hash_sha256": "03cb31a004c13b67e28f70e221fe27554224f6c657c4c3d52633e48741d79382",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-01-18T00:29:50Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/1.0.1/pizza_tower.apworld",
       "size": 27618,
       "hash_sha256": "d6fbff7c45a5667a0987838049c30f1162a2e1ee123b36845f3cf1417163267c",
@@ -47366,6 +47473,19 @@
         "world_version": "5.3.6",
         "tag_version": "5.3.6",
         "created_at": "2026-01-04T02:57:55Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.3.7/pokemon_crystal.apworld",
+      "size": 617574,
+      "hash_sha256": "9dca090d3b98d6e987a6811c4225f53befd9e1f9fc4850ec4858f2ec1e98a2e6",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.3.7",
+        "tag_version": "5.3.7",
+        "created_at": "2026-01-17T17:48:40Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -50883,6 +51003,19 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2026-01-13T19:18:27Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.5.9/refunct.apworld",
+      "size": 14081,
+      "hash_sha256": "e4ba80bc4d989ae6fe7d2fea6cc3aec8f04b36495f35532f44bda6440d9102ac",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.5.9",
+        "tag_version": "0.5.9",
+        "created_at": "2026-01-17T22:14:56Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -57768,6 +57901,18 @@
       }
     },
     {
+      "world": "https://github.com/Totox00/Archipelago-sotm/releases/download/v0.4.5/sotm.apworld",
+      "size": 632454,
+      "hash_sha256": "c2765de07d80e1360a68c33a8d579bddb465406e10b745b29a77ea5a4c1e7ee7",
+      "metadata": {
+        "game": "Sentinels of the Multiverse",
+        "id": "sotm",
+        "world_version": "0.4.5",
+        "tag_version": "0.4.5",
+        "created_at": "2026-01-17T14:58:44Z"
+      }
+    },
+    {
       "world": "https://github.com/fdelduque/Archipelago/releases/download/Alphaish/sotn.apworld",
       "size": 65808,
       "hash_sha256": "9ffe83aa4b9fa9b256b4bb5d1cb9ddfa54475175e322acb91a4c5042a7d72fbe",
@@ -63346,6 +63491,22 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2026-01-10T13:10:55Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Nepley/in-apworld/releases/download/v1.1.1/th08.apworld",
+      "size": 91543,
+      "hash_sha256": "8a4602c529dd602e93fc3cee490850963fbddff17a968682a8886387bd7196ee",
+      "metadata": {
+        "game": "Touhou Eiyashou ~ Imperishable Night",
+        "id": "th08",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-01-17T14:39:48Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "after_dark"
