@@ -10605,6 +10605,22 @@
       }
     },
     {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.14.0/crystal_project.apworld",
+      "size": 213050,
+      "hash_sha256": "2a862640185a74bc44c3dc46e70390170c11f1b553aa4e2263ecd1f1b3b184eb",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.14.0",
+        "tag_version": "0.14.0",
+        "created_at": "2026-01-17T19:52:51Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.5.0/crystal_project.apworld",
       "size": 242135,
       "hash_sha256": "364cf700e1b81b87404be45fb83d8e5c7a20f5e6607c1ba5357a621d2e2b4d7d",
@@ -10822,22 +10838,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-05-21T22:20:48Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "tracker_included"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.14.0/crystal_project.apworld",
-      "size": 213050,
-      "hash_sha256": "2a862640185a74bc44c3dc46e70390170c11f1b553aa4e2263ecd1f1b3b184eb",
-      "metadata": {
-        "game": "Crystal Project",
-        "id": "crystal_project",
-        "world_version": "0.14.0",
-        "tag_version": "0.14.0",
-        "created_at": "2026-01-17T19:52:51Z",
-        "minimum_ap_version": "0.6.4",
         "flags": [
           "tracker_included"
         ]
@@ -13677,6 +13677,19 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.34/dk64.apworld",
+      "size": 35148713,
+      "hash_sha256": "d54e61736f23a06e577f7b39102f366202372e09ecebdfc7bfd5e08205a7be39",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.34",
+        "tag_version": "1.4.34",
+        "created_at": "2026-01-18T03:54:00Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -21891,6 +21904,22 @@
       }
     },
     {
+      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.15.1/hades.apworld",
+      "size": 90482,
+      "hash_sha256": "a2137dd62b0eba3b52090e256d5034535c21b699471b973128a1abfd272037ac",
+      "metadata": {
+        "game": "Hades",
+        "id": "hades",
+        "world_version": "0.15.1",
+        "tag_version": "0.15.1",
+        "created_at": "2026-01-17T13:08:36Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.3.1/hades.apworld",
       "size": 44750,
       "hash_sha256": "21695c20bd6f647a1afeb8574ff79f5210b12f8c13a47387e52080a0a6ba76ec",
@@ -22098,22 +22127,6 @@
         "world_version": "0.13.0",
         "tag_version": "0.13.0",
         "created_at": "2024-10-13T17:21:55Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.15.1/hades.apworld",
-      "size": 90482,
-      "hash_sha256": "a2137dd62b0eba3b52090e256d5034535c21b699471b973128a1abfd272037ac",
-      "metadata": {
-        "game": "Hades",
-        "id": "hades",
-        "world_version": "0.15.1",
-        "tag_version": "0.15.1",
-        "created_at": "2026-01-17T13:08:36Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -30225,6 +30238,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.1/lunacid.apworld",
+      "size": 4894976,
+      "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
       "size": 4894976,
       "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
@@ -30237,14 +30262,50 @@
       }
     },
     {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.1/lunacid.apworld",
-      "size": 4894976,
-      "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.5/lunacid.apworld",
+      "size": 4894908,
+      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
       "metadata": {
         "game": "Lunacid",
         "id": "lunacid",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
+        "world_version": "1.0.5",
+        "tag_version": "1.0.5",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.4/lunacid.apworld",
+      "size": 4894908,
+      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.4",
+        "tag_version": "1.0.4",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.3/lunacid.apworld",
+      "size": 4894908,
+      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.3",
+        "tag_version": "1.0.3",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
+      "size": 4894908,
+      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.2.post2",
+        "tag_version": "1.0.2.post2",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -44177,6 +44238,19 @@
       }
     },
     {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.0/pikmin2.apworld",
+      "size": 781297,
+      "hash_sha256": "48f5ddd6c916a7bfc9be76ef1da50383d2ac4392a88aedd7e45f0536c61a3554",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.7.0.post2",
+        "tag_version": "0.7.0.post2",
+        "created_at": "2026-01-18T00:29:50Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/1.0.1/pizza_tower.apworld",
       "size": 27618,
       "hash_sha256": "d6fbff7c45a5667a0987838049c30f1162a2e1ee123b36845f3cf1417163267c",
@@ -50655,6 +50729,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.4.0-rc1/rac3.apworld",
+      "size": 2817209,
+      "hash_sha256": "4f99c2ae6328d786a75e9e06a4023d86d7d3e2827dd5bf7344c2bc09d01c6f36",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.4.0rc1",
+        "tag_version": "0.4.0rc1",
+        "created_at": "2026-01-18T07:35:33Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.1.0/rain_world.apworld",
       "size": 209071,
       "hash_sha256": "736ac7cc0cf86d56de825740273e59ab2bc0cd5c1833b5b8683fefb91219131c",
@@ -51016,7 +51103,10 @@
         "world_version": "0.5.9",
         "tag_version": "0.5.9",
         "created_at": "2026-01-17T22:14:56Z",
-        "minimum_ap_version": "0.6.4"
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -62222,6 +62312,19 @@
       }
     },
     {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.2.4/tboir.apworld",
+      "size": 1259267,
+      "hash_sha256": "6db130588ae6901bbd322fa255bbd2a32f1d60d2b04f430480a70335de6fd812",
+      "metadata": {
+        "game": "The Binding of Isaac Repentance",
+        "id": "tboir",
+        "world_version": "0.2.4",
+        "tag_version": "0.2.4",
+        "created_at": "2026-01-18T01:39:44Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v0.0.2/tcg_card_shop_simulator.apworld",
       "size": 113282,
       "hash_sha256": "858f5f436c8c01f19bec029d02a2f7c5ead58707291d6030c39a4d657944eb8a",
@@ -68390,6 +68493,22 @@
         "world_version": "0.1.8",
         "tag_version": "0.1.8",
         "created_at": "2026-01-14T16:37:51Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/FlySniper/Archipelago/releases/download/votipelago-0.1.9/votipelago.apworld",
+      "size": 50237,
+      "hash_sha256": "ce66539a5dde5703fb73781b54a1f3dc3b036d36ea877a288470712e7243cc68",
+      "metadata": {
+        "game": "Votipelago",
+        "id": "votipelago",
+        "world_version": "0.1.9",
+        "tag_version": "0.1.9",
+        "created_at": "2026-01-18T02:44:19Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
