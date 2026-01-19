@@ -13615,6 +13615,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.35/dk64.apworld",
+      "size": 36119876,
+      "hash_sha256": "407177faf6e9c75acff272c7218fbd46560f1e61779b7d4a5be86dee5adbe020",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.35",
+        "tag_version": "1.4.35",
+        "created_at": "2026-01-18T21:05:47Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.4/dk64.apworld",
       "size": 26179659,
       "hash_sha256": "481d1fb297d24e056ecbad2c41c1e1d0c5a469bfda16c98519423713deff3f35",
@@ -13690,19 +13703,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.35/dk64.apworld",
-      "size": 36119876,
-      "hash_sha256": "407177faf6e9c75acff272c7218fbd46560f1e61779b7d4a5be86dee5adbe020",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.35",
-        "tag_version": "1.4.35",
-        "created_at": "2026-01-18T21:05:47Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -25290,6 +25290,21 @@
       }
     },
     {
+      "world": "https://github.com/Ninjakakes/Archipelago/releases/download/j_v0.1.0/junko.apworld",
+      "size": 12748,
+      "hash_sha256": "9355e80c81f044b9b4deb898a413e13b3bcf6efe5b6a08ef70b6bb2e149bc95c",
+      "metadata": {
+        "game": "Junko",
+        "id": "junko",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-01-05T00:04:19Z",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Silvris/Archipelago/releases/download/k64_0.1.1/k64.apworld",
       "size": 85657,
       "hash_sha256": "c0b07b465d06eb4b686b74feae7eba0ab4ff51ada18b32544baaf6349faf7a55",
@@ -30331,6 +30346,18 @@
         "id": "lunacid",
         "world_version": "1.0.6",
         "tag_version": "1.0.6",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.7/lunacid.apworld",
+      "size": 4894978,
+      "hash_sha256": "59b3b0a67d4146a812abce5fd2dfad1690a2204be28cf778d198856fe6e69b6c",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.7",
+        "tag_version": "1.0.7",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -50788,6 +50815,19 @@
         "id": "rac3",
         "world_version": "0.4.0rc2",
         "tag_version": "0.4.0rc2",
+        "created_at": "2025-12-28T21:01:53Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.4.0-rc2/rac3.apworld",
+      "size": 2817296,
+      "hash_sha256": "ab525908f4e0868421bfc63d0313e8bcc7f4b90d2440d397643c89a62190987b",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.4.0.post2",
+        "tag_version": "0.4.0.post2",
         "created_at": "2025-12-28T21:01:53Z",
         "maximum_ap_version": "0.6.99"
       }
