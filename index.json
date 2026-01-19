@@ -13602,6 +13602,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.34/dk64.apworld",
+      "size": 35148713,
+      "hash_sha256": "d54e61736f23a06e577f7b39102f366202372e09ecebdfc7bfd5e08205a7be39",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.34",
+        "tag_version": "1.4.34",
+        "created_at": "2026-01-18T03:54:00Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.4/dk64.apworld",
       "size": 26179659,
       "hash_sha256": "481d1fb297d24e056ecbad2c41c1e1d0c5a469bfda16c98519423713deff3f35",
@@ -13680,15 +13693,15 @@
       }
     },
     {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.34/dk64.apworld",
-      "size": 35148713,
-      "hash_sha256": "d54e61736f23a06e577f7b39102f366202372e09ecebdfc7bfd5e08205a7be39",
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.35/dk64.apworld",
+      "size": 36119876,
+      "hash_sha256": "407177faf6e9c75acff272c7218fbd46560f1e61779b7d4a5be86dee5adbe020",
       "metadata": {
         "game": "",
         "id": "dk64",
-        "world_version": "1.4.34",
-        "tag_version": "1.4.34",
-        "created_at": "2026-01-18T03:54:00Z",
+        "world_version": "1.4.35",
+        "tag_version": "1.4.35",
+        "created_at": "2026-01-18T21:05:47Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -30262,26 +30275,14 @@
       }
     },
     {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.5/lunacid.apworld",
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
       "size": 4894908,
       "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
       "metadata": {
         "game": "Lunacid",
         "id": "lunacid",
-        "world_version": "1.0.5",
-        "tag_version": "1.0.5",
-        "created_at": "2025-07-02T22:10:18Z"
-      }
-    },
-    {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.4/lunacid.apworld",
-      "size": 4894908,
-      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
-      "metadata": {
-        "game": "Lunacid",
-        "id": "lunacid",
-        "world_version": "1.0.4",
-        "tag_version": "1.0.4",
+        "world_version": "1.0.2.post2",
+        "tag_version": "1.0.2.post2",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -30298,14 +30299,38 @@
       }
     },
     {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.4/lunacid.apworld",
       "size": 4894908,
       "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
       "metadata": {
         "game": "Lunacid",
         "id": "lunacid",
-        "world_version": "1.0.2.post2",
-        "tag_version": "1.0.2.post2",
+        "world_version": "1.0.4",
+        "tag_version": "1.0.4",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.5/lunacid.apworld",
+      "size": 4894908,
+      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.5",
+        "tag_version": "1.0.5",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.6/lunacid.apworld",
+      "size": 4894978,
+      "hash_sha256": "59b3b0a67d4146a812abce5fd2dfad1690a2204be28cf778d198856fe6e69b6c",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.6",
+        "tag_version": "1.0.6",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -50742,6 +50767,32 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.4.0-rc1/rac3.apworld",
+      "size": 2816953,
+      "hash_sha256": "e6670fde5183e09d52b39164e86907ede63fbca846c4ebe226e6a239d0dbb32b",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.4.0.post2",
+        "tag_version": "0.4.0.post2",
+        "created_at": "2026-01-18T07:35:33Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.4.0-rc2/rac3.apworld",
+      "size": 2805095,
+      "hash_sha256": "e981e77b0af79f9d3dae52d8f6a48cc7a8d66f7ba6b8e035937a2f69526508b3",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.4.0rc2",
+        "tag_version": "0.4.0rc2",
+        "created_at": "2025-12-28T21:01:53Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.1.0/rain_world.apworld",
       "size": 209071,
       "hash_sha256": "736ac7cc0cf86d56de825740273e59ab2bc0cd5c1833b5b8683fefb91219131c",
@@ -51107,6 +51158,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.6.0/refunct.apworld",
+      "size": 14020,
+      "hash_sha256": "7a874d60bd799c449eeca4f6d6e29b1054e92a783ec1231667880bc3bb7e4f35",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-01-18T18:22:52Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -65436,6 +65500,19 @@
       }
     },
     {
+      "world": "https://github.com/eternalcode0/Archipelago/releases/download/v0.3.0/tmc.apworld",
+      "size": 164038,
+      "hash_sha256": "9d67996b0976fbbcaf5e6c48079ad99c43c5d1c51c561da31b98f438676c6b41",
+      "metadata": {
+        "game": "The Minish Cap",
+        "id": "tmc",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-01-18T14:33:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.1.10/tracker.apworld",
       "size": 13887,
       "hash_sha256": "28515bb86d62ebee8e48cdbe735846d8f36f0b2fa623a74190c7bea114d9bf43",
@@ -69295,6 +69372,19 @@
         "world_version": "3.3.0",
         "tag_version": "3.3.0",
         "created_at": "2026-01-08T02:37:11Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/lilDavid/Archipelago-Wario-Land-4/releases/download/3.3.1/wl4.apworld",
+      "size": 63615,
+      "hash_sha256": "a150b5abef454d51cd35033be3d8dec24ec8788d1e1b1976149f587720418994",
+      "metadata": {
+        "game": "Wario Land 4",
+        "id": "wl4",
+        "world_version": "3.3.1",
+        "tag_version": "3.3.1",
+        "created_at": "2026-01-18T21:02:51Z",
         "minimum_ap_version": "0.6.0"
       }
     },
