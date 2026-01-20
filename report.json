@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 512,
-  "total_versions": 5196,
+  "total_versions": 5211,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -380,7 +380,7 @@
     "rusted_moss": false,
     "sadv2": true,
     "sadx": true,
-    "satisfactory": false,
+    "satisfactory": true,
     "saving_princess": false,
     "scp": false,
     "seedling": false,
