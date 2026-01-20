@@ -6507,6 +6507,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-45/borderlands2.apworld",
+      "size": 45886,
+      "hash_sha256": "bedc07af7b8e3492bc4aa0c7a6a282b4616522891f847f2ebf90ae20ee2005c6",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "45",
+        "tag_version": "45",
+        "created_at": "2026-01-19T22:35:19Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -6595,22 +6611,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-12-18T22:44:03Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-45/borderlands2.apworld",
-      "size": 45886,
-      "hash_sha256": "bedc07af7b8e3492bc4aa0c7a6a282b4616522891f847f2ebf90ae20ee2005c6",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "45",
-        "tag_version": "45",
-        "created_at": "2026-01-19T22:35:19Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -13615,6 +13615,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.36/dk64.apworld",
+      "size": 36120291,
+      "hash_sha256": "17aacdedfeec6d53460fd3d7c85677cdc348d2099f0d2aa130c539f8dc9e93a3",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.36",
+        "tag_version": "1.4.36",
+        "created_at": "2026-01-19T19:33:00Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.4/dk64.apworld",
       "size": 26179659,
       "hash_sha256": "481d1fb297d24e056ecbad2c41c1e1d0c5a469bfda16c98519423713deff3f35",
@@ -13690,19 +13703,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.36/dk64.apworld",
-      "size": 36120291,
-      "hash_sha256": "17aacdedfeec6d53460fd3d7c85677cdc348d2099f0d2aa130c539f8dc9e93a3",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.36",
-        "tag_version": "1.4.36",
-        "created_at": "2026-01-19T19:33:00Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -27152,6 +27152,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.3.0/ladx_beta.apworld",
+      "size": 383891,
+      "hash_sha256": "05ce2e94c9f616f161b1e36fec8ef1adde62321bb97b125c585907dfcb8ebbd2",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.3.0",
+        "tag_version": "13.3.0",
+        "created_at": "2026-01-19T21:09:40Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -27523,19 +27536,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.3.0/ladx_beta.apworld",
-      "size": 383891,
-      "hash_sha256": "05ce2e94c9f616f161b1e36fec8ef1adde62321bb97b125c585907dfcb8ebbd2",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.3.0",
-        "tag_version": "13.3.0",
-        "created_at": "2026-01-19T21:09:40Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -29725,6 +29725,19 @@
         "tag_version": "0.3.0",
         "created_at": "2025-04-20T10:42:37Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.21/luigismansion.apworld",
+      "size": 206262,
+      "hash_sha256": "034375e4865594129d90d35c83a0174be4f930b3d8160366fcc6755fde9c47c7",
+      "metadata": {
+        "game": "Luigi's Mansion",
+        "id": "luigismansion",
+        "world_version": "0.5.21",
+        "tag_version": "0.5.21",
+        "created_at": "2026-01-20T08:51:41Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -48583,6 +48596,19 @@
       }
     },
     {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.3.1/PokemonStadium.apworld",
+      "size": 80008,
+      "hash_sha256": "eb0be27f793bfbb076680025a8a249530e03716f5032129dbfcae9a592bedde2",
+      "metadata": {
+        "game": "Pokemon Stadium",
+        "id": "PokemonStadium",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-01-20T02:36:13Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/0.0.0/pokepark.apworld",
       "size": 160705,
       "hash_sha256": "5e9b4a7730932bbe9df8c8f09066e76379ed3a84c06e76fff318f5f88d591e77",
@@ -53795,7 +53821,7 @@
       }
     },
     {
-      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0/sadx.apworld",
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0-pre-release/sadx.apworld",
       "size": 3155707,
       "hash_sha256": "e07fa313e17479fac211128ca5fa89c2b439300b7f4b00f4882ae098f55b2bc3",
       "metadata": {
@@ -53803,7 +53829,7 @@
         "id": "sadx",
         "world_version": "1.2.0",
         "tag_version": "1.2.0",
-        "created_at": "2026-01-17T00:42:33Z",
+        "created_at": "2026-01-20T00:10:07Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "prerelease"
@@ -53827,7 +53853,7 @@
       }
     },
     {
-      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0-pre-release/sadx.apworld",
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0/sadx.apworld",
       "size": 3155707,
       "hash_sha256": "e07fa313e17479fac211128ca5fa89c2b439300b7f4b00f4882ae098f55b2bc3",
       "metadata": {
@@ -53835,7 +53861,7 @@
         "id": "sadx",
         "world_version": "1.2.0",
         "tag_version": "1.2.0",
-        "created_at": "2026-01-20T00:10:07Z",
+        "created_at": "2026-01-17T00:42:33Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "prerelease"
@@ -57947,19 +57973,6 @@
       }
     },
     {
-      "world": "https://github.com/EthicalLogic-Archipelago-Org/SonicHeroesArchipelago/releases/download/2.1.0/sonic_heroes.apworld",
-      "size": 202933,
-      "hash_sha256": "1e104a1275778aad4331c8bee6c263f073eb58c730f21f8d85c911c1a8e75907",
-      "metadata": {
-        "game": "Sonic Heroes",
-        "id": "sonic_heroes",
-        "world_version": "2.1.0",
-        "tag_version": "2.1.0",
-        "created_at": "2026-01-19T19:16:57Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
       "world": "https://github.com/EthicalLogic-Archipelago-Org/SonicHeroesArchipelago/releases/download/2.0.1/sonic_heroes.apworld",
       "size": 152376,
       "hash_sha256": "e6f3fa3ceede2d0f3bcbc23902ef9e864e04444de2ed69917359864eefc9f3e2",
@@ -57969,6 +57982,19 @@
         "world_version": "2.0.1",
         "tag_version": "2.0.1",
         "created_at": "2025-11-26T10:07:39Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/EthicalLogic-Archipelago-Org/SonicHeroesArchipelago/releases/download/2.1.0/sonic_heroes.apworld",
+      "size": 202933,
+      "hash_sha256": "1e104a1275778aad4331c8bee6c263f073eb58c730f21f8d85c911c1a8e75907",
+      "metadata": {
+        "game": "Sonic Heroes",
+        "id": "sonic_heroes",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-01-19T19:16:57Z",
         "minimum_ap_version": "0.6.3"
       }
     },
