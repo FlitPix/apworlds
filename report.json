@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 513,
-  "total_versions": 5218,
+  "total_versions": 5222,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -331,7 +331,7 @@
     "ori_wotw": true,
     "oribf": false,
     "osrs": false,
-    "osu": false,
+    "osu": true,
     "outer_wilds": true,
     "p5r": false,
     "paint": true,

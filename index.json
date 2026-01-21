@@ -13706,6 +13706,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.37/dk64.apworld",
+      "size": 36121028,
+      "hash_sha256": "81bb40147743a4893a2dd96641db27b7d043db052ccf4af8f285cb20a9263002",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.37",
+        "tag_version": "1.4.37",
+        "created_at": "2026-01-21T04:24:23Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.0.0/dkc.apworld",
       "size": 56776,
       "hash_sha256": "15d2d8a12aad3d4e068bd805e8f0da29b132cbaca62ae022c3c0f4f80cc439e4",
@@ -30936,6 +30949,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.1.2/manual_blocktales_wolfboi008.apworld",
+      "size": 75769,
+      "hash_sha256": "70cd97ae974ac66b6641fe7ce2a0390ea06ff1f44e8ecb4943acf11f447fadfe",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "4.1.2",
+        "tag_version": "4.1.2",
+        "created_at": "2026-01-20T20:21:48Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-4.0.0-1/manual_blocktales_wolfboi008.apworld",
       "size": 52109,
       "hash_sha256": "babcb30031c4c1b3aa37bddeaeda7010a52cc433e81d41265c2416fca1936b2a",
@@ -31061,19 +31087,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.1.2/manual_blocktales_wolfboi008.apworld",
-      "size": 75769,
-      "hash_sha256": "70cd97ae974ac66b6641fe7ce2a0390ea06ff1f44e8ecb4943acf11f447fadfe",
-      "metadata": {
-        "game": "Manual_BlockTales_WolfBoi008",
-        "id": "manual_blocktales_wolfboi008",
-        "world_version": "4.1.2",
-        "tag_version": "4.1.2",
-        "created_at": "2026-01-20T20:21:48Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -33564,6 +33577,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.2.1/manual_onemorenight_wolfboi008.apworld",
+      "size": 65644,
+      "hash_sha256": "1e40c3dde241e67d0666ab19cdee069a32a2f1587556fbec6e101c6be12aaffa",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.2.1",
+        "tag_version": "2.2.1",
+        "created_at": "2026-01-20T20:05:47Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -33705,19 +33731,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.2.1/manual_onemorenight_wolfboi008.apworld",
-      "size": 65644,
-      "hash_sha256": "1e40c3dde241e67d0666ab19cdee069a32a2f1587556fbec6e101c6be12aaffa",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.2.1",
-        "tag_version": "2.2.1",
-        "created_at": "2026-01-20T20:05:47Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -42751,6 +42764,18 @@
         "tag_version": "1.3b0",
         "created_at": "2025-04-09T10:32:24Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/lilymnky-F/Archipelago-Osu/releases/download/v1.3.1/osu.apworld",
+      "size": 517268,
+      "hash_sha256": "3a9480132c6de193e5bda30caadc4183c2c6d96873e3e0c33379b8fb6357c5a9",
+      "metadata": {
+        "game": "osu!",
+        "id": "osu",
+        "world_version": "1.3.1",
+        "tag_version": "1.3.1",
+        "created_at": "2026-01-21T02:57:20Z"
       }
     },
     {
@@ -65420,6 +65445,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/v0.8.0-alpha/tloz_ph.apworld",
+      "size": 2566199,
+      "hash_sha256": "86a914357c5fcaa074582de88d519670d7f871cfc589451f57b3a73a437ac1c5",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-01-21T10:00:09Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -70757,6 +70795,18 @@
         "world_version": "0.3.1",
         "tag_version": "0.3.1",
         "created_at": "2026-01-03T20:58:04Z"
+      }
+    },
+    {
+      "world": "https://github.com/JustinMarshall98/Archipelago---YuGiOh-Dungeon-Dice-Monsters-GBA-/releases/download/v0.3.2/yugiohddm.apworld",
+      "size": 70882,
+      "hash_sha256": "97a808333b8630d9793662f7c9b1721a1706015914f6ce3a295559cd90a57cfd",
+      "metadata": {
+        "game": "Yu-Gi-Oh! Dungeon Dice Monsters",
+        "id": "yugiohddm",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-01-21T02:47:20Z"
       }
     },
     {
