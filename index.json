@@ -41706,6 +41706,22 @@
       }
     },
     {
+      "world": "https://github.com/HarbourMasters/Archipelago-SoH/releases/download/SoH_1.1.0-Hotfix/oot_soh.apworld",
+      "size": 199157,
+      "hash_sha256": "d1ed3260dd7776bc7393679b4ca910366d6f46bd289264e811baf41d9aafb89e",
+      "metadata": {
+        "game": "Ship of Harkinian",
+        "id": "oot_soh",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-01-21T21:04:20Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Alchav/ootbijmqwt/releases/download/v1.0/ootbijmqwt.apworld",
       "size": 6617,
       "hash_sha256": "7e720b99bebfd7fe4c564d5625ee008592420b7966e3276290b295e9f2b1b03a",
@@ -44376,6 +44392,19 @@
       }
     },
     {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.2.3/pikmin2.apworld",
+      "size": 664276,
+      "hash_sha256": "725c2eec78ae71511452687344e6f47c8b432be8ea0668fd892b1dd9c19ec5ee",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.2.3.post2",
+        "tag_version": "0.2.3.post2",
+        "created_at": "2025-07-12T06:43:29Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.3.0/pikmin2.apworld",
       "size": 775444,
       "hash_sha256": "5dce33d4c5298d0dde930182c21b20421e445e735deff3afdfd1cd2bbc876620",
@@ -44384,6 +44413,19 @@
         "id": "pikmin2",
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
+        "created_at": "2025-07-27T20:04:46Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.3.0/pikmin2.apworld",
+      "size": 659479,
+      "hash_sha256": "d38ffe2410039c2e959a1b69915bcd081a68e36dfb70d80fc0eac300ee3c16b7",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.3.0.post2",
+        "tag_version": "0.3.0.post2",
         "created_at": "2025-07-27T20:04:46Z",
         "maximum_ap_version": "0.6.99"
       }
@@ -44402,6 +44444,19 @@
       }
     },
     {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.3.1/pikmin2.apworld",
+      "size": 659508,
+      "hash_sha256": "c5b2e587320fb72c4b61c9b08c0e71bc923b417188ebc49c9cd00303ae09c06d",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.3.1.post2",
+        "tag_version": "0.3.1.post2",
+        "created_at": "2025-07-27T20:04:46Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.4.0/pikmin2.apworld",
       "size": 1435975,
       "hash_sha256": "6b3902b350ff71775b7cb2e04ecde855af3f86f256bf736db8c64ea2018fe106",
@@ -44415,6 +44470,19 @@
       }
     },
     {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.4.0/pikmin2.apworld",
+      "size": 660602,
+      "hash_sha256": "50197e6b2e3909ca5798676eda6b7df8a4a20fdf0fe52b521b105e6e67573835",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.4.0.post2",
+        "tag_version": "0.4.0.post2",
+        "created_at": "2025-08-13T05:35:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.5.0/pikmin2.apworld",
       "size": 1450254,
       "hash_sha256": "7ed5303be016ffa3db109f4ea2abef70585267c20cb5a5c8fc5ed8874c24667d",
@@ -44423,6 +44491,19 @@
         "id": "pikmin2",
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
+        "created_at": "2025-09-01T18:39:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.5.0/pikmin2.apworld",
+      "size": 663243,
+      "hash_sha256": "07d851786c7946c44d70aa35d7112c368fa3175f62b9f1a2989119a4d80e8a53",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.5.0.post2",
+        "tag_version": "0.5.0.post2",
         "created_at": "2025-09-01T18:39:36Z",
         "maximum_ap_version": "0.6.99"
       }
@@ -44454,6 +44535,19 @@
       }
     },
     {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.6.0/pikmin2.apworld",
+      "size": 664089,
+      "hash_sha256": "ba488d21bb67171fe0d2750323e9f496d3a760a2ca5345827a7bc89bed4f12b1",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.6.0.post3",
+        "tag_version": "0.6.0.post3",
+        "created_at": "2025-12-28T00:52:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.6.1/pikmin2.apworld",
       "size": 780191,
       "hash_sha256": "716b723135e1263691a7aa0b5442cf4d0b4351da76aae58a118491e551ab7189",
@@ -44462,6 +44556,19 @@
         "id": "pikmin2",
         "world_version": "0.6.1",
         "tag_version": "0.6.1",
+        "created_at": "2025-12-28T00:52:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.6.1/pikmin2.apworld",
+      "size": 664226,
+      "hash_sha256": "40df9460fecd3f23cff8b92add2838375fdb73d7aac01d05bd14b5d3fba6a862",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.6.1.post2",
+        "tag_version": "0.6.1.post2",
         "created_at": "2025-12-28T00:52:04Z",
         "maximum_ap_version": "0.6.99"
       }
@@ -44493,18 +44600,6 @@
       }
     },
     {
-      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.1/pikmin2.apworld",
-      "size": 663792,
-      "hash_sha256": "8458735f91edcc3e3a05bedb755e6c573e7eff87c46d3aaddf62e32466a7c956",
-      "metadata": {
-        "game": "Pikmin 2",
-        "id": "pikmin2",
-        "world_version": "0.7.1",
-        "tag_version": "0.7.1",
-        "created_at": "2026-01-18T00:29:50Z"
-      }
-    },
-    {
       "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.0/pikmin2.apworld",
       "size": 665332,
       "hash_sha256": "02418bd5f8a39d0fd0e59b14bdfae8c434c4dcc1f496caac1b4eb6e59bf6be4f",
@@ -44518,94 +44613,15 @@
       }
     },
     {
-      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.6.1/pikmin2.apworld",
-      "size": 664226,
-      "hash_sha256": "40df9460fecd3f23cff8b92add2838375fdb73d7aac01d05bd14b5d3fba6a862",
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.1/pikmin2.apworld",
+      "size": 663792,
+      "hash_sha256": "8458735f91edcc3e3a05bedb755e6c573e7eff87c46d3aaddf62e32466a7c956",
       "metadata": {
         "game": "Pikmin 2",
         "id": "pikmin2",
-        "world_version": "0.6.1.post2",
-        "tag_version": "0.6.1.post2",
-        "created_at": "2025-12-28T00:52:04Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.6.0/pikmin2.apworld",
-      "size": 664089,
-      "hash_sha256": "ba488d21bb67171fe0d2750323e9f496d3a760a2ca5345827a7bc89bed4f12b1",
-      "metadata": {
-        "game": "Pikmin 2",
-        "id": "pikmin2",
-        "world_version": "0.6.0.post3",
-        "tag_version": "0.6.0.post3",
-        "created_at": "2025-12-28T00:52:04Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.5.0/pikmin2.apworld",
-      "size": 663243,
-      "hash_sha256": "07d851786c7946c44d70aa35d7112c368fa3175f62b9f1a2989119a4d80e8a53",
-      "metadata": {
-        "game": "Pikmin 2",
-        "id": "pikmin2",
-        "world_version": "0.5.0.post2",
-        "tag_version": "0.5.0.post2",
-        "created_at": "2025-09-01T18:39:36Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.4.0/pikmin2.apworld",
-      "size": 660602,
-      "hash_sha256": "50197e6b2e3909ca5798676eda6b7df8a4a20fdf0fe52b521b105e6e67573835",
-      "metadata": {
-        "game": "Pikmin 2",
-        "id": "pikmin2",
-        "world_version": "0.4.0.post2",
-        "tag_version": "0.4.0.post2",
-        "created_at": "2025-08-13T05:35:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.3.1/pikmin2.apworld",
-      "size": 659508,
-      "hash_sha256": "c5b2e587320fb72c4b61c9b08c0e71bc923b417188ebc49c9cd00303ae09c06d",
-      "metadata": {
-        "game": "Pikmin 2",
-        "id": "pikmin2",
-        "world_version": "0.3.1.post2",
-        "tag_version": "0.3.1.post2",
-        "created_at": "2025-07-27T20:04:46Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.3.0/pikmin2.apworld",
-      "size": 659479,
-      "hash_sha256": "d38ffe2410039c2e959a1b69915bcd081a68e36dfb70d80fc0eac300ee3c16b7",
-      "metadata": {
-        "game": "Pikmin 2",
-        "id": "pikmin2",
-        "world_version": "0.3.0.post2",
-        "tag_version": "0.3.0.post2",
-        "created_at": "2025-07-27T20:04:46Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.2.3/pikmin2.apworld",
-      "size": 664276,
-      "hash_sha256": "725c2eec78ae71511452687344e6f47c8b432be8ea0668fd892b1dd9c19ec5ee",
-      "metadata": {
-        "game": "Pikmin 2",
-        "id": "pikmin2",
-        "world_version": "0.2.3.post2",
-        "tag_version": "0.2.3.post2",
-        "created_at": "2025-07-12T06:43:29Z",
-        "maximum_ap_version": "0.6.99"
+        "world_version": "0.7.1",
+        "tag_version": "0.7.1",
+        "created_at": "2026-01-18T00:29:50Z"
       }
     },
     {
