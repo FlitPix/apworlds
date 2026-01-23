@@ -1,6 +1,6 @@
 {
   "total_repositories": 443,
-  "total_packages": 513,
+  "total_packages": 511,
   "total_versions": 5238,
   "manifest_ready": {
     "actraiser": true,
@@ -217,9 +217,6 @@
     "manual_frogpond_linkhs": false,
     "manual_glassanimals_bennydreamly": false,
     "manual_goldeneye007_vincentssin": false,
-    "manual_guitarheroontour_gwaf": false,
-    "manual_guitarherootdecades_gwaf": false,
-    "manual_guitarherootmodernhits_gwaf": false,
     "manual_halflife2_relentingzero": false,
     "manual_halflife2andepisodes_relentingzero": false,
     "manual_halflife2episode1_relentingzero": false,

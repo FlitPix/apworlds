@@ -6523,6 +6523,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-46/borderlands2.apworld",
+      "size": 45971,
+      "hash_sha256": "78d0b28ed124d949f8e1d484581d7c13e13b9d558ac0b0e47032b483d58fbafd",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "46",
+        "tag_version": "46",
+        "created_at": "2026-01-22T15:29:16Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -6611,22 +6627,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-12-18T22:44:03Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-46/borderlands2.apworld",
-      "size": 45971,
-      "hash_sha256": "78d0b28ed124d949f8e1d484581d7c13e13b9d558ac0b0e47032b483d58fbafd",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "46",
-        "tag_version": "46",
-        "created_at": "2026-01-22T15:29:16Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -32456,45 +32456,6 @@
         "world_version": "1.3.2",
         "tag_version": "1.3.2",
         "created_at": "2025-09-19T01:52:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/GirlWithoutAFairy/Guitar-Hero-On-Tour-AP-Manual/releases/download/1.0/manual_guitarheroontour_gwaf.apworld",
-      "size": 54028,
-      "hash_sha256": "b379484200e60afce4f8e5c3e2215d8d1953b251b3d54ee2a356cf32963ba34d",
-      "metadata": {
-        "game": "Manual_GuitarHeroOnTour_GWAF",
-        "id": "manual_guitarheroontour_gwaf",
-        "world_version": "1.0",
-        "tag_version": "1.0",
-        "created_at": "2025-09-06T02:23:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/GirlWithoutAFairy/Guitar-Hero-On-Tour-Decades-AP-Manual/releases/download/1.0/manual_guitarherootdecades_gwaf.apworld",
-      "size": 54416,
-      "hash_sha256": "70592ef0763f00e03e9264503022588808b731047e681712c934075337464a2e",
-      "metadata": {
-        "game": "Manual_GuitarHeroOTDecades_GWAF",
-        "id": "manual_guitarherootdecades_gwaf",
-        "world_version": "1.0",
-        "tag_version": "1.0",
-        "created_at": "2025-09-06T02:25:31Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/GirlWithoutAFairy/Guitar-Hero-On-Tour-Modern-Hits-AP-Manual/releases/download/1.0/manual_guitarherootmodernhits_gwaf.apworld",
-      "size": 54771,
-      "hash_sha256": "bf2e1533c632d5e0683ca311fdfa09d5399dc7e5c8a6e03a2a99c27e92d32c49",
-      "metadata": {
-        "game": "Manual_GuitarHeroOTModernHits_GWAF",
-        "id": "manual_guitarherootmodernhits_gwaf",
-        "world_version": "1.0",
-        "tag_version": "1.0",
-        "created_at": "2025-09-06T02:27:41Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -60008,6 +59969,18 @@
       }
     },
     {
+      "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V0.5.1/spiritvalley.apworld",
+      "size": 50261,
+      "hash_sha256": "1afd4a521462c224d2fa8bd4edc53cf8321791effe74c7106b737b11bc279a50",
+      "metadata": {
+        "game": "Spirit Valley",
+        "id": "spiritvalley",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-01-23T03:34:24Z"
+      }
+    },
+    {
       "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.0.1/spyro.apworld",
       "size": 18232,
       "hash_sha256": "d5d4d5833e6f132c93cb3210de183dd0c21e35b4805856ba8b6c211ce2ce4bbc",
@@ -66766,6 +66739,19 @@
       }
     },
     {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.25/tracker.apworld",
+      "size": 144285,
+      "hash_sha256": "eaa499e66630d0cb8c485e2b470ae10fa9c9a9d40ef1ac83c3a4d5011a1a4492",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.25",
+        "tag_version": "0.2.25",
+        "created_at": "2026-01-23T05:55:43Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/SerialBoxes/ArchipelagoTrackmania/releases/download/v1.0.0/trackmania.apworld",
       "size": 41509,
       "hash_sha256": "1479a27f0e1d6f1467608782c2b66ed055d1c774854af06c9d83813cea76fbd5",
@@ -70560,6 +70546,22 @@
       }
     },
     {
+      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.9-beta/x2wotc.apworld",
+      "size": 58865,
+      "hash_sha256": "d69a9caecc4ac1bb33dd2ce93f9686b9363c0ea0e4b6f9959ec7b64deee391c2",
+      "metadata": {
+        "game": "XCOM 2 War of the Chosen",
+        "id": "x2wotc",
+        "world_version": "0.10.9",
+        "tag_version": "0.10.9",
+        "created_at": "2026-01-23T03:17:31Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MaragonMH/Archipelago/releases/download/0.0.1/xenobladex.apworld",
       "size": 723556,
       "hash_sha256": "47e63d4dc64503e2f5060ee287048ed08b22938a19895b3f2c01cb0304e1634c",
@@ -72133,18 +72135,6 @@
     },
     "manual_goldeneye007_vincentssin": {
       "game": "Manual_Goldeneye007_VincentsSin",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_guitarheroontour_gwaf": {
-      "game": "Manual_GuitarHeroOnTour_GWAF",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_guitarherootdecades_gwaf": {
-      "game": "Manual_GuitarHeroOTDecades_GWAF",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_guitarherootmodernhits_gwaf": {
-      "game": "Manual_GuitarHeroOTModernHits_GWAF",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_halflife2_relentingzero": {
