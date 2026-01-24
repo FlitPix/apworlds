@@ -7962,6 +7962,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.3/casualtiesunknown.apworld",
+      "size": 74363,
+      "hash_sha256": "b82168d33327e52b98c7baeca47e2a21408718b77e406b488194db70d6b31fa8",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-01-24T03:04:13Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -25537,6 +25550,19 @@
       }
     },
     {
+      "world": "https://github.com/Silvris/Archipelago/releases/download/k64_0.3.1/k64.apworld",
+      "size": 50670,
+      "hash_sha256": "da7ab4d6bddea5256f50768a866a0667f8b3c917efbf50d5b9b8a8ddf50f9edd",
+      "metadata": {
+        "game": "Kirby 64 - The Crystal Shards",
+        "id": "k64",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-01-24T07:16:54Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/keymasters-2.0.1/keymasters_keep.apworld",
       "size": 580126,
       "hash_sha256": "b70a96ede9a27f39a21fa66abab5e834ec4a4d655176f97b6faa8b9421023682",
@@ -30527,6 +30553,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.10/lunacid.apworld",
+      "size": 4896684,
+      "hash_sha256": "1928f8d1276c17f6ea0e6505a36a0fcfbfea9a0806123d7fbde7f23a8fc869d7",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.10",
+        "tag_version": "1.0.10",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari/madou.apworld",
       "size": 167900,
       "hash_sha256": "133e880c112ff3e50f37a5920e0db2c1e97e3fe09081a88f4c2f418b79693fb3",
@@ -34682,6 +34720,19 @@
         "world_version": "2.0.6",
         "tag_version": "2.0.6",
         "created_at": "2026-01-15T12:46:29Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.7/manual_residentevil4_vincentssin.apworld",
+      "size": 85902,
+      "hash_sha256": "3c9957f71ad1c986acaa46f53bab71eb13bd0d7608c2c06db2695f6ac357ffb7",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.0.7",
+        "tag_version": "2.0.7",
+        "created_at": "2026-01-23T16:28:12Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -43380,6 +43431,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.0.1/outer_wilds.apworld",
+      "size": 84107,
+      "hash_sha256": "4b21a97bfe4f63a3e7ee7645e18870da838c7421ec7d8929b2671d4fbc93153e",
+      "metadata": {
+        "game": "Outer Wilds",
+        "id": "outer_wilds",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-01-24T00:16:37Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/Daphoa/ArchipelagoP5R/releases/download/v0.1.0/p5r.apworld",
       "size": 10084,
       "hash_sha256": "e648ee6f80ac20f601e391f132c7ecd89a54d4af9a87530b05562693f987efa1",
@@ -51222,6 +51286,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.4.0-rc3/rac3.apworld",
+      "size": 2820426,
+      "hash_sha256": "3cbae35e7449570abaf340d4318d7e593efc41a2188ee6c1da52f8a496468967",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.4.0rc3",
+        "tag_version": "0.4.0rc3",
+        "created_at": "2026-01-24T02:32:07Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.1.0/rain_world.apworld",
       "size": 209071,
       "hash_sha256": "736ac7cc0cf86d56de825740273e59ab2bc0cd5c1833b5b8683fefb91219131c",
@@ -54914,6 +54991,22 @@
         "tag_version": "0.3.0.post2",
         "created_at": "2025-11-23T19:55:13Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.0/shadow_the_hedgehog.apworld",
+      "size": 220294,
+      "hash_sha256": "6fad1c38285c8128a2459c5be955c5921e443a539910c2af5da2ba60c3d20df6",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-01-24T08:29:31Z",
+        "minimum_ap_version": "0.6.2",
         "flags": [
           "prerelease"
         ]
@@ -62640,6 +62733,22 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2026-01-20T23:51:52Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DrNjitram/ArchipelagoSupra/releases/download/V0.1.1/supraland.apworld",
+      "size": 226998,
+      "hash_sha256": "4e7d538b6c907097f779a0034d079ec242e1327079a5b3a085728bb837c92257",
+      "metadata": {
+        "game": "Supraland",
+        "id": "supraland",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-01-24T04:52:09Z",
         "minimum_ap_version": "0.6.6",
         "flags": [
           "prerelease"
