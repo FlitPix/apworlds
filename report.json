@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 514,
-  "total_versions": 5262,
+  "total_packages": 515,
+  "total_versions": 5264,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -121,7 +121,7 @@
     "ffxiv": true,
     "flipwitch": true,
     "fm": true,
-    "forgedcurse": false,
+    "forgedcurse": true,
     "fp2": false,
     "frogmonster": true,
     "garfkart": true,

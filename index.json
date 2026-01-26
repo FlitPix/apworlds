@@ -13694,6 +13694,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.38/dk64.apworld",
+      "size": 36121193,
+      "hash_sha256": "71e4be5ecd9c1b37caabeb20efdcac9bacba6b022b2f0b3d18d94fd91c170a61",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.38",
+        "tag_version": "1.4.38",
+        "created_at": "2026-01-25T20:47:12Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.4/dk64.apworld",
       "size": 26179659,
       "hash_sha256": "481d1fb297d24e056ecbad2c41c1e1d0c5a469bfda16c98519423713deff3f35",
@@ -13772,15 +13785,15 @@
       }
     },
     {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.38/dk64.apworld",
-      "size": 36121193,
-      "hash_sha256": "71e4be5ecd9c1b37caabeb20efdcac9bacba6b022b2f0b3d18d94fd91c170a61",
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.39/dk64.apworld",
+      "size": 36121391,
+      "hash_sha256": "f09e9068eaabd075827c6737b1e7114b36c423ae3a8c0b62f731e000c39c43fc",
       "metadata": {
         "game": "",
         "id": "dk64",
-        "world_version": "1.4.38",
-        "tag_version": "1.4.38",
-        "created_at": "2026-01-25T20:47:12Z",
+        "world_version": "1.4.39",
+        "tag_version": "1.4.39",
+        "created_at": "2026-01-26T06:15:35Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -20112,6 +20125,22 @@
         "tag_version": "1.1.0b0",
         "created_at": "2025-12-30T07:27:07Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/cheesepak/ap-forged-curse/releases/download/v1.1.0-beta.1/forgedcurse.apworld",
+      "size": 8245,
+      "hash_sha256": "d503d487cef70427b0b41024a2062d4293bb6456648e2d7ac3d8b2784192cd0a",
+      "metadata": {
+        "game": "Forged Curse",
+        "id": "forgedcurse",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2025-12-30T07:27:07Z",
+        "minimum_ap_version": "0.6.1",
         "flags": [
           "prerelease"
         ]
