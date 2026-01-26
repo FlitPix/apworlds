@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 512,
-  "total_versions": 5253,
+  "total_packages": 514,
+  "total_versions": 5262,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -387,6 +387,7 @@
     "shadowgate64": false,
     "shahrazad": false,
     "shapez": false,
+    "shapez_2": true,
     "shining_itd": true,
     "shivers": false,
     "signalis": false,
