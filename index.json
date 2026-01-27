@@ -3482,6 +3482,18 @@
       }
     },
     {
+      "world": "https://github.com/ThatOneGuy27/Archipelago-aus/releases/download/v1.3-beta/aus.apworld",
+      "size": 14175,
+      "hash_sha256": "4aa2322911a0f5e078be15d346cbb4379842bccd20d002d9a59c5fe698e3615f",
+      "metadata": {
+        "game": "An Untitled Story",
+        "id": "aus",
+        "world_version": "1.3b0",
+        "tag_version": "1.3b0",
+        "created_at": "2026-01-26T17:10:59Z"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.1.0/autopelago.apworld",
       "size": 17198,
       "hash_sha256": "e968a0f525aa0984a1071ba50a61ae3333aa815179924a5fb88c2574ca6d5b29",
@@ -6630,6 +6642,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-47/borderlands2.apworld",
+      "size": 46306,
+      "hash_sha256": "ff5ef21c48e057f5601d17ad05b8a1815f9f81e57e289f2d2c4a46eeb29abe67",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "47",
+        "tag_version": "47",
+        "created_at": "2026-01-26T18:35:50Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -7971,6 +7999,19 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2026-01-24T03:04:13Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.4/casualtiesunknown.apworld",
+      "size": 74363,
+      "hash_sha256": "b82168d33327e52b98c7baeca47e2a21408718b77e406b488194db70d6b31fa8",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2026-01-26T21:34:32Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -11432,6 +11473,19 @@
       }
     },
     {
+      "world": "https://github.com/Metaruler/ArchipelagoCR/releases/download/V0.2/custom_robo.apworld",
+      "size": 88550,
+      "hash_sha256": "cfbc761650528bd29d5633267cd4a1fcf326693d3dc8d8b652711a5aaa89ea63",
+      "metadata": {
+        "game": "Custom Robo",
+        "id": "custom_robo",
+        "world_version": "0.2",
+        "tag_version": "0.2",
+        "created_at": "2026-01-26T17:46:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.0/cv_dos.apworld",
       "size": 43090,
       "hash_sha256": "05c215033cbf453442507b507a7950c7a77d6c4d4f22c18702480faa5de16293",
@@ -13707,6 +13761,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.39/dk64.apworld",
+      "size": 36121391,
+      "hash_sha256": "f09e9068eaabd075827c6737b1e7114b36c423ae3a8c0b62f731e000c39c43fc",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.39",
+        "tag_version": "1.4.39",
+        "created_at": "2026-01-26T06:15:35Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.4/dk64.apworld",
       "size": 26179659,
       "hash_sha256": "481d1fb297d24e056ecbad2c41c1e1d0c5a469bfda16c98519423713deff3f35",
@@ -13782,19 +13849,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.39/dk64.apworld",
-      "size": 36121391,
-      "hash_sha256": "f09e9068eaabd075827c6737b1e7114b36c423ae3a8c0b62f731e000c39c43fc",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.39",
-        "tag_version": "1.4.39",
-        "created_at": "2026-01-26T06:15:35Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -16744,6 +16798,19 @@
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
         "created_at": "2026-01-05T02:31:40Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.3.5/everhood_2.apworld",
+      "size": 18248,
+      "hash_sha256": "8db6547f432651823e97ac60838fa9e4eb62d37dfcc12b79ee3220a6d2bec3cf",
+      "metadata": {
+        "game": "Everhood 2",
+        "id": "everhood_2",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-01-26T13:06:56Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -55177,6 +55244,22 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.1/shadow_the_hedgehog.apworld",
+      "size": 221322,
+      "hash_sha256": "bf6a0600d5d93816d0eab8c0f72f2eb214da712c4ade4908bddcf12c17a10cf9",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-01-26T19:48:29Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/jjjj12212/Archipelago-Shadowgate64/releases/download/V0.1/shadowgate64.apworld",
       "size": 29907,
       "hash_sha256": "b05154eae3bbc324df9e01a1e1211ff902191ebcb5b3d493a41ae33c187e7546",
@@ -63874,6 +63957,19 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.7/tevi.apworld",
+      "size": 170324,
+      "hash_sha256": "72867dba525d9e18e26ca6a2d3fa3879071b322ad8d3a70082a38f6fb27b03fd",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.7",
+        "tag_version": "1.4.7",
+        "created_at": "2026-01-26T16:59:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Nepley/eosd-apworld/releases/download/v1.0.0/th06.apworld",
       "size": 36935,
       "hash_sha256": "f8933f1f567291737d842690df98952e62bfbfc11ff39af4d0cbdbcf1151bb0b",
@@ -65580,6 +65676,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.0/tloz_oos.apworld",
+      "size": 224556,
+      "hash_sha256": "000ec6095acbab8e9571d8a822b83c03e2d3e42efa41d36ac37331df2ba2651e",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "17.0.0",
+        "tag_version": "17.0.0",
+        "created_at": "2025-12-21T16:11:16Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {

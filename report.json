@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 515,
-  "total_versions": 5264,
+  "total_versions": 5272,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -21,7 +21,7 @@
     "archipollago": false,
     "armoredcore": false,
     "astalon": true,
-    "aus": false,
+    "aus": true,
     "autopelago": true,
     "axiomverge": false,
     "backlog_expedition": false,
