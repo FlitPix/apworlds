@@ -6551,6 +6551,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-47/borderlands2.apworld",
+      "size": 46306,
+      "hash_sha256": "ff5ef21c48e057f5601d17ad05b8a1815f9f81e57e289f2d2c4a46eeb29abe67",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "47",
+        "tag_version": "47",
+        "created_at": "2026-01-26T18:35:50Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -6642,15 +6658,15 @@
       }
     },
     {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-47/borderlands2.apworld",
-      "size": 46306,
-      "hash_sha256": "ff5ef21c48e057f5601d17ad05b8a1815f9f81e57e289f2d2c4a46eeb29abe67",
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-48/borderlands2.apworld",
+      "size": 46308,
+      "hash_sha256": "fbcc322709032afa3c066e0615efb0257e85017c3392ce3cdb347d309aba6757",
       "metadata": {
         "game": "Borderlands 2",
         "id": "borderlands2",
-        "world_version": "47",
-        "tag_version": "47",
-        "created_at": "2026-01-26T18:35:50Z",
+        "world_version": "48",
+        "tag_version": "48",
+        "created_at": "2026-01-27T04:13:11Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -17824,6 +17840,19 @@
         "world_version": "0.6.1",
         "tag_version": "0.6.1",
         "created_at": "2026-01-25T22:08:34Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Bartz24/Archipelago/releases/download/0.6.2/ff12_open_world.apworld",
+      "size": 83221,
+      "hash_sha256": "faa48d5832261a72fb9031bddf305c8fe834550afb24902b3d47c2089af66727",
+      "metadata": {
+        "game": "Final Fantasy 12 Open World",
+        "id": "ff12_open_world",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2024-04-20T18:18:06Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -30708,6 +30737,18 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.11/lunacid.apworld",
+      "size": 4896551,
+      "hash_sha256": "0d5e351e3b2aa550acf00c607b4f7dafdcfb5c301bdcca33b303facf0c340137",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.11",
+        "tag_version": "1.0.11",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -55212,6 +55253,22 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.1/shadow_the_hedgehog.apworld",
+      "size": 221322,
+      "hash_sha256": "bf6a0600d5d93816d0eab8c0f72f2eb214da712c4ade4908bddcf12c17a10cf9",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-01-26T19:48:29Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/choatix/Archipelago/releases/download/shadow0.3.0/shadow_the_hedgehog.apworld",
       "size": 750070,
       "hash_sha256": "83d34e78e002b50bef8d897ac60d892f91f399f1be31bbca15a3b268e6196760",
@@ -55238,22 +55295,6 @@
         "tag_version": "0.3.0.post2",
         "created_at": "2025-11-23T19:55:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.1/shadow_the_hedgehog.apworld",
-      "size": 221322,
-      "hash_sha256": "bf6a0600d5d93816d0eab8c0f72f2eb214da712c4ade4908bddcf12c17a10cf9",
-      "metadata": {
-        "game": "Shadow The Hedgehog",
-        "id": "shadow_the_hedgehog",
-        "world_version": "0.3.3",
-        "tag_version": "0.3.3",
-        "created_at": "2026-01-26T19:48:29Z",
-        "minimum_ap_version": "0.6.2",
         "flags": [
           "prerelease"
         ]
@@ -60384,6 +60425,18 @@
       }
     },
     {
+      "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V1.0.0/spiritvalley.apworld",
+      "size": 50699,
+      "hash_sha256": "640d008fe762a09193ef3c396503b42c0416ed9f2dec94cd334cd052bd97e042",
+      "metadata": {
+        "game": "Spirit Valley",
+        "id": "spiritvalley",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-01-27T04:53:25Z"
+      }
+    },
+    {
       "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.0.1/spyro.apworld",
       "size": 18232,
       "hash_sha256": "d5d4d5833e6f132c93cb3210de183dd0c21e35b4805856ba8b6c211ce2ce4bbc",
@@ -65455,6 +65508,19 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.0/tloz_oos.apworld",
+      "size": 224556,
+      "hash_sha256": "000ec6095acbab8e9571d8a822b83c03e2d3e42efa41d36ac37331df2ba2651e",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "17.0.0",
+        "tag_version": "17.0.0",
+        "created_at": "2025-12-21T16:11:16Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -65676,19 +65742,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.0/tloz_oos.apworld",
-      "size": 224556,
-      "hash_sha256": "000ec6095acbab8e9571d8a822b83c03e2d3e42efa41d36ac37331df2ba2651e",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "17.0.0",
-        "tag_version": "17.0.0",
-        "created_at": "2025-12-21T16:11:16Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -66083,6 +66136,19 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-21T10:00:09Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/v0.8.1-alpha/tloz_ph.apworld",
+      "size": 2571134,
+      "hash_sha256": "b0720feea4a3739a731e8719da668f4a70036df81674633996df221e00e4775b",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
       }
     },
