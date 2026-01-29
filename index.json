@@ -13868,6 +13868,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.40/dk64.apworld",
+      "size": 35151422,
+      "hash_sha256": "d37260ef5f8c6fafc6d6256d803cf4c7ea59e347caa50b417a0cffc8a3acbe5b",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.40",
+        "tag_version": "1.4.40",
+        "created_at": "2026-01-29T00:47:54Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.0.0/dkc.apworld",
       "size": 56776,
       "hash_sha256": "15d2d8a12aad3d4e068bd805e8f0da29b132cbaca62ae022c3c0f4f80cc439e4",
@@ -35284,6 +35297,19 @@
       }
     },
     {
+      "world": "https://github.com/111222111/Tale-of-Two-Wastelands/releases/download/Beta_2.5.0/manual_taleoftwowastelands_fallenkingdoms.apworld",
+      "size": 69205,
+      "hash_sha256": "53059c9e63c3ea89e37abc4e98855905d5d2145d47f74f270d8bf2f03aea9c29",
+      "metadata": {
+        "game": "Manual_TaleofTwoWastelands_FallenKingdoms",
+        "id": "manual_taleoftwowastelands_fallenkingdoms",
+        "world_version": "2.5.0",
+        "tag_version": "2.5.0",
+        "created_at": "2025-11-20T01:00:42Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-1.0.0/manual_taylorswiftdiscography_bennydreamly.apworld",
       "size": 62694,
       "hash_sha256": "767b9735f3f5bd18eaf989d812c0590b97de103f1ff4a4ae139769a6ed8a22c8",
@@ -50997,6 +51023,19 @@
       }
     },
     {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.3/rabi_ribi.apworld",
+      "size": 212898,
+      "hash_sha256": "33d782940f9159ff2b729587bad334d03b28202466ea70388b1f9859391b4c3b",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.4.3",
+        "tag_version": "1.4.3",
+        "created_at": "2026-01-28T23:53:06Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Panda291/Archipelago/releases/download/v0.1.0/rac1.apworld",
       "size": 31448,
       "hash_sha256": "ea1f76fe913e76ab219c8d8853ef4dbd73b331ed283480828f056aa1823e6c71",
@@ -51523,6 +51562,19 @@
         "tag_version": "0.4.0rc3",
         "created_at": "2026-01-24T02:32:07Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.4.0/rac3.apworld",
+      "size": 2824551,
+      "hash_sha256": "e812f0ded9dbf9f8c35fcf664d41c2cba69ff20beddd699d757f74d99f0477c5",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-01-28T14:52:40Z",
+        "minimum_ap_version": "0.5.0"
       }
     },
     {
@@ -55812,6 +55864,32 @@
         "id": "shapez_2",
         "world_version": "0.99.1",
         "tag_version": "0.99.1",
+        "created_at": "2025-12-13T23:24:55Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/2hapezipelago/releases/download/0.99.3/shapez_2.apworld",
+      "size": 85273,
+      "hash_sha256": "b64183b56ee9f6ae6244465ac7a38237f60272d72ee2d8c5075d0a32a7bcd968",
+      "metadata": {
+        "game": "shapez 2",
+        "id": "shapez_2",
+        "world_version": "0.99.3",
+        "tag_version": "0.99.3",
+        "created_at": "2025-12-13T23:24:55Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/2hapezipelago/releases/download/0.99.2/shapez_2.apworld",
+      "size": 84533,
+      "hash_sha256": "59e2bb232c0ef017ec8905561f8c1883ec1885b4574cdb2925bf197f3a1abcb2",
+      "metadata": {
+        "game": "shapez 2",
+        "id": "shapez_2",
+        "world_version": "0.99.2",
+        "tag_version": "0.99.2",
         "created_at": "2025-12-13T23:24:55Z",
         "minimum_ap_version": "0.6.5"
       }
@@ -67070,6 +67148,19 @@
       }
     },
     {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.26/tracker.apworld",
+      "size": 82350,
+      "hash_sha256": "ce5674e899d0303f156d43f2c8ebe026498031bf7cd3382524c1d02ee359d463",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.26",
+        "tag_version": "0.2.26",
+        "created_at": "2026-01-28T05:41:27Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.2MD/tracker.apworld",
       "size": 41757,
       "hash_sha256": "18d7bf75e5bc6073730be31d6d0f5397449d7dab0336575e680a79fcfe3ebfdc",
@@ -67312,19 +67403,6 @@
         "created_at": "2025-06-20T22:35:33Z",
         "minimum_ap_version": "0.6.2",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.26/tracker.apworld",
-      "size": 82350,
-      "hash_sha256": "ce5674e899d0303f156d43f2c8ebe026498031bf7cd3382524c1d02ee359d463",
-      "metadata": {
-        "game": "Universal Tracker",
-        "id": "tracker",
-        "world_version": "0.2.26",
-        "tag_version": "0.2.26",
-        "created_at": "2026-01-28T05:41:27Z",
-        "minimum_ap_version": "0.6.2"
       }
     },
     {
