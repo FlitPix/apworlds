@@ -8424,6 +8424,19 @@
       }
     },
     {
+      "world": "https://github.com/PoryGoneDev/Celeste64/releases/download/v1.4.0/celeste64.apworld",
+      "size": 16766,
+      "hash_sha256": "96692c0e7d8408f5b6162a509c4410c48c586bed6bdd40cc0d4be7b50c6e1072",
+      "metadata": {
+        "game": "Celeste 64",
+        "id": "celeste64",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-01-29T23:46:51Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.0/celeste_open_world.apworld",
       "size": 178819,
       "hash_sha256": "26bf721a20d5eb01b7f1a987fdd0d97981f2d490b5a7647ec113db6a82bb8d42",
@@ -12581,6 +12594,19 @@
         "world_version": "0.13",
         "tag_version": "0.13",
         "created_at": "2025-10-31T00:58:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16/deep_rock_galactic.apworld",
+      "size": 27364,
+      "hash_sha256": "edab81dfc1a950418fafa5da931f459c8575f1b45194dc408f5d867f44190db6",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.16",
+        "tag_version": "0.16",
+        "created_at": "2026-01-29T13:50:02Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -21562,6 +21588,22 @@
       }
     },
     {
+      "world": "https://github.com/CoreZer0/TheGuardianLegend-AP/releases/download/v0.7.0/guardianlegend.apworld",
+      "size": 39735,
+      "hash_sha256": "9d00cc633de400916bdd4ff3606412cae287a31254862c8be89d71d50c8a4612",
+      "metadata": {
+        "game": "The Guardian Legend",
+        "id": "guardianlegend",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-01-29T23:04:21Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.1.0/gzdoom.apworld",
       "size": 446829,
       "hash_sha256": "b771c95215b01168007a0a0affe753c79e1c9c8db0497a30957b15abde38d03c",
@@ -21855,6 +21897,18 @@
         "world_version": "0.7.0.post2",
         "tag_version": "0.7.0.post2",
         "created_at": "2025-12-05T01:19:51Z"
+      }
+    },
+    {
+      "world": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.7.1/gzdoom.apworld",
+      "size": 65202,
+      "hash_sha256": "8bdb94e373c6251c6e6bc7a2db86ca71a682e33cb5c395cc410a3f1658a5c049",
+      "metadata": {
+        "game": "gzDoom",
+        "id": "gzdoom",
+        "world_version": "0.7.1",
+        "tag_version": "0.7.1",
+        "created_at": "2026-01-29T22:26:06Z"
       }
     },
     {
@@ -38260,6 +38314,22 @@
         "world_version": "0.4.0",
         "tag_version": "0.4.0",
         "created_at": "2025-02-27T00:53:26Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JohnMahglass/Archipelago-Mindustry/releases/download/v0.4.2/mindustry.apworld",
+      "size": 135494,
+      "hash_sha256": "76c59108c738f2d605be4c4d9658942760488d81a8294f3386a1404225fd1df7",
+      "metadata": {
+        "game": "Mindustry",
+        "id": "mindustry",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-01-29T00:28:15Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -61015,6 +61085,35 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/1.0.1/spyro2.apworld",
+      "size": 34826,
+      "hash_sha256": "9bd3a533c2eac535bd028a4c5d1ec2ff1ea5f9e4287a68b9d421ea3db7865d1e",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-01-29T21:18:05Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/linux_test/spyro2.apworld",
+      "size": 34826,
+      "hash_sha256": "9bd3a533c2eac535bd028a4c5d1ec2ff1ea5f9e4287a68b9d421ea3db7865d1e",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-01-29T21:17:29Z",
+        "minimum_ap_version": "0.6.1",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/S3AP/releases/download/0.0.1/spyro3.apworld",
       "size": 30477,
       "hash_sha256": "6aa47ee49c270d6587fec285ca70062a530aa45b351a7aa79e9b0d1a60f1d8b8",
@@ -65246,6 +65345,19 @@
         "world_version": "0.4.0",
         "tag_version": "0.4.0",
         "created_at": "2026-01-27T13:06:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.0a/tje.apworld",
+      "size": 61228,
+      "hash_sha256": "a4d112c84dda451fd7c14061777ac299ccb0daac59b7b1355ea58214745fb640",
+      "metadata": {
+        "game": "ToeJam and Earl",
+        "id": "tje",
+        "world_version": "0.4.0a0",
+        "tag_version": "0.4.0a0",
+        "created_at": "2026-01-28T01:59:55Z",
         "maximum_ap_version": "0.6.99"
       }
     },

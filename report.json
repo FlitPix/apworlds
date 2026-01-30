@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 516,
-  "total_versions": 5289,
+  "total_packages": 515,
+  "total_versions": 5297,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -46,7 +46,7 @@
     "cavern_of_dreams": false,
     "cavesofqud": false,
     "celeste": false,
-    "celeste64": false,
+    "celeste64": true,
     "celeste_open_world": true,
     "chainedechoes": false,
     "checksmate": false,
@@ -132,7 +132,7 @@
     "grim_dawn": true,
     "grinch": true,
     "gstla": true,
-    "guardianlegend": false,
+    "guardianlegend": true,
     "gzdoom": true,
     "hacknet": false,
     "hades": false,
