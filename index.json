@@ -3958,6 +3958,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.9/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-01-31T20:15:16Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/mail-liam/Archipelago/releases/download/beta/axiomverge.apworld",
       "size": 70109,
       "hash_sha256": "3bff3001756b9a21599834a0243dabdda83c1a14a0cc587474b3e5579fd26b3b",
@@ -6599,6 +6612,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-50/borderlands2.apworld",
+      "size": 48826,
+      "hash_sha256": "4a4b2a6cc28940b816300402e69eb69c96389f91009385bb67c9472682a6f77e",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "50",
+        "tag_version": "50",
+        "created_at": "2026-01-31T04:53:10Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -6687,22 +6716,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-12-18T22:44:03Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-50/borderlands2.apworld",
-      "size": 48826,
-      "hash_sha256": "4a4b2a6cc28940b816300402e69eb69c96389f91009385bb67c9472682a6f77e",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "50",
-        "tag_version": "50",
-        "created_at": "2026-01-31T04:53:10Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -13962,6 +13975,19 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.41/dk64.apworld",
+      "size": 35947649,
+      "hash_sha256": "012810d3cb4f59e2536ad298d3fa49334c68008674bf59f5442d854653273c91",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.41",
+        "tag_version": "1.4.41",
+        "created_at": "2026-01-31T21:43:32Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -30795,6 +30821,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.12/lunacid.apworld",
+      "size": 4896551,
+      "hash_sha256": "0d5e351e3b2aa550acf00c607b4f7dafdcfb5c301bdcca33b303facf0c340137",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.12",
+        "tag_version": "1.0.12",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
       "size": 4894976,
       "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
@@ -30903,14 +30941,14 @@
       }
     },
     {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.12/lunacid.apworld",
-      "size": 4896551,
-      "hash_sha256": "0d5e351e3b2aa550acf00c607b4f7dafdcfb5c301bdcca33b303facf0c340137",
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.13/lunacid.apworld",
+      "size": 4896499,
+      "hash_sha256": "ec9004274c44066dcdb0582f56ca66c79234f9383ef2153b32aee960f434d857",
       "metadata": {
         "game": "Lunacid",
         "id": "lunacid",
-        "world_version": "1.0.12",
-        "tag_version": "1.0.12",
+        "world_version": "1.0.13",
+        "tag_version": "1.0.13",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -31540,6 +31578,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.0/manual_blocktales_wolfboi008.apworld",
+      "size": 75606,
+      "hash_sha256": "f2cc2188ec018e3761afcf6a75ed8a6184b259a41e04aa5943ba87aec8f6e07f",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "4.2.0",
+        "tag_version": "4.2.0",
+        "created_at": "2026-01-31T19:46:43Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -44033,6 +44084,18 @@
       }
     },
     {
+      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.6.1/paint.apworld",
+      "size": 8607,
+      "hash_sha256": "eb59950b0152e97aa40d7c2909df137d51e83aad9799a1412208cd5ec17ae8c3",
+      "metadata": {
+        "game": "Paint",
+        "id": "paint",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-01-31T14:25:19Z"
+      }
+    },
+    {
       "world": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.1.5/papermario.apworld",
       "size": 1450994,
       "hash_sha256": "54dd4783c2d383cebc8b03fe1a73352857205407842e71fe1ab51a491849b13c",
@@ -48475,6 +48538,19 @@
       }
     },
     {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.3.9/pokemon_crystal.apworld",
+      "size": 617779,
+      "hash_sha256": "c876de25c157cdf856fcf31efbc4e3880522e7e2e9be6029beec0e7be037abca",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.3.9",
+        "tag_version": "5.3.9",
+        "created_at": "2026-01-31T21:58:48Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/vyneras/Archipelago/releases/download/0.1.0-alpha/pokemon_frlg.apworld",
       "size": 648964,
       "hash_sha256": null,
@@ -51217,6 +51293,19 @@
       }
     },
     {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.4/rabi_ribi.apworld",
+      "size": 213115,
+      "hash_sha256": "ff4b64ae70b70e2546972a2267c67ba68709725b62849b61e8f8987108d2b272",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.4.4",
+        "tag_version": "1.4.4",
+        "created_at": "2026-01-30T23:50:33Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Panda291/Archipelago/releases/download/v0.1.0/rac1.apworld",
       "size": 31448,
       "hash_sha256": "ea1f76fe913e76ab219c8d8853ef4dbd73b331ed283480828f056aa1823e6c71",
@@ -52198,6 +52287,32 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.8.1/refunct.apworld",
+      "size": 14446,
+      "hash_sha256": "52290c625eea508877cc0277042532256ec784c76ed0c8822d7ebb54f4ca7a32",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-01-31T23:20:19Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.8.0/refunct.apworld",
+      "size": 14405,
+      "hash_sha256": "eaf8306db4e5055bc06dd6814933cf1b1f4d23130eea124e7bb18ab8eee59fd7",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-01-31T22:06:07Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -52493,6 +52608,21 @@
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
         "created_at": "2026-01-30T03:22:22Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.3.2/residentevil2remake.apworld",
+      "size": 98183,
+      "hash_sha256": "6d62c8471aa7b7e1ab413b572ff3584271f97b0b6295e93fde6cfc4bd72a9ad9",
+      "metadata": {
+        "game": "Resident Evil 2 Remake",
+        "id": "residentevil2remake",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-01-31T18:11:52Z",
         "flags": [
           "after_dark"
         ]
@@ -64763,6 +64893,22 @@
       }
     },
     {
+      "world": "https://github.com/Nepley/pcb-apworld/releases/download/v1.2.0/th07.apworld",
+      "size": 38634,
+      "hash_sha256": "d4adbcdedf209d3e6e7f20d8e8212fb336e82afa905cbcb9f9415b20ffe48e4d",
+      "metadata": {
+        "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+        "id": "th07",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-01-31T16:03:56Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nepley/in-apworld/releases/download/v0.1.0/th08.apworld",
       "size": 29054,
       "hash_sha256": "a74e37b93a11d881c188a45626e886014a03fd33b0f76e134f9fb8ea7f6bb53e",
@@ -66143,6 +66289,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
+      "size": 2572009,
+      "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.2",
+        "tag_version": "0.8.2",
+        "created_at": "2026-01-31T10:54:58Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/v0.1.0-demo/tloz_ph.apworld",
       "size": 43849,
       "hash_sha256": "d7f3087cb9940d95a7e731153a7b78f6f79d665545b842891643a8d7cf3b47e2",
@@ -66560,19 +66719,6 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
-        "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
-      "size": 2572009,
-      "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.8.2",
-        "tag_version": "0.8.2",
-        "created_at": "2026-01-31T10:54:58Z",
         "minimum_ap_version": "0.6.0"
       }
     },

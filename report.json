@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 514,
-  "total_versions": 5314,
+  "total_versions": 5325,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -431,7 +431,7 @@
     "tetrisattack": true,
     "tevi": false,
     "th06": false,
-    "th07": false,
+    "th07": true,
     "th08": true,
     "the_planet_crafter": false,
     "tits": false,
