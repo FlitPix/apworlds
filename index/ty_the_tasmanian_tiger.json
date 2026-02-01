@@ -1,7 +1,11 @@
 {
   "description": "Ty the Tasmanian Tiger is a 3D platformer collectathon created by Australian developers Krome Studios.\nPlay as Ty and travel the Australian outback to snowy mountains to defeat Boss Cass and rescue your family from The Dreaming.",
   "game": "Ty the Tasmanian Tiger",
-  "github": "https://github.com/xMcacutt/Archipelago-TyTheTasmanianTiger/",
+  "github": [
+    "https://github.com/xMcacutt/Archipelago-TyTheTasmanianTiger/",
+    "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger",
+    "https://github.com/xMcacutt/Archipelago-TyTheTasmanianTiger"
+  ],
   "license": null,
   "versions": {
     "1.0.0": {

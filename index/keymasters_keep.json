@@ -6,10 +6,23 @@
   "game": "Keymaster's Keep",
   "github": [
     "https://github.com/SerpentAI/Archipelago",
-    "https://github.com/silasary/Archipelago"
+    "https://github.com/silasary/Archipelago",
+    "https://github.com/ashiryn/Ashipelago"
   ],
   "license": null,
   "versions": {
+    "Worlds-2026-01-17": {
+      "created_at": "2026-01-17T23:09:12Z",
+      "download_url": "https://github.com/ashiryn/Ashipelago/releases/download/Worlds-2026-01-17/keymasters_keep.apworld",
+      "has_manifest": true,
+      "hash_sha256": "4fc16775b97d25bc1d8694ed1efdcdf1d11f888a9301f9543b12a4d9ad3d38b9",
+      "size": 579063,
+      "source_url": "https://api.github.com/repos/ashiryn/Ashipelago",
+      "tag": "Worlds-2026-01-17",
+      "title": "Custom Worlds 2026-01-17",
+      "version_simple": "2026",
+      "world_version": "2026.post1"
+    },
     "keymasters-2.0.1": {
       "created_at": "2025-10-29T00:51:15Z",
       "download_url": "https://github.com/silasary/Archipelago/releases/download/keymasters-2.0.1/keymasters_keep.apworld",
@@ -20,6 +33,19 @@
       "source_url": "https://api.github.com/repos/silasary/Archipelago",
       "tag": "keymasters-2.0.1",
       "title": "Keymaster's Keep 2.0.1",
+      "version_simple": "2.0.1",
+      "world_version": "2.0.1"
+    },
+    "keymasters_keep-2.0.1": {
+      "created_at": "2025-12-05T00:09:56Z",
+      "download_url": "https://github.com/jack5github/Archipelago/releases/download/keymasters_keep-2.0.1/keymasters_keep.apworld",
+      "has_manifest": true,
+      "hash_sha256": "82871ab11990651f49f8470f26617812492f5dff0f6a5f23445dc9fa1b4e50f4",
+      "minimum_ap_version": "0.6.1",
+      "size": 580959,
+      "source_url": "https://api.github.com/repos/jack5github/Archipelago",
+      "tag": "keymasters_keep-2.0.1",
+      "title": "keymasters_keep v2.0.1",
       "version_simple": "2.0.1",
       "world_version": "2.0.1"
     },
