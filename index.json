@@ -3731,6 +3731,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.9/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-01-31T20:15:16Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.2.0/autopelago.apworld",
       "size": 17653,
       "hash_sha256": "6da348c9a260a47f110fe8ab15da60369dc2825ce66c79ad71c958649397de3d",
@@ -3955,19 +3968,6 @@
         "tag_version": "0.9.0",
         "created_at": "2025-02-09T20:18:09Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.9/autopelago.apworld",
-      "size": 25294,
-      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
-      "metadata": {
-        "game": "Autopelago",
-        "id": "autopelago",
-        "world_version": "0.11.0",
-        "tag_version": "0.11.0",
-        "created_at": "2026-01-31T20:15:16Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -10584,6 +10584,33 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.0-pre.3/crosscode.apworld",
+      "size": 122336,
+      "hash_sha256": "13cc39c73a8c08b72be9cda9af249c76b9774df963d9cfd06b477ed82e2bf611",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-02-01T06:54:29Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.7.6/crosscode.apworld",
+      "size": 120666,
+      "hash_sha256": "3199140962206fd864eafb2285aa7c608b721cb558ef6f2a6839b83c9d8237de",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.7.6",
+        "tag_version": "0.7.6",
+        "created_at": "2026-02-01T07:05:10Z"
+      }
+    },
+    {
       "world": "https://github.com/densebamboo/CrosswordAP/releases/download/v1.0.0-release/crossword_ap.apworld",
       "size": 33338,
       "hash_sha256": "aa76a3c3e9f505d06bd2d7cd4d76bd1e540a67f2fccd9d6cffc6cf7d80951812",
@@ -13913,6 +13940,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.41/dk64.apworld",
+      "size": 35947649,
+      "hash_sha256": "012810d3cb4f59e2536ad298d3fa49334c68008674bf59f5442d854653273c91",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.41",
+        "tag_version": "1.4.41",
+        "created_at": "2026-01-31T21:43:32Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.5/dk64.apworld",
       "size": 26180522,
       "hash_sha256": "2d85a7467a5932a3c8f702c6b49e9c9ac736b98126b670a4b38a628f0c7155dc",
@@ -13975,19 +14015,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.41/dk64.apworld",
-      "size": 35947649,
-      "hash_sha256": "012810d3cb4f59e2536ad298d3fa49334c68008674bf59f5442d854653273c91",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.41",
-        "tag_version": "1.4.41",
-        "created_at": "2026-01-31T21:43:32Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -30833,6 +30860,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.13/lunacid.apworld",
+      "size": 4896499,
+      "hash_sha256": "ec9004274c44066dcdb0582f56ca66c79234f9383ef2153b32aee960f434d857",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.13",
+        "tag_version": "1.0.13",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
       "size": 4894976,
       "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
@@ -30937,18 +30976,6 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
-        "created_at": "2025-07-02T22:10:18Z"
-      }
-    },
-    {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.13/lunacid.apworld",
-      "size": 4896499,
-      "hash_sha256": "ec9004274c44066dcdb0582f56ca66c79234f9383ef2153b32aee960f434d857",
-      "metadata": {
-        "game": "Lunacid",
-        "id": "lunacid",
-        "world_version": "1.0.13",
-        "tag_version": "1.0.13",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -31453,6 +31480,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.0/manual_blocktales_wolfboi008.apworld",
+      "size": 75606,
+      "hash_sha256": "f2cc2188ec018e3761afcf6a75ed8a6184b259a41e04aa5943ba87aec8f6e07f",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "4.2.0",
+        "tag_version": "4.2.0",
+        "created_at": "2026-01-31T19:46:43Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-4.0.0-1/manual_blocktales_wolfboi008.apworld",
       "size": 52109,
       "hash_sha256": "babcb30031c4c1b3aa37bddeaeda7010a52cc433e81d41265c2416fca1936b2a",
@@ -31578,19 +31618,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.0/manual_blocktales_wolfboi008.apworld",
-      "size": 75606,
-      "hash_sha256": "f2cc2188ec018e3761afcf6a75ed8a6184b259a41e04aa5943ba87aec8f6e07f",
-      "metadata": {
-        "game": "Manual_BlockTales_WolfBoi008",
-        "id": "manual_blocktales_wolfboi008",
-        "world_version": "4.2.0",
-        "tag_version": "4.2.0",
-        "created_at": "2026-01-31T19:46:43Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -50988,6 +51015,19 @@
       }
     },
     {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.4/rabi_ribi.apworld",
+      "size": 213115,
+      "hash_sha256": "ff4b64ae70b70e2546972a2267c67ba68709725b62849b61e8f8987108d2b272",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.4.4",
+        "tag_version": "1.4.4",
+        "created_at": "2026-01-30T23:50:33Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/alpha/rabi_ribi.apworld",
       "size": 692774,
       "hash_sha256": "95b9d952879665a5290657e351fe10ed249412872e874eac2f12935ba833722e",
@@ -51294,14 +51334,14 @@
     },
     {
       "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.4/rabi_ribi.apworld",
-      "size": 213115,
-      "hash_sha256": "ff4b64ae70b70e2546972a2267c67ba68709725b62849b61e8f8987108d2b272",
+      "size": 213113,
+      "hash_sha256": "765ae22d77eaf786b4809ed7cbec134ad2a6970a2276585bad2edab66149d7f9",
       "metadata": {
         "game": "Rabi-Ribi",
         "id": "rabi_ribi",
         "world_version": "1.4.4",
         "tag_version": "1.4.4",
-        "created_at": "2026-01-30T23:50:33Z",
+        "created_at": "2026-02-01T05:30:58Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -52271,6 +52311,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.8.0/refunct.apworld",
+      "size": 14405,
+      "hash_sha256": "eaf8306db4e5055bc06dd6814933cf1b1f4d23130eea124e7bb18ab8eee59fd7",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-01-31T22:06:07Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.8.0-TEST/refunct.apworld",
       "size": 14199,
       "hash_sha256": "37a900550c2b1be88b2c3264ef9e1fd39d88a9414e835a3dfda1bf433b05ad6c",
@@ -52296,19 +52349,6 @@
         "world_version": "0.8.1",
         "tag_version": "0.8.1",
         "created_at": "2026-01-31T23:20:19Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.8.0/refunct.apworld",
-      "size": 14405,
-      "hash_sha256": "eaf8306db4e5055bc06dd6814933cf1b1f4d23130eea124e7bb18ab8eee59fd7",
-      "metadata": {
-        "game": "Refunct",
-        "id": "refunct",
-        "world_version": "0.8.0",
-        "tag_version": "0.8.0",
-        "created_at": "2026-01-31T22:06:07Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -52623,6 +52663,21 @@
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
         "created_at": "2026-01-31T18:11:52Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.3.3/residentevil2remake.apworld",
+      "size": 96317,
+      "hash_sha256": "5a968ab9679c8aed920631559f6b8cde51d78e3c4626a74b779c4767eb21d19a",
+      "metadata": {
+        "game": "Resident Evil 2 Remake",
+        "id": "residentevil2remake",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-02-01T06:34:42Z",
         "flags": [
           "after_dark"
         ]
