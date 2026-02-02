@@ -1,0 +1,35 @@
+{
+  "description": "Pinball FX3 delivers fast, physics-driven pinball action with meticulously crafted tables inspired by iconic\nfranchises and original designs. With competitive modes, online tournaments, and razor-sharp controls, it turns\nclassic pinball into a modern skill-based challenge.",
+  "flags": [],
+  "game": "Pinball FX3",
+  "github": "https://github.com/SerpentAI/Archipelago",
+  "license": null,
+  "versions": {
+    "pinballfx3-v1.0.0": {
+      "created_at": "2026-01-26T03:27:44Z",
+      "download_url": "https://github.com/SerpentAI/Archipelago/releases/download/pinballfx3-v1.0.0/pinball_fx3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "2f0f1e8f0cdbd19ea605eb903ac4931e15f4309a2b694342b1e2839511661fa7",
+      "minimum_ap_version": "0.6.5",
+      "size": 1986967,
+      "source_url": "https://api.github.com/repos/SerpentAI/Archipelago",
+      "tag": "pinballfx3-v1.0.0",
+      "title": "Pinball FX3 - 1.0.0",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
+    },
+    "pinballfx3-v1.1.0": {
+      "created_at": "2026-01-28T03:19:20Z",
+      "download_url": "https://github.com/SerpentAI/Archipelago/releases/download/pinballfx3-v1.1.0/pinball_fx3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "5d918c0bf58ecdc231087996b9bfd70c4f7c8f06b4feb75c41445c425c7a9a66",
+      "minimum_ap_version": "0.6.5",
+      "size": 1989293,
+      "source_url": "https://api.github.com/repos/SerpentAI/Archipelago",
+      "tag": "pinballfx3-v1.1.0",
+      "title": "Pinball FX3 - 1.1.0: The \"F is for Fun, not Frustration\" Update",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
+    }
+  }
+}
