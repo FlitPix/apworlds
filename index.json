@@ -8077,6 +8077,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre1/casualtiesunknown.apworld",
+      "size": 74768,
+      "hash_sha256": "bcabab53a4b20aed0d99a03d3a9c8e8360fe0ee4f4110fb0d790bd8cb56a6398",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0rc1",
+        "tag_version": "0.6.0rc1",
+        "created_at": "2026-02-02T06:19:49Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -18404,6 +18420,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.14/ff1pr.apworld",
+      "size": 28092,
+      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.5.12",
+        "tag_version": "0.5.12",
+        "created_at": "2026-02-01T16:27:08Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.2/ff1pr.apworld",
       "size": 90130,
       "hash_sha256": "6225e452222deddbb2a3fd390794563ab691f29b4ffbecb9e68b18785af216bc",
@@ -18504,19 +18533,6 @@
         "world_version": "0.5.8",
         "tag_version": "0.5.8",
         "created_at": "2025-10-04T17:02:17Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.14/ff1pr.apworld",
-      "size": 28092,
-      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
-      "metadata": {
-        "game": "FF1 Pixel Remaster",
-        "id": "ff1pr",
-        "world_version": "0.5.12",
-        "tag_version": "0.5.12",
-        "created_at": "2026-02-01T16:27:08Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -65759,6 +65775,32 @@
       }
     },
     {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.1/tje.apworld",
+      "size": 64076,
+      "hash_sha256": "4275ee38ef6045eabf8aae8182a0f88a0c09e567e8be4794fdc5b08616941a80",
+      "metadata": {
+        "game": "ToeJam and Earl",
+        "id": "tje",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-02-02T12:00:59Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.0b/tje.apworld",
+      "size": 61229,
+      "hash_sha256": "05507710eddea6d117f3cbbf767e1574cb74418051726018ff2d63f2555295eb",
+      "metadata": {
+        "game": "ToeJam and Earl",
+        "id": "tje",
+        "world_version": "0.4.0b0",
+        "tag_version": "0.4.0b0",
+        "created_at": "2026-01-28T01:59:55Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/SenPierre/ArchipelagoOoA/releases/download/ooa/tloz_ooa.apworld",
       "size": 252185,
       "hash_sha256": null,
@@ -66162,6 +66204,32 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.0-2/tloz_oos.apworld",
+      "size": 224556,
+      "hash_sha256": "000ec6095acbab8e9571d8a822b83c03e2d3e42efa41d36ac37331df2ba2651e",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "17.0.0",
+        "tag_version": "17.0.0",
+        "created_at": "2026-02-01T20:36:35Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.1/tloz_oos.apworld",
+      "size": 224579,
+      "hash_sha256": "2d3756211016c20c8ba85e1e5da6e54a167cddb40fb99dd9771430030e35e959",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "17.0.1",
+        "tag_version": "17.0.1",
+        "created_at": "2026-02-01T20:35:37Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -66383,32 +66451,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.1/tloz_oos.apworld",
-      "size": 224579,
-      "hash_sha256": "2d3756211016c20c8ba85e1e5da6e54a167cddb40fb99dd9771430030e35e959",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "17.0.1",
-        "tag_version": "17.0.1",
-        "created_at": "2026-02-01T20:35:37Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.0-2/tloz_oos.apworld",
-      "size": 224556,
-      "hash_sha256": "000ec6095acbab8e9571d8a822b83c03e2d3e42efa41d36ac37331df2ba2651e",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "17.0.0",
-        "tag_version": "17.0.0",
-        "created_at": "2026-02-01T20:36:35Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
