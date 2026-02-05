@@ -14097,6 +14097,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.43/dk64.apworld",
+      "size": 36933451,
+      "hash_sha256": "89e53d55b6da1a3d0c65debf01ab1aba233e18f217ba2527763e66df41e1ed91",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.43",
+        "tag_version": "1.4.43",
+        "created_at": "2026-02-05T01:29:29Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.0.0/dkc.apworld",
       "size": 56776,
       "hash_sha256": "15d2d8a12aad3d4e068bd805e8f0da29b132cbaca62ae022c3c0f4f80cc439e4",
@@ -66639,6 +66652,32 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.5/tloz_oos.apworld",
+      "size": 224666,
+      "hash_sha256": "9a38bbb329cc0884d1c7c51661916243ab3ee45add8c378fc8511f0e19a22d6d",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "17.0.5",
+        "tag_version": "17.0.5",
+        "created_at": "2026-02-01T16:39:09Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.4/tloz_oos.apworld",
+      "size": 224634,
+      "hash_sha256": "571084c2745e8f7f64f5fbd725fb9e98b2290dbe308b1f0a1800e335b86b52c6",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "17.0.4",
+        "tag_version": "17.0.4",
+        "created_at": "2026-02-01T16:39:09Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
