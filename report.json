@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 514,
-  "total_versions": 5357,
+  "total_versions": 5360,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -41,7 +41,7 @@
     "brotato": true,
     "candybox2": true,
     "cassette_beasts": true,
-    "casualtiesunknown": false,
+    "casualtiesunknown": true,
     "cat_quest": false,
     "cavern_of_dreams": false,
     "cavesofqud": false,

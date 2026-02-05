@@ -8118,6 +8118,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre2/casualtiesunknown.apworld",
+      "size": 75460,
+      "hash_sha256": "40bfdd1278789eb57d735588d68f9727665ade78f7da13b3507a56c887a7d654",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-02-05T04:51:00Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -14032,6 +14048,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.43/dk64.apworld",
+      "size": 36933451,
+      "hash_sha256": "89e53d55b6da1a3d0c65debf01ab1aba233e18f217ba2527763e66df41e1ed91",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.43",
+        "tag_version": "1.4.43",
+        "created_at": "2026-02-05T01:29:29Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.5/dk64.apworld",
       "size": 26180522,
       "hash_sha256": "2d85a7467a5932a3c8f702c6b49e9c9ac736b98126b670a4b38a628f0c7155dc",
@@ -14094,19 +14123,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.43/dk64.apworld",
-      "size": 36933451,
-      "hash_sha256": "89e53d55b6da1a3d0c65debf01ab1aba233e18f217ba2527763e66df41e1ed91",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.43",
-        "tag_version": "1.4.43",
-        "created_at": "2026-02-05T01:29:29Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -20309,6 +20325,22 @@
         "id": "flipwitch",
         "world_version": "1.0.0rc1",
         "tag_version": "1.0.0rc1",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
+      "size": 72078,
+      "hash_sha256": "aaac134cc875ffc34536f15909ecafb9056d1a12681baa8f124d32ab7f32f185",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.0.post2",
+        "tag_version": "1.0.0.post2",
         "created_at": "2026-01-18T18:27:04Z",
         "flags": [
           "after_dark",
@@ -31122,6 +31154,18 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.14/lunacid.apworld",
+      "size": 4896842,
+      "hash_sha256": "231008f1b168cee4e553f47b16ec6e9155d678989999c0ef0141b6fd2e0d3367",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.14",
+        "tag_version": "1.0.14",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -66431,6 +66475,32 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.4/tloz_oos.apworld",
+      "size": 224634,
+      "hash_sha256": "571084c2745e8f7f64f5fbd725fb9e98b2290dbe308b1f0a1800e335b86b52c6",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "17.0.4",
+        "tag_version": "17.0.4",
+        "created_at": "2026-02-01T16:39:09Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.5/tloz_oos.apworld",
+      "size": 224666,
+      "hash_sha256": "9a38bbb329cc0884d1c7c51661916243ab3ee45add8c378fc8511f0e19a22d6d",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "17.0.5",
+        "tag_version": "17.0.5",
+        "created_at": "2026-02-01T16:39:09Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -66652,32 +66722,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.5/tloz_oos.apworld",
-      "size": 224666,
-      "hash_sha256": "9a38bbb329cc0884d1c7c51661916243ab3ee45add8c378fc8511f0e19a22d6d",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "17.0.5",
-        "tag_version": "17.0.5",
-        "created_at": "2026-02-01T16:39:09Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.4/tloz_oos.apworld",
-      "size": 224634,
-      "hash_sha256": "571084c2745e8f7f64f5fbd725fb9e98b2290dbe308b1f0a1800e335b86b52c6",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "17.0.4",
-        "tag_version": "17.0.4",
-        "created_at": "2026-02-01T16:39:09Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
