@@ -6744,6 +6744,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-52/borderlands2.apworld",
+      "size": 49332,
+      "hash_sha256": "bdcd9410ebcf02fd5b488fa2d991c32a20af23ad939760410202b2e8954eb87a",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "52",
+        "tag_version": "52",
+        "created_at": "2026-02-05T22:30:25Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -24455,6 +24471,19 @@
       }
     },
     {
+      "world": "https://github.com/Minish-Link/Iji-Archipelago/releases/download/v1.2.6/iji.apworld",
+      "size": 253561,
+      "hash_sha256": "208bf9bb0bfdda0189003370a137bec1add1a16beb59c1c43cd2035dd39229e5",
+      "metadata": {
+        "game": "Iji",
+        "id": "iji",
+        "world_version": "1.2.6",
+        "tag_version": "1.2.6",
+        "created_at": "2026-02-05T21:04:16Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Ishigh1/ITB-randomizer-for-AP/releases/download/v0.15.10/into_the_breach.apworld",
       "size": 27949,
       "hash_sha256": "e5035fdce9002dfced918a4bcb08eb1ca7e2317277979321e96c859e7ab2e401",
@@ -26638,6 +26667,32 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2025-11-17T19:04:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/gaithernOrg/ArchipelagoKH1FM/releases/download/1.0.1/kh1.apworld",
+      "size": 200731,
+      "hash_sha256": "ed3252f41bfebc36a1ce06e354c8878a89fda7501a13c531c728c0454a30eff0",
+      "metadata": {
+        "game": "Kingdom Hearts",
+        "id": "kh1",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-02-04T19:34:33Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/gaithernOrg/ArchipelagoKH1FM/releases/download/1.0.0/kh1.apworld",
+      "size": 200731,
+      "hash_sha256": "95987e3b39390120ed3ae7296d7649b12491b9b94d5a9e0d85361e113dedacbe",
+      "metadata": {
+        "game": "Kingdom Hearts",
+        "id": "kh1",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-02-04T19:34:33Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -31050,6 +31105,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.14/lunacid.apworld",
+      "size": 4896842,
+      "hash_sha256": "231008f1b168cee4e553f47b16ec6e9155d678989999c0ef0141b6fd2e0d3367",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.14",
+        "tag_version": "1.0.14",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
       "size": 4894976,
       "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
@@ -31154,18 +31221,6 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
-        "created_at": "2025-07-02T22:10:18Z"
-      }
-    },
-    {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.14/lunacid.apworld",
-      "size": 4896842,
-      "hash_sha256": "231008f1b168cee4e553f47b16ec6e9155d678989999c0ef0141b6fd2e0d3367",
-      "metadata": {
-        "game": "Lunacid",
-        "id": "lunacid",
-        "world_version": "1.0.14",
-        "tag_version": "1.0.14",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -52120,6 +52175,19 @@
         "tag_version": "0.4.0rc3",
         "created_at": "2026-01-24T02:32:07Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.4.1/rac3.apworld",
+      "size": 2825934,
+      "hash_sha256": "292b2cf5961e50635dc636b64c2b74a71336ed05864276f0847a567a64410735",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-02-05T14:03:28Z",
+        "minimum_ap_version": "0.5.0"
       }
     },
     {
