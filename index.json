@@ -9271,6 +9271,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.9.8/civv.apworld",
+      "size": 304050,
+      "hash_sha256": "fe7612ffe504898ccc62be328dbe0b62cc16105716a7c8668967750ab8d9cbb1",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.9.8",
+        "tag_version": "0.9.8",
+        "created_at": "2026-02-06T20:46:56Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/ckd-v0.0.1/ckd.apworld",
       "size": 217567,
       "hash_sha256": "53671f3f057ead0462a4f5b570d96c0014858ae78fbb573471b83bcc6ec06943",
@@ -19474,6 +19486,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/ffxiitm-0.0.10/ffxiitm.apworld",
+      "size": 22983,
+      "hash_sha256": "14676558c32741264771683757a46a8ed4d64db1b98343a1ff0fa10d27db5c39",
+      "metadata": {
+        "game": "Final Fantasy XII Trial Mode",
+        "id": "ffxiitm",
+        "world_version": "0.0.10",
+        "tag_version": "0.0.10",
+        "created_at": "2026-02-06T08:07:33Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/ffxiitm-0.0.7/ffxiitm.apworld",
       "size": 55869,
       "hash_sha256": "f6ecaf5954ba65cdd7c660647e52d70d1c858918d39f6c3be723646f591fd584",
@@ -19508,19 +19533,6 @@
         "tag_version": "0.0.9",
         "created_at": "2024-02-29T11:26:07Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/silasary/Archipelago/releases/download/ffxiitm-0.0.10/ffxiitm.apworld",
-      "size": 22983,
-      "hash_sha256": "14676558c32741264771683757a46a8ed4d64db1b98343a1ff0fa10d27db5c39",
-      "metadata": {
-        "game": "Final Fantasy XII Trial Mode",
-        "id": "ffxiitm",
-        "world_version": "0.0.10",
-        "tag_version": "0.0.10",
-        "created_at": "2026-02-06T08:07:33Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -26258,6 +26270,22 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/keymasters_keep-2.1.5/keymasters_keep.apworld",
+      "size": 960694,
+      "hash_sha256": "4462c210d17dad7765c9bbc6a32780cc8c78ddbc9d7b7544710836e46bb07bab",
+      "metadata": {
+        "game": "Keymaster's Keep",
+        "id": "keymasters_keep",
+        "world_version": "2.1.5",
+        "tag_version": "2.1.5",
+        "created_at": "2026-02-06T03:42:33Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/kmk-0001/keymasters_keep.apworld",
       "size": 50525,
       "hash_sha256": "904e020f13a24a5e31c4e666eb539b20f9c2b7cce65aba74c0c05da2c0615568",
@@ -26486,22 +26514,6 @@
         "flags": [
           "tracker_included",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/silasary/Archipelago/releases/download/keymasters_keep-2.1.5/keymasters_keep.apworld",
-      "size": 960694,
-      "hash_sha256": "4462c210d17dad7765c9bbc6a32780cc8c78ddbc9d7b7544710836e46bb07bab",
-      "metadata": {
-        "game": "Keymaster's Keep",
-        "id": "keymasters_keep",
-        "world_version": "2.1.5",
-        "tag_version": "2.1.5",
-        "created_at": "2026-02-06T03:42:33Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "tracker_included"
         ]
       }
     },
@@ -31279,6 +31291,18 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.15/lunacid.apworld",
+      "size": 4896854,
+      "hash_sha256": "de1a26cdb02084f4dcbf97a26dc7e87640a600f9374f80258d61c8ac53390e33",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.15",
+        "tag_version": "1.0.15",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -56120,6 +56144,22 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.2/shadow_the_hedgehog.apworld",
+      "size": 227441,
+      "hash_sha256": "8d1193632a39dcd2f30f7f71295fe36573a2ac3c747e793c6ccc4bd8097a4d7f",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-02-05T12:53:31Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/choatix/Archipelago/releases/download/shadow0.3.0/shadow_the_hedgehog.apworld",
       "size": 750070,
       "hash_sha256": "83d34e78e002b50bef8d897ac60d892f91f399f1be31bbca15a3b268e6196760",
@@ -56146,22 +56186,6 @@
         "tag_version": "0.3.0.post2",
         "created_at": "2025-11-23T19:55:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.2/shadow_the_hedgehog.apworld",
-      "size": 227441,
-      "hash_sha256": "8d1193632a39dcd2f30f7f71295fe36573a2ac3c747e793c6ccc4bd8097a4d7f",
-      "metadata": {
-        "game": "Shadow The Hedgehog",
-        "id": "shadow_the_hedgehog",
-        "world_version": "0.3.3",
-        "tag_version": "0.3.3",
-        "created_at": "2026-02-05T12:53:31Z",
-        "minimum_ap_version": "0.6.2",
         "flags": [
           "prerelease"
         ]
@@ -66867,6 +66891,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.3-alpha/tloz_ph.apworld",
+      "size": 2572164,
+      "hash_sha256": "7dea2153bc516775401f8ffb303930cb276b857ad45d7c71ab9c6b428d1ba73c",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.3",
+        "tag_version": "0.8.3",
+        "created_at": "2026-02-06T10:27:08Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -67302,8 +67339,8 @@
     },
     {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.3-alpha/tloz_ph.apworld",
-      "size": 2572164,
-      "hash_sha256": "7dea2153bc516775401f8ffb303930cb276b857ad45d7c71ab9c6b428d1ba73c",
+      "size": 2572182,
+      "hash_sha256": "09dfa9fb3ff9f169b7a9fbc466aca3a5799d6de72f1a4c2547b647ff4f48f6f6",
       "metadata": {
         "game": "The Legend of Zelda - Phantom Hourglass",
         "id": "tloz_ph",
@@ -69733,6 +69770,18 @@
         "world_version": "0.2.0",
         "tag_version": "0.2.0",
         "created_at": "2026-02-02T20:35:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/FyreDay/Archipelago-TyTheTasmanianTiger2/releases/download/v0.2.1/ty_the_tasmanian_tiger_2.apworld",
+      "size": 20848,
+      "hash_sha256": "fed7cb69485ce1630067606ee26525ffdf3a3cb3f4cb73ae6dbb98f99708dc65",
+      "metadata": {
+        "game": "Ty the Tasmanian Tiger 2",
+        "id": "ty_the_tasmanian_tiger_2",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-02-06T21:05:12Z"
       }
     },
     {
