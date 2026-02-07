@@ -6760,6 +6760,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-54/borderlands2.apworld",
+      "size": 49388,
+      "hash_sha256": "ecdf9e03643df62b5d9b18b6e299901b1b6bd1037e9bf290a79fe8745d8ba2b0",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "54",
+        "tag_version": "54",
+        "created_at": "2026-02-07T03:45:17Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -8143,6 +8159,22 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-02-05T04:51:00Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre3/casualtiesunknown.apworld",
+      "size": 76381,
+      "hash_sha256": "b0a98b1fa174be0425b5b1b58766a3e693d96e3cfce3f22652f741ac41181920",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-02-07T09:21:56Z",
         "minimum_ap_version": "0.6.5",
         "flags": [
           "prerelease"
@@ -26767,6 +26799,22 @@
       }
     },
     {
+      "world": "https://github.com/gaithernOrg/ArchipelagoKH1FM/releases/download/1.0.4/kh1.apworld",
+      "size": 200837,
+      "hash_sha256": "e7f9ad218306c3812933c246fca02f2a8fcd3e7c7a3ad574cc6906efa70fb25a",
+      "metadata": {
+        "game": "Kingdom Hearts",
+        "id": "kh1",
+        "world_version": "1.0.4",
+        "tag_version": "1.0.4",
+        "created_at": "2026-02-07T03:35:03Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/gaithernOrg/ArchipelagoKHBBS/releases/download/0.0.1/khbbs.apworld",
       "size": 82468,
       "hash_sha256": "8176dd3e7637ae805c68ff45a42c7bb00cf4ebe97b57b4a5537d68eb9323be27",
@@ -31187,6 +31235,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.15/lunacid.apworld",
+      "size": 4896854,
+      "hash_sha256": "de1a26cdb02084f4dcbf97a26dc7e87640a600f9374f80258d61c8ac53390e33",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.15",
+        "tag_version": "1.0.15",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
       "size": 4894976,
       "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
@@ -31291,18 +31351,6 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
-        "created_at": "2025-07-02T22:10:18Z"
-      }
-    },
-    {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.15/lunacid.apworld",
-      "size": 4896854,
-      "hash_sha256": "de1a26cdb02084f4dcbf97a26dc7e87640a600f9374f80258d61c8ac53390e33",
-      "metadata": {
-        "game": "Lunacid",
-        "id": "lunacid",
-        "world_version": "1.0.15",
-        "tag_version": "1.0.15",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -32999,6 +33047,18 @@
         "tag_version": "0.6.post2",
         "created_at": "2025-03-22T00:30:38Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/pizie11/FFXIVBMB/releases/download/0.7.0/manual_ffxivbmb_pizzie.apworld",
+      "size": 65941,
+      "hash_sha256": "949c666fbc7bb89242a0e649285c865790d3ce0e31b0467ef1e4082ffe129946",
+      "metadata": {
+        "game": "Manual_FFXIVBMB_Pizzie",
+        "id": "manual_ffxivbmb_pizzie",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-02-07T06:36:24Z"
       }
     },
     {
@@ -66904,6 +66964,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.3-alpha/tloz_ph.apworld",
+      "size": 2572182,
+      "hash_sha256": "09dfa9fb3ff9f169b7a9fbc466aca3a5799d6de72f1a4c2547b647ff4f48f6f6",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.3",
+        "tag_version": "0.8.3",
+        "created_at": "2026-02-06T10:27:08Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -67334,19 +67407,6 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
-        "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.3-alpha/tloz_ph.apworld",
-      "size": 2572182,
-      "hash_sha256": "09dfa9fb3ff9f169b7a9fbc466aca3a5799d6de72f1a4c2547b647ff4f48f6f6",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.8.3",
-        "tag_version": "0.8.3",
-        "created_at": "2026-02-06T10:27:08Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -68832,6 +68892,19 @@
         "world_version": "0.7.0",
         "tag_version": "0.7.0",
         "created_at": "2025-11-01T13:10:32Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.8.0/ttyd.apworld",
+      "size": 569486,
+      "hash_sha256": "d27c2b1e8ecc38e43a21c03deb85dfc5a1cb53a4be6b948555951bf89ccc0643",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-02-07T02:29:11Z",
         "maximum_ap_version": "0.6.99"
       }
     },
