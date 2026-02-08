@@ -8182,6 +8182,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre4/casualtiesunknown.apworld",
+      "size": 78228,
+      "hash_sha256": "9d164d0e686fe7f46b91d156caf08d94bee623139a23d0bf14c25f3cb1434610",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-02-08T02:29:49Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -20450,6 +20466,22 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
+      "size": 72100,
+      "hash_sha256": "f22ac7621f37e93bde6414206217a8f5b38bcd71ee01ae19cbd56ff9b18e1fc5",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.0.post4",
+        "tag_version": "1.0.0.post4",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/sg4e/Archipelago/releases/download/v1.0.0/fm.apworld",
       "size": 70361,
       "hash_sha256": "1db5179bdb048c65b594a81c6460ff4c00d9109503219995be08564d1c55b183",
@@ -31383,6 +31415,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.16/lunacid.apworld",
+      "size": 4896854,
+      "hash_sha256": "de1a26cdb02084f4dcbf97a26dc7e87640a600f9374f80258d61c8ac53390e33",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.16",
+        "tag_version": "1.0.16",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari/madou.apworld",
       "size": 167900,
       "hash_sha256": "133e880c112ff3e50f37a5920e0db2c1e97e3fe09081a88f4c2f418b79693fb3",
@@ -37984,6 +38028,18 @@
         "tag_version": "0.1.3",
         "created_at": "2026-01-19T17:58:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.1.4/medievil2.apworld",
+      "size": 18437,
+      "hash_sha256": "e509aec0e4789a9fd6313d3fc5f4d77ee0707e427bd9a51d45190360dd7bd6c5",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.1.4",
+        "tag_version": "0.1.4",
+        "created_at": "2026-02-08T09:18:42Z"
       }
     },
     {
@@ -57872,6 +57928,19 @@
       }
     },
     {
+      "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.10.3/slotlock.apworld",
+      "size": 10300,
+      "hash_sha256": "bd867cc09d968d9fb9df1a1a556df97e98557b997c5e59c6c1bf6411fc92146c",
+      "metadata": {
+        "game": "SlotLock",
+        "id": "slotlock",
+        "world_version": "0.10.3",
+        "tag_version": "0.10.3",
+        "created_at": "2026-02-08T03:02:19Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/gjgfuj/AP-SlowRelease/releases/download/slowreleasev0.1.0/slowrelease.apworld",
       "size": 5495,
       "hash_sha256": "a8b8fa0ca46cd39c3d2ae607b6602845f9cd03bc5d2d5d7fd94a6c84d0eb177f",
@@ -61069,6 +61138,19 @@
       }
     },
     {
+      "world": "https://github.com/DDR-Khat/Spelunky2-Archipelago/releases/download/0.3.9/spelunky2.apworld",
+      "size": 21812,
+      "hash_sha256": "39c744037333bce637e8422640fae180aa768b7dc65d3f1c3a18484ed301b409",
+      "metadata": {
+        "game": "Spelunky 2",
+        "id": "spelunky2",
+        "world_version": "0.3.9",
+        "tag_version": "0.3.9",
+        "created_at": "2026-02-07T19:02:30Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/DDR-Khat/Spelunky2-Archipelago/releases/download/3.5/spelunky2.apworld",
       "size": 47313,
       "hash_sha256": "edf19a58383c9b71aebed21aa489674019a796f31963fa9012d69aaeb292f40a",
@@ -61102,19 +61184,6 @@
         "world_version": "0.1.1",
         "tag_version": "0.1.1",
         "created_at": "2025-03-13T19:38:12Z"
-      }
-    },
-    {
-      "world": "https://github.com/DDR-Khat/Spelunky2-Archipelago/releases/download/0.3.9/spelunky2.apworld",
-      "size": 21812,
-      "hash_sha256": "39c744037333bce637e8422640fae180aa768b7dc65d3f1c3a18484ed301b409",
-      "metadata": {
-        "game": "Spelunky 2",
-        "id": "spelunky2",
-        "world_version": "0.3.9",
-        "tag_version": "0.3.9",
-        "created_at": "2026-02-07T19:02:30Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {

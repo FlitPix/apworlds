@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 515,
-  "total_versions": 5384,
+  "total_versions": 5389,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -283,7 +283,7 @@
     "mario_kart_double_dash": true,
     "mariomissing": true,
     "medievil": false,
-    "medievil2": false,
+    "medievil2": true,
     "megamix": true,
     "melee": false,
     "messenger": false,
