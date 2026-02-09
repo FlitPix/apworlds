@@ -11835,6 +11835,19 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.4/cv_dos.apworld",
+      "size": 70319,
+      "hash_sha256": "09ea9853e10e9f199d315dd536bb78e21c9110f5415b1c0c6efda2a2dd74c009",
+      "metadata": {
+        "game": "Castlevania: Dawn of Sorrow",
+        "id": "cv_dos",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-01-14T04:48:30Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvhodis_v1.0/cvhodis.apworld",
       "size": 67401,
       "hash_sha256": "fbf384f69c83b3f7c8e7818d565625ddffc6454ddd730c29941ae155c80eb22b",
@@ -14211,6 +14224,19 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.44/dk64.apworld",
+      "size": 36934137,
+      "hash_sha256": "463388d99f9bc7e9050562ad2bd8c61ca819556b619247aa21e05a321fdbe0c0",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.44",
+        "tag_version": "1.4.44",
+        "created_at": "2026-02-08T16:39:50Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -31307,6 +31333,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.16/lunacid.apworld",
+      "size": 4896854,
+      "hash_sha256": "de1a26cdb02084f4dcbf97a26dc7e87640a600f9374f80258d61c8ac53390e33",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.16",
+        "tag_version": "1.0.16",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
       "size": 4894976,
       "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
@@ -31411,18 +31449,6 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
-        "created_at": "2025-07-02T22:10:18Z"
-      }
-    },
-    {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.16/lunacid.apworld",
-      "size": 4896854,
-      "hash_sha256": "de1a26cdb02084f4dcbf97a26dc7e87640a600f9374f80258d61c8ac53390e33",
-      "metadata": {
-        "game": "Lunacid",
-        "id": "lunacid",
-        "world_version": "1.0.16",
-        "tag_version": "1.0.16",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -57655,6 +57681,19 @@
       }
     },
     {
+      "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.10.3/slotlock.apworld",
+      "size": 10300,
+      "hash_sha256": "bd867cc09d968d9fb9df1a1a556df97e98557b997c5e59c6c1bf6411fc92146c",
+      "metadata": {
+        "game": "SlotLock",
+        "id": "slotlock",
+        "world_version": "0.10.3",
+        "tag_version": "0.10.3",
+        "created_at": "2026-02-08T03:02:19Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.3.0/slotlock.apworld",
       "size": 14183,
       "hash_sha256": "7bfe5a5ef7e7c7a4a2b9e615e9cf57b55cdf27e7def8ec183278e51ed491b1f1",
@@ -57925,19 +57964,6 @@
         "tag_version": "0.6.4",
         "created_at": "2024-12-30T09:43:21Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.10.3/slotlock.apworld",
-      "size": 10300,
-      "hash_sha256": "bd867cc09d968d9fb9df1a1a556df97e98557b997c5e59c6c1bf6411fc92146c",
-      "metadata": {
-        "game": "SlotLock",
-        "id": "slotlock",
-        "world_version": "0.10.3",
-        "tag_version": "0.10.3",
-        "created_at": "2026-02-08T03:02:19Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
