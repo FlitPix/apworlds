@@ -1,0 +1,44 @@
+{
+  "description": "Final Fantasy: Mystic Quest is a simple, humorous RPG for the Super Nintendo. You travel across four continents,\nlinked in the middle of the world by the Focus Tower, which has been locked by four magical coins. Make your way to\nthe bottom of the Focus Tower, then straight up through the top!",
+  "game": "Final Fantasy Mystic Quest",
+  "github": "https://github.com/Alchav/Archipelago",
+  "license": null,
+  "versions": {
+    "ffmq-1.7-b1": {
+      "created_at": "2026-01-11T22:51:00Z",
+      "download_url": "https://github.com/Alchav/Archipelago/releases/download/ffmq-1.7-b1/ffmq.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a6514ab3754b313ca757fb62c0f9b7b52b85cf9710dcefe9095e503ba0618749",
+      "size": 73181,
+      "source_url": "https://api.github.com/repos/Alchav/Archipelago",
+      "tag": "ffmq-1.7-b1",
+      "title": "FFMQR v1.7 Beta 1",
+      "version_simple": "1.7",
+      "world_version": "1.7b1"
+    },
+    "ffmq-1.7-b2": {
+      "created_at": "2026-01-20T03:02:59Z",
+      "download_url": "https://github.com/Alchav/Archipelago/releases/download/ffmq-1.7-b2/ffmq.apworld",
+      "has_manifest": true,
+      "hash_sha256": "663d6f4141090141d9c497a362e91a5877f2264a7c5cc7ac71644a6504cb58f7",
+      "size": 73815,
+      "source_url": "https://api.github.com/repos/Alchav/Archipelago",
+      "tag": "ffmq-1.7-b2",
+      "title": " FFMQR v1.7 Beta 2",
+      "version_simple": "1.7",
+      "world_version": "1.7b2"
+    },
+    "ffmq-1.7-b3": {
+      "created_at": "2026-02-08T00:32:47Z",
+      "download_url": "https://github.com/Alchav/Archipelago/releases/download/ffmq-1.7-b3/ffmq.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ed8248685195c2a84ed86c1e28041af3186faca85485b19d1bc1740952d7f594",
+      "size": 73901,
+      "source_url": "https://api.github.com/repos/Alchav/Archipelago",
+      "tag": "ffmq-1.7-b3",
+      "title": "FFMQR v1.7 Beta 3",
+      "version_simple": "1.7",
+      "world_version": "1.7b3"
+    }
+  }
+}

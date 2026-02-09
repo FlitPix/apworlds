@@ -1,0 +1,68 @@
+{
+  "game": "",
+  "github": "https://github.com/energymaster22/YARGArchipelago",
+  "license": "MIT",
+  "versions": {
+    "0.0.4": {
+      "created_at": "2025-12-30T07:03:36Z",
+      "download_url": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.4/yarg.apworld",
+      "has_manifest": false,
+      "hash_sha256": "f3fd53a06bfa6b59b1c2f818b785d157b2aa13d327bad54324e599c143ec4ce0",
+      "size": 21533,
+      "source_url": "https://api.github.com/repos/energymaster22/YARGArchipelago",
+      "tag": "0.0.4",
+      "title": "0.0.4",
+      "version_simple": "0.0.4",
+      "world_version": "0.0.4"
+    },
+    "0.0.5": {
+      "created_at": "2026-01-06T06:06:12Z",
+      "download_url": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.5/yarg.apworld",
+      "has_manifest": false,
+      "hash_sha256": "afb10d35122d31c18891d3d3dcb15e47f1ad1dacf303572f3c34d6222a478d13",
+      "size": 25861,
+      "source_url": "https://api.github.com/repos/energymaster22/YARGArchipelago",
+      "tag": "0.0.5",
+      "title": "0.0.5",
+      "version_simple": "0.0.5",
+      "world_version": "0.0.5"
+    },
+    "0.0.6": {
+      "created_at": "2026-01-31T03:15:42Z",
+      "download_url": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.6/yarg.apworld",
+      "has_manifest": false,
+      "hash_sha256": "da4cbf57f696b38b3282c20d71f9b63533d0bf052755d3c57b705dda605a3282",
+      "size": 24811,
+      "source_url": "https://api.github.com/repos/energymaster22/YARGArchipelago",
+      "tag": "0.0.6",
+      "title": "0.0.6",
+      "version_simple": "0.0.6",
+      "world_version": "0.0.6"
+    },
+    "0.0.7": {
+      "created_at": "2026-02-06T03:59:03Z",
+      "download_url": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.7/yarg.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ce53661976f31b0a64fdc36f1eb29d32f9f9fc2a95ee4654a0296072b1b445b2",
+      "size": 26021,
+      "source_url": "https://api.github.com/repos/energymaster22/YARGArchipelago",
+      "tag": "0.0.7",
+      "title": "0.0.7",
+      "version_simple": "0.0.7",
+      "world_version": "0.0.7"
+    },
+    "0.0.8": {
+      "created_at": "2026-02-07T07:28:50Z",
+      "download_url": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.8/yarg.apworld",
+      "failed_to_load": "Game YARG already registered in \n                /home/runner/.cache/Archipelago/apworlds/YARG-0.0.3.apworld/YARG/world.py when attempting to register from\n                /home/runner/.cache/Archipelago/apworlds/yarg-0.0.8.apworld/yarg/world.py.",
+      "has_manifest": false,
+      "hash_sha256": "b3f456560d1efe93b11d09cb27fe398c4423fd3e2fc20e75b681acf85cab9f0b",
+      "size": 26171,
+      "source_url": "https://api.github.com/repos/energymaster22/YARGArchipelago",
+      "tag": "0.0.8",
+      "title": "0.0.8",
+      "version_simple": "0.0.8",
+      "world_version": "0.0.8"
+    }
+  }
+}

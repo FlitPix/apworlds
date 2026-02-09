@@ -1,0 +1,73 @@
+{
+  "description": "",
+  "game": "Nonograhmm",
+  "github": "https://github.com/spineraks-org/ArchipelagoNonogram",
+  "license": null,
+  "versions": {
+    "v0.1.0": {
+      "created_at": "2026-01-04T01:22:07Z",
+      "download_url": "https://github.com/spineraks-org/ArchipelagoNonogram/releases/download/v0.1.0/nonograhmm.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a774e5a37f0bd53ffd9cd113465dd51c6312d5f30d2e30716467148d38c048a8",
+      "minimum_ap_version": "0.6.4",
+      "size": 7650,
+      "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoNonogram",
+      "tag": "v0.1.0",
+      "title": "Nonograhmm for AP 0.1.0",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
+    },
+    "v0.1.1": {
+      "created_at": "2026-01-04T02:30:21Z",
+      "download_url": "https://github.com/spineraks-org/ArchipelagoNonogram/releases/download/v0.1.1/nonograhmm.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ff42c957347290342d15758d64b1cff0bddd850ae8519fa38bceda54f709508e",
+      "minimum_ap_version": "0.6.4",
+      "size": 7830,
+      "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoNonogram",
+      "tag": "v0.1.1",
+      "title": "Nonograhmm for AP 0.1.1",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
+    },
+    "v0.2.0": {
+      "created_at": "2026-01-04T02:30:21Z",
+      "download_url": "https://github.com/spineraks-org/ArchipelagoNonogram/releases/download/v0.2.0/nonograhmm.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1e6b70c7668dd6a59acafafec23780a2bf8a0a28e66caf580c071e7e79fad926",
+      "minimum_ap_version": "0.6.4",
+      "size": 9410,
+      "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoNonogram",
+      "tag": "v0.2.0",
+      "title": "Nonograhmm for AP 0.2.0",
+      "version_simple": "0.2.0",
+      "world_version": "0.2.0"
+    },
+    "v0.2.1": {
+      "created_at": "2026-01-04T02:30:21Z",
+      "download_url": "https://github.com/spineraks-org/ArchipelagoNonogram/releases/download/v0.2.1/nonograhmm.apworld",
+      "has_manifest": true,
+      "hash_sha256": "4d3832ef5e0622f4968b0ebe2a46413bd58a70f65539c2727e537ebd610d9289",
+      "minimum_ap_version": "0.6.4",
+      "size": 9421,
+      "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoNonogram",
+      "tag": "v0.2.1",
+      "title": "Nonograhmm for AP 0.2.1",
+      "version_simple": "0.2.1",
+      "world_version": "0.2.1"
+    },
+    "v0.2.2": {
+      "created_at": "2026-02-08T19:51:39Z",
+      "download_url": "https://github.com/spineraks-org/ArchipelagoNonogram/releases/download/v0.2.2/nonograhmm.apworld",
+      "has_manifest": true,
+      "hash_sha256": "72f2056cb56a41ab8221684e0c1214cf1a4842e91f865aaf1d13ae7420cc0d0b",
+      "minimum_ap_version": "0.6.4",
+      "size": 10443,
+      "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoNonogram",
+      "tag": "v0.2.2",
+      "title": "Nonograhmm for AP 0.2.2",
+      "version_simple": "0.2.2",
+      "world_version": "0.2.2"
+    }
+  }
+}
