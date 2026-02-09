@@ -1,0 +1,128 @@
+{
+  "description": "Mario Super Sluggers is a baseball game with a Mario twist. In the challenge mode, you'll embark on an adventure\nthrough the Baseball Kingdom, recruit familiar characters for your team, then face Bowser and his Bowser Monsters\nin a game. PLAY BALL!",
+  "game": "Mario Super Sluggers",
+  "github": "https://github.com/MarioManTAW/Archipelago",
+  "license": null,
+  "versions": {
+    "sluggers-v0.0.0": {
+      "created_at": "2026-01-01T03:55:36Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.0.0/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "da082d6fef2cff0a25a3a3c2942e907e07b4423d5057f81b566dcec32b000bda",
+      "size": 15966,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.0.0",
+      "title": "MSS AP v0.0.0",
+      "version_simple": "0.0.0",
+      "world_version": "0.0.0"
+    },
+    "sluggers-v0.0.1": {
+      "created_at": "2026-01-03T22:13:42Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.0.1/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b20a3987f2f8f734dd3ae1a887af88dc6c6b1e06d5eb80a60060f8ef71f258a2",
+      "size": 16285,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.0.1",
+      "title": "MSS AP v0.0.1",
+      "version_simple": "0.0.0",
+      "world_version": "0.0.0"
+    },
+    "sluggers-v0.0.2": {
+      "created_at": "2026-01-06T03:36:27Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.0.2/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ea8126c0b91eb529ef0d4cff3ca4063a6358df9c5f242489cf3e53dc07351613",
+      "size": 16398,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.0.2",
+      "title": "MSS AP v0.0.2",
+      "version_simple": "0.0.2",
+      "world_version": "0.0.2"
+    },
+    "sluggers-v0.0.3": {
+      "created_at": "2026-01-10T21:20:18Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.0.3/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8f5f42cac92912ec1844addcfb0175ffcafd2a4ede7f4de2856351f2b3f7773c",
+      "size": 17166,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.0.3",
+      "title": "MSS AP v0.0.3",
+      "version_simple": "0.0.3",
+      "world_version": "0.0.3"
+    },
+    "sluggers-v0.0.4": {
+      "created_at": "2026-01-12T00:24:57Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.0.4/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8d3d10d4756007f576cdf97f977aff8d5d5725c47933bb3f0e364f6ad078b71a",
+      "size": 17170,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.0.4",
+      "title": "MSS AP v0.0.4",
+      "version_simple": "0.0.4",
+      "world_version": "0.0.4"
+    },
+    "sluggers-v0.1.0": {
+      "created_at": "2026-01-21T12:38:29Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.1.0/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8c54a714765bd6f40b2cf3e712f665426559236b7fddc0fb39a7fc849438493a",
+      "size": 19998,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.1.0",
+      "title": "MSS AP v0.1.0",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
+    },
+    "sluggers-v0.1.1": {
+      "created_at": "2026-01-24T04:06:17Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.1.1/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "44fef182fbf98fb57ec4c257f0f2ede1c3be9cfdc599bada24b9792b43be9800",
+      "size": 20559,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.1.1",
+      "title": "MSS AP v0.1.1",
+      "version_simple": "0.1.1",
+      "world_version": "0.1.1"
+    },
+    "sluggers-v0.1.2": {
+      "created_at": "2026-01-24T14:27:09Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.1.2/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fdbe3fab72ed6b4ffdc6e991e0d3be20f4b9b4486eb1a06142ecb9b1ceece24a",
+      "size": 20573,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.1.2",
+      "title": "MSS AP v0.1.2",
+      "version_simple": "0.1.2",
+      "world_version": "0.1.2"
+    },
+    "sluggers-v0.2.0": {
+      "created_at": "2026-01-30T23:25:23Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.2.0/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d89c9b404daf262ffc9e9f5ad38309854c9e1c5458e6d6098aa1822c73736d00",
+      "size": 23172,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.2.0",
+      "title": "MSS AP v0.2.0",
+      "version_simple": "0.2.0",
+      "world_version": "0.2.0"
+    },
+    "sluggers-v0.2.1": {
+      "created_at": "2026-02-03T02:31:06Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.2.1/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "922f5ddd80767065478468c9098e35ed50f8769413b2fc2f653e4706b777638f",
+      "size": 23175,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v0.2.1",
+      "title": "MSS AP v0.2.1",
+      "version_simple": "0.2.1",
+      "world_version": "0.2.1"
+    }
+  }
+}

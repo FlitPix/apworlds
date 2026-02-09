@@ -1,0 +1,92 @@
+{
+  "description": "Flip da coin!",
+  "game": "Unfair Flips",
+  "github": "https://github.com/xMcacutt-Archipelago/Archipelago-UnfairFlips",
+  "license": null,
+  "versions": {
+    "1.0.0": {
+      "created_at": "2025-12-18T22:18:17Z",
+      "download_url": "https://github.com/xMcacutt-Archipelago/Archipelago-UnfairFlips/releases/download/1.0.0/unfair_flips.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c96e2d2feff899539572b2046e4cdb2f3d8200b73d9f6c05b1e276197eda58c5",
+      "size": 5261,
+      "source_url": "https://api.github.com/repos/xMcacutt-Archipelago/Archipelago-UnfairFlips",
+      "tag": "1.0.0",
+      "title": "v1.0.0",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
+    },
+    "1.0.1": {
+      "created_at": "2025-12-20T10:17:43Z",
+      "download_url": "https://github.com/xMcacutt-Archipelago/Archipelago-UnfairFlips/releases/download/1.0.1/unfair_flips.apworld",
+      "has_manifest": true,
+      "hash_sha256": "177761121959ee8a63ebcdd5d4880c524c8cdbdda7fa17dbd071a188d2a1297e",
+      "size": 6742,
+      "source_url": "https://api.github.com/repos/xMcacutt-Archipelago/Archipelago-UnfairFlips",
+      "tag": "1.0.1",
+      "title": "v1.0.1",
+      "version_simple": "1.0.1",
+      "world_version": "1.0.1"
+    },
+    "1.0.2": {
+      "created_at": "2026-01-05T01:26:02Z",
+      "download_url": "https://github.com/xMcacutt-Archipelago/Archipelago-UnfairFlips/releases/download/1.0.2/unfair_flips.apworld",
+      "has_manifest": true,
+      "hash_sha256": "7bf6a08c69cb63150f50f30411fb7e59a8d248fa8560782739d9b3ad79c3e553",
+      "size": 6853,
+      "source_url": "https://api.github.com/repos/xMcacutt-Archipelago/Archipelago-UnfairFlips",
+      "tag": "1.0.2",
+      "title": "v1.0.2",
+      "version_simple": "1.0.2",
+      "world_version": "1.0.2"
+    },
+    "1.0.3": {
+      "created_at": "2026-01-12T00:39:05Z",
+      "download_url": "https://github.com/xMcacutt-Archipelago/Archipelago-UnfairFlips/releases/download/1.0.3/unfair_flips.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a80c84f6fefda6c83acba7c2bdf1d756138bda61a782d770cf17b4b0cacaaab5",
+      "size": 6918,
+      "source_url": "https://api.github.com/repos/xMcacutt-Archipelago/Archipelago-UnfairFlips",
+      "tag": "1.0.3",
+      "title": "v1.0.3",
+      "version_simple": "1.0.3",
+      "world_version": "1.0.3"
+    },
+    "1.0.4": {
+      "created_at": "2026-01-13T20:40:47Z",
+      "download_url": "https://github.com/xMcacutt-Archipelago/Archipelago-UnfairFlips/releases/download/1.0.4/unfair_flips.apworld",
+      "has_manifest": true,
+      "hash_sha256": "cc7bfa41e467cab4843a2d08439095031e4d6ba135a14eacd2ab69f17bebe99d",
+      "size": 6916,
+      "source_url": "https://api.github.com/repos/xMcacutt-Archipelago/Archipelago-UnfairFlips",
+      "tag": "1.0.4",
+      "title": "v1.0.4",
+      "version_simple": "1.0.4",
+      "world_version": "1.0.4"
+    },
+    "1.1.0": {
+      "created_at": "2026-01-15T21:09:49Z",
+      "download_url": "https://github.com/xMcacutt-Archipelago/Archipelago-UnfairFlips/releases/download/1.1.0/unfair_flips.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1c2bc696919a0a533c5ef26b4308615399e09ec296077376a53337881b6a26ed",
+      "size": 6680,
+      "source_url": "https://api.github.com/repos/xMcacutt-Archipelago/Archipelago-UnfairFlips",
+      "tag": "1.1.0",
+      "title": "v1.1.0",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
+    },
+    "1.2.0": {
+      "created_at": "2026-02-06T23:22:04Z",
+      "download_url": "https://github.com/xMcacutt-Archipelago/Archipelago-UnfairFlips/releases/download/1.2.0/unfair_flips.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c681b840aede6e3745f00ec9319adb786b7ea60ed1d22c5a01086fd2c6545307",
+      "size": 6658,
+      "source_url": "https://api.github.com/repos/xMcacutt-Archipelago/Archipelago-UnfairFlips",
+      "tag": "1.2.0",
+      "title": "v1.2.0",
+      "version_simple": "1.2.0",
+      "world_version": "1.2.0"
+    }
+  }
+}
