@@ -6776,6 +6776,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-55/borderlands2.apworld",
+      "size": 49511,
+      "hash_sha256": "063ae98c4f8c0b491ac14f97fda01afd7fbd9e5aa4a1be6a6140a2b09d9332a7",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "55",
+        "tag_version": "55",
+        "created_at": "2026-02-09T17:36:57Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -8195,6 +8211,32 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-hotfix1/casualtiesunknown.apworld",
+      "size": 78327,
+      "hash_sha256": "aef0475ff2204af00db01045efb07e6d7222d2f18388a42043a57e28b61ced65",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-02-09T23:09:33Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0/casualtiesunknown.apworld",
+      "size": 78316,
+      "hash_sha256": "437f5ace297c330c731bb5b8ca895184ad6fa1cafda948c538ebf8d5cd9c67e0",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-02-09T22:49:44Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -12343,6 +12385,19 @@
         "world_version": "0.4.0",
         "tag_version": "0.4.0",
         "created_at": "2025-12-29T19:06:05Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.2/dc1.apworld",
+      "size": 65747,
+      "hash_sha256": "20c11777398fbe3abf437e3f64aed35b408aab7962b2405bece2ce45602436ac",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-02-09T20:02:20Z",
         "minimum_ap_version": "0.6.1"
       }
     },
@@ -33789,6 +33844,19 @@
         "world_version": "1.2.2",
         "tag_version": "1.2.2",
         "created_at": "2026-01-12T21:12:43Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BigBradley/Mario-Kart-7-Manual-APworld/releases/download/V1.2.3/manual_mariokart7_bigbradley.apworld",
+      "size": 60585,
+      "hash_sha256": "276438f28a2b1d45d0769323e9d4584592a7342f28c6070ba477a4af1326a6c6",
+      "metadata": {
+        "game": "Manual_MarioKart7_BigBradley",
+        "id": "manual_mariokart7_bigbradley",
+        "world_version": "1.2.3",
+        "tag_version": "1.2.3",
+        "created_at": "2026-02-10T01:29:05Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -69844,6 +69912,18 @@
       }
     },
     {
+      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.4.0/ty_the_tasmanian_tiger.apworld",
+      "size": 40215,
+      "hash_sha256": "9903dfbb0cc0689e2de809c67793cb853a0e0246ede882bb795f0cc714161a5a",
+      "metadata": {
+        "game": "Ty the Tasmanian Tiger",
+        "id": "ty_the_tasmanian_tiger",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-02-09T20:14:19Z"
+      }
+    },
+    {
       "world": "https://github.com/FyreDay/Archipelago-TyTheTasmanianTiger2/releases/download/v0.0.1/ty_the_tasmanian_tiger_2.apworld",
       "size": 56924,
       "hash_sha256": "7a322b3c62ad96d1403d693a6771e5f09d5b54c01e3e038952c710deff2b7d5c",
@@ -72601,6 +72681,22 @@
         "tag_version": "0.9.2",
         "created_at": "2025-08-25T15:31:34Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.10-beta/x2wotc.apworld",
+      "size": 58925,
+      "hash_sha256": "c9ad8a8d71ede27f0d5a18fde585659ee36e2c1961a7786747678f589a9990cf",
+      "metadata": {
+        "game": "XCOM 2 War of the Chosen",
+        "id": "x2wotc",
+        "world_version": "0.10.10",
+        "tag_version": "0.10.10",
+        "created_at": "2026-02-09T16:19:28Z",
+        "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
         ]
