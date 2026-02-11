@@ -6714,6 +6714,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-57/borderlands2.apworld",
+      "size": 49596,
+      "hash_sha256": "0f78fba71602718b834d392a626eca07b5d4887381b8e8b3460938b4f8e40cb6",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "57",
+        "tag_version": "57",
+        "created_at": "2026-02-10T21:43:14Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -6802,22 +6818,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-12-18T22:44:03Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-57/borderlands2.apworld",
-      "size": 49596,
-      "hash_sha256": "0f78fba71602718b834d392a626eca07b5d4887381b8e8b3460938b4f8e40cb6",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "57",
-        "tag_version": "57",
-        "created_at": "2026-02-10T21:43:14Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -13002,19 +13002,6 @@
       }
     },
     {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
-      "size": 16029,
-      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.13",
-        "tag_version": "0.13",
-        "created_at": "2025-10-31T00:58:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16.2/deep_rock_galactic.apworld",
       "size": 27745,
       "hash_sha256": "e424a6cd5e09d12fba705dcf5253ab2c8f9d0eb44dde467b7c0fdf5ad051cfcf",
@@ -13024,6 +13011,19 @@
         "world_version": "0.16.2",
         "tag_version": "0.16.2",
         "created_at": "2026-02-10T16:18:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
+      "size": 16029,
+      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.13",
+        "tag_version": "0.13",
+        "created_at": "2025-10-31T00:58:51Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -14373,6 +14373,19 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.45/dk64.apworld",
+      "size": 36933732,
+      "hash_sha256": "29b931791eae25fc4d604539afef2db1e5b2463638b4b8372ae17ecfd0e8304a",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.45",
+        "tag_version": "1.4.45",
+        "created_at": "2026-02-11T05:19:40Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -33585,6 +33598,19 @@
       }
     },
     {
+      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.4.1/manual_goldeneye007_vincentssin.apworld",
+      "size": 61670,
+      "hash_sha256": "ba06e6dfb80af6e1975d9dd41f2e227c6ab2b2328a721b8cfbc7a6a608daaffb",
+      "metadata": {
+        "game": "Manual_Goldeneye007_VincentsSin",
+        "id": "manual_goldeneye007_vincentssin",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-02-03T02:10:25Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/RelentingZero/HL2-APManual/releases/download/1.1/manual_halflife2_relentingzero.apworld",
       "size": 44051,
       "hash_sha256": "43da37bc010a25f2249eb1413ea4d9f088da04f3c331797bde7a38346db5afd0",
@@ -44660,160 +44686,6 @@
       }
     },
     {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.0.0/paint.apworld",
-      "size": 5046,
-      "hash_sha256": "8c23c85028db724cf62f36652f1b344013c4b14976d4fd572dc58fc03974d344",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.0.0",
-        "tag_version": "0.0.0",
-        "created_at": "2025-03-16T01:08:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.1.0/paint.apworld",
-      "size": 5221,
-      "hash_sha256": "be5723f119d55de73505f2e114b5b55f3cc5f53ca62e8a7a130a83a2f343ba25",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-03-16T23:24:58Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.2.0/paint.apworld",
-      "size": 5383,
-      "hash_sha256": "6652404e2dc9e618f769f43947eeb1d483f6937af18922cb15b3b522f357f7ce",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-03-22T17:30:02Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.3.0/paint.apworld",
-      "size": 5877,
-      "hash_sha256": "d71948175d04dff8964ea70f1cfedb47bfe003f8643b425d17c9861b75088249",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2025-03-29T15:30:04Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.4.0/paint.apworld",
-      "size": 6114,
-      "hash_sha256": "7575a46d5328611dcb3d68edc43acd87e33b897ceaef4f42e53e7488942e1d5f",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.4.0",
-        "tag_version": "0.4.0",
-        "created_at": "2025-05-03T16:45:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.4.1/paint.apworld",
-      "size": 20094,
-      "hash_sha256": "067afe24445785686687fa73d27c5822d063e30ca88f4e7761221aa1c9da3589",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.4.1",
-        "tag_version": "0.4.1",
-        "created_at": "2025-05-09T01:04:09Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.5.0/paint.apworld",
-      "size": 21532,
-      "hash_sha256": "b21d6179d50e4db6ee1d0f287826fbe60eb238b9aaf24b504dee6afa63ddca0c",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.5.0",
-        "tag_version": "0.5.0",
-        "created_at": "2025-05-13T14:49:48Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.5.1/paint.apworld",
-      "size": 7258,
-      "hash_sha256": "f7218274cf2a290c4cfc30e41dfb8676e684a3e3089beba6f5174dbcf2e3591f",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.5.1",
-        "tag_version": "0.5.1",
-        "created_at": "2025-05-22T21:15:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.5.2/paint.apworld",
-      "size": 7465,
-      "hash_sha256": "5305355b6341bb910f766f6df674fc95ee3268110748c25cb34d39a6bb908c3a",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.5.2",
-        "tag_version": "0.5.2",
-        "created_at": "2025-05-27T22:26:26Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.5.3/paint.apworld",
-      "size": 19994,
-      "hash_sha256": "1546e25523e829f5da2a1339a933479974aa966e4d260b8afc1c093bac05b3a2",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.5.3",
-        "tag_version": "0.5.3",
-        "created_at": "2025-07-12T17:13:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.6.0/paint.apworld",
-      "size": 8295,
-      "hash_sha256": "f22372babdc30c019c942426185dd9aef25019746ac20421447c15c664abe66a",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.6.0",
-        "tag_version": "0.6.0",
-        "created_at": "2026-01-12T00:52:26Z"
-      }
-    },
-    {
-      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.6.1/paint.apworld",
-      "size": 8607,
-      "hash_sha256": "eb59950b0152e97aa40d7c2909df137d51e83aad9799a1412208cd5ec17ae8c3",
-      "metadata": {
-        "game": "Paint",
-        "id": "paint",
-        "world_version": "0.6.1",
-        "tag_version": "0.6.1",
-        "created_at": "2026-01-31T14:25:19Z"
-      }
-    },
-    {
       "world": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.1.5/papermario.apworld",
       "size": 1450994,
       "hash_sha256": "54dd4783c2d383cebc8b03fe1a73352857205407842e71fe1ab51a491849b13c",
@@ -50144,6 +50016,19 @@
         "world_version": "0.3.1",
         "tag_version": "0.3.1",
         "created_at": "2026-01-20T02:36:13Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.4.0/PokemonStadium.apworld",
+      "size": 88868,
+      "hash_sha256": "b51bfaa64a5296e31ad93b7a531d697237f034fea04556a54775236aad001e8d",
+      "metadata": {
+        "game": "Pokemon Stadium",
+        "id": "PokemonStadium",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-02-11T03:32:28Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -62642,22 +62527,6 @@
       }
     },
     {
-      "world": "https://github.com/Uroogla/S3AP/releases/download/open_world_test/spyro3.apworld",
-      "size": 43547,
-      "hash_sha256": "ac25ad05c48a53b800ae8423eb1f611e8ba52085ae2215a02d8926d804dd3aa8",
-      "metadata": {
-        "game": "Spyro 3",
-        "id": "spyro3",
-        "world_version": "0.0.0+open.world.test",
-        "tag_version": "0.0.0+open.world.test",
-        "created_at": "2025-09-07T15:42:03Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/Uroogla/S3AP/releases/download/1.2.3-rc1/spyro3.apworld",
       "size": 50767,
       "hash_sha256": "6df76e202db3137d777d5044ed8c7f0739b2f455b46cafd5ab4bad60a1a0e652",
@@ -62668,6 +62537,22 @@
         "tag_version": "1.2.3",
         "created_at": "2026-02-10T22:33:47Z",
         "minimum_ap_version": "0.6.1",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Uroogla/S3AP/releases/download/open_world_test/spyro3.apworld",
+      "size": 43547,
+      "hash_sha256": "ac25ad05c48a53b800ae8423eb1f611e8ba52085ae2215a02d8926d804dd3aa8",
+      "metadata": {
+        "game": "Spyro 3",
+        "id": "spyro3",
+        "world_version": "0.0.0+open.world.test",
+        "tag_version": "0.0.0+open.world.test",
+        "created_at": "2025-09-07T15:42:03Z",
+        "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
         ]
@@ -64242,6 +64127,22 @@
         "world_version": "7.3.7",
         "tag_version": "7.3.7",
         "created_at": "2026-01-12T21:16:33Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.0/stardew_valley.apworld",
+      "size": 525129,
+      "hash_sha256": "d4a3774b6b048a7c5eae6a2538e224124f79f31e9fc8bec5d0da28e43253b0be",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "7.4.0",
+        "tag_version": "7.4.0",
+        "created_at": "2026-02-11T03:44:28Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -74873,10 +74774,6 @@
     "p5r": {
       "game": "Persona 5 Royal",
       "description": "Persona 5 Royal is the definitive edition of the hit game in Atlus's Persona game series."
-    },
-    "paint": {
-      "game": "Paint",
-      "description": "The classic Microsoft app, reimagined as an Archipelago game! Find your tools, expand your canvas, and paint the\ngreatest image the world has ever seen."
     },
     "papermario": {
       "game": "Paper Mario",
