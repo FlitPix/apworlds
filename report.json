@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 513,
-  "total_versions": 5347,
+  "total_packages": 516,
+  "total_versions": 5406,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -166,6 +166,7 @@
     "kh1": false,
     "khbbs": false,
     "khcom": false,
+    "khddd": true,
     "khrecom": false,
     "kindergarten_2": false,
     "kirby_air_ride": true,
@@ -186,6 +187,7 @@
     "loonyland": false,
     "lor": false,
     "lrff13": false,
+    "luigismansion": true,
     "lunacid": true,
     "madou": true,
     "manual_adventuresofdreamland_bennydreamly": false,
