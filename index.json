@@ -3532,6 +3532,18 @@
       }
     },
     {
+      "world": "https://github.com/ThatOneGuy27/Archipelago-aus/releases/download/v1.5-beta/aus.apworld",
+      "size": 16242,
+      "hash_sha256": "2e0c6f5603fbfd777a593726c308e77685e3cbed75bc0bad6e24faab5fa6b450",
+      "metadata": {
+        "game": "An Untitled Story",
+        "id": "aus",
+        "world_version": "1.5b0",
+        "tag_version": "1.5b0",
+        "created_at": "2026-02-12T03:05:56Z"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.1.0/autopelago.apworld",
       "size": 17198,
       "hash_sha256": "e968a0f525aa0984a1071ba50a61ae3333aa815179924a5fb88c2574ca6d5b29",
@@ -7242,6 +7254,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.13.0/brotato.apworld",
+      "size": 43632,
+      "hash_sha256": "bedf620d3fadb7bdb4f528a3e3a8f5c87bd12231cba816eeb412bab28923d909",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-02-12T02:36:18Z"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/20250326-1/candybox2.apworld",
       "size": 12330,
       "hash_sha256": "e68a35ae48f13574b9c1c03c776ce6f518d6b36a0facabd04c04aca7fc6da892",
@@ -8291,6 +8315,19 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-02-10T21:58:49Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.2/casualtiesunknown.apworld",
+      "size": 81026,
+      "hash_sha256": "a35fa6de05b8cf86cff148aa7cd9cac296e01d53d09045d9160a634a563b4e28",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-02-12T07:58:14Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -50730,6 +50767,19 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.14/powerwashsimulator.apworld",
+      "size": 62546,
+      "hash_sha256": "534e564b61e8bcdaff4c3eb27d0aa0e9c9236ce8496bbd165bf1935d4b0c3d14",
+      "metadata": {
+        "game": "Powerwash Simulator",
+        "id": "powerwashsimulator",
+        "world_version": "0.5.14",
+        "tag_version": "0.5.14",
+        "created_at": "2026-02-12T09:01:34Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/pseudoregalia-modding/pseudoregalia-archipelago/releases/download/0.1.0/pseudoregalia.apworld",
       "size": 4438,
       "hash_sha256": "6bddca8035fcd413e106f1d44b405530c7394423abf0844aeb037971b8fa2de0",
@@ -61789,6 +61839,18 @@
       }
     },
     {
+      "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V1.0.2/spiritvalley.apworld",
+      "size": 50993,
+      "hash_sha256": "1c0c3dcb8e58b8733222c1b812bc797050d369362c2080098fa3d364014fd49f",
+      "metadata": {
+        "game": "Spirit Valley",
+        "id": "spiritvalley",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-02-12T02:53:33Z"
+      }
+    },
+    {
       "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.0.1/spyro.apworld",
       "size": 18232,
       "hash_sha256": "d5d4d5833e6f132c93cb3210de183dd0c21e35b4805856ba8b6c211ce2ce4bbc",
@@ -64307,6 +64369,22 @@
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.0/stardew_valley.apworld",
       "size": 525150,
       "hash_sha256": "c1d287a03396a9bebddb3a96cacf652575c844f43ef22cee650c18b2f0faddad",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "7.4.0",
+        "tag_version": "7.4.0",
+        "created_at": "2026-02-11T03:44:28Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.0/stardew_valley.apworld",
+      "size": 525161,
+      "hash_sha256": "3e9609bab7f3da9a5cc8e4b829f7b0e4005160b3369e7cdf632e021b64924bfa",
       "metadata": {
         "game": "Stardew Valley",
         "id": "stardew_valley",

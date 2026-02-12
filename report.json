@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 516,
-  "total_versions": 5412,
+  "total_versions": 5418,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -355,7 +355,7 @@
     "pokemon_platinum": false,
     "PokemonStadium": false,
     "pokepark": true,
-    "powerwashsimulator": false,
+    "powerwashsimulator": true,
     "pseudoregalia": true,
     "psychonauts": true,
     "quake": false,
