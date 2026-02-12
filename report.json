@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 515,
-  "total_versions": 5398,
+  "total_packages": 516,
+  "total_versions": 5412,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -331,6 +331,7 @@
     "osu": true,
     "outer_wilds": true,
     "p5r": false,
+    "paint": true,
     "papermario": false,
     "parkitect": false,
     "password": false,
