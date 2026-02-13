@@ -41736,6 +41736,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.29/musedash.apworld",
+      "size": 33262,
+      "hash_sha256": "4f4f6e6bea80b554a96bc7261671fc19e20411b8861c53ff0ced9c3aabbab113",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.29",
+        "tag_version": "1.5.29",
+        "created_at": "2026-02-13T11:40:27Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.1.0/mzm.apworld",
       "size": 91647,
       "hash_sha256": "067deb39ba7da2fd745157c70afc40608d6a51f1d003648e34d2e0fb0804399c",
@@ -46575,19 +46588,6 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
-      "size": 15365,
-      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.1.4b2",
-        "tag_version": "0.1.4b2",
-        "created_at": "2025-02-26T20:49:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.4.3/plateup.apworld",
       "size": 17152,
       "hash_sha256": "7855d3cb7d4fb1872d736ba4b5c0755e8256fe760ed48e736a71356b84ff268b",
@@ -46597,6 +46597,19 @@
         "world_version": "0.2.4.3",
         "tag_version": "0.2.4.3",
         "created_at": "2026-02-12T15:55:01Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
+      "size": 15365,
+      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.1.4b2",
+        "tag_version": "0.1.4b2",
+        "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -61467,6 +61480,19 @@
       }
     },
     {
+      "world": "https://github.com/DDR-Khat/Spelunky2-Archipelago/releases/download/0.4.0/spelunky2.apworld",
+      "size": 22086,
+      "hash_sha256": "600d26ab72fa8306776f564fbd183451485fa122244f1030b903e3a055ced970",
+      "metadata": {
+        "game": "Spelunky 2",
+        "id": "spelunky2",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-02-12T20:25:31Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/DDR-Khat/Spelunky2-Archipelago/releases/download/3.5/spelunky2.apworld",
       "size": 47313,
       "hash_sha256": "edf19a58383c9b71aebed21aa489674019a796f31963fa9012d69aaeb292f40a",
@@ -61500,19 +61526,6 @@
         "world_version": "0.1.1",
         "tag_version": "0.1.1",
         "created_at": "2025-03-13T19:38:12Z"
-      }
-    },
-    {
-      "world": "https://github.com/DDR-Khat/Spelunky2-Archipelago/releases/download/0.4.0/spelunky2.apworld",
-      "size": 22086,
-      "hash_sha256": "600d26ab72fa8306776f564fbd183451485fa122244f1030b903e3a055ced970",
-      "metadata": {
-        "game": "Spelunky 2",
-        "id": "spelunky2",
-        "world_version": "0.4.0",
-        "tag_version": "0.4.0",
-        "created_at": "2026-02-12T20:25:31Z",
-        "minimum_ap_version": "0.6.6"
       }
     },
     {
@@ -62388,6 +62401,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/1.0.2/spyro2.apworld",
+      "size": 35216,
+      "hash_sha256": "31f6b34d00b4c17220d02898afeaf331520059627ceb6905fafb0565ce6b82b6",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-02-13T04:19:23Z",
+        "minimum_ap_version": "0.6.1"
       }
     },
     {
@@ -67508,6 +67534,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.4-alpha/tloz_ph.apworld",
+      "size": 2571202,
+      "hash_sha256": "44ea4c641195d947199df0e8d83be52634240ea425a17683397d123a7eec43cc",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.4",
+        "tag_version": "0.8.4",
+        "created_at": "2026-02-12T16:43:47Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -67938,19 +67977,6 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
-        "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.4-alpha/tloz_ph.apworld",
-      "size": 2571202,
-      "hash_sha256": "44ea4c641195d947199df0e8d83be52634240ea425a17683397d123a7eec43cc",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.8.4",
-        "tag_version": "0.8.4",
-        "created_at": "2026-02-12T16:43:47Z",
         "minimum_ap_version": "0.6.0"
       }
     },
