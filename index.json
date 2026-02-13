@@ -7020,6 +7020,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.13.0/brotato.apworld",
+      "size": 43632,
+      "hash_sha256": "bedf620d3fadb7bdb4f528a3e3a8f5c87bd12231cba816eeb412bab28923d909",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-02-12T02:36:18Z"
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.2.0/brotato.apworld",
       "size": 17355,
       "hash_sha256": "58eab0a0a6062cb23b55b8ef1f520510f1bfdd9904bd22e28415dfbfaa7a684c",
@@ -7251,18 +7263,6 @@
         "tag_version": "0.9.1",
         "created_at": "2025-07-18T01:16:55Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.13.0/brotato.apworld",
-      "size": 43632,
-      "hash_sha256": "bedf620d3fadb7bdb4f528a3e3a8f5c87bd12231cba816eeb412bab28923d909",
-      "metadata": {
-        "game": "Brotato",
-        "id": "brotato",
-        "world_version": "0.13.0",
-        "tag_version": "0.13.0",
-        "created_at": "2026-02-12T02:36:18Z"
       }
     },
     {
@@ -8328,6 +8328,19 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-02-12T07:58:14Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.3/casualtiesunknown.apworld",
+      "size": 81027,
+      "hash_sha256": "c65638f2240327b02d698b624da093f08110783add0f8b3629e2044b9408fff8",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.3",
+        "tag_version": "0.6.3",
+        "created_at": "2026-02-12T21:26:39Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -14552,6 +14565,19 @@
         "world_version": "1.2.1",
         "tag_version": "1.2.1",
         "created_at": "2026-02-01T20:46:42Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.2.2/dkc.apworld",
+      "size": 61110,
+      "hash_sha256": "b493fb03b970c61323f6ef5620dab2c835a6da2947c75dcc8201430fdafc4f36",
+      "metadata": {
+        "game": "Donkey Kong Country",
+        "id": "dkc",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-02-12T23:33:10Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -46562,6 +46588,19 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.4.3/plateup.apworld",
+      "size": 17152,
+      "hash_sha256": "7855d3cb7d4fb1872d736ba4b5c0755e8256fe760ed48e736a71356b84ff268b",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.4.3",
+        "tag_version": "0.2.4.3",
+        "created_at": "2026-02-12T15:55:01Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/aplok_v010/plok.apworld",
       "size": 27287,
       "hash_sha256": "18f68733febdebbac0e3e8c83ec3e8ccacfd367066b1be24900f902c960dd7db",
@@ -50715,6 +50754,19 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.14/powerwashsimulator.apworld",
+      "size": 62546,
+      "hash_sha256": "534e564b61e8bcdaff4c3eb27d0aa0e9c9236ce8496bbd165bf1935d4b0c3d14",
+      "metadata": {
+        "game": "Powerwash Simulator",
+        "id": "powerwashsimulator",
+        "world_version": "0.5.14",
+        "tag_version": "0.5.14",
+        "created_at": "2026-02-12T09:01:34Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.6/powerwashsimulator.apworld",
       "size": 147579,
       "hash_sha256": "e8909f304b955f7d222847c6a6dfa5b5f5479da6a9c4f47075d6395fc0d7f185",
@@ -50764,19 +50816,6 @@
         "tag_version": "0.5.9",
         "created_at": "2025-09-27T01:14:43Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.14/powerwashsimulator.apworld",
-      "size": 62546,
-      "hash_sha256": "534e564b61e8bcdaff4c3eb27d0aa0e9c9236ce8496bbd165bf1935d4b0c3d14",
-      "metadata": {
-        "game": "Powerwash Simulator",
-        "id": "powerwashsimulator",
-        "world_version": "0.5.14",
-        "tag_version": "0.5.14",
-        "created_at": "2026-02-12T09:01:34Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -61464,6 +61503,19 @@
       }
     },
     {
+      "world": "https://github.com/DDR-Khat/Spelunky2-Archipelago/releases/download/0.4.0/spelunky2.apworld",
+      "size": 22086,
+      "hash_sha256": "600d26ab72fa8306776f564fbd183451485fa122244f1030b903e3a055ced970",
+      "metadata": {
+        "game": "Spelunky 2",
+        "id": "spelunky2",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-02-12T20:25:31Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/spineraks-org/ArchipelagoSpinball/releases/download/v0.0.1/spinball.apworld",
       "size": 247683,
       "hash_sha256": "fab2b899fb2e87241f8b629dad54718c28d20dcf88b73e4cc8ff63b814590de6",
@@ -67886,6 +67938,19 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.4-alpha/tloz_ph.apworld",
+      "size": 2571202,
+      "hash_sha256": "44ea4c641195d947199df0e8d83be52634240ea425a17683397d123a7eec43cc",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.4",
+        "tag_version": "0.8.4",
+        "created_at": "2026-02-12T16:43:47Z",
         "minimum_ap_version": "0.6.0"
       }
     },
