@@ -3687,6 +3687,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.11/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-02-13T21:21:31Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.2/autopelago.apworld",
       "size": 25294,
       "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
@@ -4018,19 +4031,6 @@
         "tag_version": "0.9.0",
         "created_at": "2025-02-09T20:18:09Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.11/autopelago.apworld",
-      "size": 25294,
-      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
-      "metadata": {
-        "game": "Autopelago",
-        "id": "autopelago",
-        "world_version": "0.11.0",
-        "tag_version": "0.11.0",
-        "created_at": "2026-02-13T21:21:31Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -6755,6 +6755,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-58/borderlands2.apworld",
+      "size": 49571,
+      "hash_sha256": "0c49e5577db8a4678404f7603d07bf727444691dd805ecd58351bc21e72749bc",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "58",
+        "tag_version": "58",
+        "created_at": "2026-02-13T21:26:26Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -6843,22 +6859,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-12-18T22:44:03Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-58/borderlands2.apworld",
-      "size": 49571,
-      "hash_sha256": "0c49e5577db8a4678404f7603d07bf727444691dd805ecd58351bc21e72749bc",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "58",
-        "tag_version": "58",
-        "created_at": "2026-02-13T21:26:26Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -8370,6 +8370,19 @@
         "world_version": "0.6.3",
         "tag_version": "0.6.3",
         "created_at": "2026-02-12T21:26:39Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.4/casualtiesunknown.apworld",
+      "size": 81145,
+      "hash_sha256": "3208d3cae4c1d745c342464365aa02af64806fb8e626f97927aa0cc838b7ec64",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.4",
+        "tag_version": "0.6.4",
+        "created_at": "2026-02-14T03:56:00Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -12102,6 +12115,19 @@
       }
     },
     {
+      "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v1.0/cvlod.apworld",
+      "size": 208937,
+      "hash_sha256": "ea4748810fbb93002ca5140a0a87ee693efd8e3797ef55cecbd62ad55af38d60",
+      "metadata": {
+        "game": "Castlevania - Legacy of Darkness",
+        "id": "cvlod",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-02-08T17:39:49Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlodbijcw%26v_v1/cvlod.apworld",
       "size": 91528,
       "hash_sha256": "3978f5f4a78f34af6b01504c394b65c4f961453b030c700f0c3c04c52d771b65",
@@ -12125,19 +12151,6 @@
         "tag_version": "2",
         "created_at": "2024-05-20T07:04:06Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v1.0/cvlod.apworld",
-      "size": 208937,
-      "hash_sha256": "ea4748810fbb93002ca5140a0a87ee693efd8e3797ef55cecbd62ad55af38d60",
-      "metadata": {
-        "game": "Castlevania - Legacy of Darkness",
-        "id": "cvlod",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2026-02-08T17:39:49Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -17695,6 +17708,18 @@
       }
     },
     {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.0/factorio_bobs.apworld",
+      "size": 1040638,
+      "hash_sha256": "a5cca79175b4bf6e4b7fe7803cd5f707ed587900e2bffd0d3b174f61163a345c",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-02-13T20:12:51Z"
+      }
+    },
+    {
       "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
       "size": 981844,
       "hash_sha256": "ce7caf8cceb9ac42c4ddf95b746584131947b667289822d40ad7b1d53aa54352",
@@ -17716,18 +17741,6 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2025-10-11T18:43:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.0/factorio_bobs.apworld",
-      "size": 1040638,
-      "hash_sha256": "a5cca79175b4bf6e4b7fe7803cd5f707ed587900e2bffd0d3b174f61163a345c",
-      "metadata": {
-        "game": "Factorio Bob's",
-        "id": "factorio_bobs",
-        "world_version": "2.1.0",
-        "tag_version": "2.1.0",
-        "created_at": "2026-02-13T20:12:51Z"
       }
     },
     {
@@ -50346,6 +50359,19 @@
       }
     },
     {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.4.1/PokemonStadium.apworld",
+      "size": 90309,
+      "hash_sha256": "b2b5c86a64f2b64156f83177639f0a685da90d824355e3dd0ec32445bea1a39a",
+      "metadata": {
+        "game": "Pokemon Stadium",
+        "id": "PokemonStadium",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-02-14T02:26:28Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/0.0.0/pokepark.apworld",
       "size": 160705,
       "hash_sha256": "5e9b4a7730932bbe9df8c8f09066e76379ed3a84c06e76fff318f5f88d591e77",
@@ -55880,22 +55906,6 @@
       }
     },
     {
-      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0/sadx.apworld",
-      "size": 3155707,
-      "hash_sha256": "e07fa313e17479fac211128ca5fa89c2b439300b7f4b00f4882ae098f55b2bc3",
-      "metadata": {
-        "game": "Sonic Adventure DX",
-        "id": "sadx",
-        "world_version": "1.2.0",
-        "tag_version": "1.2.0",
-        "created_at": "2026-01-17T00:42:33Z",
-        "minimum_ap_version": "0.6.3",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0-pre-release-4/sadx.apworld",
       "size": 3155669,
       "hash_sha256": "450edff0409cfd9162cf8686682308ad18115ab5007711c745df7b918e374337",
@@ -55905,6 +55915,22 @@
         "world_version": "1.2.0",
         "tag_version": "1.2.0",
         "created_at": "2026-02-13T14:07:09Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0/sadx.apworld",
+      "size": 3155707,
+      "hash_sha256": "e07fa313e17479fac211128ca5fa89c2b439300b7f4b00f4882ae098f55b2bc3",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-01-17T00:42:33Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "prerelease"
@@ -68067,6 +68093,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.0/tloz_st.apworld",
+      "size": 260898,
+      "hash_sha256": "2541e4f264aca6f60fc3b8acd4c3e1d6bd53d321e50a77aaff0468aeba5f6825",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-02-13T20:06:04Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -68222,8 +68261,8 @@
     },
     {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.0/tloz_st.apworld",
-      "size": 260898,
-      "hash_sha256": "2541e4f264aca6f60fc3b8acd4c3e1d6bd53d321e50a77aaff0468aeba5f6825",
+      "size": 260663,
+      "hash_sha256": "a162463f36251b3b1bd0a022e5bab9d009c3606a26ff4bfa331e0acb40dec447",
       "metadata": {
         "game": "The Legend of Zelda - Spirit Tracks",
         "id": "tloz_st",
