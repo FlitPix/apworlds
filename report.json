@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 517,
-  "total_versions": 5425,
+  "total_versions": 5433,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -72,7 +72,7 @@
     "cv_dos": true,
     "cvcotm": false,
     "cvhodis": false,
-    "cvlod": false,
+    "cvlod": true,
     "dark_souls_2": false,
     "dc1": true,
     "dc2": true,
@@ -440,7 +440,7 @@
     "tloz_ooa": false,
     "tloz_oos": true,
     "tloz_ph": true,
-    "tloz_st": false,
+    "tloz_st": true,
     "tmc": true,
     "tracker": true,
     "trackmania": true,
