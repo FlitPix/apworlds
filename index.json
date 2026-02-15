@@ -6862,6 +6862,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-59/borderlands2.apworld",
+      "size": 49673,
+      "hash_sha256": "86a35599b4b064d3c20e5f663fd0db2d23786778460e27ab3d934772ef161930",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "59",
+        "tag_version": "59",
+        "created_at": "2026-02-15T04:42:59Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -12128,6 +12144,19 @@
       }
     },
     {
+      "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v1.0hotfix/cvlod.apworld",
+      "size": 208955,
+      "hash_sha256": "eec23eb20de8265c44120729912f8c5f85412a570ed9e6fd44699b77c013790c",
+      "metadata": {
+        "game": "Castlevania - Legacy of Darkness",
+        "id": "cvlod",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-02-08T17:39:49Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlodbijcw%26v_v1/cvlod.apworld",
       "size": 91528,
       "hash_sha256": "3978f5f4a78f34af6b01504c394b65c4f961453b030c700f0c3c04c52d771b65",
@@ -12151,19 +12180,6 @@
         "tag_version": "2",
         "created_at": "2024-05-20T07:04:06Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v1.0hotfix/cvlod.apworld",
-      "size": 208955,
-      "hash_sha256": "eec23eb20de8265c44120729912f8c5f85412a570ed9e6fd44699b77c013790c",
-      "metadata": {
-        "game": "Castlevania - Legacy of Darkness",
-        "id": "cvlod",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2026-02-08T17:39:49Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -20792,6 +20808,22 @@
         "id": "flipwitch",
         "world_version": "1.0.0.post4",
         "tag_version": "1.0.0.post4",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
+      "size": 72122,
+      "hash_sha256": "9c530243c8eb54e4d32fdd46f54e15e6ecc67a47cf92f1e65e55d82a261f5114",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.0.post5",
+        "tag_version": "1.0.0.post5",
         "created_at": "2026-01-18T18:27:04Z",
         "flags": [
           "after_dark",
