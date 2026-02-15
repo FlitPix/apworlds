@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 517,
-  "total_versions": 5436,
+  "total_packages": 515,
+  "total_versions": 5407,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -146,8 +146,6 @@
     "hitman_woa": true,
     "holo8": true,
     "HololiveTreasureMountain": true,
-    "huniepop": false,
-    "huniepop2": false,
     "hyperrogue": false,
     "iji": true,
     "inscryption": false,
