@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 515,
-  "total_versions": 5409,
+  "total_versions": 5416,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -65,7 +65,7 @@
     "crossword_ap": false,
     "crystal_project": true,
     "crystalis": true,
-    "ctjot": false,
+    "ctjot": true,
     "cuphead": false,
     "custom_robo": false,
     "cv64": false,
@@ -280,7 +280,7 @@
     "manual_yakuzadeadsouls_cfood": false,
     "mario_kart_double_dash": true,
     "mariomissing": true,
-    "medievil": false,
+    "medievil": true,
     "medievil2": true,
     "megamix": true,
     "melee": false,

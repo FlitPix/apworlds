@@ -6771,6 +6771,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-59/borderlands2.apworld",
+      "size": 49673,
+      "hash_sha256": "86a35599b4b064d3c20e5f663fd0db2d23786778460e27ab3d934772ef161930",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "59",
+        "tag_version": "59",
+        "created_at": "2026-02-15T04:42:59Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -6859,22 +6875,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-12-18T22:44:03Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-59/borderlands2.apworld",
-      "size": 49673,
-      "hash_sha256": "86a35599b4b064d3c20e5f663fd0db2d23786778460e27ab3d934772ef161930",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "59",
-        "tag_version": "59",
-        "created_at": "2026-02-15T04:42:59Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -11557,6 +11557,18 @@
       }
     },
     {
+      "world": "https://github.com/Anguirel86/Archipelago/releases/download/v0.0.4/ctjot.apworld",
+      "size": 25702,
+      "hash_sha256": "7c324e8e26f60a6f96714b730ba2076530c3b64c113bd14fd817d105f156a1e7",
+      "metadata": {
+        "game": "Chrono Trigger Jets of Time",
+        "id": "ctjot",
+        "world_version": "0.0.4",
+        "tag_version": "0.0.4",
+        "created_at": "2026-02-15T17:51:24Z"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha01a.1/cuphead.apworld",
       "size": 59913,
       "hash_sha256": "cbb3ca9d7d811c0718582f23e15ac99cc1c30a3cec28f240ed337b6fb9671383",
@@ -14520,6 +14532,19 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.46/dk64.apworld",
+      "size": 36935051,
+      "hash_sha256": "7c86b7c77c08bb32b710beb26f592433e2f0eb3fe8e3117cd1b8f7cbfa213b37",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.46",
+        "tag_version": "1.4.46",
+        "created_at": "2026-02-15T20:29:43Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -23405,6 +23430,22 @@
       }
     },
     {
+      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.0pre0/hammerwatch.apworld",
+      "size": 70777009,
+      "hash_sha256": "ec8b9fc338a19a328ae75afdef957376e96a2a70fc1400225d4940836e88d7ca",
+      "metadata": {
+        "game": "Hammerwatch",
+        "id": "hammerwatch",
+        "world_version": "4.0rc0",
+        "tag_version": "4.0rc0",
+        "created_at": "2025-08-15T12:55:11Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/WritingHusky/haste_apworld/releases/download/v0.3.1/haste.apworld",
       "size": 26302,
       "hash_sha256": "71d3b4c09274ff16c640bde0ae1ad1bc7fea76c14447409885e94e9fd2e19840",
@@ -29032,6 +29073,18 @@
         "id": "liesofp",
         "world_version": "0.1.5",
         "tag_version": "0.1.5",
+        "created_at": "2026-02-14T20:01:31Z"
+      }
+    },
+    {
+      "world": "https://github.com/Xtruh/LiesOfAP/releases/download/0.1.5/liesofp.apworld",
+      "size": 68831,
+      "hash_sha256": "0b0a6bcc6b73e12a1aa67b3b731556650e0fd3a1a98dd81c36ea19f939ec69dc",
+      "metadata": {
+        "game": "Lies Of P",
+        "id": "liesofp",
+        "world_version": "0.1.5.post2",
+        "tag_version": "0.1.5.post2",
         "created_at": "2026-02-14T20:01:31Z"
       }
     },
@@ -37583,6 +37636,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.10/medievil.apworld",
+      "size": 25411,
+      "hash_sha256": "1c4266a1846810398902fc4c97247bbbf5800e2e643edc39d3c5e41d5ad4abf8",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-02-15T22:41:45Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.1/medievil2.apworld",
       "size": 13553,
       "hash_sha256": "cefd4b5b02da1b467ee3e2508c5d9af5096f100f16f07d8dd1d5d92cfc72f6e6",
@@ -41959,6 +42025,19 @@
         "world_version": "0.4.3",
         "tag_version": "0.4.3",
         "created_at": "2025-12-30T05:44:33Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.4/nine_sols.apworld",
+      "size": 2924934,
+      "hash_sha256": "5938249073f0bd33f484db6812cd820e22605e9e92620e3b4764670c381a5ac4",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.4.4",
+        "tag_version": "0.4.4",
+        "created_at": "2026-02-15T17:07:30Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -52503,6 +52582,18 @@
         "world_version": "1.4.0",
         "tag_version": "1.4.0",
         "created_at": "2025-11-28T04:01:33Z"
+      }
+    },
+    {
+      "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.5.0/rain_world.apworld",
+      "size": 176751,
+      "hash_sha256": "154e9a3b21ea762b5083dfc27528ecb6a1d64e352f5e9de923c0a8b97a053c81",
+      "metadata": {
+        "game": "Rain World",
+        "id": "rain_world",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-02-13T18:47:37Z"
       }
     },
     {
