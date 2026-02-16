@@ -6878,6 +6878,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-60/borderlands2.apworld",
+      "size": 49960,
+      "hash_sha256": "0a63c0d2253052c61d28b78dd2913289878ddc6496808927de29b182a7fa0d44",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "60",
+        "tag_version": "60",
+        "created_at": "2026-02-16T04:34:12Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -14470,6 +14486,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.46/dk64.apworld",
+      "size": 36935051,
+      "hash_sha256": "7c86b7c77c08bb32b710beb26f592433e2f0eb3fe8e3117cd1b8f7cbfa213b37",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.46",
+        "tag_version": "1.4.46",
+        "created_at": "2026-02-15T20:29:43Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.5/dk64.apworld",
       "size": 26180522,
       "hash_sha256": "2d85a7467a5932a3c8f702c6b49e9c9ac736b98126b670a4b38a628f0c7155dc",
@@ -14532,19 +14561,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.46/dk64.apworld",
-      "size": 36935051,
-      "hash_sha256": "7c86b7c77c08bb32b710beb26f592433e2f0eb3fe8e3117cd1b8f7cbfa213b37",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.46",
-        "tag_version": "1.4.46",
-        "created_at": "2026-02-15T20:29:43Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -20849,6 +20865,22 @@
         "id": "flipwitch",
         "world_version": "1.0.0.post5",
         "tag_version": "1.0.0.post5",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
+      "size": 72120,
+      "hash_sha256": "4c0d2079d37aff473fe80fc24df556a155fc517aa10d1c6866f77c8eb1f2421d",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.0.post6",
+        "tag_version": "1.0.0.post6",
         "created_at": "2026-01-18T18:27:04Z",
         "flags": [
           "after_dark",
@@ -37532,6 +37564,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.10/medievil.apworld",
+      "size": 25411,
+      "hash_sha256": "1c4266a1846810398902fc4c97247bbbf5800e2e643edc39d3c5e41d5ad4abf8",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-02-15T22:41:45Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.2/medievil.apworld",
       "size": 25771,
       "hash_sha256": "0f9455d528a840bdaa4ed8d2ee646c97c598f85bc7a696a5774c5b32e203fd35",
@@ -37633,19 +37678,6 @@
         "tag_version": "0.2.9",
         "created_at": "2026-01-19T16:25:40Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.10/medievil.apworld",
-      "size": 25411,
-      "hash_sha256": "1c4266a1846810398902fc4c97247bbbf5800e2e643edc39d3c5e41d5ad4abf8",
-      "metadata": {
-        "game": "Medievil",
-        "id": "medievil",
-        "world_version": "0.2.8",
-        "tag_version": "0.2.8",
-        "created_at": "2026-02-15T22:41:45Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -43102,6 +43134,18 @@
         "world_version": "0.1.20",
         "tag_version": "0.1.20",
         "created_at": "2025-12-03T17:56:44Z"
+      }
+    },
+    {
+      "world": "https://github.com/Crazycolbster/rollercoaster-tycoon-randomizer/releases/download/v0.1.21-beta/openrct2.apworld",
+      "size": 1603632,
+      "hash_sha256": "8a302b2d7f1d444086cabbbd1c48ee4fa9223f3a351b23394418429e2421ea7a",
+      "metadata": {
+        "game": "OpenRCT2",
+        "id": "openrct2",
+        "world_version": "0.1.20",
+        "tag_version": "0.1.20",
+        "created_at": "2026-02-16T03:16:27Z"
       }
     },
     {
