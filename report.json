@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 515,
-  "total_versions": 5419,
+  "total_versions": 5428,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -175,7 +175,7 @@
     "ladx_beta": true,
     "lego_batman_1": true,
     "lego_star_wars_tcs": true,
-    "lethal_company": false,
+    "lethal_company": true,
     "liesofp": true,
     "lil_gator_game": true,
     "lingo2": false,
