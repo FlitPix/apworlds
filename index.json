@@ -1871,6 +1871,19 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.1/ape_escape_3.apworld",
+      "size": 137951,
+      "hash_sha256": "7da998cce6bb094a08b7862c4a1738bec740a76534bc3feb4ec091225c8e02c6",
+      "metadata": {
+        "game": "Ape Escape 3",
+        "id": "ape_escape_3",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-02-16T16:56:00Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.3.0/apeescape.apworld",
       "size": 181274,
       "hash_sha256": "9ccc189c239d744a190f6e8eb6ca34c74d37490cde0723159d931dc6828da145",
@@ -7106,6 +7119,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.14.0/brotato.apworld",
+      "size": 43632,
+      "hash_sha256": "ae22c9a312b7dfaa3a7f111ff8a02d78f1ec2eb1ac821d9e076c0228f51cfecb",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.14.0",
+        "tag_version": "0.14.0",
+        "created_at": "2026-02-16T18:27:00Z"
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.2.0/brotato.apworld",
       "size": 17355,
       "hash_sha256": "58eab0a0a6062cb23b55b8ef1f520510f1bfdd9904bd22e28415dfbfaa7a684c",
@@ -7337,18 +7362,6 @@
         "tag_version": "0.9.1",
         "created_at": "2025-07-18T01:16:55Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.14.0/brotato.apworld",
-      "size": 43632,
-      "hash_sha256": "ae22c9a312b7dfaa3a7f111ff8a02d78f1ec2eb1ac821d9e076c0228f51cfecb",
-      "metadata": {
-        "game": "Brotato",
-        "id": "brotato",
-        "world_version": "0.14.0",
-        "tag_version": "0.14.0",
-        "created_at": "2026-02-16T18:27:00Z"
       }
     },
     {
@@ -13202,19 +13215,6 @@
       }
     },
     {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
-      "size": 16029,
-      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.13",
-        "tag_version": "0.13",
-        "created_at": "2025-10-31T00:58:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16.3/deep_rock_galactic.apworld",
       "size": 27836,
       "hash_sha256": "bc29ce1a344702789f57a03537ebbe26f624efc771e7feebc050983cab06c45e",
@@ -13224,6 +13224,19 @@
         "world_version": "0.16.3",
         "tag_version": "0.16.3",
         "created_at": "2026-02-16T15:55:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
+      "size": 16029,
+      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.13",
+        "tag_version": "0.13",
+        "created_at": "2025-10-31T00:58:51Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -19026,6 +19039,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.15/ff1pr.apworld",
+      "size": 28092,
+      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.5.12",
+        "tag_version": "0.5.12",
+        "created_at": "2026-02-17T00:15:30Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.2/ff1pr.apworld",
       "size": 90130,
       "hash_sha256": "6225e452222deddbb2a3fd390794563ab691f29b4ffbecb9e68b18785af216bc",
@@ -19126,19 +19152,6 @@
         "world_version": "0.5.8",
         "tag_version": "0.5.8",
         "created_at": "2025-10-04T17:02:17Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.15/ff1pr.apworld",
-      "size": 28092,
-      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
-      "metadata": {
-        "game": "FF1 Pixel Remaster",
-        "id": "ff1pr",
-        "world_version": "0.5.12",
-        "tag_version": "0.5.12",
-        "created_at": "2026-02-17T00:15:30Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -37643,6 +37656,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.11/medievil.apworld",
+      "size": 25410,
+      "hash_sha256": "b7ae56163b62250007a0f3ff1ff4e5e451e9251644769f87aa5de2434bd99b10",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-02-16T18:31:55Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.2/medievil.apworld",
       "size": 25771,
       "hash_sha256": "0f9455d528a840bdaa4ed8d2ee646c97c598f85bc7a696a5774c5b32e203fd35",
@@ -37744,19 +37770,6 @@
         "tag_version": "0.2.9",
         "created_at": "2026-01-19T16:25:40Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.11/medievil.apworld",
-      "size": 25410,
-      "hash_sha256": "b7ae56163b62250007a0f3ff1ff4e5e451e9251644769f87aa5de2434bd99b10",
-      "metadata": {
-        "game": "Medievil",
-        "id": "medievil",
-        "world_version": "0.2.8",
-        "tag_version": "0.2.8",
-        "created_at": "2026-02-16T18:31:55Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -62718,6 +62731,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.0/spyro3.apworld",
+      "size": 53445,
+      "hash_sha256": "6541052d94e66c83d5206513a7bc0c9200e36a3f9978c58f146e01b11fd7bfa3",
+      "metadata": {
+        "game": "Spyro 3",
+        "id": "spyro3",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2026-02-16T20:20:50Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S3AP/releases/download/open_world_test/spyro3.apworld",
       "size": 43547,
       "hash_sha256": "ac25ad05c48a53b800ae8423eb1f611e8ba52085ae2215a02d8926d804dd3aa8",
@@ -62731,19 +62757,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.0/spyro3.apworld",
-      "size": 53445,
-      "hash_sha256": "6541052d94e66c83d5206513a7bc0c9200e36a3f9978c58f146e01b11fd7bfa3",
-      "metadata": {
-        "game": "Spyro 3",
-        "id": "spyro3",
-        "world_version": "1.3.0",
-        "tag_version": "1.3.0",
-        "created_at": "2026-02-16T20:20:50Z",
-        "minimum_ap_version": "0.6.1"
       }
     },
     {
@@ -63499,6 +63512,19 @@
         "world_version": "0.2.3a0",
         "tag_version": "0.2.3a0",
         "created_at": "2025-12-08T12:53:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/JammyGeeza/Stacklands-Randomizer/releases/download/v0.2.4-alpha/stacklands.apworld",
+      "size": 25821,
+      "hash_sha256": "2025bb99a9a7e4bfd008617a535a5f7ead16cb6d2ddc3731d122a8dc73b0bf6d",
+      "metadata": {
+        "game": "Stacklands",
+        "id": "stacklands",
+        "world_version": "0.2.4a0",
+        "tag_version": "0.2.4a0",
+        "created_at": "2026-02-17T10:09:48Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -70184,6 +70210,18 @@
       }
     },
     {
+      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.4.1/ty_the_tasmanian_tiger.apworld",
+      "size": 40201,
+      "hash_sha256": "e8126f5d6b519b534799ddc07b14ac83ee5d6f2079f9be1c41babc8521a10ca3",
+      "metadata": {
+        "game": "Ty the Tasmanian Tiger",
+        "id": "ty_the_tasmanian_tiger",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-02-16T21:12:23Z"
+      }
+    },
+    {
       "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/v1.3.4/ty_the_tasmanian_tiger.apworld",
       "size": 124271,
       "hash_sha256": "a206040a4a96ef52684be1c127236d2fb97f7fab00a60d1269a46ddb50a04a26",
@@ -70194,18 +70232,6 @@
         "tag_version": "1.3.4",
         "created_at": "2025-11-07T22:27:33Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.4.1/ty_the_tasmanian_tiger.apworld",
-      "size": 40201,
-      "hash_sha256": "e8126f5d6b519b534799ddc07b14ac83ee5d6f2079f9be1c41babc8521a10ca3",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.4.1",
-        "tag_version": "1.4.1",
-        "created_at": "2026-02-16T21:12:23Z"
       }
     },
     {
