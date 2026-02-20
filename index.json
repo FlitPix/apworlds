@@ -4150,6 +4150,19 @@
       }
     },
     {
+      "world": "https://github.com/mail-liam/Archipelago/releases/download/beta3.3/axiomverge.apworld",
+      "size": 196413,
+      "hash_sha256": "c3b6758a989ac9852b0e7594d83c4a5fa60114063822bb53f37f2b2f318e7ed2",
+      "metadata": {
+        "game": "Axiom Verge",
+        "id": "axiomverge",
+        "world_version": "3.3",
+        "tag_version": "3.3",
+        "created_at": "2026-02-20T01:51:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-BacklogExpedition-APWorld/releases/download/v1.0.0/backlog_expedition.apworld",
       "size": 12193,
       "hash_sha256": "e3afe861f523dd83766f18bb94dc5923cc5979b79f75574d9e6b468194472a3b",
@@ -25672,6 +25685,22 @@
       }
     },
     {
+      "world": "https://github.com/ArchipelaGOAL/Archipelago/releases/download/v1.2.0/jakanddaxter.apworld",
+      "size": 107438,
+      "hash_sha256": "b3aff18a927881880990088855ffadec3b21b94261949247715d60a2567ad227",
+      "metadata": {
+        "game": "Jak and Daxter The Precursor Legacy",
+        "id": "jakanddaxter",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-02-19T23:01:21Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/narramoment/Archipelago/releases/download/0.0.1/jakii.apworld",
       "size": 97924,
       "hash_sha256": "f1c2c821df1ddac68ba8448356b29ed504752e7cfeb22486d7515a0baf638360",
@@ -30717,6 +30746,19 @@
         "tag_version": "0.3.0",
         "created_at": "2025-04-20T10:42:37Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.6.0/luigismansion.apworld",
+      "size": 228452,
+      "hash_sha256": "0aa4a9be4c65cd1eb017f77a75e0b8a2b23605fa1c9b0fd10d23816156d09bd6",
+      "metadata": {
+        "game": "Luigi's Mansion",
+        "id": "luigismansion",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-02-19T22:13:10Z",
+        "minimum_ap_version": "0.6.6"
       }
     },
     {
@@ -42964,6 +43006,19 @@
       }
     },
     {
+      "world": "https://github.com/HarbourMasters/Archipelago-SoH/releases/download/SoH_1.2.1/oot_soh.apworld",
+      "size": 199830,
+      "hash_sha256": "c6c8a78ba29479d8a8f8b2be915690f610d58a6b14b820c5d5ec0da759f82dda",
+      "metadata": {
+        "game": "Ship of Harkinian",
+        "id": "oot_soh",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-02-19T15:11:26Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Alchav/ootbijmqwt/releases/download/v1.0/ootbijmqwt.apworld",
       "size": 6617,
       "hash_sha256": "7e720b99bebfd7fe4c564d5625ee008592420b7966e3276290b295e9f2b1b03a",
@@ -55117,6 +55172,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.10.0/rotn.apworld",
+      "size": 63810,
+      "hash_sha256": "7058b33406aec13d3a80c2a42871d7f17dde495b573d15d49a26513b59c9d872",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-02-19T22:29:10Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/dgrossmann144/Archipelago/releases/download/AlphaRelease/rusted_moss.apworld",
       "size": 46349,
       "hash_sha256": "185e14db1e838b42e5db16bbc95891c6648ab99d04b0b4dc5fcf91f5394b38bc",
@@ -62382,6 +62450,20 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/1.1.0/spyro2.apworld",
+      "size": 35771,
+      "hash_sha256": "7cee6dcdfad4cac0599fdc2d4eee1b5e4283d68cf8c66f9451f5f1402a0ea402",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-02-19T22:49:54Z",
+        "minimum_ap_version": "0.6.1",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/S3AP/releases/download/0.0.1/spyro3.apworld",
       "size": 30477,
       "hash_sha256": "6aa47ee49c270d6587fec285ca70062a530aa45b351a7aa79e9b0d1a60f1d8b8",
@@ -67538,6 +67620,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.5-alpha/tloz_ph.apworld",
+      "size": 2571786,
+      "hash_sha256": "583cc86fce3889f138b4a31465ba07a3daff8705faa31da2b53baac21431ed1b",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.5",
+        "tag_version": "0.8.5",
+        "created_at": "2026-02-19T09:13:41Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -67968,19 +68063,6 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
-        "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.5-alpha/tloz_ph.apworld",
-      "size": 2571786,
-      "hash_sha256": "583cc86fce3889f138b4a31465ba07a3daff8705faa31da2b53baac21431ed1b",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.8.5",
-        "tag_version": "0.8.5",
-        "created_at": "2026-02-19T09:13:41Z",
         "minimum_ap_version": "0.6.0"
       }
     },
