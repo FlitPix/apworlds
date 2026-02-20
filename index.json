@@ -4137,19 +4137,6 @@
       }
     },
     {
-      "world": "https://github.com/mail-liam/Archipelago/releases/download/beta3/axiomverge.apworld",
-      "size": 84720,
-      "hash_sha256": "d378456e516bcdc125777ce0679945dde964b489bbacc80ec40cb0f0eed94866",
-      "metadata": {
-        "game": "Axiom Verge",
-        "id": "axiomverge",
-        "world_version": "3.post2",
-        "tag_version": "3.post2",
-        "created_at": "2024-08-08T18:33:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/mail-liam/Archipelago/releases/download/beta3.3/axiomverge.apworld",
       "size": 196413,
       "hash_sha256": "c3b6758a989ac9852b0e7594d83c4a5fa60114063822bb53f37f2b2f318e7ed2",
@@ -4159,6 +4146,19 @@
         "world_version": "3.3",
         "tag_version": "3.3",
         "created_at": "2026-02-20T01:51:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/mail-liam/Archipelago/releases/download/beta3/axiomverge.apworld",
+      "size": 84720,
+      "hash_sha256": "d378456e516bcdc125777ce0679945dde964b489bbacc80ec40cb0f0eed94866",
+      "metadata": {
+        "game": "Axiom Verge",
+        "id": "axiomverge",
+        "world_version": "3.post2",
+        "tag_version": "3.post2",
+        "created_at": "2024-08-08T18:33:13Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -30736,19 +30736,6 @@
       }
     },
     {
-      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/v0.3.0/luigismansion.apworld",
-      "size": 288955,
-      "hash_sha256": "dc68ef8e745384db02e3406b4bd78d2aab16c0d0c85e136c552cabf45d97bf8d",
-      "metadata": {
-        "game": "Luigi's Mansion",
-        "id": "luigismansion",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2025-04-20T10:42:37Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.6.0/luigismansion.apworld",
       "size": 228452,
       "hash_sha256": "0aa4a9be4c65cd1eb017f77a75e0b8a2b23605fa1c9b0fd10d23816156d09bd6",
@@ -30759,6 +30746,19 @@
         "tag_version": "0.6.0",
         "created_at": "2026-02-19T22:13:10Z",
         "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/v0.3.0/luigismansion.apworld",
+      "size": 288955,
+      "hash_sha256": "dc68ef8e745384db02e3406b4bd78d2aab16c0d0c85e136c552cabf45d97bf8d",
+      "metadata": {
+        "game": "Luigi's Mansion",
+        "id": "luigismansion",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2025-04-20T10:42:37Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -54940,6 +54940,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.10.0/rotn.apworld",
+      "size": 63810,
+      "hash_sha256": "7058b33406aec13d3a80c2a42871d7f17dde495b573d15d49a26513b59c9d872",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-02-19T22:29:10Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.2/rotn.apworld",
       "size": 23898,
       "hash_sha256": "13d37ba93b971cdf8d47f7673725577e6640408c9a7cef6b420d564c5258e402",
@@ -55168,19 +55181,6 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.10.0/rotn.apworld",
-      "size": 63810,
-      "hash_sha256": "7058b33406aec13d3a80c2a42871d7f17dde495b573d15d49a26513b59c9d872",
-      "metadata": {
-        "game": "Rift of the Necrodancer",
-        "id": "rotn",
-        "world_version": "0.10.0",
-        "tag_version": "0.10.0",
-        "created_at": "2026-02-19T22:29:10Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -62370,6 +62370,20 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/1.1.0/spyro2.apworld",
+      "size": 35771,
+      "hash_sha256": "7cee6dcdfad4cac0599fdc2d4eee1b5e4283d68cf8c66f9451f5f1402a0ea402",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-02-19T22:49:54Z",
+        "minimum_ap_version": "0.6.1",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S2AP/releases/download/full_gemsanity_31_10_25/spyro2.apworld",
       "size": 30729,
       "hash_sha256": "140e609154fe0bd3d5d15d6eea5948bd54ed750f4439fbecce2e069885ec86ab",
@@ -62447,20 +62461,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S2AP/releases/download/1.1.0/spyro2.apworld",
-      "size": 35771,
-      "hash_sha256": "7cee6dcdfad4cac0599fdc2d4eee1b5e4283d68cf8c66f9451f5f1402a0ea402",
-      "metadata": {
-        "game": "Spyro 2",
-        "id": "spyro2",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2026-02-19T22:49:54Z",
-        "minimum_ap_version": "0.6.1",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
