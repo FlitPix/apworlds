@@ -150,6 +150,19 @@
       }
     },
     {
+      "world": "https://github.com/ClaudeChibout/Archipelago-ADOFAI/releases/download/v1.2.1/adofai.apworld",
+      "size": 12599,
+      "hash_sha256": "13a02b1f18ade4132bbbe5cf2702e5e4baa82e90200bd9e79be278a59df4a859",
+      "metadata": {
+        "game": "A Dance of Fire and Ice",
+        "id": "adofai",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-02-20T18:52:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.1.0-alpha/against_the_storm.apworld",
       "size": 7739,
       "hash_sha256": "b0f24ebe471afa8b891010410f346ecbb3b3188e11f5ddbbe41b1cf05bea6855",
@@ -18710,6 +18723,19 @@
       }
     },
     {
+      "world": "https://github.com/Bartz24/Archipelago/releases/download/0.6.3/ff12_open_world.apworld",
+      "size": 83622,
+      "hash_sha256": "960801e0368d19d41557299804388cf31e46fac5251c4175b271b00cdd340090",
+      "metadata": {
+        "game": "Final Fantasy 12 Open World",
+        "id": "ff12_open_world",
+        "world_version": "0.6.3",
+        "tag_version": "0.6.3",
+        "created_at": "2026-02-20T15:45:43Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.1.0/ff1pr.apworld",
       "size": 39278,
       "hash_sha256": "ccfbe692ded3c296f1aabf27aebf14264b3a2ad0faadf7a430846b34de808c36",
@@ -29300,6 +29326,18 @@
       }
     },
     {
+      "world": "https://github.com/Xtruh/LiesOfAP/releases/download/0.1.5/liesofp.apworld",
+      "size": 68795,
+      "hash_sha256": "2f66de70c93f9db2492a5ad1ba0d8382b25d9c6e1717957c1cf8d6598c19d272",
+      "metadata": {
+        "game": "Lies Of P",
+        "id": "liesofp",
+        "world_version": "0.1.5.post3",
+        "tag_version": "0.1.5.post3",
+        "created_at": "2026-02-14T20:01:31Z"
+      }
+    },
+    {
       "world": "https://github.com/natronium/GatorArchipelago/releases/download/v1.0.0/lil_gator_game.apworld",
       "size": 25897,
       "hash_sha256": "107e621df4b4d1a434436b0c0a2997186ed76a468a3f77cb3cc0f2310101aa8d",
@@ -35826,6 +35864,18 @@
         "tag_version": "1.0.0",
         "created_at": "2025-05-28T19:59:17Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/IThisGuyHere/SkylandersGiants_Manual/releases/download/v1.1.0/manual_skylandersgiants_thisguyhere.apworld",
+      "size": 74573,
+      "hash_sha256": "cd5d936fc1d6c02a7a67247a18be8b270041b0f599d45debe547019a3b125089",
+      "metadata": {
+        "game": "Manual_SkylandersGiants_ThisGuyHere",
+        "id": "manual_skylandersgiants_thisguyhere",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-02-20T22:35:36Z"
       }
     },
     {
@@ -49982,6 +50032,19 @@
       }
     },
     {
+      "world": "https://github.com/vyneras/Archipelago/releases/download/1.0.3/pokemon_frlg.apworld",
+      "size": 1526427,
+      "hash_sha256": "ff13400fd3209a4e78a6841e4fd24d73bbe04f1e330912ec1d9895298347a0ad",
+      "metadata": {
+        "game": "Pokemon FireRed and LeafGreen",
+        "id": "pokemon_frlg",
+        "world_version": "1.0.3",
+        "tag_version": "1.0.3",
+        "created_at": "2026-02-21T00:52:32Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/pokepinball_v0.0.1/pokemon_pinball.apworld",
       "size": 27058,
       "hash_sha256": "7996004a72a59dc4c6fdec12af181c4b21bcf6977f2eadebb5cb55ac17e55b5c",
@@ -55856,6 +55919,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0/sadx.apworld",
+      "size": 3155667,
+      "hash_sha256": "525ff9508bb492bb0b71a0a852b371891f8e2e639a08f1e3cbc02bb9235b5d9a",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-01-17T00:42:33Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -66885,6 +66961,19 @@
         "world_version": "0.4.1",
         "tag_version": "0.4.1",
         "created_at": "2026-02-02T12:00:59Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.2/tje.apworld",
+      "size": 77671,
+      "hash_sha256": "d617b75da0d2c3ab51cf4a5d082bdf999d567f03f68743a5029b59019fcd6432",
+      "metadata": {
+        "game": "ToeJam and Earl",
+        "id": "tje",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-02-20T13:18:53Z",
         "maximum_ap_version": "0.6.99"
       }
     },

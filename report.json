@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 515,
-  "total_versions": 5442,
+  "total_versions": 5449,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -252,7 +252,7 @@
     "manual_residentevil4_vincentssin": false,
     "manual_residentevil5_garbo": false,
     "manual_riftofthenecrodancer_axxroy": false,
-    "manual_skylandersgiants_thisguyhere": false,
+    "manual_skylandersgiants_thisguyhere": true,
     "manual_slimerancher_axxroy": false,
     "manual_smo_empathymp3": false,
     "manual_smo_mp3": false,
