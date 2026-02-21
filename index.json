@@ -134,6 +134,19 @@
       }
     },
     {
+      "world": "https://github.com/ClaudeChibout/Archipelago-ADOFAI/releases/download/v1.2.1/adofai.apworld",
+      "size": 12599,
+      "hash_sha256": "13a02b1f18ade4132bbbe5cf2702e5e4baa82e90200bd9e79be278a59df4a859",
+      "metadata": {
+        "game": "A Dance of Fire and Ice",
+        "id": "adofai",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-02-20T18:52:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ClaudeChibout/Archipelago-ADOFAI/releases/download/v2.0.0-beta/adofai.apworld",
       "size": 12337,
       "hash_sha256": "86b10d0894cc1ced7e02a2604de475740e1f8d71599157d6af8978f44b22f60c",
@@ -147,19 +160,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/ClaudeChibout/Archipelago-ADOFAI/releases/download/v1.2.1/adofai.apworld",
-      "size": 12599,
-      "hash_sha256": "13a02b1f18ade4132bbbe5cf2702e5e4baa82e90200bd9e79be278a59df4a859",
-      "metadata": {
-        "game": "A Dance of Fire and Ice",
-        "id": "adofai",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2026-02-20T18:52:18Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -21050,6 +21050,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0/flipwitch.apworld",
+      "size": 72133,
+      "hash_sha256": "17cd480e23906c9727680d4381bc19da8e6ce4d675345dff057b850c31367141",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/sg4e/Archipelago/releases/download/v1.0.0/fm.apworld",
       "size": 70361,
       "hash_sha256": "1db5179bdb048c65b594a81c6460ff4c00d9109503219995be08564d1c55b183",
@@ -30797,6 +30812,19 @@
         "tag_version": "0.3.0",
         "created_at": "2025-04-20T10:42:37Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.22/luigismansion.apworld",
+      "size": 206969,
+      "hash_sha256": "91cfaa216f5c32f80e11e8cd5a77eaf313ff455e00a9c5af4d740f099cc8d37a",
+      "metadata": {
+        "game": "Luigi's Mansion",
+        "id": "luigismansion",
+        "world_version": "0.5.21",
+        "tag_version": "0.5.21",
+        "created_at": "2026-02-19T00:49:22Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -50318,6 +50346,19 @@
       }
     },
     {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.4.2/PokemonStadium.apworld",
+      "size": 141721,
+      "hash_sha256": "f641b66c370c520a20ae68b92a8f18c9f3a3d9e4820db8cc4d260a98cff26836",
+      "metadata": {
+        "game": "Pokemon Stadium",
+        "id": "PokemonStadium",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-02-21T06:49:55Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/0.0.0/pokepark.apworld",
       "size": 160705,
       "hash_sha256": "5e9b4a7730932bbe9df8c8f09066e76379ed3a84c06e76fff318f5f88d591e77",
@@ -66974,6 +67015,19 @@
         "world_version": "0.4.2",
         "tag_version": "0.4.2",
         "created_at": "2026-02-20T13:18:53Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.2a/tje.apworld",
+      "size": 77687,
+      "hash_sha256": "70eca2edfa99ac1bd0dea8df717585000344a1b526a7a3359b0362ebf0c8d5bb",
+      "metadata": {
+        "game": "ToeJam and Earl",
+        "id": "tje",
+        "world_version": "0.4.2a0",
+        "tag_version": "0.4.2a0",
+        "created_at": "2026-02-21T04:15:07Z",
         "maximum_ap_version": "0.6.99"
       }
     },
