@@ -6868,6 +6868,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-61/borderlands2.apworld",
+      "size": 50528,
+      "hash_sha256": "7e8de26e1c5d1b078b514087de865a166bc3519cbfec9bc4383d85753fefc621",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "61",
+        "tag_version": "61",
+        "created_at": "2026-02-21T20:12:19Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -6956,22 +6972,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-12-18T22:44:03Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-61/borderlands2.apworld",
-      "size": 50528,
-      "hash_sha256": "7e8de26e1c5d1b078b514087de865a166bc3519cbfec9bc4383d85753fefc621",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "61",
-        "tag_version": "61",
-        "created_at": "2026-02-21T20:12:19Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -62648,6 +62648,20 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/1.1.1/spyro2.apworld",
+      "size": 35677,
+      "hash_sha256": "d360ba431fda9bdbf6c10adc35ce39ddfdbd0608602a19d62eb8d4fa0d8368e1",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-02-22T05:24:52Z",
+        "minimum_ap_version": "0.6.1",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
