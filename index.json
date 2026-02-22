@@ -6959,6 +6959,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-61/borderlands2.apworld",
+      "size": 50528,
+      "hash_sha256": "7e8de26e1c5d1b078b514087de865a166bc3519cbfec9bc4383d85753fefc621",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "61",
+        "tag_version": "61",
+        "created_at": "2026-02-21T20:12:19Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -8492,6 +8508,19 @@
         "world_version": "0.6.4",
         "tag_version": "0.6.4",
         "created_at": "2026-02-14T03:56:00Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.5/casualtiesunknown.apworld",
+      "size": 81466,
+      "hash_sha256": "2f9a98740016551cb57667ecf8cf1f6bb2be79de64dac177f3e07c56a6122f0e",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.5",
+        "tag_version": "0.6.5",
+        "created_at": "2026-02-22T01:15:07Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -20938,6 +20967,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0/flipwitch.apworld",
+      "size": 72133,
+      "hash_sha256": "17cd480e23906c9727680d4381bc19da8e6ce4d675345dff057b850c31367141",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
       "size": 71868,
       "hash_sha256": "be35da2e6bdcdd729b34397262796241232fbfb83e48a277210a968867659433",
@@ -21046,21 +21090,6 @@
         "flags": [
           "after_dark",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0/flipwitch.apworld",
-      "size": 72133,
-      "hash_sha256": "17cd480e23906c9727680d4381bc19da8e6ce4d675345dff057b850c31367141",
-      "metadata": {
-        "game": "Flipwitch Forbidden Sex Hex",
-        "id": "flipwitch",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-01-18T18:27:04Z",
-        "flags": [
-          "after_dark"
         ]
       }
     },
@@ -29353,6 +29382,18 @@
       }
     },
     {
+      "world": "https://github.com/Xtruh/LiesOfAP/releases/download/0.1.5/liesofp.apworld",
+      "size": 68862,
+      "hash_sha256": "2b4bc4b229654601285d4c721298acb5032e3edefdb2e6233149e149d444e247",
+      "metadata": {
+        "game": "Lies Of P",
+        "id": "liesofp",
+        "world_version": "0.1.5.post4",
+        "tag_version": "0.1.5.post4",
+        "created_at": "2026-02-14T20:01:31Z"
+      }
+    },
+    {
       "world": "https://github.com/natronium/GatorArchipelago/releases/download/v1.0.0/lil_gator_game.apworld",
       "size": 25897,
       "hash_sha256": "107e621df4b4d1a434436b0c0a2997186ed76a468a3f77cb3cc0f2310101aa8d",
@@ -30696,6 +30737,19 @@
       }
     },
     {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.22/luigismansion.apworld",
+      "size": 206969,
+      "hash_sha256": "91cfaa216f5c32f80e11e8cd5a77eaf313ff455e00a9c5af4d740f099cc8d37a",
+      "metadata": {
+        "game": "Luigi's Mansion",
+        "id": "luigismansion",
+        "world_version": "0.5.21",
+        "tag_version": "0.5.21",
+        "created_at": "2026-02-19T00:49:22Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.3/luigismansion.apworld",
       "size": 162619,
       "hash_sha256": "d3af92d5f70f2b82d769a377380d9047ef4cad21ef6296d5f4dfd144992b2c56",
@@ -30812,19 +30866,6 @@
         "tag_version": "0.3.0",
         "created_at": "2025-04-20T10:42:37Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.22/luigismansion.apworld",
-      "size": 206969,
-      "hash_sha256": "91cfaa216f5c32f80e11e8cd5a77eaf313ff455e00a9c5af4d740f099cc8d37a",
-      "metadata": {
-        "game": "Luigi's Mansion",
-        "id": "luigismansion",
-        "world_version": "0.5.21",
-        "tag_version": "0.5.21",
-        "created_at": "2026-02-19T00:49:22Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -38855,6 +38896,22 @@
         "world_version": "0.6.3",
         "tag_version": "0.6.3",
         "created_at": "2025-08-19T01:40:33Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.6-messenger-ut/messenger.apworld",
+      "size": 66918,
+      "hash_sha256": "5a830e95f2a66b776552f6a1cca50e10c9bbf4ecb3f2a420ca9887485f596fe2",
+      "metadata": {
+        "game": "The Messenger",
+        "id": "messenger",
+        "world_version": "0.6.6",
+        "tag_version": "0.6.6",
+        "created_at": "2026-02-21T23:25:10Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -50251,6 +50308,19 @@
         "world_version": "0.1.7",
         "tag_version": "0.1.7",
         "created_at": "2026-02-16T17:47:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/ljtpetersen/platinum_archipelago/releases/download/v0.1.8/pokemon_platinum.apworld",
+      "size": 584418,
+      "hash_sha256": "7dbcbbc6fc25e52e34d4dc14a62ac7800ace8a828cebfb73b4f6d0042e09b576",
+      "metadata": {
+        "game": "Pokemon Platinum",
+        "id": "pokemon_platinum",
+        "world_version": "0.1.8",
+        "tag_version": "0.1.8",
+        "created_at": "2026-02-21T23:48:18Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -63356,6 +63426,19 @@
       }
     },
     {
+      "world": "https://github.com/Battlecats59/SS_APWorld/releases/download/v0.5.5/ss.apworld",
+      "size": 194311,
+      "hash_sha256": "601267bde4d7bae2cf2799a3fa5f543af470e53c62aeff0511cc0bd185ab1141",
+      "metadata": {
+        "game": "Skyward Sword",
+        "id": "ss",
+        "world_version": "0.5.5",
+        "tag_version": "0.5.5",
+        "created_at": "2026-02-21T17:35:19Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/Partatio/SS2-Apworld/releases/download/0.1.1/ss2.apworld",
       "size": 33766,
       "hash_sha256": "1b663cf7c0c1c15d3984a378066985951186f8194bf9f1d0fcad59b89b942cb0",
@@ -69951,6 +70034,19 @@
         "tag_version": "0.0.2",
         "created_at": "2025-11-12T22:52:41Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/spineraks-org/ArchipelagoTwistyCube/releases/download/v1.0.0/twistycube.apworld",
+      "size": 5318,
+      "hash_sha256": "7c3dc6bdbe94886d3d4a5217ec435e98b46aeeb802fd8c2a51e8c88c4b427b08",
+      "metadata": {
+        "game": "Twisty Cube",
+        "id": "twistycube",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-02-21T21:25:07Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {

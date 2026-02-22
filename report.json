@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 515,
-  "total_versions": 5453,
+  "total_versions": 5460,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -415,7 +415,7 @@
     "spyro": false,
     "spyro2": true,
     "spyro3": true,
-    "ss": false,
+    "ss": true,
     "ss2": false,
     "stacklands": false,
     "star_fox_64": false,
