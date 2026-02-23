@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 515,
-  "total_versions": 5461,
+  "total_versions": 5472,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -19,7 +19,7 @@
     "apworld_manager": true,
     "aquaria": true,
     "archipollago": false,
-    "armoredcore": false,
+    "armoredcore": true,
     "astalon": true,
     "aus": true,
     "autopelago": true,
@@ -428,7 +428,7 @@
     "tcg_card_shop_simulator": false,
     "tetrisattack": true,
     "tevi": false,
-    "th06": false,
+    "th06": true,
     "th07": true,
     "th08": true,
     "the_planet_crafter": false,
