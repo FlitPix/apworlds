@@ -11120,6 +11120,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.7.8/crosscode.apworld",
+      "size": 121235,
+      "hash_sha256": "a9802c752f42eb99e7851db25ff5e3dad00df8f488283ac51dd787360aee5ac9",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.7.8",
+        "tag_version": "0.7.8",
+        "created_at": "2026-02-23T02:03:07Z"
+      }
+    },
+    {
       "world": "https://github.com/densebamboo/CrosswordAP/releases/download/v1.0.0-release/crossword_ap.apworld",
       "size": 33338,
       "hash_sha256": "aa76a3c3e9f505d06bd2d7cd4d76bd1e540a67f2fccd9d6cffc6cf7d80951812",
@@ -11318,6 +11330,22 @@
         "world_version": "0.14.0",
         "tag_version": "0.14.0",
         "created_at": "2026-01-17T19:52:51Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.15.0/crystal_project.apworld",
+      "size": 213268,
+      "hash_sha256": "73bf39b85dd5b5b03360d045cf21dbdf8116bd8fd228aa48f99c0453cd5d685a",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-02-22T23:07:44Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "tracker_included"
@@ -11542,22 +11570,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-05-21T22:20:48Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "tracker_included"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.15.0/crystal_project.apworld",
-      "size": 213268,
-      "hash_sha256": "73bf39b85dd5b5b03360d045cf21dbdf8116bd8fd228aa48f99c0453cd5d685a",
-      "metadata": {
-        "game": "Crystal Project",
-        "id": "crystal_project",
-        "world_version": "0.15.0",
-        "tag_version": "0.15.0",
-        "created_at": "2026-02-22T23:07:44Z",
-        "minimum_ap_version": "0.6.4",
         "flags": [
           "tracker_included"
         ]
@@ -14675,6 +14687,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.47/dk64.apworld",
+      "size": 37026328,
+      "hash_sha256": "e7c908b5fcc308b7c0f53e264779bd7e7ab2944884fa08bc00a5b7854bfa898a",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.47",
+        "tag_version": "1.4.47",
+        "created_at": "2026-02-22T20:44:53Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.5/dk64.apworld",
       "size": 26180522,
       "hash_sha256": "2d85a7467a5932a3c8f702c6b49e9c9ac736b98126b670a4b38a628f0c7155dc",
@@ -14737,19 +14762,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.47/dk64.apworld",
-      "size": 37026328,
-      "hash_sha256": "e7c908b5fcc308b7c0f53e264779bd7e7ab2944884fa08bc00a5b7854bfa898a",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.47",
-        "tag_version": "1.4.47",
-        "created_at": "2026-02-22T20:44:53Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -52121,6 +52133,19 @@
       }
     },
     {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.5/rabi_ribi.apworld",
+      "size": 213838,
+      "hash_sha256": "96f62c8f74a5ca6f6e40a3050efb7686ef2de802ee2d9bd3b9cbfa2c165f7f05",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2026-02-22T20:49:55Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/alpha/rabi_ribi.apworld",
       "size": 692774,
       "hash_sha256": "95b9d952879665a5290657e351fe10ed249412872e874eac2f12935ba833722e",
@@ -52423,19 +52448,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.5/rabi_ribi.apworld",
-      "size": 213838,
-      "hash_sha256": "96f62c8f74a5ca6f6e40a3050efb7686ef2de802ee2d9bd3b9cbfa2c165f7f05",
-      "metadata": {
-        "game": "Rabi-Ribi",
-        "id": "rabi_ribi",
-        "world_version": "1.4.2",
-        "tag_version": "1.4.2",
-        "created_at": "2026-02-22T20:49:55Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
