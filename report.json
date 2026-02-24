@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 515,
-  "total_versions": 5473,
+  "total_versions": 5484,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -464,7 +464,7 @@
     "westofloathing": false,
     "wl": false,
     "wl4": true,
-    "wordipelago": false,
+    "wordipelago": true,
     "x2wotc": true,
     "xenobladex": true,
     "yachtdice": true,
