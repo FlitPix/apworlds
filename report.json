@@ -1,6 +1,6 @@
 {
   "total_repositories": 443,
-  "total_packages": 515,
+  "total_packages": 514,
   "total_versions": 5484,
   "manifest_ready": {
     "actraiser": true,
@@ -220,7 +220,6 @@
     "manual_halflife2episode1_relentingzero": false,
     "manual_halflife2episode2_relentingzero": false,
     "manual_ironsworn_axxroy": false,
-    "manual_kirbyforgottenland_tailsmk4": false,
     "manual_linklink_nicopopxd": true,
     "manual_mariokart7_bigbradley": true,
     "manual_mariokart7local_bigbradley": true,
@@ -423,7 +422,7 @@
     "stick_ranger": false,
     "superjunkoid": false,
     "supraland": true,
-    "swr": false,
+    "swr": true,
     "tboir": true,
     "tcg_card_shop_simulator": false,
     "tetrisattack": true,

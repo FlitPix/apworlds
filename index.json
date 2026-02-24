@@ -5847,6 +5847,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.4.2/bg3.apworld",
+      "size": 93363,
+      "hash_sha256": "3acf3c40efd63fb00ebb113c2de1f246871503907b608a429a7a3f018a2faceb",
+      "metadata": {
+        "game": "Baldur's Gate 3",
+        "id": "bg3",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-02-24T06:13:46Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cynichill/APBingo/releases/download/0.1.0/Bingo.apworld",
       "size": 14220,
       "hash_sha256": "b2ce957dce41d6b3b45a24e0a276d15948284d02243c40f6692e1424764d0776",
@@ -11353,6 +11369,22 @@
       }
     },
     {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.15.1/crystal_project.apworld",
+      "size": 213268,
+      "hash_sha256": "73bf39b85dd5b5b03360d045cf21dbdf8116bd8fd228aa48f99c0453cd5d685a",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-02-22T23:07:44Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.5.0/crystal_project.apworld",
       "size": 242135,
       "hash_sha256": "364cf700e1b81b87404be45fb83d8e5c7a20f5e6607c1ba5357a621d2e2b4d7d",
@@ -11570,22 +11602,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-05-21T22:20:48Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "tracker_included"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.15.1/crystal_project.apworld",
-      "size": 213268,
-      "hash_sha256": "73bf39b85dd5b5b03360d045cf21dbdf8116bd8fd228aa48f99c0453cd5d685a",
-      "metadata": {
-        "game": "Crystal Project",
-        "id": "crystal_project",
-        "world_version": "0.15.0",
-        "tag_version": "0.15.0",
-        "created_at": "2026-02-22T23:07:44Z",
-        "minimum_ap_version": "0.6.4",
         "flags": [
           "tracker_included"
         ]
@@ -31649,6 +31665,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.17/lunacid.apworld",
+      "size": 4896571,
+      "hash_sha256": "bb4d64e4f47cd8ee73eca6d7ffc7ca2cde0eaf181fbf78ef6ffb4d9675064f1f",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.17",
+        "tag_version": "1.0.17",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
       "size": 4894976,
       "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
@@ -31753,18 +31781,6 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
-        "created_at": "2025-07-02T22:10:18Z"
-      }
-    },
-    {
-      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.17/lunacid.apworld",
-      "size": 4896571,
-      "hash_sha256": "bb4d64e4f47cd8ee73eca6d7ffc7ca2cde0eaf181fbf78ef6ffb4d9675064f1f",
-      "metadata": {
-        "game": "Lunacid",
-        "id": "lunacid",
-        "world_version": "1.0.17",
-        "tag_version": "1.0.17",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -33970,58 +33986,6 @@
         "tag_version": "1.0.0",
         "created_at": "2024-04-04T03:43:48Z",
         "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/TailsMK4/Kirby-And-The-Forgotten-Land-Archipelago-Manual/releases/download/kfl_main/manual_kirbyforgottenland_tailsmk4.apworld",
-      "size": 58660,
-      "hash_sha256": "de96b1392e5692905b85b277ada00f920005a376b873dabf18be8f259d29db90",
-      "metadata": {
-        "game": "Manual_KirbyForgottenLand_TailsMK4",
-        "id": "manual_kirbyforgottenland_tailsmk4",
-        "world_version": "0.0.0+kfl.main",
-        "tag_version": "0.0.0+kfl.main",
-        "created_at": "2024-09-07T19:18:05Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TailsMK4/Kirby-And-The-Forgotten-Land-Archipelago-Manual/releases/download/kfl_main-1-0-1/manual_kirbyforgottenland_tailsmk4.apworld",
-      "size": 85599,
-      "hash_sha256": "e1010e72d5fff306ce96f6a1dfca4000a6b3f12cb2a945917db810707b27aff7",
-      "metadata": {
-        "game": "Manual_KirbyForgottenLand_TailsMK4",
-        "id": "manual_kirbyforgottenland_tailsmk4",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2025-03-17T15:48:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TailsMK4/Kirby-And-The-Forgotten-Land-Archipelago-Manual/releases/download/kfl_main-1-0-2/manual_kirbyforgottenland_tailsmk4.apworld",
-      "size": 85646,
-      "hash_sha256": "986d1bf5e869edda243238a4079820c709abecf65c76c7dde13280e2469e4fb6",
-      "metadata": {
-        "game": "Manual_KirbyForgottenLand_TailsMK4",
-        "id": "manual_kirbyforgottenland_tailsmk4",
-        "world_version": "1.0.2",
-        "tag_version": "1.0.2",
-        "created_at": "2025-04-21T17:25:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TailsMK4/Kirby-And-The-Forgotten-Land-Archipelago-Manual/releases/download/kfl_main_1-0-3/manual_kirbyforgottenland_tailsmk4.apworld",
-      "size": 70498,
-      "hash_sha256": "798f78b71a4c7a724fc9f839101629d7646c477ec3d48886af67f06ba81747c0",
-      "metadata": {
-        "game": "Manual_KirbyForgottenLand_TailsMK4",
-        "id": "manual_kirbyforgottenland_tailsmk4",
-        "world_version": "1.0.3",
-        "tag_version": "1.0.3",
-        "created_at": "2025-04-28T21:44:22Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -43862,6 +43826,19 @@
         "id": "ori_wotw",
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
+        "created_at": "2025-10-22T16:12:22Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Satisha10/APwotw_release/releases/download/v0.5.1/ori_wotw.apworld",
+      "size": 197177,
+      "hash_sha256": "2619da507e6f35b7e3132f7ffcfe2ac8f412a1678f618f7c2e7bf922e85abce2",
+      "metadata": {
+        "game": "Ori and the Will of the Wisps",
+        "id": "ori_wotw",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
         "created_at": "2025-10-22T16:12:22Z",
         "minimum_ap_version": "0.6.3"
       }
@@ -58419,6 +58396,19 @@
       }
     },
     {
+      "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.10.4/slotlock.apworld",
+      "size": 127316,
+      "hash_sha256": "9b1e3793a0b73f86fdd0e607c3da03a6ec02d101d9a8ade015f7d41403c86d15",
+      "metadata": {
+        "game": "SlotLock",
+        "id": "slotlock",
+        "world_version": "0.10.4",
+        "tag_version": "0.10.4",
+        "created_at": "2026-02-24T01:35:42Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.3.0/slotlock.apworld",
       "size": 14183,
       "hash_sha256": "7bfe5a5ef7e7c7a4a2b9e615e9cf57b55cdf27e7def8ec183278e51ed491b1f1",
@@ -58689,19 +58679,6 @@
         "tag_version": "0.6.4",
         "created_at": "2024-12-30T09:43:21Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.10.4/slotlock.apworld",
-      "size": 127316,
-      "hash_sha256": "9b1e3793a0b73f86fdd0e607c3da03a6ec02d101d9a8ade015f7d41403c86d15",
-      "metadata": {
-        "game": "SlotLock",
-        "id": "slotlock",
-        "world_version": "0.10.4",
-        "tag_version": "0.10.4",
-        "created_at": "2026-02-24T01:35:42Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -65327,6 +65304,18 @@
       }
     },
     {
+      "world": "https://github.com/wcolding/SWR_AP_Client/releases/download/v0.8.0/swr.apworld",
+      "size": 14097,
+      "hash_sha256": "dfcc0b1e957ad8094091a6ae4ee1a22c1f4d0362623c282b1febdf0a4e480df1",
+      "metadata": {
+        "game": "Star Wars Episode I Racer",
+        "id": "swr",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-02-23T19:42:51Z"
+      }
+    },
+    {
       "world": "https://github.com/Cyb3RGER/TBoI-AP-Mod/releases/download/v0.0.10/tboir.apworld",
       "size": 18329,
       "hash_sha256": "17c0be7f400b6842cd8843350930c362b6048ea6a7e41e32a939d250577677df",
@@ -68576,6 +68565,19 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.6-alpha/tloz_ph.apworld",
+      "size": 2573411,
+      "hash_sha256": "6abe524f89598c56625c148b69fffdea94eb226982d59afe554fd5c6b0587e9c",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.6",
+        "tag_version": "0.8.6",
+        "created_at": "2026-02-24T13:11:21Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -73251,19 +73253,6 @@
       }
     },
     {
-      "world": "https://github.com/ProfDeCube/Archipelago/releases/download/wordipelago-1.0.1_wordsearch-0.5.0/wordipelago.apworld",
-      "size": 15067,
-      "hash_sha256": "2294153745819486b4e2b0186f86bb481c9d790ee2e586ef176882fd58dbf782",
-      "metadata": {
-        "game": "Wordipelago",
-        "id": "wordipelago",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2026-01-20T17:57:00Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/ProfDeCube/Archipelago/releases/download/1.0.2/wordipelago.apworld",
       "size": 14056,
       "hash_sha256": "0c80732d272a2cdded1b76ed5d2ee68d145881d6f452db163ddd51bbd70e6da0",
@@ -73274,6 +73263,19 @@
         "tag_version": "1.0.1",
         "created_at": "2026-02-23T15:36:48Z",
         "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/ProfDeCube/Archipelago/releases/download/wordipelago-1.0.1_wordsearch-0.5.0/wordipelago.apworld",
+      "size": 15067,
+      "hash_sha256": "2294153745819486b4e2b0186f86bb481c9d790ee2e586ef176882fd58dbf782",
+      "metadata": {
+        "game": "Wordipelago",
+        "id": "wordipelago",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-01-20T17:57:00Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -75398,10 +75400,6 @@
     "manual_ironsworn_axxroy": {
       "game": "",
       "description": ""
-    },
-    "manual_kirbyforgottenland_tailsmk4": {
-      "game": "Manual_KirbyForgottenLand_TailsMK4",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_linklink_nicopopxd": {
       "game": "Manual_LinkLink_Nicopopxd",
