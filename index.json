@@ -356,6 +356,18 @@
       }
     },
     {
+      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v1.2.0/against_the_storm.apworld",
+      "size": 20320,
+      "hash_sha256": "3068b85d24be8c49b96acaec52a70e5e4c173c05c4c524610e086e0732ffa6d7",
+      "metadata": {
+        "game": "Against the Storm",
+        "id": "against_the_storm",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-02-24T23:18:09Z"
+      }
+    },
+    {
       "world": "https://github.com/qwint/ap-air-delivery/releases/download/0.1.0/air_delivery.apworld",
       "size": 4362,
       "hash_sha256": "cf7be615990b5948b9b7e0429cf94fa67c6195e6cfe9772df9e74bae26790fd3",
@@ -4098,6 +4110,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.12/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-02-24T21:50:22Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/mail-liam/Archipelago/releases/download/beta/axiomverge.apworld",
       "size": 70109,
       "hash_sha256": "3bff3001756b9a21599834a0243dabdda83c1a14a0cc587474b3e5579fd26b3b",
@@ -7000,6 +7025,35 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-12-18T22:44:03Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.5/borderlands2.apworld",
+      "size": 50840,
+      "hash_sha256": "7766a11f17bf37b753e2ec0e0cb2166de39cac7d82ffdce6848cdbbea765dc37",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "0.5",
+        "tag_version": "0.5",
+        "created_at": "2026-02-24T20:26:20Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-62/borderlands2.apworld",
+      "size": 50840,
+      "hash_sha256": "7766a11f17bf37b753e2ec0e0cb2166de39cac7d82ffdce6848cdbbea765dc37",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "62",
+        "tag_version": "62",
+        "created_at": "2026-02-24T20:26:20Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -13410,6 +13464,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16.4/deep_rock_galactic.apworld",
+      "size": 28025,
+      "hash_sha256": "b2f4c69e5ffc838d2cc004cca72340985e240424e16b0f1c16622095f08af9f7",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.16.4",
+        "tag_version": "0.16.4",
+        "created_at": "2026-02-24T16:38:38Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/StellatedCUBE/Delivering-Hope-Archipelago/releases/download/v0.1.0/DeliveringHope.apworld",
       "size": 14973,
       "hash_sha256": "3dcdaf6b0b3853e693a55ff2ec2dcb17d9fb1d30373884094459946dae631581",
@@ -16527,6 +16594,22 @@
         "tag_version": "0.0.9",
         "created_at": "2025-01-18T20:07:11Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.0.22.0/dsr.apworld",
+      "size": 42563,
+      "hash_sha256": "3c57fdf0fa2f2e5c0a6ba2c72d3ee170d2874334ff5d49d920bda2fa80735ffa",
+      "metadata": {
+        "game": "Dark Souls Remastered",
+        "id": "dsr",
+        "world_version": "0.0.22",
+        "tag_version": "0.0.22",
+        "created_at": "2026-02-24T14:19:34Z",
+        "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
         ]
@@ -33989,6 +34072,58 @@
       }
     },
     {
+      "world": "https://github.com/TailsMK4/Kirby-And-The-Forgotten-Land-Archipelago-Manual/releases/download/kfl_main/manual_kirbyforgottenland_tailsmk4.apworld",
+      "size": 58660,
+      "hash_sha256": "de96b1392e5692905b85b277ada00f920005a376b873dabf18be8f259d29db90",
+      "metadata": {
+        "game": "Manual_KirbyForgottenLand_TailsMK4",
+        "id": "manual_kirbyforgottenland_tailsmk4",
+        "world_version": "0.0.0+kfl.main",
+        "tag_version": "0.0.0+kfl.main",
+        "created_at": "2024-09-07T19:18:05Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TailsMK4/Kirby-And-The-Forgotten-Land-Archipelago-Manual/releases/download/kfl_main-1-0-1/manual_kirbyforgottenland_tailsmk4.apworld",
+      "size": 85599,
+      "hash_sha256": "e1010e72d5fff306ce96f6a1dfca4000a6b3f12cb2a945917db810707b27aff7",
+      "metadata": {
+        "game": "Manual_KirbyForgottenLand_TailsMK4",
+        "id": "manual_kirbyforgottenland_tailsmk4",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2025-03-17T15:48:45Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TailsMK4/Kirby-And-The-Forgotten-Land-Archipelago-Manual/releases/download/kfl_main-1-0-2/manual_kirbyforgottenland_tailsmk4.apworld",
+      "size": 85646,
+      "hash_sha256": "986d1bf5e869edda243238a4079820c709abecf65c76c7dde13280e2469e4fb6",
+      "metadata": {
+        "game": "Manual_KirbyForgottenLand_TailsMK4",
+        "id": "manual_kirbyforgottenland_tailsmk4",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2025-04-21T17:25:33Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TailsMK4/Kirby-And-The-Forgotten-Land-Archipelago-Manual/releases/download/kfl_main_1-0-3/manual_kirbyforgottenland_tailsmk4.apworld",
+      "size": 70498,
+      "hash_sha256": "798f78b71a4c7a724fc9f839101629d7646c477ec3d48886af67f06ba81747c0",
+      "metadata": {
+        "game": "Manual_KirbyForgottenLand_TailsMK4",
+        "id": "manual_kirbyforgottenland_tailsmk4",
+        "world_version": "1.0.3",
+        "tag_version": "1.0.3",
+        "created_at": "2025-04-28T21:44:22Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/nicopop/linklink/releases/download/0.1.0/manual_linklink_nicopopxd.apworld",
       "size": 70102,
       "hash_sha256": "818665bfc9e6b654bcf660be5fbbfc40f629244bda89741b37d06d686d18f99c",
@@ -39402,6 +39537,22 @@
         "world_version": "0.4.2",
         "tag_version": "0.4.2",
         "created_at": "2026-01-29T00:28:15Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JohnMahglass/Archipelago-Mindustry/releases/download/v0.5.0/mindustry.apworld",
+      "size": 142127,
+      "hash_sha256": "bb6db6f9240746b3fce51d620170e4fd3b9506fb3a92a6854c370cd6bfb67a7f",
+      "metadata": {
+        "game": "Mindustry",
+        "id": "mindustry",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-02-17T02:38:21Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -68135,6 +68286,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.6-alpha/tloz_ph.apworld",
+      "size": 2573411,
+      "hash_sha256": "6abe524f89598c56625c148b69fffdea94eb226982d59afe554fd5c6b0587e9c",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.8.6",
+        "tag_version": "0.8.6",
+        "created_at": "2026-02-24T13:11:21Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -68565,19 +68729,6 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
-        "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.6-alpha/tloz_ph.apworld",
-      "size": 2573411,
-      "hash_sha256": "6abe524f89598c56625c148b69fffdea94eb226982d59afe554fd5c6b0587e9c",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.8.6",
-        "tag_version": "0.8.6",
-        "created_at": "2026-02-24T13:11:21Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -75400,6 +75551,10 @@
     "manual_ironsworn_axxroy": {
       "game": "",
       "description": ""
+    },
+    "manual_kirbyforgottenland_tailsmk4": {
+      "game": "Manual_KirbyForgottenLand_TailsMK4",
+      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_linklink_nicopopxd": {
       "game": "Manual_LinkLink_Nicopopxd",

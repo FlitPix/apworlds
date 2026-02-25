@@ -342,6 +342,19 @@
       "version_simple": "61",
       "world_version": "61"
     },
+    "be-62": {
+      "created_at": "2026-02-24T20:26:20Z",
+      "download_url": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-62/borderlands2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "7766a11f17bf37b753e2ec0e0cb2166de39cac7d82ffdce6848cdbbea765dc37",
+      "prerelease": true,
+      "size": 50840,
+      "source_url": "https://api.github.com/repos/EdricY/Bouncy-Loot-God",
+      "tag": "be-62",
+      "title": "bleeding edge",
+      "version_simple": "62",
+      "world_version": "62"
+    },
     "v0.0": {
       "created_at": "2025-11-22T21:38:08Z",
       "download_url": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
@@ -425,6 +438,18 @@
       "title": "v0.4",
       "version_simple": "0.4",
       "world_version": "0.4.post2"
+    },
+    "v0.5": {
+      "created_at": "2026-02-24T20:26:20Z",
+      "download_url": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.5/borderlands2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "7766a11f17bf37b753e2ec0e0cb2166de39cac7d82ffdce6848cdbbea765dc37",
+      "size": 50840,
+      "source_url": "https://api.github.com/repos/EdricY/Bouncy-Loot-God",
+      "tag": "v0.5",
+      "title": "v0.5",
+      "version_simple": "0.5",
+      "world_version": "0.5"
     }
   }
 }
