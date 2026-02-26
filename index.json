@@ -6953,6 +6953,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-63/borderlands2.apworld",
+      "size": 101391,
+      "hash_sha256": "03d91c407bccb3ca9f383735350f3aca1fe6c34ea409c83fa11941ada168fcb5",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "63",
+        "tag_version": "63",
+        "created_at": "2026-02-25T19:42:35Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -7054,22 +7070,6 @@
         "tag_version": "0.5",
         "created_at": "2026-02-24T20:26:20Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-63/borderlands2.apworld",
-      "size": 101391,
-      "hash_sha256": "03d91c407bccb3ca9f383735350f3aca1fe6c34ea409c83fa11941ada168fcb5",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "63",
-        "tag_version": "63",
-        "created_at": "2026-02-25T19:42:35Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -13493,19 +13493,6 @@
       }
     },
     {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
-      "size": 16029,
-      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.13",
-        "tag_version": "0.13",
-        "created_at": "2025-10-31T00:58:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16.4.1/deep_rock_galactic.apworld",
       "size": 28038,
       "hash_sha256": "f0b9be7be959ac1511a8b355490a7c372f7853997509265871569a65c35ecd7b",
@@ -13515,6 +13502,19 @@
         "world_version": "0.16.4.1",
         "tag_version": "0.16.4.1",
         "created_at": "2026-02-24T16:38:38Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
+      "size": 16029,
+      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.13",
+        "tag_version": "0.13",
+        "created_at": "2025-10-31T00:58:51Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -16546,6 +16546,22 @@
       }
     },
     {
+      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.0.22.1/dsr.apworld",
+      "size": 42563,
+      "hash_sha256": "ca6bc0e2c8bc6bca9e8500b85e290363ef58a2cd5bda1f9ea95f72d89eaf78fc",
+      "metadata": {
+        "game": "Dark Souls Remastered",
+        "id": "dsr",
+        "world_version": "0.0.22",
+        "tag_version": "0.0.22",
+        "created_at": "2026-02-25T22:03:26Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.0.3/dsr.apworld",
       "size": 83344,
       "hash_sha256": "024737209706ae3407f01a6e6543b58859ed14b4ef834a03cdcef9bb17320bec",
@@ -16652,22 +16668,6 @@
         "tag_version": "0.0.9",
         "created_at": "2025-01-18T20:07:11Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.0.22.1/dsr.apworld",
-      "size": 42563,
-      "hash_sha256": "ca6bc0e2c8bc6bca9e8500b85e290363ef58a2cd5bda1f9ea95f72d89eaf78fc",
-      "metadata": {
-        "game": "Dark Souls Remastered",
-        "id": "dsr",
-        "world_version": "0.0.22",
-        "tag_version": "0.0.22",
-        "created_at": "2026-02-25T22:03:26Z",
-        "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
         ]
@@ -18164,6 +18164,18 @@
       }
     },
     {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.1/factorio_bobs.apworld",
+      "size": 1032676,
+      "hash_sha256": "cd9bb690546f37c0065fedbab202ca9e70a68430f1bfd83bd05c2fbaf55ad89d",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-02-25T23:31:38Z"
+      }
+    },
+    {
       "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
       "size": 981844,
       "hash_sha256": "ce7caf8cceb9ac42c4ddf95b746584131947b667289822d40ad7b1d53aa54352",
@@ -18185,18 +18197,6 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2025-10-11T18:43:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.1/factorio_bobs.apworld",
-      "size": 1032676,
-      "hash_sha256": "cd9bb690546f37c0065fedbab202ca9e70a68430f1bfd83bd05c2fbaf55ad89d",
-      "metadata": {
-        "game": "Factorio Bob's",
-        "id": "factorio_bobs",
-        "world_version": "2.1.0",
-        "tag_version": "2.1.0",
-        "created_at": "2026-02-25T23:31:38Z"
       }
     },
     {
@@ -49833,6 +49833,19 @@
       }
     },
     {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.3.10/pokemon_crystal.apworld",
+      "size": 617919,
+      "hash_sha256": "2f444114dd6d31bd05357151c9ddb6406daa659f15b63ca0a2546e9eb981485c",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.3.10",
+        "tag_version": "5.3.10",
+        "created_at": "2026-02-26T08:45:30Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/vyneras/Archipelago/releases/download/0.1.0-alpha/pokemon_frlg.apworld",
       "size": 648964,
       "hash_sha256": null,
@@ -63524,6 +63537,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.1/spyro3.apworld",
+      "size": 54243,
+      "hash_sha256": "bf20c155738c67907e3722f334b8f8641a383c252e98456458356f4e076835fc",
+      "metadata": {
+        "game": "Spyro 3",
+        "id": "spyro3",
+        "world_version": "1.3.1",
+        "tag_version": "1.3.1",
+        "created_at": "2026-02-25T18:05:35Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S3AP/releases/download/open_world_test/spyro3.apworld",
       "size": 43547,
       "hash_sha256": "ac25ad05c48a53b800ae8423eb1f611e8ba52085ae2215a02d8926d804dd3aa8",
@@ -63537,19 +63563,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.1/spyro3.apworld",
-      "size": 54243,
-      "hash_sha256": "bf20c155738c67907e3722f334b8f8641a383c252e98456458356f4e076835fc",
-      "metadata": {
-        "game": "Spyro 3",
-        "id": "spyro3",
-        "world_version": "1.3.1",
-        "tag_version": "1.3.1",
-        "created_at": "2026-02-25T18:05:35Z",
-        "minimum_ap_version": "0.6.1"
       }
     },
     {
