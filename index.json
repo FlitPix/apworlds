@@ -16178,6 +16178,19 @@
       }
     },
     {
+      "world": "https://github.com/alextric234/ArchipelagoDredge/releases/download/dredge_0.5.1/dredge.apworld",
+      "size": 23600,
+      "hash_sha256": "508161da4aed45870a837c0ac2b52191fae664e88080eb06d4f40a810511d995",
+      "metadata": {
+        "game": "Dredge",
+        "id": "dredge",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-02-28T00:38:23Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FHAUKEM/Archipelago-DSP/releases/download/v0.0.2/dsp.apworld",
       "size": 19746,
       "hash_sha256": "c19a9930fb63c6a752da1488d24135eea17783a6f287f8fd341e891c43c68811",
@@ -18192,6 +18205,30 @@
       }
     },
     {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.2/factorio_bobs.apworld",
+      "size": 1032890,
+      "hash_sha256": "b6e04d345ab0fedb3e4bb4ef688f16b3bb013e0e6cb5c54aef219bf951d71a06",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "2.1.2",
+        "tag_version": "2.1.2",
+        "created_at": "2026-02-27T18:49:45Z"
+      }
+    },
+    {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.3/factorio_bobs.apworld",
+      "size": 1033881,
+      "hash_sha256": "0b0ae01e7767945de1d72b70e4a402e509568dd584cd0c9e7c4e3cf5da31bdb9",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "2.1.3",
+        "tag_version": "2.1.3",
+        "created_at": "2026-02-27T21:19:46Z"
+      }
+    },
+    {
       "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
       "size": 981844,
       "hash_sha256": "ce7caf8cceb9ac42c4ddf95b746584131947b667289822d40ad7b1d53aa54352",
@@ -18213,30 +18250,6 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2025-10-11T18:43:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.3/factorio_bobs.apworld",
-      "size": 1033881,
-      "hash_sha256": "0b0ae01e7767945de1d72b70e4a402e509568dd584cd0c9e7c4e3cf5da31bdb9",
-      "metadata": {
-        "game": "Factorio Bob's",
-        "id": "factorio_bobs",
-        "world_version": "2.1.3",
-        "tag_version": "2.1.3",
-        "created_at": "2026-02-27T21:19:46Z"
-      }
-    },
-    {
-      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.2/factorio_bobs.apworld",
-      "size": 1032890,
-      "hash_sha256": "b6e04d345ab0fedb3e4bb4ef688f16b3bb013e0e6cb5c54aef219bf951d71a06",
-      "metadata": {
-        "game": "Factorio Bob's",
-        "id": "factorio_bobs",
-        "world_version": "2.1.2",
-        "tag_version": "2.1.2",
-        "created_at": "2026-02-27T18:49:45Z"
       }
     },
     {
@@ -26280,6 +26293,19 @@
       }
     },
     {
+      "world": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.10.0/jigsaw.apworld",
+      "size": 16247,
+      "hash_sha256": "2889e4644da4cc67c9ba8501a16a94e95149a183612f690fa92a7a778aa4739b",
+      "metadata": {
+        "game": "Jigsaw",
+        "id": "jigsaw",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-02-26T21:27:53Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.2.0/jigsaw.apworld",
       "size": 8945,
       "hash_sha256": "627c28bd12ddddf46b10362dbd87a47c5048c3206e34d629884310ccf941fd55",
@@ -26525,19 +26551,6 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2025-11-01T01:13:34Z",
-        "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.10.0/jigsaw.apworld",
-      "size": 16247,
-      "hash_sha256": "2889e4644da4cc67c9ba8501a16a94e95149a183612f690fa92a7a778aa4739b",
-      "metadata": {
-        "game": "Jigsaw",
-        "id": "jigsaw",
-        "world_version": "0.10.0",
-        "tag_version": "0.10.0",
-        "created_at": "2026-02-26T21:27:53Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -52495,6 +52508,19 @@
       }
     },
     {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.6/rabi_ribi.apworld",
+      "size": 213898,
+      "hash_sha256": "6fdea6897a943bfa648640386a45eccb3a24d917e9454e102e825acb31b64662",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2026-02-27T17:08:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/alpha/rabi_ribi.apworld",
       "size": 692774,
       "hash_sha256": "95b9d952879665a5290657e351fe10ed249412872e874eac2f12935ba833722e",
@@ -52797,19 +52823,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.6/rabi_ribi.apworld",
-      "size": 213898,
-      "hash_sha256": "6fdea6897a943bfa648640386a45eccb3a24d917e9454e102e825acb31b64662",
-      "metadata": {
-        "game": "Rabi-Ribi",
-        "id": "rabi_ribi",
-        "world_version": "1.4.2",
-        "tag_version": "1.4.2",
-        "created_at": "2026-02-27T17:08:24Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -57376,6 +57389,22 @@
         "tag_version": "0.3.0.post2",
         "created_at": "2025-11-23T19:55:13Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.3/shadow_the_hedgehog.apworld",
+      "size": 234222,
+      "hash_sha256": "97903f5bf32937983c8765d61d29ae0dbf3fbbf0309d25523d4737c6cca6326c",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-02-27T08:36:49Z",
+        "minimum_ap_version": "0.6.2",
         "flags": [
           "prerelease"
         ]
