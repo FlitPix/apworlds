@@ -269,6 +269,20 @@
       "title": "v0.5.5-hotfix",
       "version_simple": "0.5.5",
       "world_version": "0.5.5.post2"
+    },
+    "v0.6.0-alpha.1": {
+      "created_at": "2026-02-27T10:09:36Z",
+      "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.6.0-alpha.1/dark_souls_2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "52eb55aa935e28eac5ece8fda527484c6afb7b468df62c75822e60645a61b52d",
+      "minimum_ap_version": "0.6.4",
+      "prerelease": true,
+      "size": 194239,
+      "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
+      "tag": "v0.6.0-alpha.1",
+      "title": "v0.6.0-alpha.1",
+      "version_simple": "0.6.0",
+      "world_version": "0.6.0a1"
     }
   }
 }

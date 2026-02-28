@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 515,
-  "total_versions": 5509,
+  "total_versions": 5514,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -73,7 +73,7 @@
     "cvcotm": false,
     "cvhodis": false,
     "cvlod": true,
-    "dark_souls_2": false,
+    "dark_souls_2": true,
     "dc1": true,
     "dc2": true,
     "deathlink_text_client": false,

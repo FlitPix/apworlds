@@ -124,6 +124,30 @@
       "version_simple": "2.1.0",
       "world_version": "2.1.0"
     },
+    "V2.1.2": {
+      "created_at": "2026-02-27T18:49:45Z",
+      "download_url": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.2/factorio_bobs.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b6e04d345ab0fedb3e4bb4ef688f16b3bb013e0e6cb5c54aef219bf951d71a06",
+      "size": 1032890,
+      "source_url": "https://api.github.com/repos/Osiris32-and-a-half/BobFactorioAP",
+      "tag": "V2.1.2",
+      "title": "V2.1.2 Bug fixing for Exfret",
+      "version_simple": "2.1.2",
+      "world_version": "2.1.2"
+    },
+    "V2.1.3": {
+      "created_at": "2026-02-27T21:19:46Z",
+      "download_url": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.3/factorio_bobs.apworld",
+      "has_manifest": true,
+      "hash_sha256": "0b0ae01e7767945de1d72b70e4a402e509568dd584cd0c9e7c4e3cf5da31bdb9",
+      "size": 1033881,
+      "source_url": "https://api.github.com/repos/Osiris32-and-a-half/BobFactorioAP",
+      "tag": "V2.1.3",
+      "title": "V2.1.3 Fixed internal packs",
+      "version_simple": "2.1.3",
+      "world_version": "2.1.3"
+    },
     "v1.0.0": {
       "created_at": "2025-10-11T00:38:03Z",
       "download_url": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
