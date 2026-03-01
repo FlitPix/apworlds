@@ -14857,6 +14857,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.48/dk64.apworld",
+      "size": 37028064,
+      "hash_sha256": "b13b4929d958a70fac37ab6589cb15eec9712a0fb01e9d08f8bd0a4ac8d9d491",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.48",
+        "tag_version": "1.4.48",
+        "created_at": "2026-03-01T01:27:32Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.5/dk64.apworld",
       "size": 26180522,
       "hash_sha256": "2d85a7467a5932a3c8f702c6b49e9c9ac736b98126b670a4b38a628f0c7155dc",
@@ -14919,19 +14932,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.48/dk64.apworld",
-      "size": 37028064,
-      "hash_sha256": "b13b4929d958a70fac37ab6589cb15eec9712a0fb01e9d08f8bd0a4ac8d9d491",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.48",
-        "tag_version": "1.4.48",
-        "created_at": "2026-03-01T01:27:32Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -17979,6 +17979,22 @@
         "tag_version": "0.3.2",
         "created_at": "2026-01-26T13:06:56Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.0/everhood_2.apworld",
+      "size": 20522,
+      "hash_sha256": "ff3f954f86ee629d1dadabfdd2a71d72864ecb86c2e2cd754a576593db1f08fb",
+      "metadata": {
+        "game": "Everhood 2",
+        "id": "everhood_2",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-03-01T10:37:05Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -22784,22 +22800,6 @@
       }
     },
     {
-      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR3/grinch.apworld",
-      "size": 121343,
-      "hash_sha256": "337431f41200a1305f3070ff2493b99d34fa70645a4555379c011923506cd041",
-      "metadata": {
-        "game": "The Grinch",
-        "id": "grinch",
-        "world_version": "1.5.0",
-        "tag_version": "1.5.0",
-        "created_at": "2026-02-28T23:59:14Z",
-        "minimum_ap_version": "0.6.6",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR2/grinch.apworld",
       "size": 121333,
       "hash_sha256": "7bafc90eea1ce7a891147bfbd01e4a5a288fe33f658c1a7b36dd97aa3e3f208d",
@@ -22809,6 +22809,22 @@
         "world_version": "1.5.0",
         "tag_version": "1.5.0",
         "created_at": "2026-02-28T05:08:34Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR3/grinch.apworld",
+      "size": 121343,
+      "hash_sha256": "337431f41200a1305f3070ff2493b99d34fa70645a4555379c011923506cd041",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-02-28T23:59:14Z",
         "minimum_ap_version": "0.6.6",
         "flags": [
           "prerelease"
@@ -42871,6 +42887,19 @@
         "world_version": "0.4.4",
         "tag_version": "0.4.4",
         "created_at": "2026-02-15T17:07:30Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.5/nine_sols.apworld",
+      "size": 2579580,
+      "hash_sha256": "521697fb11e298e011c2b043cd847ec98e63b7d92478967b6178dc01c9c2a939",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.4.5",
+        "tag_version": "0.4.5",
+        "created_at": "2026-03-01T02:43:25Z",
         "minimum_ap_version": "0.6.4"
       }
     },
