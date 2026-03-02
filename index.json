@@ -13522,19 +13522,6 @@
       }
     },
     {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
-      "size": 16029,
-      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.13",
-        "tag_version": "0.13",
-        "created_at": "2025-10-31T00:58:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.17-Beta/deep_rock_galactic.apworld",
       "size": 31487,
       "hash_sha256": "c53e032cf154f29173e5a0917561e8f448473db1761b7776cae1e39746dde7ec",
@@ -13548,6 +13535,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
+      "size": 16029,
+      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.13",
+        "tag_version": "0.13",
+        "created_at": "2025-10-31T00:58:51Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -30647,6 +30647,19 @@
         "tag_version": "0.3.1",
         "created_at": "2025-11-01T23:40:16Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Bartz24/ArchipelagoLR/releases/download/0.4.0/lrff13.apworld",
+      "size": 53395,
+      "hash_sha256": "9aaa33fe5ada2b9a0550e37e6efdcf78a2e61342ab6d9730123c6b233a7d08a8",
+      "metadata": {
+        "game": "Lightning Returns: Final Fantasy XIII",
+        "id": "lrff13",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-03-02T02:59:28Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -62654,15 +62667,15 @@
       }
     },
     {
-      "world": "https://github.com/cjmang/StS-AP-World/releases/download/2.3.4/spire.apworld",
-      "size": 26118,
-      "hash_sha256": "c4e2ed622c1ac7908e725532492a082155c8df659929c2f7687934035deda9fa",
+      "world": "https://github.com/cjmang/StS-AP-World/releases/download/2.3.2/spire.apworld",
+      "size": 26101,
+      "hash_sha256": "f47a3acc2d4bf0314a9b7b8b210594852bb6b181f65fc62f3c0fe2fe74e44e79",
       "metadata": {
         "game": "Slay the Spire",
         "id": "spire",
-        "world_version": "2.3.4",
-        "tag_version": "2.3.4",
-        "created_at": "2026-03-01T23:56:44Z",
+        "world_version": "2.3.2",
+        "tag_version": "2.3.2",
+        "created_at": "2026-03-01T22:11:52Z",
         "minimum_ap_version": "0.6.2"
       }
     },
@@ -62680,15 +62693,15 @@
       }
     },
     {
-      "world": "https://github.com/cjmang/StS-AP-World/releases/download/2.3.2/spire.apworld",
-      "size": 26101,
-      "hash_sha256": "f47a3acc2d4bf0314a9b7b8b210594852bb6b181f65fc62f3c0fe2fe74e44e79",
+      "world": "https://github.com/cjmang/StS-AP-World/releases/download/2.3.4/spire.apworld",
+      "size": 26118,
+      "hash_sha256": "c4e2ed622c1ac7908e725532492a082155c8df659929c2f7687934035deda9fa",
       "metadata": {
         "game": "Slay the Spire",
         "id": "spire",
-        "world_version": "2.3.2",
-        "tag_version": "2.3.2",
-        "created_at": "2026-03-01T22:11:52Z",
+        "world_version": "2.3.4",
+        "tag_version": "2.3.4",
+        "created_at": "2026-03-01T23:56:44Z",
         "minimum_ap_version": "0.6.2"
       }
     },
