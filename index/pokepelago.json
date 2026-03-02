@@ -1,0 +1,33 @@
+{
+  "description": "Pokepelago: A collection-based world where you catch 'em all by guessing their names.",
+  "game": "Pokepelago",
+  "github": "https://github.com/dowlle/PokepelagoClient",
+  "license": null,
+  "versions": {
+    "v0.2.0": {
+      "created_at": "2026-02-27T01:52:58Z",
+      "download_url": "https://github.com/dowlle/PokepelagoClient/releases/download/v0.2.0/pokepelago.apworld",
+      "has_manifest": false,
+      "hash_sha256": "84f9965b903ba2d702c3e4ec9e7d6a5e97158d69041ec2c04aeab99c24971038",
+      "prerelease": true,
+      "size": 39940,
+      "source_url": "https://api.github.com/repos/dowlle/PokepelagoClient",
+      "tag": "v0.2.0",
+      "title": "Pok\u00e9pelago - v0.2.0",
+      "version_simple": "0.2.0",
+      "world_version": "0.2.0"
+    },
+    "v0.2.1": {
+      "created_at": "2026-02-27T10:58:51Z",
+      "download_url": "https://github.com/dowlle/PokepelagoClient/releases/download/v0.2.1/pokepelago.apworld",
+      "has_manifest": false,
+      "hash_sha256": "d6eb0b36c44a6db5a57646575650e61f244e26b198b05095e480f67e292c48bc",
+      "size": 43311,
+      "source_url": "https://api.github.com/repos/dowlle/PokepelagoClient",
+      "tag": "v0.2.1",
+      "title": "Pok\u00e9pelago - v0.2.1",
+      "version_simple": "0.2.1",
+      "world_version": "0.2.1"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "description": "Play your AP as a SBURB session, each player only has items for themselves and a single other person\nin a big circular chain.",
+  "game": "SBURBelago",
+  "github": "https://github.com/SephDB/SBURBelago",
+  "license": "MIT",
+  "versions": {
+    "v1.0.0": {
+      "created_at": "2026-02-08T20:25:15Z",
+      "download_url": "https://github.com/SephDB/SBURBelago/releases/download/v1.0.0/sburbelago.apworld",
+      "has_manifest": true,
+      "hash_sha256": "92e76688fff6392f3de9b542ba080d5c46f8f7b568fc201cf1b944efc95874c3",
+      "minimum_ap_version": "0.6.6",
+      "size": 1154,
+      "source_url": "https://api.github.com/repos/SephDB/SBURBelago",
+      "tag": "v1.0.0",
+      "title": "Initial release",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
+    },
+    "v1.1.0": {
+      "created_at": "2026-02-09T21:44:43Z",
+      "download_url": "https://github.com/SephDB/SBURBelago/releases/download/v1.1.0/sburbelago.apworld",
+      "has_manifest": true,
+      "hash_sha256": "77c5ff3f1881bfe1f4f1025760263b4c87516561d4aaeb9f32a4d24a37f74e08",
+      "minimum_ap_version": "0.6.6",
+      "size": 2317,
+      "source_url": "https://api.github.com/repos/SephDB/SBURBelago",
+      "tag": "v1.1.0",
+      "title": "SBURBelago 1.1 - Options!",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
+    },
+    "v2.0.0": {
+      "created_at": "2026-02-17T20:53:44Z",
+      "download_url": "https://github.com/SephDB/SBURBelago/releases/download/v2.0.0/sburbelago.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fb14bc1318a8020dc88ea9e87583ef71d0ba52edd791e80a37c5e64a28edee4e",
+      "minimum_ap_version": "0.6.6",
+      "size": 3954,
+      "source_url": "https://api.github.com/repos/SephDB/SBURBelago",
+      "tag": "v2.0.0",
+      "title": "SBURBelago 2.0 - All of the customization!",
+      "version_simple": "2.0.0",
+      "world_version": "2.0.0"
+    },
+    "v2.1.0": {
+      "created_at": "2026-02-21T10:32:10Z",
+      "download_url": "https://github.com/SephDB/SBURBelago/releases/download/v2.1.0/sburbelago.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e3a972d2d167d23e8e5830b84010c227643fc82be182483ba0a4a8f2c32834f9",
+      "minimum_ap_version": "0.6.6",
+      "size": 4015,
+      "source_url": "https://api.github.com/repos/SephDB/SBURBelago",
+      "tag": "v2.1.0",
+      "title": "SBURBelago 2.1 - Slot numbers",
+      "version_simple": "2.1.0",
+      "world_version": "2.1.0"
+    }
+  }
+}
