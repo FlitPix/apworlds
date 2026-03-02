@@ -86,6 +86,19 @@
       "title": "LR FFXIII AP Rando 0.3.1",
       "version_simple": "0.3.1",
       "world_version": "0.3.1"
+    },
+    "0.4.0": {
+      "created_at": "2026-03-02T02:59:28Z",
+      "download_url": "https://github.com/Bartz24/ArchipelagoLR/releases/download/0.4.0/lrff13.apworld",
+      "has_manifest": true,
+      "hash_sha256": "9aaa33fe5ada2b9a0550e37e6efdcf78a2e61342ab6d9730123c6b233a7d08a8",
+      "minimum_ap_version": "0.6.3",
+      "size": 53395,
+      "source_url": "https://api.github.com/repos/Bartz24/ArchipelagoLR",
+      "tag": "0.4.0",
+      "title": "0.4.0 Release",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0"
     }
   }
 }

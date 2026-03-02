@@ -1,0 +1,86 @@
+{
+  "game": "",
+  "github": "https://github.com/jacobmix/Minecraft_AP_Randomizer",
+  "license": null,
+  "versions": {
+    "0.0.5_dig": {
+      "created_at": "2026-02-13T01:36:03Z",
+      "download_url": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.0.5_dig/minecraft_dig.apworld",
+      "has_manifest": true,
+      "hash_sha256": "430d8ce45ae432452bb21d5eeb5c7e5911e4b00d9658294acc8edce555c4f6b6",
+      "minimum_ap_version": "0.5.0",
+      "size": 36718,
+      "source_url": "https://api.github.com/repos/jacobmix/Minecraft_AP_Randomizer",
+      "tag": "0.0.5_dig",
+      "title": "Dig apworld 0.0.5 (MC1.19.4)",
+      "version_simple": "0.0.5",
+      "world_version": "0.0.5"
+    },
+    "0.0.7_dig": {
+      "created_at": "2026-02-25T21:20:19Z",
+      "download_url": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.0.7_dig/minecraft_dig.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3c8bb4ae190f2f9ee599b5fa741b14a649ffcbe0ac349f8a645d45aa743f0e70",
+      "minimum_ap_version": "0.5.0",
+      "prerelease": true,
+      "size": 16520,
+      "source_url": "https://api.github.com/repos/jacobmix/Minecraft_AP_Randomizer",
+      "tag": "0.0.7_dig",
+      "title": "Dig apworld 0.0.7 (MC1.19.4)",
+      "version_simple": "0.0.7",
+      "world_version": "0.0.7"
+    },
+    "0.1.5_hotfix": {
+      "created_at": "2025-12-08T16:32:43Z",
+      "download_url": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.1.5_hotfix/minecraft_dig.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3985ada8af64d21e2a23014626c056f20697dda22420561956e4f382bc6b4d50",
+      "minimum_ap_version": "0.5.0",
+      "size": 11833,
+      "source_url": "https://api.github.com/repos/jacobmix/Minecraft_AP_Randomizer",
+      "tag": "0.1.5_hotfix",
+      "title": "Main MC1.20.4 AP 0.1.5 hotfix",
+      "version_simple": "0.0.2",
+      "world_version": "0.0.2"
+    },
+    "0.1.6_hotfix": {
+      "created_at": "2025-12-22T02:49:47Z",
+      "download_url": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.1.6_hotfix/minecraft_dig.apworld",
+      "has_manifest": true,
+      "hash_sha256": "0a691db019eb58c11f7f4c27fd7f11562e8dd9138f85fec67b170c200976fdd6",
+      "minimum_ap_version": "0.5.0",
+      "size": 10955,
+      "source_url": "https://api.github.com/repos/jacobmix/Minecraft_AP_Randomizer",
+      "tag": "0.1.6_hotfix",
+      "title": "Main apworld 0.1.6 (MC1.20.4) + Dig apworld 0.0.3 (MC1.19.4)",
+      "version_simple": "0.0.3",
+      "world_version": "0.0.3"
+    },
+    "0.1.7_hotfix": {
+      "created_at": "2026-01-09T18:53:11Z",
+      "download_url": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.1.7_hotfix/minecraft_dig.apworld",
+      "failed_to_load": "No module named 'tkinter'",
+      "has_manifest": true,
+      "hash_sha256": "ecc5c1eaa06a7b9ae538c5f56b3325927c4eb66ee09c882b5265e0f067404dd7",
+      "minimum_ap_version": "0.5.0",
+      "size": 14714,
+      "source_url": "https://api.github.com/repos/jacobmix/Minecraft_AP_Randomizer",
+      "tag": "0.1.7_hotfix",
+      "title": "Main apworld 0.1.7 (MC1.20.4) + Dig apworld 0.0.4 (MC1.19.4)",
+      "version_simple": "0.0.4",
+      "world_version": "0.0.4"
+    },
+    "APWorld_Dig_v0.0.6": {
+      "created_at": "2026-02-25T14:12:38Z",
+      "download_url": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/APWorld_Dig_v0.0.6/minecraft_dig.apworld",
+      "has_manifest": false,
+      "hash_sha256": "bb0810ed28f80b391d98891ecb1725d7583e91cbc261419b9751ad783061c45a",
+      "size": 15920,
+      "source_url": "https://api.github.com/repos/jacobmix/Minecraft_AP_Randomizer",
+      "tag": "APWorld_Dig_v0.0.6",
+      "title": "APWorld Dig 0.0.6",
+      "version_simple": "0.0.6",
+      "world_version": "0.0.6"
+    }
+  }
+}

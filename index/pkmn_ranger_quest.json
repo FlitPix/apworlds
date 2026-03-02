@@ -1,0 +1,21 @@
+{
+  "description": "",
+  "game": "Pokemon Ranger (Quest)",
+  "github": "https://github.com/BlastSlimey/Archipelago",
+  "license": null,
+  "versions": {
+    "pkmn_ranger_quest_1.0.0": {
+      "created_at": "2026-02-27T01:02:18Z",
+      "download_url": "https://github.com/BlastSlimey/Archipelago/releases/download/pkmn_ranger_quest_1.0.0/pkmn_ranger_quest.apworld",
+      "has_manifest": true,
+      "hash_sha256": "db0c7bbefb3f2749aee9267befaa1fe84c83203dcd97b837f8016ca1a77b25a9",
+      "minimum_ap_version": "0.6.5",
+      "size": 19045,
+      "source_url": "https://api.github.com/repos/BlastSlimey/Archipelago",
+      "tag": "pkmn_ranger_quest_1.0.0",
+      "title": "Pok\u00e9mon Ranger (Quest) v1.0.0",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
+    }
+  }
+}

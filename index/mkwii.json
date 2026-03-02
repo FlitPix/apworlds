@@ -1,0 +1,95 @@
+{
+  "description": "Mario Kart Wii is a racing game for the Nintendo Wii. Race through cups across\nmultiple engine classes, unlocking characters, vehicles, and new cups along the way.",
+  "game": "Mario Kart Wii",
+  "github": "https://github.com/toent/Archipelago-MKWii",
+  "license": null,
+  "versions": {
+    "v0.0.1": {
+      "created_at": "2026-02-25T00:42:11Z",
+      "download_url": "https://github.com/toent/Archipelago-MKWii/releases/download/v0.0.1/mkwii.apworld",
+      "has_manifest": false,
+      "hash_sha256": "18e086693b8b6c09e85b1e37b5810c52b1b458fae12d04fea8c414217cb55307",
+      "size": 13617,
+      "source_url": "https://api.github.com/repos/toent/Archipelago-MKWii",
+      "tag": "v0.0.1",
+      "title": "MKWii AP Release Version 0.0.1",
+      "version_simple": "0.0.1",
+      "world_version": "0.0.1"
+    },
+    "v0.0.1-pre.0": {
+      "created_at": "2026-02-23T11:49:17Z",
+      "download_url": "https://github.com/toent/Archipelago-MKWii/releases/download/v0.0.1-pre.0/mkwii.apworld",
+      "has_manifest": false,
+      "hash_sha256": "18e086693b8b6c09e85b1e37b5810c52b1b458fae12d04fea8c414217cb55307",
+      "prerelease": true,
+      "size": 13617,
+      "source_url": "https://api.github.com/repos/toent/Archipelago-MKWii",
+      "tag": "v0.0.1-pre.0",
+      "title": "MKWii AP Pre-Release Version 0.0.1",
+      "version_simple": "0.0.1",
+      "world_version": "0.0.1rc0"
+    },
+    "v0.0.1-pre.1": {
+      "created_at": "2026-02-23T13:26:09Z",
+      "download_url": "https://github.com/toent/Archipelago-MKWii/releases/download/v0.0.1-pre.1/mkwii.apworld",
+      "has_manifest": false,
+      "hash_sha256": "18e086693b8b6c09e85b1e37b5810c52b1b458fae12d04fea8c414217cb55307",
+      "prerelease": true,
+      "size": 13617,
+      "source_url": "https://api.github.com/repos/toent/Archipelago-MKWii",
+      "tag": "v0.0.1-pre.1",
+      "title": "MKWii AP Pre-Release Version 0.0.1 Hotfix 1",
+      "version_simple": "0.0.1",
+      "world_version": "0.0.1rc1"
+    },
+    "v0.0.1-pre.2": {
+      "created_at": "2026-02-23T19:44:27Z",
+      "download_url": "https://github.com/toent/Archipelago-MKWii/releases/download/v0.0.1-pre.2/mkwii.apworld",
+      "has_manifest": false,
+      "hash_sha256": "18e086693b8b6c09e85b1e37b5810c52b1b458fae12d04fea8c414217cb55307",
+      "prerelease": true,
+      "size": 13617,
+      "source_url": "https://api.github.com/repos/toent/Archipelago-MKWii",
+      "tag": "v0.0.1-pre.2",
+      "title": "MKWii AP Pre-Release Version 0.0.1 Hotfix 2",
+      "version_simple": "0.0.1",
+      "world_version": "0.0.1rc2"
+    },
+    "v0.0.2": {
+      "created_at": "2026-02-27T00:57:46Z",
+      "download_url": "https://github.com/toent/Archipelago-MKWii/releases/download/v0.0.2/mkwii.apworld",
+      "has_manifest": false,
+      "hash_sha256": "18e086693b8b6c09e85b1e37b5810c52b1b458fae12d04fea8c414217cb55307",
+      "size": 13617,
+      "source_url": "https://api.github.com/repos/toent/Archipelago-MKWii",
+      "tag": "v0.0.2",
+      "title": "MKWii AP Release Version 0.0.2",
+      "version_simple": "0.0.2",
+      "world_version": "0.0.2"
+    },
+    "v0.0.2-h1": {
+      "created_at": "2026-02-28T23:21:53Z",
+      "download_url": "https://github.com/toent/Archipelago-MKWii/releases/download/v0.0.2-h1/mkwii.apworld",
+      "has_manifest": false,
+      "hash_sha256": "18e086693b8b6c09e85b1e37b5810c52b1b458fae12d04fea8c414217cb55307",
+      "size": 13617,
+      "source_url": "https://api.github.com/repos/toent/Archipelago-MKWii",
+      "tag": "v0.0.2-h1",
+      "title": "MKWii AP Release Version 0.0.2 \"Hotfix\" 1",
+      "version_simple": "0.0.2",
+      "world_version": "0.0.2"
+    },
+    "v0.0.2-h2": {
+      "created_at": "2026-03-01T12:53:12Z",
+      "download_url": "https://github.com/toent/Archipelago-MKWii/releases/download/v0.0.2-h2/mkwii.apworld",
+      "has_manifest": false,
+      "hash_sha256": "27574ab1d149f4c9ce4fd09877ae6f6e4de486777eab46d5c03ab1bdb45a4b57",
+      "size": 13967,
+      "source_url": "https://api.github.com/repos/toent/Archipelago-MKWii",
+      "tag": "v0.0.2-h2",
+      "title": "MKWii AP Release Version 0.0.2 Hotfix 2",
+      "version_simple": "0.0.2",
+      "world_version": "0.0.2"
+    }
+  }
+}
