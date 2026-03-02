@@ -13535,6 +13535,22 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.17-Beta/deep_rock_galactic.apworld",
+      "size": 31487,
+      "hash_sha256": "c53e032cf154f29173e5a0917561e8f448473db1761b7776cae1e39746dde7ec",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.17b0",
+        "tag_version": "0.17b0",
+        "created_at": "2026-02-28T18:43:12Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/StellatedCUBE/Delivering-Hope-Archipelago/releases/download/v0.1.0/DeliveringHope.apworld",
       "size": 14973,
       "hash_sha256": "3dcdaf6b0b3853e693a55ff2ec2dcb17d9fb1d30373884094459946dae631581",
@@ -33388,6 +33404,19 @@
       }
     },
     {
+      "world": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.1.2/manual_dbdsurven_wabadjakk.apworld",
+      "size": 59930,
+      "hash_sha256": "13a4400cec6d3700d0ed0ae463f240a5d65305590d6dc2d58d0babdd45fb9d79",
+      "metadata": {
+        "game": "Manual_DbDSurvEN_Wabadjakk",
+        "id": "manual_dbdsurven_wabadjakk",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
+        "created_at": "2025-08-02T17:09:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.0.0/manual_dbdsurvfr_wabadjakk.apworld",
       "size": 59040,
       "hash_sha256": "0f147776df4ecf31c94723ea7b47fb9eab7ec8180fb9066a25471065cb533248",
@@ -33422,6 +33451,19 @@
         "id": "manual_dbdsurvfr_wabadjakk",
         "world_version": "1.1.1",
         "tag_version": "1.1.1",
+        "created_at": "2025-08-02T17:09:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.1.2/manual_dbdsurvfr_wabadjakk.apworld",
+      "size": 60795,
+      "hash_sha256": "5196504d390209c8e38e08580a6ea90c01753c9c7af15de9bc6edfca3a134386",
+      "metadata": {
+        "game": "Manual_DbDSurvFR_Wabadjakk",
+        "id": "manual_dbdsurvfr_wabadjakk",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
         "created_at": "2025-08-02T17:09:15Z",
         "maximum_ap_version": "0.6.99"
       }
@@ -44229,6 +44271,19 @@
         "world_version": "0.5.1",
         "tag_version": "0.5.1",
         "created_at": "2025-10-22T16:12:22Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Satisha10/APwotw_release/releases/download/v0.5.2/ori_wotw.apworld",
+      "size": 198125,
+      "hash_sha256": "943addffb1dc1afa8c7fbd9d9201f0dceebcfbf26731be3ead4401b4f86970e5",
+      "metadata": {
+        "game": "Ori and the Will of the Wisps",
+        "id": "ori_wotw",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-02-24T06:36:25Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -62595,6 +62650,45 @@
         "world_version": "2.3.1",
         "tag_version": "2.3.1",
         "created_at": "2026-01-15T01:49:19Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/cjmang/StS-AP-World/releases/download/2.3.4/spire.apworld",
+      "size": 26118,
+      "hash_sha256": "c4e2ed622c1ac7908e725532492a082155c8df659929c2f7687934035deda9fa",
+      "metadata": {
+        "game": "Slay the Spire",
+        "id": "spire",
+        "world_version": "2.3.4",
+        "tag_version": "2.3.4",
+        "created_at": "2026-03-01T23:56:44Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/cjmang/StS-AP-World/releases/download/2.3.3/spire.apworld",
+      "size": 26109,
+      "hash_sha256": "d23c21c97cbdf4f16631223687e3f1b3bb28b3d7b238ca3c2a5db37a79287d1c",
+      "metadata": {
+        "game": "Slay the Spire",
+        "id": "spire",
+        "world_version": "2.3.3",
+        "tag_version": "2.3.3",
+        "created_at": "2026-03-01T23:32:32Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/cjmang/StS-AP-World/releases/download/2.3.2/spire.apworld",
+      "size": 26101,
+      "hash_sha256": "f47a3acc2d4bf0314a9b7b8b210594852bb6b181f65fc62f3c0fe2fe74e44e79",
+      "metadata": {
+        "game": "Slay the Spire",
+        "id": "spire",
+        "world_version": "2.3.2",
+        "tag_version": "2.3.2",
+        "created_at": "2026-03-01T22:11:52Z",
         "minimum_ap_version": "0.6.2"
       }
     },
