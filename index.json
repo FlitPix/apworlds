@@ -756,6 +756,22 @@
       }
     },
     {
+      "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.3-M2/am2r.apworld",
+      "size": 32320,
+      "hash_sha256": "62b2ebbe1e0eb59df321e7785d5538221edf58e30b7a47b211ceda57ff1c67b4",
+      "metadata": {
+        "game": "AM2R",
+        "id": "am2r",
+        "world_version": "1.4.3",
+        "tag_version": "1.4.3",
+        "created_at": "2026-03-02T21:10:09Z",
+        "minimum_ap_version": "0.5.0",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.1/animal_well.apworld",
       "size": 79746,
       "hash_sha256": "cecd8479d4970bfc56cde54d465e859cfd9706ba9329e748f8953f17ee6728f7",
@@ -2904,6 +2920,19 @@
         "world_version": "1.5.2.post4",
         "tag_version": "1.5.2.post4",
         "created_at": "2025-04-02T23:17:49Z"
+      }
+    },
+    {
+      "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
+      "size": 97035,
+      "hash_sha256": "91729c198141160c8183a9467ac5e96c8c8a7d5dbd52ca322b54f56540d4058f",
+      "metadata": {
+        "game": "Aquaria",
+        "id": "aquaria",
+        "world_version": "1.5.2.post5",
+        "tag_version": "1.5.2.post5",
+        "created_at": "2025-04-02T23:17:49Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -21445,6 +21474,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.2/flipwitch.apworld",
+      "size": 72154,
+      "hash_sha256": "c9676278ed9073665ed1017f24a6602de725ff718f0409d24196cccb30d74c30",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-03-02T13:39:32Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/sg4e/Archipelago/releases/download/v1.0.0/fm.apworld",
       "size": 70361,
       "hash_sha256": "1db5179bdb048c65b594a81c6460ff4c00d9109503219995be08564d1c55b183",
@@ -32118,6 +32162,18 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.18/lunacid.apworld",
+      "size": 4896571,
+      "hash_sha256": "bb4d64e4f47cd8ee73eca6d7ffc7ca2cde0eaf181fbf78ef6ffb4d9675064f1f",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.0.18",
+        "tag_version": "1.0.18",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -42959,6 +43015,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.6/nine_sols.apworld",
+      "size": 2579580,
+      "hash_sha256": "a89bd720a12648d40c8d0e72a9e8ad6e69cba76b98f8c25913a94768e4fd5815",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.4.6",
+        "tag_version": "0.4.6",
+        "created_at": "2026-03-02T14:04:40Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_0/no100f.apworld",
       "size": 216707,
       "hash_sha256": "c7a73db59222d8761aa6528118924eca25b97a3f3e6fde3dd3e74ba64d9abda0",
@@ -48542,6 +48611,19 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.18/pokemon_bw.apworld",
+      "size": 37634312,
+      "hash_sha256": "a5d1a239602a0810a1bfc8b6c01de2c72619f5012971a658edc62d6c898e34e4",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.18",
+        "tag_version": "0.3.18",
+        "created_at": "2026-03-02T14:23:07Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
