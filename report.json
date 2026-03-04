@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 516,
-  "total_versions": 5539,
+  "total_versions": 5541,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -79,7 +79,7 @@
     "deathlink_text_client": false,
     "deathlinkipelago": false,
     "deaths_door": false,
-    "deep_rock_galactic": false,
+    "deep_rock_galactic": true,
     "DeliveringHope": true,
     "deltarune": false,
     "diddy_kong_racing": true,
