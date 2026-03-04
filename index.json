@@ -13551,6 +13551,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.17/deep_rock_galactic.apworld",
+      "size": 39498,
+      "hash_sha256": "a458d9eeab0f449246b09b41020b77f179089ded94b4b4fa4c6b842052e0c27b",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.16.3",
+        "tag_version": "0.16.3",
+        "created_at": "2026-03-03T19:22:25Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.17-Beta/deep_rock_galactic.apworld",
       "size": 31487,
       "hash_sha256": "c53e032cf154f29173e5a0917561e8f448473db1761b7776cae1e39746dde7ec",
@@ -13577,19 +13590,6 @@
         "tag_version": "0.13",
         "created_at": "2025-10-31T00:58:51Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.17/deep_rock_galactic.apworld",
-      "size": 39498,
-      "hash_sha256": "a458d9eeab0f449246b09b41020b77f179089ded94b4b4fa4c6b842052e0c27b",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.16.3",
-        "tag_version": "0.16.3",
-        "created_at": "2026-03-03T19:22:25Z",
-        "minimum_ap_version": "0.6.6"
       }
     },
     {
@@ -18049,6 +18049,22 @@
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
         "created_at": "2026-03-01T10:37:05Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.1/everhood_2.apworld",
+      "size": 20522,
+      "hash_sha256": "ff3f954f86ee629d1dadabfdd2a71d72864ecb86c2e2cd754a576593db1f08fb",
+      "metadata": {
+        "game": "Everhood 2",
+        "id": "everhood_2",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-03-04T09:03:42Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "prerelease"
