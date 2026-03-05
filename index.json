@@ -14928,6 +14928,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.49/dk64.apworld",
+      "size": 37027885,
+      "hash_sha256": "db9f02431dd955531a54bbb4015c347e51b19092e2aaba9f5bd065b52948b3a0",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.49",
+        "tag_version": "1.4.49",
+        "created_at": "2026-03-05T02:00:55Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.5/dk64.apworld",
       "size": 26180522,
       "hash_sha256": "2d85a7467a5932a3c8f702c6b49e9c9ac736b98126b670a4b38a628f0c7155dc",
@@ -14990,19 +15003,6 @@
         "tag_version": "1.4.9",
         "created_at": "2025-10-21T13:57:13Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.49/dk64.apworld",
-      "size": 37027885,
-      "hash_sha256": "db9f02431dd955531a54bbb4015c347e51b19092e2aaba9f5bd065b52948b3a0",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "1.4.49",
-        "tag_version": "1.4.49",
-        "created_at": "2026-03-05T02:00:55Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -43263,6 +43263,45 @@
       }
     },
     {
+      "world": "https://github.com/Emerald836/Emerlads-Nodebuster_AP_Mod/releases/download/v0.0.1/nodebuster.apworld",
+      "size": 8323,
+      "hash_sha256": "330fa47cb5bde12f51decc967de45aed3b4127daafa69db8dc981886b9c5a3d8",
+      "metadata": {
+        "game": "Nodebuster",
+        "id": "nodebuster",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2025-03-30T01:54:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Emerald836/Emerlads-Nodebuster_AP_Mod/releases/download/v0.0.1hf/nodebuster.apworld",
+      "size": 8323,
+      "hash_sha256": "330fa47cb5bde12f51decc967de45aed3b4127daafa69db8dc981886b9c5a3d8",
+      "metadata": {
+        "game": "Nodebuster",
+        "id": "nodebuster",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2025-03-30T20:00:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Emerald836/Emerlads-Nodebuster_AP_Mod/releases/download/v0.1.0/nodebuster.apworld",
+      "size": 28719,
+      "hash_sha256": "ac5847968ceff58859e4fc8abc5f747af697f44b892f6170076e14f5191a1bc3",
+      "metadata": {
+        "game": "Nodebuster",
+        "id": "nodebuster",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2025-04-07T22:33:38Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/madolinn/NoitaArchipelago/releases/download/v0.6.0/noita-killsanity.apworld",
       "size": 14521,
       "hash_sha256": "d57aed3d34f0bca961695ff230c1cbf18bfd1a0a90c37115c1139afb0f744344",
@@ -47425,6 +47464,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.1/plateup.apworld",
+      "size": 18873,
+      "hash_sha256": "c34c8312dd5fb70acc32a731d51a269df7fc6d78caaeb21b97b6daf9b2bd317c",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.5.1",
+        "tag_version": "0.2.5.1",
+        "created_at": "2026-03-04T19:00:20Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
       "size": 15365,
       "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
@@ -47438,15 +47489,15 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.1/plateup.apworld",
-      "size": 18873,
-      "hash_sha256": "c34c8312dd5fb70acc32a731d51a269df7fc6d78caaeb21b97b6daf9b2bd317c",
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.2/plateup.apworld",
+      "size": 21531,
+      "hash_sha256": "70a0e0468abd212ae7cde36e23b71881f6508dd4fc2d43afbf016cbb566bb49d",
       "metadata": {
         "game": "plateup",
         "id": "plateup",
-        "world_version": "0.2.5.1",
-        "tag_version": "0.2.5.1",
-        "created_at": "2026-03-04T19:00:20Z"
+        "world_version": "0.2.5.2",
+        "tag_version": "0.2.5.2",
+        "created_at": "2026-03-05T08:55:45Z"
       }
     },
     {
@@ -72787,6 +72838,18 @@
       }
     },
     {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.3.4/ultrakill.apworld",
+      "size": 42168,
+      "hash_sha256": "7389e078e3d9b3a6ae6d1cf9e1dbb483667abce00fcc6e5d197a83b767bcedd3",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.3.4",
+        "tag_version": "3.3.4",
+        "created_at": "2026-03-05T03:37:21Z"
+      }
+    },
+    {
       "world": "https://github.com/soaringjupiter/UT99-Archipelago/releases/download/v0.0.1/ut99.apworld",
       "size": 21714,
       "hash_sha256": "01278bc88b369098538e80891c4708eea69cef8ae94a83c4b00a06bcff7efbb5",
@@ -76621,6 +76684,10 @@
     "no100f": {
       "game": "Scooby-Doo! Night of 100 Frights",
       "description": "Scooby-Doo! Night of 100 Frights is a MetroidVania 3D Platformer game\nmade by Heavy Iron Studios and published by THQ.\n\nThe Mystery Gang are invited to the Mystic Manor by Holly, but shortly after arriving Scooby-Doo\ngets separated from the rest of the crew, Scooby must navigate a wide variety of levels to collect new inventions\nand scooby snacks so that he can explore new areas and look for his friends, while\nhe fights off his old foes along the way."
+    },
+    "nodebuster": {
+      "game": "Nodebuster",
+      "description": "Nodebuster is a short, experimental incremental game about busting nodes and destroying reality."
     },
     "noita": {
       "game": "Noita",
