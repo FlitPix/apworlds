@@ -32466,45 +32466,6 @@
       }
     },
     {
-      "world": "https://github.com/Angevon-1/manual_baldursgate2_angevon/releases/download/0.1.0/manual_baldursgate2_angevon.apworld",
-      "size": 2061970,
-      "hash_sha256": "8e88739430f0319df8e837651dddc57f1225449b7471b618090398ce4d2e5838",
-      "metadata": {
-        "game": "Manual_BaldursGate2_Angevon",
-        "id": "manual_baldursgate2_angevon",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-08-31T00:32:36Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Angevon-1/manual_baldursgate2_angevon/releases/download/0.2.0/manual_baldursgate2_angevon.apworld",
-      "size": 2129607,
-      "hash_sha256": "38c69a672445a0b3fd0650a484f40882374e65e9033f449d105332180e234f3d",
-      "metadata": {
-        "game": "Manual_BaldursGate2_Angevon",
-        "id": "manual_baldursgate2_angevon",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-09-11T14:07:24Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Angevon-1/manual_baldursgate2_angevon/releases/download/0.3.0/manual_baldursgate2_angevon.apworld",
-      "size": 2378691,
-      "hash_sha256": "510f0c4ebbc63fe2caa323a9be798e795d787a4622e59271efe9c2c792dfbc80",
-      "metadata": {
-        "game": "Manual_BaldursGate2_Angevon",
-        "id": "manual_baldursgate2_angevon",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2025-11-03T03:47:40Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Betrayal_0.0.1/manual_betrayal_axxroy.apworld",
       "size": 107563,
       "hash_sha256": "232b101662a7f3ff513d1864c608623a388a55d2cf4ecc5d32a67d70c8f0c5dc",
@@ -47476,6 +47437,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.2/plateup.apworld",
+      "size": 21531,
+      "hash_sha256": "70a0e0468abd212ae7cde36e23b71881f6508dd4fc2d43afbf016cbb566bb49d",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.5.2",
+        "tag_version": "0.2.5.2",
+        "created_at": "2026-03-05T08:55:45Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
       "size": 15365,
       "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
@@ -47486,18 +47459,6 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.2/plateup.apworld",
-      "size": 21531,
-      "hash_sha256": "70a0e0468abd212ae7cde36e23b71881f6508dd4fc2d43afbf016cbb566bb49d",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.2.5.2",
-        "tag_version": "0.2.5.2",
-        "created_at": "2026-03-05T08:55:45Z"
       }
     },
     {
@@ -66966,6 +66927,22 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.9/tevi.apworld",
+      "size": 173366,
+      "hash_sha256": "d3902283b122e48d3cbe70b16596db6a5b2bbd4810c14240ed96e31dd2c21c33",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.9",
+        "tag_version": "1.4.9",
+        "created_at": "2026-03-05T18:11:30Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nepley/eosd-apworld/releases/download/v1.0.0/th06.apworld",
       "size": 36935,
       "hash_sha256": "f8933f1f567291737d842690df98952e62bfbfc11ff39af4d0cbdbcf1151bb0b",
@@ -70959,6 +70936,19 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-02-07T02:29:11Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.9.0/ttyd.apworld",
+      "size": 766886,
+      "hash_sha256": "3cf0b9409fa0d1cf816c082f1b9aca0b6feb54567b3abf56eb2c72e922d571c4",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-03-05T13:56:03Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -76197,10 +76187,6 @@
     },
     "manual_baldisbasicsclassicremastered_wolfboi008": {
       "game": "Manual_BaldisBasicsClassicRemastered_WolfBoi008",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_baldursgate2_angevon": {
-      "game": "Manual_BaldursGate2_Angevon",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_betrayal_axxroy": {

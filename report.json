@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 515,
-  "total_versions": 5551,
+  "total_packages": 514,
+  "total_versions": 5550,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -190,7 +190,6 @@
     "madou": true,
     "manual_adventuresofdreamland_bennydreamly": false,
     "manual_baldisbasicsclassicremastered_wolfboi008": false,
-    "manual_baldursgate2_angevon": false,
     "manual_betrayal_axxroy": false,
     "manual_blocktales_wolfboi008": false,
     "manual_castleminerz_garbo": false,
