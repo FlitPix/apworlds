@@ -334,6 +334,19 @@
       "title": "Refunct for Archipelago v0.8.3",
       "version_simple": "0.8.3",
       "world_version": "0.8.3"
+    },
+    "v0.8.3a": {
+      "created_at": "2026-03-06T20:18:32Z",
+      "download_url": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.8.3a/refunct.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a1ba0ef64f6c7210f94eb940620b1e3c71f94bed902aea0b0b24bfa06e73918e",
+      "minimum_ap_version": "0.6.4",
+      "size": 14520,
+      "source_url": "https://api.github.com/repos/spinerak/refunct-tas-archipelago",
+      "tag": "v0.8.3a",
+      "title": "Refunct for Archipelago v0.8.3a (client-only update)",
+      "version_simple": "0.8.3",
+      "world_version": "0.8.3"
     }
   }
 }

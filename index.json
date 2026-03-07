@@ -1938,6 +1938,19 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.2/ape_escape_3.apworld",
+      "size": 138882,
+      "hash_sha256": "7d66efc0c466027d34c21eca6ff29dfe8f4ba626c961036b71c879e20abbb91d",
+      "metadata": {
+        "game": "Ape Escape 3",
+        "id": "ape_escape_3",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2026-03-05T05:04:23Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.3.0/apeescape.apworld",
       "size": 181274,
       "hash_sha256": "9ccc189c239d744a190f6e8eb6ca34c74d37490cde0723159d931dc6828da145",
@@ -7099,6 +7112,22 @@
         "tag_version": "0.5",
         "created_at": "2026-02-24T20:26:20Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-64/borderlands2.apworld",
+      "size": 52256,
+      "hash_sha256": "f4c8b2880bababff65ba0f223771aaa7c13f732d39447626ea5ccf2e7d7cd43e",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "64",
+        "tag_version": "64",
+        "created_at": "2026-03-06T17:50:14Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -26920,19 +26949,6 @@
       }
     },
     {
-      "world": "https://github.com/Silvris/Archipelago/releases/download/k64_v0.1.0/k64.apworld",
-      "size": 85699,
-      "hash_sha256": "702c5abd1873b8a91f800aaaabe8413c045f9efa2c458322332e606798111451",
-      "metadata": {
-        "game": "Kirby 64 - The Crystal Shards",
-        "id": "k64",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2024-10-01T22:02:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Silvris/Archipelago/releases/download/k64_0.3.2/k64.apworld",
       "size": 50663,
       "hash_sha256": "8883369770056a232db0a6a9ba6802841fe7c463d3aff2a192c2751d14157e35",
@@ -26943,6 +26959,19 @@
         "tag_version": "0.3.2",
         "created_at": "2026-03-06T07:23:13Z",
         "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Silvris/Archipelago/releases/download/k64_v0.1.0/k64.apworld",
+      "size": 85699,
+      "hash_sha256": "702c5abd1873b8a91f800aaaabe8413c045f9efa2c458322332e606798111451",
+      "metadata": {
+        "game": "Kirby 64 - The Crystal Shards",
+        "id": "k64",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2024-10-01T22:02:17Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -28444,6 +28473,19 @@
         "world_version": "0.1.8",
         "tag_version": "0.1.8",
         "created_at": "2026-03-06T05:33:57Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Silvris/Archipelago/releases/download/kss_0.1.9/kss.apworld",
+      "size": 42626,
+      "hash_sha256": "ff131a9dad0cf1c1e24a88a0f700ce65b15c8a9791923169f1a7f59d63f9edde",
+      "metadata": {
+        "game": "Kirby Super Star",
+        "id": "kss",
+        "world_version": "0.1.9",
+        "tag_version": "0.1.9",
+        "created_at": "2026-03-06T14:13:09Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -31458,6 +31500,19 @@
       }
     },
     {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.6.1/luigismansion.apworld",
+      "size": 231675,
+      "hash_sha256": "0fd8936279e053df96110fcb7898447a9fb8655343b8f26c22108d79a73b4e21",
+      "metadata": {
+        "game": "Luigi's Mansion",
+        "id": "luigismansion",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-03-06T18:42:51Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.8.10/lunacid.apworld",
       "size": 263821,
       "hash_sha256": "f15de8e862c7fc7b26c9cbd90f572db56c14094d2e2752bbd302ea9513c03bd9",
@@ -32876,6 +32931,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.1/manual_blocktales_wolfboi008.apworld",
+      "size": 75619,
+      "hash_sha256": "100e7917f2db7f5b1d6525665bd42fd1b545f3030b311de347b6e76849c0236d",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "4.2.1",
+        "tag_version": "4.2.1",
+        "created_at": "2026-03-06T21:37:20Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Archipelago_Manuals/releases/download/cmz-0.4/manual_castleminerz_garbo.apworld",
       "size": 40155,
       "hash_sha256": "1f708c1131a2aa12ab79d5a38e417f708460707fd3c309dee4f870e7688191af",
@@ -34097,6 +34165,19 @@
         "world_version": "1.2.0",
         "tag_version": "1.2.0",
         "created_at": "2025-11-06T23:19:11Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/MercenaryGreil/Archipelago-FireEmblem-PathofRadiance/releases/download/v1.2.1/manual_fireemblempathofradiance_mercenarygreil.apworld",
+      "size": 61557,
+      "hash_sha256": "9fab7856bec4be7253adca14f1067921d1d9dd82f91d446fe2aa596376796efb",
+      "metadata": {
+        "game": "Manual_FireEmblemPathofRadiance_MercenaryGreil",
+        "id": "manual_fireemblempathofradiance_mercenarygreil",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2025-11-10T22:44:43Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -47488,6 +47569,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.3/plateup.apworld",
+      "size": 21616,
+      "hash_sha256": "623926e20df965cdcca53720b1a5948453a94a1a6977cffe3d22b559024d95e9",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.5.3",
+        "tag_version": "0.2.5.3",
+        "created_at": "2026-03-06T18:33:05Z"
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/aplok_v010/plok.apworld",
       "size": 27287,
       "hash_sha256": "18f68733febdebbac0e3e8c83ec3e8ccacfd367066b1be24900f902c960dd7db",
@@ -54248,6 +54341,19 @@
         "world_version": "0.8.3",
         "tag_version": "0.8.3",
         "created_at": "2026-02-15T01:14:34Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.8.3a/refunct.apworld",
+      "size": 14520,
+      "hash_sha256": "a1ba0ef64f6c7210f94eb940620b1e3c71f94bed902aea0b0b24bfa06e73918e",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.8.3",
+        "tag_version": "0.8.3",
+        "created_at": "2026-03-06T20:18:32Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -66982,6 +67088,38 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.11/tevi.apworld",
+      "size": 173372,
+      "hash_sha256": "a38a35e54b0d4210bd6e3f9d7598ca8a428a69efa8165eed32099acdedfaba22",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.11",
+        "tag_version": "1.4.11",
+        "created_at": "2026-03-07T01:08:11Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.10/tevi.apworld",
+      "size": 173375,
+      "hash_sha256": "10366d3b67a39d4dbb2eed628c92bad078b0789b845fe2f0cb25c132b0ea1ce1",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.10",
+        "tag_version": "1.4.10",
+        "created_at": "2026-03-06T18:12:57Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nepley/eosd-apworld/releases/download/v1.0.0/th06.apworld",
       "size": 36935,
       "hash_sha256": "f8933f1f567291737d842690df98952e62bfbfc11ff39af4d0cbdbcf1151bb0b",
@@ -69481,6 +69619,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.1/tloz_st.apworld",
+      "size": 261358,
+      "hash_sha256": "dfccf945bd5c85fbf11c1de29d9bec5f6ef558f91bbd8f8102d9c7d60129b992",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-03-06T07:23:29Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -69632,19 +69783,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.1/tloz_st.apworld",
-      "size": 261358,
-      "hash_sha256": "dfccf945bd5c85fbf11c1de29d9bec5f6ef558f91bbd8f8102d9c7d60129b992",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.6.1",
-        "tag_version": "0.6.1",
-        "created_at": "2026-03-06T07:23:29Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -70630,6 +70768,96 @@
       }
     },
     {
+      "world": "https://github.com/SerialBoxes/ArchipelagoTrackmania/releases/download/v1.0.0/trackmania.apworld",
+      "size": 41509,
+      "hash_sha256": "1479a27f0e1d6f1467608782c2b66ed055d1c774854af06c9d83813cea76fbd5",
+      "metadata": {
+        "game": "Trackmania",
+        "id": "trackmania",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2025-05-04T19:36:25Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SerialBoxes/ArchipelagoTrackmania/releases/download/v1.0.1/trackmania.apworld",
+      "size": 41543,
+      "hash_sha256": "f58fac0beea22d263b8e0f768ff7338758175451824b6c7461072c2570647d9e",
+      "metadata": {
+        "game": "Trackmania",
+        "id": "trackmania",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2025-05-06T04:16:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SerialBoxes/ArchipelagoTrackmania/releases/download/v1.1.0/trackmania.apworld",
+      "size": 43681,
+      "hash_sha256": "d3e296f39029eb2f0c6ae5ac9107c6cbd1a8aec96745e120b893e97b3dd933b3",
+      "metadata": {
+        "game": "Trackmania",
+        "id": "trackmania",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2025-05-07T04:30:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SerialBoxes/ArchipelagoTrackmania/releases/download/v1.2.0/trackmania.apworld",
+      "size": 49974,
+      "hash_sha256": "031e8ea967c84284f62822834899f12678cf0b26e1eff43e851590de664ade76",
+      "metadata": {
+        "game": "Trackmania",
+        "id": "trackmania",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2025-05-22T03:10:55Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SerialBoxes/ArchipelagoTrackmania/releases/download/v1.2.1/trackmania.apworld",
+      "size": 49985,
+      "hash_sha256": "d580e4a9d32026f1ba4cf36dcf0b756d9c2a325f540a9b1818735a7227c9c181",
+      "metadata": {
+        "game": "Trackmania",
+        "id": "trackmania",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2025-06-24T01:06:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SerialBoxes/ArchipelagoTrackmania/releases/download/v1.3.0/trackmania.apworld",
+      "size": 17406,
+      "hash_sha256": "3d064b176614ecbfd2da75886a703825346d9aa9fed582795f3570e208a9aded",
+      "metadata": {
+        "game": "Trackmania",
+        "id": "trackmania",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2025-09-27T01:01:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/SerialBoxes/ArchipelagoTrackmania/releases/download/v1.3.1/trackmania.apworld",
+      "size": 18431,
+      "hash_sha256": "0bb549130c4f77eed9e48f9ae89bf7f2eb24d5ab91e26c335b85a45510461b23",
+      "metadata": {
+        "game": "Trackmania",
+        "id": "trackmania",
+        "world_version": "1.3.1",
+        "tag_version": "1.3.1",
+        "created_at": "2025-10-07T00:23:21Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.1.0/ttyd.apworld",
       "size": 114026,
       "hash_sha256": "a5a52356bb404d599eb312cc8515fb0c0cd2483b2a4e71efa121ac0174b95a48",
@@ -71054,6 +71282,58 @@
         "world_version": "4.2.7",
         "tag_version": "4.2.7",
         "created_at": "2025-07-11T01:44:13Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/pointfivetee/TurnipBoyRandomizer/releases/download/v0.1.0/turnipboy.apworld",
+      "size": 37646,
+      "hash_sha256": "e909ea356886fb40aeb4888a5c7354e055e83bfd2bf9743e96148a54c0bb18c7",
+      "metadata": {
+        "game": "TurnipBoy",
+        "id": "turnipboy",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2024-12-15T23:10:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/pointfivetee/TurnipBoyRandomizer/releases/download/v0.1.1/turnipboy.apworld",
+      "size": 37589,
+      "hash_sha256": "669c875bfbb6fc2e3c175f1a2b203aa5104aba7edaa9c42fc60892a55a6940b5",
+      "metadata": {
+        "game": "TurnipBoy",
+        "id": "turnipboy",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2024-12-28T18:18:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/pointfivetee/TurnipBoyRandomizer/releases/download/v0.1.2/turnipboy.apworld",
+      "size": 39563,
+      "hash_sha256": "3384a706e9be2672436b1243f3d41fdfad8a7434b735214b4fd6a017da101bf7",
+      "metadata": {
+        "game": "TurnipBoy",
+        "id": "turnipboy",
+        "world_version": "0.1.2",
+        "tag_version": "0.1.2",
+        "created_at": "2025-01-02T20:42:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/pointfivetee/TurnipBoyRandomizer/releases/download/v0.1.3/turnipboy.apworld",
+      "size": 39616,
+      "hash_sha256": "3a1c82fc880d4a328b438fa966b9b4205713e11e70e8d88d9cad5e41d9d2cac5",
+      "metadata": {
+        "game": "TurnipBoy",
+        "id": "turnipboy",
+        "world_version": "0.1.3",
+        "tag_version": "0.1.3",
+        "created_at": "2025-01-02T20:42:36Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -77103,6 +77383,10 @@
       "game": "Universal Tracker",
       "description": ""
     },
+    "trackmania": {
+      "game": "Trackmania",
+      "description": "Trackmania is a mechanically deep arcade racing game that is easy to pick up and addicting to master!\nZoom through hundreds of thousands of user-made tracks as fast as you can!"
+    },
     "ttyd": {
       "game": "Paper Mario The Thousand Year Door",
       "description": "TTYD"
@@ -77110,6 +77394,10 @@
     "tunic": {
       "game": "TUNIC",
       "description": "Explore a land filled with lost legends, ancient powers, and ferocious monsters in TUNIC, an isometric action game\nabout a small fox on a big adventure. Stranded on a mysterious beach, armed with only your own curiosity, you will\nconfront colossal beasts, collect strange and powerful items, and unravel long-lost secrets. Be brave, tiny fox!"
+    },
+    "turnipboy": {
+      "game": "TurnipBoy",
+      "description": "Turnip Boy Commits Tax Evasion"
     },
     "twistycube": {
       "game": "Twisty Cube",
