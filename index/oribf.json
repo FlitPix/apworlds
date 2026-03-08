@@ -87,6 +87,18 @@
       "title": "OriBF APWorld v0.3.3",
       "version_simple": "0.3.3",
       "world_version": "0.3.3"
+    },
+    "v0.4.0": {
+      "created_at": "2026-03-07T17:04:23Z",
+      "download_url": "https://github.com/c-ostic/Archipelago/releases/download/v0.4.0/oribf.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ae4ea8f4996cdb9a4bcc5e049006731d53ef849feec71ed260e907975d139fb7",
+      "size": 30243,
+      "source_url": "https://api.github.com/repos/c-ostic/Archipelago",
+      "tag": "v0.4.0",
+      "title": "OriBF APWorld v0.4.0",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0"
     }
   }
 }

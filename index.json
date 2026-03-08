@@ -15035,6 +15035,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Release/releases/download/v1.4.49/dk64.apworld",
+      "size": 37028314,
+      "hash_sha256": "e000e74226706c041e1f6d21bc3e7ab4c29bdc7138d3e90270e4ff7d27c478ad",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.49",
+        "tag_version": "1.4.49",
+        "created_at": "2026-03-07T19:58:39Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.0.0/dkc.apworld",
       "size": 56776,
       "hash_sha256": "15d2d8a12aad3d4e068bd805e8f0da29b132cbaca62ae022c3c0f4f80cc439e4",
@@ -24773,6 +24786,18 @@
       }
     },
     {
+      "world": "https://github.com/TRPG0/HbkArchipelago/releases/download/0.2.2/hi_fi_rush.apworld",
+      "size": 17323,
+      "hash_sha256": "bbb2870da51373933590f037d731189401e422e919b8163980410331bca5fd96",
+      "metadata": {
+        "game": "Hi-Fi RUSH",
+        "id": "hi_fi_rush",
+        "world_version": "0.2.2",
+        "tag_version": "0.2.2",
+        "created_at": "2026-03-07T20:43:48Z"
+      }
+    },
+    {
       "world": "https://github.com/BenDipp/Archipelago/releases/download/0.3.0/hitman_woa.apworld",
       "size": 244215,
       "hash_sha256": "7605e6339a3dc632e9a109b33ab8008576948fae6cd14a0aa3ec91bb685d4a77",
@@ -32409,6 +32434,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari104/madou.apworld",
+      "size": 44501,
+      "hash_sha256": "3899c27c38712d56555ce498942a5a79f3d51cdfe6c9925d88027fd3679b82a6",
+      "metadata": {
+        "game": "Madou Monogatari Hanamaru Daiyouchienji",
+        "id": "madou",
+        "world_version": "104",
+        "tag_version": "104",
+        "created_at": "2026-03-06T00:41:48Z"
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Manuals/releases/download/AOD-1.0/manual_adventuresofdreamland_bennydreamly.apworld",
       "size": 59203,
       "hash_sha256": "66a4b2479c353da369fcc1b1e4e134eb7bba2504fb331c7378e1ddc6e54b1bbd",
@@ -32847,6 +32884,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.2/manual_blocktales_wolfboi008.apworld",
+      "size": 75615,
+      "hash_sha256": "29cd5520f01d1d5c67728017ac96424a45a25aa072ff84f1c6aab23a06de31b2",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "4.2.2",
+        "tag_version": "4.2.2",
+        "created_at": "2026-03-07T04:05:13Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-4.0.0-1/manual_blocktales_wolfboi008.apworld",
       "size": 52109,
       "hash_sha256": "babcb30031c4c1b3aa37bddeaeda7010a52cc433e81d41265c2416fca1936b2a",
@@ -32972,19 +33022,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.2/manual_blocktales_wolfboi008.apworld",
-      "size": 75615,
-      "hash_sha256": "29cd5520f01d1d5c67728017ac96424a45a25aa072ff84f1c6aab23a06de31b2",
-      "metadata": {
-        "game": "Manual_BlockTales_WolfBoi008",
-        "id": "manual_blocktales_wolfboi008",
-        "world_version": "4.2.2",
-        "tag_version": "4.2.2",
-        "created_at": "2026-03-07T04:05:13Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -44669,6 +44706,18 @@
       }
     },
     {
+      "world": "https://github.com/c-ostic/Archipelago/releases/download/v0.4.0/oribf.apworld",
+      "size": 30243,
+      "hash_sha256": "ae4ea8f4996cdb9a4bcc5e049006731d53ef849feec71ed260e907975d139fb7",
+      "metadata": {
+        "game": "Ori and the Blind Forest",
+        "id": "oribf",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-03-07T17:04:23Z"
+      }
+    },
+    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/OSRS-v0.1.3/osrs.apworld",
       "size": 2240846,
       "hash_sha256": "9eb39929947a62abb9feabc12f39dea9842e413f758fbec1eace694fd5bfbfc1",
@@ -47622,6 +47671,18 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.5/plateup.apworld",
+      "size": 24634,
+      "hash_sha256": "a04638c36de2680df1631820e0946815b03ebf35b3aab63f88319b7156c5733c",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.5.5",
+        "tag_version": "0.2.5.5",
+        "created_at": "2026-03-08T00:58:23Z"
       }
     },
     {
@@ -60493,6 +60554,22 @@
         "world_version": "0.4.4",
         "tag_version": "0.4.4",
         "created_at": "2025-11-26T09:33:14Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.0/sm64hacks.apworld",
+      "size": 292131,
+      "hash_sha256": "1bb02c44098c3145bbe059217fe74206bc1469ba54f42307169a7595ef148a2a",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-03-07T19:48:59Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
