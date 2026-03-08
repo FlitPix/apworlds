@@ -77,6 +77,18 @@
       "title": "Mario Kart 64 0.2.3b",
       "version_simple": "0.2.3",
       "world_version": "0.2.3b0"
+    },
+    "mk64/0.2.4": {
+      "created_at": "2024-04-01T04:07:57Z",
+      "download_url": "https://github.com/Edsploration/MK64-Archipelago/releases/download/mk64/0.2.4/mk64.apworld",
+      "has_manifest": false,
+      "hash_sha256": "f3ca4b2ee914aaf308e6edb28f406b83e0c77e2cef14858bab39a063b032f0de",
+      "size": 126122,
+      "source_url": "https://api.github.com/repos/Edsploration/MK64-Archipelago",
+      "tag": "mk64/0.2.4",
+      "title": "Mario Kart 64 0.2.4",
+      "version_simple": "0.2.4",
+      "world_version": "0.2.4"
     }
   }
 }
