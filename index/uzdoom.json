@@ -1,0 +1,20 @@
+{
+  "description": "UZDoom is an open-source enhanced port of the Doom engine, supporting Doom 1/2, Hexen, Heretic, and Strife, along\nwith thousands of fan-made maps and mission packs and even a few commercial games like Hedon Bloodrite and Selaco.\n\nThis randomizer comes with an automated WAD scanner that makes it easy to add support for new WADs.",
+  "game": "UZDoom",
+  "github": "https://github.com/toxicfrog/doom-mods",
+  "license": null,
+  "versions": {
+    "gzap-0.8.0": {
+      "created_at": "2026-03-01T19:50:01Z",
+      "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.8.0/uzdoom.apworld",
+      "has_manifest": true,
+      "hash_sha256": "67fcc8388fc6590c7f6ad4f963553c12e9455a1f87c59a45dc436478255036de",
+      "size": 64203,
+      "source_url": "https://api.github.com/repos/toxicfrog/doom-mods",
+      "tag": "gzap-0.8.0",
+      "title": "UZArchipelago 0.8.0",
+      "version_simple": "0.8.0",
+      "world_version": "0.8.0"
+    }
+  }
+}

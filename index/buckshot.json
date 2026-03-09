@@ -1,0 +1,88 @@
+{
+  "description": "A Computer Game by Mike Klubnika",
+  "game": "Buckshot Roulette",
+  "github": "https://github.com/asdfwyay/APBuckshot",
+  "license": null,
+  "versions": {
+    "v0.0.1": {
+      "created_at": "2025-12-24T04:08:26Z",
+      "download_url": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.0.1/buckshot.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8a8e6ad8625993916b38a9067309b8659e5078f744c20109d59ed74aa95f8817",
+      "minimum_ap_version": "0.6.4",
+      "prerelease": true,
+      "size": 16549,
+      "source_url": "https://api.github.com/repos/asdfwyay/APBuckshot",
+      "tag": "v0.0.1",
+      "title": "APBuckshot 0.0.1",
+      "version_simple": "0.0.1",
+      "world_version": "0.0.1"
+    },
+    "v0.0.2": {
+      "created_at": "2026-01-05T02:15:58Z",
+      "download_url": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.0.2/buckshot.apworld",
+      "has_manifest": true,
+      "hash_sha256": "71dbaed057b9775b593f4c7bf327fafb07d6da4bdf82792222d629daf6394d3d",
+      "minimum_ap_version": "0.6.4",
+      "prerelease": true,
+      "size": 16755,
+      "source_url": "https://api.github.com/repos/asdfwyay/APBuckshot",
+      "tag": "v0.0.2",
+      "title": "APBuckshot 0.0.2",
+      "version_simple": "0.0.2",
+      "world_version": "0.0.2"
+    },
+    "v0.0.3": {
+      "created_at": "2026-01-15T04:24:07Z",
+      "download_url": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.0.3/buckshot.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b97f4bcd87ac066cbdaa9e565d0823f929fdc6ba5acceb467312e248a01ea155",
+      "minimum_ap_version": "0.6.4",
+      "size": 17122,
+      "source_url": "https://api.github.com/repos/asdfwyay/APBuckshot",
+      "tag": "v0.0.3",
+      "title": "APBuckshot 0.0.3",
+      "version_simple": "0.0.3",
+      "world_version": "0.0.3"
+    },
+    "v0.1.0": {
+      "created_at": "2026-02-09T06:05:18Z",
+      "download_url": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.1.0/buckshot.apworld",
+      "has_manifest": true,
+      "hash_sha256": "321a5e38242d9b4e92f32028e08a43e7337afcd573f72146f215fc9505b0b702",
+      "minimum_ap_version": "0.6.4",
+      "size": 18177,
+      "source_url": "https://api.github.com/repos/asdfwyay/APBuckshot",
+      "tag": "v0.1.0",
+      "title": "APBuckshot 0.1.0",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
+    },
+    "v0.1.1": {
+      "created_at": "2026-02-15T08:20:52Z",
+      "download_url": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.1.1/buckshot.apworld",
+      "has_manifest": true,
+      "hash_sha256": "85c56a09d19541c005edd7b251db8a0770b84fe52955309347eaee86c3f2c819",
+      "minimum_ap_version": "0.6.4",
+      "size": 18385,
+      "source_url": "https://api.github.com/repos/asdfwyay/APBuckshot",
+      "tag": "v0.1.1",
+      "title": "APBuckshot 0.1.1",
+      "version_simple": "0.1.1",
+      "world_version": "0.1.1"
+    },
+    "v0.1.2": {
+      "created_at": "2026-02-21T03:00:46Z",
+      "download_url": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.1.2/buckshot.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3494229c638d39e32003e7e3a3622823c3e5e0855c417614d43f687b36c9cd11",
+      "minimum_ap_version": "0.6.4",
+      "size": 19599,
+      "source_url": "https://api.github.com/repos/asdfwyay/APBuckshot",
+      "tag": "v0.1.2",
+      "title": "APBuckshot 0.1.2",
+      "version_simple": "0.1.2",
+      "world_version": "0.1.2"
+    }
+  }
+}

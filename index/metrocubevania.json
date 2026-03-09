@@ -44,6 +44,7 @@
     "v_0.2.0_beta.2": {
       "created_at": "2026-03-09T00:30:17Z",
       "download_url": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0_beta.2/metrocubevania.apworld",
+      "failed_to_load": "/home/runner/.cache/Archipelago/apworlds/metrocubevania-v_0.2.0_beta.2.apworld is not a loadable module",
       "has_manifest": false,
       "hash_sha256": "df404df4ca12eb0fc92f54a34bfbe67eddee6f0ba1636efda91827547268e0ec",
       "prerelease": true,
