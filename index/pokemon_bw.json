@@ -288,6 +288,19 @@
       "version_simple": "0.3.18",
       "world_version": "0.3.18"
     },
+    "0.3.19": {
+      "created_at": "2026-03-09T02:01:50Z",
+      "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.19/pokemon_bw.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a40672e95cad178408c5dcce622f07fd4daa5696124d2cc9d5f66110dfc3baad",
+      "minimum_ap_version": "0.6.4",
+      "size": 37639654,
+      "source_url": "https://api.github.com/repos/BlastSlimey/PokemonBWAP",
+      "tag": "0.3.19",
+      "title": "v0.3.19: DIG. IS. FINALLY. USABLE. update",
+      "version_simple": "0.3.19",
+      "world_version": "0.3.19"
+    },
     "0.3.2": {
       "created_at": "2025-08-11T21:01:25Z",
       "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.2/pokemon_bw.apworld",
