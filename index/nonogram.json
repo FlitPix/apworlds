@@ -1,0 +1,36 @@
+{
+  "description": "",
+  "game": "Nonogram",
+  "github": [
+    "https://github.com/spineraks-org/ArchipelagoNonogram",
+    "https://github.com/StefanDucharme/nonogram-archipelago"
+  ],
+  "license": null,
+  "versions": {
+    "v0.0.3": {
+      "created_at": "2025-12-27T18:11:38Z",
+      "download_url": "https://github.com/spineraks-org/ArchipelagoNonogram/releases/download/v0.0.3/nonogram.apworld",
+      "has_manifest": true,
+      "hash_sha256": "82760d748315170a5bd4deba34a4646c8fd0d7346fa5202da7b502cdd4c24e5d",
+      "minimum_ap_version": "0.6.4",
+      "size": 4805,
+      "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoNonogram",
+      "tag": "v0.0.3",
+      "title": "Nonogram for AP 0.0.3",
+      "version_simple": "0.0.3",
+      "world_version": "0.0.3"
+    },
+    "v0.4": {
+      "created_at": "2026-01-03T01:09:46Z",
+      "download_url": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.4/nonogram.apworld",
+      "has_manifest": false,
+      "hash_sha256": "d50f28b73172e818d3caedc7ade0c966faf0c94f94017fee5d9ae884ccd59222",
+      "size": 5908,
+      "source_url": "https://api.github.com/repos/StefanDucharme/nonogram-archipelago",
+      "tag": "v0.4",
+      "title": "Release v0.4",
+      "version_simple": "0.4",
+      "world_version": "0.4"
+    }
+  }
+}

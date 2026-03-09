@@ -4,7 +4,10 @@
     "after_dark"
   ],
   "game": "Black Ops 3 - Zombies",
-  "github": "https://github.com/Nyralo/Call-of-Duty-BO3-Zombies-Archipelago",
+  "github": [
+    "https://github.com/Nyralo/Call-of-Duty-BO3-Zombies-Archipelago",
+    "https://github.com/colin969/bo3_archipelago"
+  ],
   "license": "MIT",
   "versions": {
     "0.0.1": {
@@ -19,6 +22,58 @@
       "title": "0.0.1",
       "version_simple": "0.0.1",
       "world_version": "0.0.1"
+    },
+    "0.1.0": {
+      "created_at": "2026-03-01T22:16:03Z",
+      "download_url": "https://github.com/colin969/bo3_archipelago/releases/download/0.1.0/cod_bo3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "67b44e078605a92d10185ffe5e606d7f3361f258d8d43f73126848f845f3ec4e",
+      "minimum_ap_version": "0.6.5",
+      "size": 35801,
+      "source_url": "https://api.github.com/repos/colin969/bo3_archipelago",
+      "tag": "0.1.0",
+      "title": "Black Ops 3 - Zombies Archipelago 0.1.0",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
+    },
+    "0.1.1": {
+      "created_at": "2026-03-04T23:05:52Z",
+      "download_url": "https://github.com/colin969/bo3_archipelago/releases/download/0.1.1/cod_bo3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "9ecb314de7ece754d872f9f42b164101e562fc2877364a25c246a7d0d940ddce",
+      "minimum_ap_version": "0.6.5",
+      "size": 36186,
+      "source_url": "https://api.github.com/repos/colin969/bo3_archipelago",
+      "tag": "0.1.1",
+      "title": "Black Ops 3 - Zombies Archipelago 0.1.1",
+      "version_simple": "0.1.1",
+      "world_version": "0.1.1"
+    },
+    "0.1.2": {
+      "created_at": "2026-03-04T23:05:52Z",
+      "download_url": "https://github.com/colin969/bo3_archipelago/releases/download/0.1.2/cod_bo3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "11eabed061d1d0faa81611e54f2a5b555da8e68aaca2951ac210c411a5da1689",
+      "minimum_ap_version": "0.6.5",
+      "size": 36925,
+      "source_url": "https://api.github.com/repos/colin969/bo3_archipelago",
+      "tag": "0.1.2",
+      "title": "Black Ops 3 - Zombies Archipelago 0.1.2",
+      "version_simple": "0.1.2",
+      "world_version": "0.1.2"
+    },
+    "0.1.3": {
+      "created_at": "2026-03-08T23:11:58Z",
+      "download_url": "https://github.com/colin969/bo3_archipelago/releases/download/0.1.3/cod_bo3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1987a1218edbcba3c1c864536995edd7d5d4ba60f211463c0e2bb186c94a3323",
+      "minimum_ap_version": "0.6.5",
+      "size": 36932,
+      "source_url": "https://api.github.com/repos/colin969/bo3_archipelago",
+      "tag": "0.1.3",
+      "title": "Black Ops 3 - Zombies Archipelago 0.1.3",
+      "version_simple": "0.1.3",
+      "world_version": "0.1.3"
     }
   }
 }
