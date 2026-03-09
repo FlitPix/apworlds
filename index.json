@@ -19623,6 +19623,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.16/ff1pr.apworld",
+      "size": 28092,
+      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.5.12",
+        "tag_version": "0.5.12",
+        "created_at": "2026-03-08T22:22:36Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.2/ff1pr.apworld",
       "size": 90130,
       "hash_sha256": "6225e452222deddbb2a3fd390794563ab691f29b4ffbecb9e68b18785af216bc",
@@ -19723,19 +19736,6 @@
         "world_version": "0.5.8",
         "tag_version": "0.5.8",
         "created_at": "2025-10-04T17:02:17Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.16/ff1pr.apworld",
-      "size": 28092,
-      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
-      "metadata": {
-        "game": "FF1 Pixel Remaster",
-        "id": "ff1pr",
-        "world_version": "0.5.12",
-        "tag_version": "0.5.12",
-        "created_at": "2026-03-08T22:22:36Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -37733,6 +37733,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WatchAShow/releases/download/2026.03.09/manual_watchashow_chakraa.apworld",
+      "size": 74206,
+      "hash_sha256": "d08f90c12d7adb29c2f7b2b966f0171090656aceea617198f6e69b26c6c24714",
+      "metadata": {
+        "game": "Manual_WatchAShow_Chakraa",
+        "id": "manual_watchashow_chakraa",
+        "world_version": "2026.3.9",
+        "tag_version": "2026.3.9",
+        "created_at": "2026-03-09T12:54:17Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Wizard101-APManual/releases/download/release1/manual_wizard101freetoplay_garbo.apworld",
       "size": 60318,
       "hash_sha256": "798dfe3fa5ebc344191bd29e8875b105ea7843a45b7d02c6cd5be681c770fed9",
@@ -39790,6 +39803,19 @@
       }
     },
     {
+      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.1.2/metrocubevania.apworld",
+      "size": 3977,
+      "hash_sha256": "1864a30e59de797f6d20a434b88af6d6fa3d11fb2bef9bb2c784ab70a098b210",
+      "metadata": {
+        "game": "MetroCUBEvania",
+        "id": "metrocubevania",
+        "world_version": "0.1.2",
+        "tag_version": "0.1.2",
+        "created_at": "2026-03-09T00:24:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0_beta/metrocubevania.apworld",
       "size": 3660,
       "hash_sha256": "ba52e82d88e501f1d13839a111c5bc649c5c3796c7f19e6aea4ab7da6ab0ab24",
@@ -39803,19 +39829,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.1.2/metrocubevania.apworld",
-      "size": 3977,
-      "hash_sha256": "1864a30e59de797f6d20a434b88af6d6fa3d11fb2bef9bb2c784ab70a098b210",
-      "metadata": {
-        "game": "MetroCUBEvania",
-        "id": "metrocubevania",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2026-03-09T00:24:36Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -47782,6 +47795,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.6/plateup.apworld",
+      "size": 26356,
+      "hash_sha256": "46ea4fe2412a252523dd4bee26be96e83b308d49f41075dec02020f0f44451fe",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.5.6",
+        "tag_version": "0.2.5.6",
+        "created_at": "2026-03-09T11:36:02Z"
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/aplok_v010/plok.apworld",
       "size": 27287,
       "hash_sha256": "18f68733febdebbac0e3e8c83ec3e8ccacfd367066b1be24900f902c960dd7db",
@@ -48869,6 +48894,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.19/pokemon_bw.apworld",
+      "size": 37639654,
+      "hash_sha256": "a40672e95cad178408c5dcce622f07fd4daa5696124d2cc9d5f66110dfc3baad",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.19",
+        "tag_version": "0.3.19",
+        "created_at": "2026-03-09T02:01:50Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.2/pokemon_bw.apworld",
       "size": 1874231,
       "hash_sha256": "dabc22e1f84b51780b45ac5fae1c0ec45609990f6b74c07d38c6029cb2c0d0a8",
@@ -49038,19 +49076,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.19/pokemon_bw.apworld",
-      "size": 37639654,
-      "hash_sha256": "a40672e95cad178408c5dcce622f07fd4daa5696124d2cc9d5f66110dfc3baad",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.19",
-        "tag_version": "0.3.19",
-        "created_at": "2026-03-09T02:01:50Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -57945,6 +57970,18 @@
       }
     },
     {
+      "world": "https://github.com/ishanpm/ap-sgtpuzzles-web/releases/download/v0.1.16-prealpha/sgtpuzzles.apworld",
+      "size": 8188,
+      "hash_sha256": "ebbe7b3aee62c342f6607a725ec4bb4f232caece03c64efb8676d64408d90439",
+      "metadata": {
+        "game": "Simon Tatham's Portable Puzzle Collection",
+        "id": "sgtpuzzles",
+        "world_version": "0.1.16",
+        "tag_version": "0.1.16",
+        "created_at": "2026-03-08T07:52:48Z"
+      }
+    },
+    {
       "world": "https://github.com/choatix/Archipelago/releases/download/ShadowRelease0.2.6/shadow_the_hedgehog.apworld",
       "size": 696085,
       "hash_sha256": "2ffa0acd3959663953b44166d078c091d661c0ffe42acd5b8d27c385f056cf5d",
@@ -60695,6 +60732,22 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-03-08T19:55:29Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.0.2/sm64hacks.apworld",
+      "size": 292219,
+      "hash_sha256": "152a11897f5767d964c2d50ffbe3acd98346ab295922fb9fc54589b5767f3b9f",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-03-09T12:20:25Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
