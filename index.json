@@ -19740,6 +19740,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.17/ff1pr.apworld",
+      "size": 28129,
+      "hash_sha256": "5bec1178120e695ea7f6f35596c049aa9b949d89a95d83233c636be4b605fd52",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.5.16",
+        "tag_version": "0.5.16",
+        "created_at": "2026-03-09T22:18:48Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Rosalie-A/Archipelago/releases/download/FFIV-0.1/ff4fe.apworld",
       "size": 8830168,
       "hash_sha256": "496401bbc1f82f9500347bc60d2178880a53104bab69e3f3064f2c09f98a30ee",
@@ -22000,6 +22013,19 @@
         "world_version": "0.2.3",
         "tag_version": "0.2.3",
         "created_at": "2026-02-18T20:40:43Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Rooby-Roo/FrogmonsterAPWorld/releases/download/v0.2.4/frogmonster.apworld",
+      "size": 28007,
+      "hash_sha256": "5a95764ce8ff8c7f4e93a825591eada901673c1fa38927b7a6f53363c8e3bdcd",
+      "metadata": {
+        "game": "Frogmonster",
+        "id": "frogmonster",
+        "world_version": "0.2.4",
+        "tag_version": "0.2.4",
+        "created_at": "2026-03-09T17:15:31Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -37694,6 +37720,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WatchAShow/releases/download/2026.03.09/manual_watchashow_chakraa.apworld",
+      "size": 74206,
+      "hash_sha256": "d08f90c12d7adb29c2f7b2b966f0171090656aceea617198f6e69b26c6c24714",
+      "metadata": {
+        "game": "Manual_WatchAShow_Chakraa",
+        "id": "manual_watchashow_chakraa",
+        "world_version": "2026.3.9",
+        "tag_version": "2026.3.9",
+        "created_at": "2026-03-09T12:54:17Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WatchAShow/releases/download/3.0/manual_watchashow_chakraa.apworld",
       "size": 43416,
       "hash_sha256": "a07cb4dcd7dbc5a955508644f89cb650d47d7f366ac95269ffce004b0407595c",
@@ -37729,19 +37768,6 @@
         "world_version": "4.1",
         "tag_version": "4.1",
         "created_at": "2025-02-10T18:49:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WatchAShow/releases/download/2026.03.09/manual_watchashow_chakraa.apworld",
-      "size": 74206,
-      "hash_sha256": "d08f90c12d7adb29c2f7b2b966f0171090656aceea617198f6e69b26c6c24714",
-      "metadata": {
-        "game": "Manual_WatchAShow_Chakraa",
-        "id": "manual_watchashow_chakraa",
-        "world_version": "2026.3.9",
-        "tag_version": "2026.3.9",
-        "created_at": "2026-03-09T12:54:17Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -47782,6 +47808,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.6/plateup.apworld",
+      "size": 26356,
+      "hash_sha256": "46ea4fe2412a252523dd4bee26be96e83b308d49f41075dec02020f0f44451fe",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.5.6",
+        "tag_version": "0.2.5.6",
+        "created_at": "2026-03-09T11:36:02Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
       "size": 15365,
       "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
@@ -47795,14 +47833,26 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.6/plateup.apworld",
-      "size": 26356,
-      "hash_sha256": "46ea4fe2412a252523dd4bee26be96e83b308d49f41075dec02020f0f44451fe",
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.7/plateup.apworld",
+      "size": 26595,
+      "hash_sha256": "afe60c691dd39bfcb6186d41e529453458cdd3f25b96dc808b6c21d5a23c43a7",
       "metadata": {
         "game": "plateup",
         "id": "plateup",
-        "world_version": "0.2.5.6",
-        "tag_version": "0.2.5.6",
+        "world_version": "0.2.5.7",
+        "tag_version": "0.2.5.7",
+        "created_at": "2026-03-09T22:00:11Z"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.6/plateup.apworld",
+      "size": 10504587,
+      "hash_sha256": "5e10122b77f71eebd645a022cc220dab0b4cdc18eaa273fa10f7e69c62e95c20",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.5.6.post2",
+        "tag_version": "0.2.5.6.post2",
         "created_at": "2026-03-09T11:36:02Z"
       }
     },
@@ -57864,6 +57914,18 @@
       }
     },
     {
+      "world": "https://github.com/ishanpm/ap-sgtpuzzles-web/releases/download/v0.1.16-prealpha/sgtpuzzles.apworld",
+      "size": 8188,
+      "hash_sha256": "ebbe7b3aee62c342f6607a725ec4bb4f232caece03c64efb8676d64408d90439",
+      "metadata": {
+        "game": "Simon Tatham's Portable Puzzle Collection",
+        "id": "sgtpuzzles",
+        "world_version": "0.1.16",
+        "tag_version": "0.1.16",
+        "created_at": "2026-03-08T07:52:48Z"
+      }
+    },
+    {
       "world": "https://github.com/ishanpm/ap-sgtpuzzles-web/releases/download/v0.1.3-hotfix/sgtpuzzles.apworld",
       "size": 27046,
       "hash_sha256": "41ca858b808b43e9ab3e229d6a7a9f80998f0634047809bacfb39382ccb0c3a6",
@@ -57967,18 +58029,6 @@
         "tag_version": "0.1.8rc0",
         "created_at": "2025-06-23T03:01:17Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ishanpm/ap-sgtpuzzles-web/releases/download/v0.1.16-prealpha/sgtpuzzles.apworld",
-      "size": 8188,
-      "hash_sha256": "ebbe7b3aee62c342f6607a725ec4bb4f232caece03c64efb8676d64408d90439",
-      "metadata": {
-        "game": "Simon Tatham's Portable Puzzle Collection",
-        "id": "sgtpuzzles",
-        "world_version": "0.1.16",
-        "tag_version": "0.1.16",
-        "created_at": "2026-03-08T07:52:48Z"
       }
     },
     {
@@ -66191,6 +66241,22 @@
         "world_version": "7.4.0",
         "tag_version": "7.4.0",
         "created_at": "2026-02-25T23:06:24Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.3/stardew_valley.apworld",
+      "size": 525161,
+      "hash_sha256": "3e9609bab7f3da9a5cc8e4b829f7b0e4005160b3369e7cdf632e021b64924bfa",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "7.4.0",
+        "tag_version": "7.4.0",
+        "created_at": "2026-03-09T14:57:36Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
