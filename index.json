@@ -5930,6 +5930,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.4.3/bg3.apworld",
+      "size": 93444,
+      "hash_sha256": "e466fbe6a0c31d91abda70eff0a04cae758bf684c173126c00cb470cff82ac0f",
+      "metadata": {
+        "game": "Baldur's Gate 3",
+        "id": "bg3",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-03-10T06:47:52Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cynichill/APBingo/releases/download/0.1.0/Bingo.apworld",
       "size": 14220,
       "hash_sha256": "b2ce957dce41d6b3b45a24e0a276d15948284d02243c40f6692e1424764d0776",
@@ -19636,6 +19652,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.17/ff1pr.apworld",
+      "size": 28129,
+      "hash_sha256": "5bec1178120e695ea7f6f35596c049aa9b949d89a95d83233c636be4b605fd52",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.5.16",
+        "tag_version": "0.5.16",
+        "created_at": "2026-03-09T22:18:48Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.2/ff1pr.apworld",
       "size": 90130,
       "hash_sha256": "6225e452222deddbb2a3fd390794563ab691f29b4ffbecb9e68b18785af216bc",
@@ -19736,19 +19765,6 @@
         "world_version": "0.5.8",
         "tag_version": "0.5.8",
         "created_at": "2025-10-04T17:02:17Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.17/ff1pr.apworld",
-      "size": 28129,
-      "hash_sha256": "5bec1178120e695ea7f6f35596c049aa9b949d89a95d83233c636be4b605fd52",
-      "metadata": {
-        "game": "FF1 Pixel Remaster",
-        "id": "ff1pr",
-        "world_version": "0.5.16",
-        "tag_version": "0.5.16",
-        "created_at": "2026-03-09T22:18:48Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -39874,6 +39890,35 @@
       }
     },
     {
+      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.1.3/metrocubevania.apworld",
+      "size": 3980,
+      "hash_sha256": "44188c1aaa034cfd2a20cd480eb0f750849282ded385e060973d285f68723bca",
+      "metadata": {
+        "game": "MetroCUBEvania",
+        "id": "metrocubevania",
+        "world_version": "0.1.3",
+        "tag_version": "0.1.3",
+        "created_at": "2026-03-10T02:44:05Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0_beta.3/metrocubevania.apworld",
+      "size": 3980,
+      "hash_sha256": "00d6d871023e99a831f46d5aa28dbda251b449c182771acd2568bf415f7f7d27",
+      "metadata": {
+        "game": "MetroCUBEvania",
+        "id": "metrocubevania",
+        "world_version": "0.2.0b3",
+        "tag_version": "0.2.0b3",
+        "created_at": "2026-03-10T02:43:29Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Rosalie-A/Archipelago/releases/download/MF-v1/metroidfusion.apworld",
       "size": 407090,
       "hash_sha256": "f9861f0b77873912883143844f0d7428aafcb968638a4025335a0da7835e5149",
@@ -47820,16 +47865,15 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
-      "size": 15365,
-      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.6/plateup.apworld",
+      "size": 10504587,
+      "hash_sha256": "5e10122b77f71eebd645a022cc220dab0b4cdc18eaa273fa10f7e69c62e95c20",
       "metadata": {
         "game": "plateup",
         "id": "plateup",
-        "world_version": "0.1.4b2",
-        "tag_version": "0.1.4b2",
-        "created_at": "2025-02-26T20:49:30Z",
-        "maximum_ap_version": "0.6.99"
+        "world_version": "0.2.5.6.post2",
+        "tag_version": "0.2.5.6.post2",
+        "created_at": "2026-03-09T11:36:02Z"
       }
     },
     {
@@ -47845,15 +47889,16 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.6/plateup.apworld",
-      "size": 10504587,
-      "hash_sha256": "5e10122b77f71eebd645a022cc220dab0b4cdc18eaa273fa10f7e69c62e95c20",
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
+      "size": 15365,
+      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
       "metadata": {
         "game": "plateup",
         "id": "plateup",
-        "world_version": "0.2.5.6.post2",
-        "tag_version": "0.2.5.6.post2",
-        "created_at": "2026-03-09T11:36:02Z"
+        "world_version": "0.1.4b2",
+        "tag_version": "0.1.4b2",
+        "created_at": "2025-02-26T20:49:30Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
