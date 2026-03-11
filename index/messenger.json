@@ -56,6 +56,19 @@
       "version_simple": "0.6.6",
       "world_version": "0.6.6"
     },
+    "0.6.6-messenger-ut-mapr2": {
+      "created_at": "2026-03-11T01:08:30Z",
+      "download_url": "https://github.com/Jouramie/Archipelago/releases/download/0.6.6-messenger-ut-map/messenger.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ac1664f4ead07b4fe2b20f60effd35197cfa2b4481c3f43f2ec961502605766b",
+      "prerelease": true,
+      "size": 79048,
+      "source_url": "https://api.github.com/repos/Jouramie/Archipelago",
+      "tag": "0.6.6-messenger-ut-mapr2",
+      "title": "The Messenger x Universal Tracker w/ PopTracker - Archipelago 0.6.6",
+      "version_simple": "0.6.6",
+      "world_version": "0.6.6.post2"
+    },
     "0.6.6-messenger-utr2": {
       "created_at": "2026-02-22T22:19:34Z",
       "download_url": "https://github.com/Jouramie/Archipelago/releases/download/0.6.6-messenger-ut/messenger.apworld",
