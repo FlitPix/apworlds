@@ -87,6 +87,18 @@
       "title": "YGO DDM apworld v0.3.2",
       "version_simple": "0.3.2",
       "world_version": "0.3.2"
+    },
+    "v0.3.3": {
+      "created_at": "2026-03-10T22:10:05Z",
+      "download_url": "https://github.com/JustinMarshall98/Archipelago---YuGiOh-Dungeon-Dice-Monsters-GBA-/releases/download/v0.3.3/yugiohddm.apworld",
+      "has_manifest": true,
+      "hash_sha256": "45503e86dd028e16da06ace4531dc90acb304de935dce8bb7e578a937aa67df1",
+      "size": 70974,
+      "source_url": "https://api.github.com/repos/JustinMarshall98/Archipelago",
+      "tag": "v0.3.3",
+      "title": "YGO DDM apworld v0.3.3",
+      "version_simple": "0.3.3",
+      "world_version": "0.3.3"
     }
   }
 }
