@@ -313,6 +313,19 @@
       "version_simple": "0.3.2",
       "world_version": "0.3.2"
     },
+    "0.3.20": {
+      "created_at": "2026-03-11T22:54:07Z",
+      "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.20/pokemon_bw.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a05dc9d4e0826c46d21085900601e17831b6b47c00486b0d3298a16b797c06ce",
+      "minimum_ap_version": "0.6.4",
+      "size": 37643457,
+      "source_url": "https://api.github.com/repos/BlastSlimey/PokemonBWAP",
+      "tag": "0.3.20",
+      "title": "v0.3.20: \"The Pok\u00e9dex is actually a tracker\" update",
+      "version_simple": "0.3.20",
+      "world_version": "0.3.20"
+    },
     "0.3.3": {
       "created_at": "2025-08-11T21:01:25Z",
       "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.3/pokemon_bw.apworld",
