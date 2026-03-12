@@ -3576,6 +3576,19 @@
       }
     },
     {
+      "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v0.27.1/astalon.apworld",
+      "size": 308084,
+      "hash_sha256": "db71a77bb5041f60b1a9462f233d5de3ae04e36b8662806914563d0271d2ebc0",
+      "metadata": {
+        "game": "Astalon",
+        "id": "astalon",
+        "world_version": "0.27.1",
+        "tag_version": "0.27.1",
+        "created_at": "2026-03-12T00:17:47Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v0.9.1/astalon.apworld",
       "size": 20620,
       "hash_sha256": "878af6d127385c329a5e7904b87fa6d2c4ed89036aaadf16148f29a494929049",
@@ -3597,19 +3610,6 @@
         "world_version": "0.9.2",
         "tag_version": "0.9.2",
         "created_at": "2024-04-04T23:43:11Z"
-      }
-    },
-    {
-      "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v0.27.1/astalon.apworld",
-      "size": 308084,
-      "hash_sha256": "db71a77bb5041f60b1a9462f233d5de3ae04e36b8662806914563d0271d2ebc0",
-      "metadata": {
-        "game": "Astalon",
-        "id": "astalon",
-        "world_version": "0.27.1",
-        "tag_version": "0.27.1",
-        "created_at": "2026-03-12T00:17:47Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -18414,6 +18414,18 @@
       }
     },
     {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.5/factorio_bobs.apworld",
+      "size": 1034279,
+      "hash_sha256": "c4984629e0c652f0488fab6ef41ba8e5ee9d3067fde825a25202e9544c782dcc",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "2.1.4",
+        "tag_version": "2.1.4",
+        "created_at": "2026-03-11T23:20:03Z"
+      }
+    },
+    {
       "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
       "size": 981844,
       "hash_sha256": "ce7caf8cceb9ac42c4ddf95b746584131947b667289822d40ad7b1d53aa54352",
@@ -18435,18 +18447,6 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2025-10-11T18:43:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.5/factorio_bobs.apworld",
-      "size": 1034279,
-      "hash_sha256": "c4984629e0c652f0488fab6ef41ba8e5ee9d3067fde825a25202e9544c782dcc",
-      "metadata": {
-        "game": "Factorio Bob's",
-        "id": "factorio_bobs",
-        "world_version": "2.1.4",
-        "tag_version": "2.1.4",
-        "created_at": "2026-03-11T23:20:03Z"
       }
     },
     {
@@ -22656,6 +22656,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.2/gl.apworld",
+      "size": 432524,
+      "hash_sha256": "7a7826511ad78a32ae70c72ade389d59a3a93746acda1cf0443f06b327fb85b7",
+      "metadata": {
+        "game": "Gauntlet Legends",
+        "id": "gl",
+        "world_version": "2.1.2",
+        "tag_version": "2.1.2",
+        "created_at": "2026-03-12T03:15:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Smg065/GloverArchipelago/releases/download/beta/glover.apworld",
       "size": 286172,
       "hash_sha256": "16627aa16fca1346d900ac4069c4c6af108442ce51caf73f638343f0a827b98d",
@@ -24357,6 +24370,22 @@
         "world_version": "4.0rc0",
         "tag_version": "4.0rc0",
         "created_at": "2025-08-15T12:55:11Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.1/hammerwatch.apworld",
+      "size": 4316772,
+      "hash_sha256": "229ab4c0ad99326e116bd39de7b5123f48559ade6104f17ccab0d08a2469963f",
+      "metadata": {
+        "game": "Hammerwatch",
+        "id": "hammerwatch",
+        "world_version": "4.1",
+        "tag_version": "4.1",
+        "created_at": "2026-03-12T02:53:08Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -46866,6 +46895,19 @@
       }
     },
     {
+      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.5.8/peak.apworld",
+      "size": 32124,
+      "hash_sha256": "fbdf8588de5575adec2c5a3bb68c7530cc0eec080c79df1b67d4735bfa5c7d54",
+      "metadata": {
+        "game": "PEAK",
+        "id": "peak",
+        "world_version": "0.5.8",
+        "tag_version": "0.5.8",
+        "created_at": "2026-03-11T14:12:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.5.8.rc-1/peak.apworld",
       "size": 32102,
       "hash_sha256": "e4d48d0f9e7cc06245b4ee906b33d742e31fffcfa6652071f17e3394554ab86a",
@@ -46895,19 +46937,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.5.8/peak.apworld",
-      "size": 32124,
-      "hash_sha256": "fbdf8588de5575adec2c5a3bb68c7530cc0eec080c79df1b67d4735bfa5c7d54",
-      "metadata": {
-        "game": "PEAK",
-        "id": "peak",
-        "world_version": "0.5.8",
-        "tag_version": "0.5.8",
-        "created_at": "2026-03-11T14:12:24Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -47930,19 +47959,6 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
-      "size": 15365,
-      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.1.4b2",
-        "tag_version": "0.1.4b2",
-        "created_at": "2025-02-26T20:49:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.8/plateup.apworld",
       "size": 34371,
       "hash_sha256": "81c498079753184f4909eba2e778492252ae876f1c85a91740479d74859cf323",
@@ -47953,6 +47969,19 @@
         "tag_version": "0.2.5",
         "created_at": "2026-03-11T15:42:13Z",
         "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
+      "size": 15365,
+      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.1.4b2",
+        "tag_version": "0.1.4b2",
+        "created_at": "2025-02-26T20:49:30Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -49069,6 +49098,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.20/pokemon_bw.apworld",
+      "size": 37643457,
+      "hash_sha256": "a05dc9d4e0826c46d21085900601e17831b6b47c00486b0d3298a16b797c06ce",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.20",
+        "tag_version": "0.3.20",
+        "created_at": "2026-03-11T22:54:07Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.3/pokemon_bw.apworld",
       "size": 1925004,
       "hash_sha256": "cde5bddaabe558ce0551957df72fb0f5037ed93eb1e47510d549bf3107d9bc1a",
@@ -49225,19 +49267,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.20/pokemon_bw.apworld",
-      "size": 37643457,
-      "hash_sha256": "a05dc9d4e0826c46d21085900601e17831b6b47c00486b0d3298a16b797c06ce",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.20",
-        "tag_version": "0.3.20",
-        "created_at": "2026-03-11T22:54:07Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -66344,6 +66373,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.4/stardew_valley.apworld",
+      "size": 520577,
+      "hash_sha256": "c6e67cfa473fd4ced1cf3990721679177bb98a4df10e578b0260b04172f5087c",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "7.4.4",
+        "tag_version": "7.4.4",
+        "created_at": "2026-03-12T04:09:32Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -73474,6 +73519,18 @@
         "world_version": "3.4.0",
         "tag_version": "3.4.0",
         "created_at": "2026-03-09T00:24:20Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.4.1/ultrakill.apworld",
+      "size": 46057,
+      "hash_sha256": "f9a38f17ae0d15797ca83f0dc9f15544922ae3342063298cc148d1f4de14fe97",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.4.1",
+        "tag_version": "3.4.1",
+        "created_at": "2026-03-12T02:15:13Z"
       }
     },
     {
