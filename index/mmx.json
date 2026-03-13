@@ -136,6 +136,19 @@
       "version_simple": "1.5.0",
       "world_version": "1.5.0"
     },
+    "mmx-v1.6.0": {
+      "created_at": "2026-02-01T17:15:02Z",
+      "download_url": "https://github.com/TheLX5/Archipelago/releases/download/mmx-v1.6.0/mmx.apworld",
+      "has_manifest": true,
+      "hash_sha256": "91dc3a066f999909a9ea4cd3fb2f8a2fa9082c8a50c18b9f5e04a1d11be8bfe4",
+      "minimum_ap_version": "0.6.5",
+      "size": 58362,
+      "source_url": "https://api.github.com/repos/TheLX5/Archipelago",
+      "tag": "mmx-v1.6.0",
+      "title": "Mega Man X1 v1.6.0",
+      "version_simple": "1.6.0",
+      "world_version": "1.6.0"
+    },
     "mmx-v1.6.0-beta": {
       "created_at": "2026-01-31T01:44:24Z",
       "download_url": "https://github.com/TheLX5/Archipelago/releases/download/mmx-v1.6.0-beta/mmx.apworld",

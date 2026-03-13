@@ -11291,6 +11291,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.1/crosscode.apworld",
+      "size": 128817,
+      "hash_sha256": "2bc84f409f2822f5549f57b7acf9075f9bc32df0a50da11781d87f1d05cf94e1",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-03-13T07:37:42Z"
+      }
+    },
+    {
       "world": "https://github.com/densebamboo/CrosswordAP/releases/download/v1.0.0-release/crossword_ap.apworld",
       "size": 33338,
       "hash_sha256": "aa76a3c3e9f505d06bd2d7cd4d76bd1e540a67f2fccd9d6cffc6cf7d80951812",
@@ -13624,19 +13636,6 @@
       }
     },
     {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
-      "size": 16029,
-      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.13",
-        "tag_version": "0.13",
-        "created_at": "2025-10-31T00:58:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18/deep_rock_galactic.apworld",
       "size": 41088,
       "hash_sha256": "f63419e0a2ddd32f2c10104d1e41b666832f20f0f3f0a597662c50e286dd670d",
@@ -13647,6 +13646,19 @@
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
         "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
+      "size": 16029,
+      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.13",
+        "tag_version": "0.13",
+        "created_at": "2025-10-31T00:58:51Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -20914,6 +20926,18 @@
         "world_version": "0.26.1",
         "tag_version": "0.26.1",
         "created_at": "2026-01-14T04:16:24Z"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.26.2/ffxiv.apworld",
+      "size": 128462,
+      "hash_sha256": "936a54f6182a255f265bfc22072952d91e7e95841169907cfa6d239a5db58e66",
+      "metadata": {
+        "game": "Final Fantasy XIV",
+        "id": "ffxiv",
+        "world_version": "0.26.2",
+        "tag_version": "0.26.2",
+        "created_at": "2026-03-02T05:58:55Z"
       }
     },
     {
@@ -41626,6 +41650,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx-v1.6.0/mmx.apworld",
+      "size": 58362,
+      "hash_sha256": "91dc3a066f999909a9ea4cd3fb2f8a2fa9082c8a50c18b9f5e04a1d11be8bfe4",
+      "metadata": {
+        "game": "Mega Man X",
+        "id": "mmx",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-02-01T17:15:02Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v1.0.0/mmx2.apworld",
       "size": 52515,
       "hash_sha256": "857b08c2280703630d4fddfef5173eaf3412ffc1c08407365d0b98482ffd1616",
@@ -48011,19 +48048,6 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
-      "size": 15365,
-      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.1.4b2",
-        "tag_version": "0.1.4b2",
-        "created_at": "2025-02-26T20:49:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.9/plateup.apworld",
       "size": 37057,
       "hash_sha256": "a602c52c86a07ba899fb97524c2f3cd62468a6b0498aced64a0b40faec0cebb4",
@@ -48034,6 +48058,19 @@
         "tag_version": "0.2.5",
         "created_at": "2026-03-10T10:38:02Z",
         "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
+      "size": 15365,
+      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.1.4b2",
+        "tag_version": "0.1.4b2",
+        "created_at": "2025-02-26T20:49:30Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -64744,6 +64781,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.2/spyro3.apworld",
+      "size": 53317,
+      "hash_sha256": "3d4a0287bc69bdb475312705ce49d489315b28f94fad031234be8d3c357fc524",
+      "metadata": {
+        "game": "Spyro 3",
+        "id": "spyro3",
+        "world_version": "1.3.2",
+        "tag_version": "1.3.2",
+        "created_at": "2026-03-12T18:55:00Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S3AP/releases/download/open_world_test/spyro3.apworld",
       "size": 43547,
       "hash_sha256": "ac25ad05c48a53b800ae8423eb1f611e8ba52085ae2215a02d8926d804dd3aa8",
@@ -64757,19 +64807,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.2/spyro3.apworld",
-      "size": 53317,
-      "hash_sha256": "3d4a0287bc69bdb475312705ce49d489315b28f94fad031234be8d3c357fc524",
-      "metadata": {
-        "game": "Spyro 3",
-        "id": "spyro3",
-        "world_version": "1.3.2",
-        "tag_version": "1.3.2",
-        "created_at": "2026-03-12T18:55:00Z",
-        "minimum_ap_version": "0.6.1"
       }
     },
     {
