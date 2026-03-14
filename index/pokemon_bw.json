@@ -326,6 +326,19 @@
       "version_simple": "0.3.20",
       "world_version": "0.3.20"
     },
+    "0.3.21": {
+      "created_at": "2026-03-11T22:54:07Z",
+      "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.21/pokemon_bw.apworld",
+      "has_manifest": true,
+      "hash_sha256": "47e3e154d467ef43039d74f14068462190535ac2eb97ec1bdc74466082588641",
+      "minimum_ap_version": "0.6.4",
+      "size": 37641927,
+      "source_url": "https://api.github.com/repos/BlastSlimey/PokemonBWAP",
+      "tag": "0.3.21",
+      "title": "v0.3.21: \"I'm going to make palex and Radis unemployed\" update",
+      "version_simple": "0.3.21",
+      "world_version": "0.3.21"
+    },
     "0.3.3": {
       "created_at": "2025-08-11T21:01:25Z",
       "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.3/pokemon_bw.apworld",
