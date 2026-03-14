@@ -21716,6 +21716,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.4/flipwitch.apworld",
+      "size": 72190,
+      "hash_sha256": "6f89f0c533be38ceb2fa1c81bb7b96a6e7060d4d8d87b76395fe7db7a21776cc",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.4",
+        "tag_version": "1.0.4",
+        "created_at": "2026-03-02T13:39:32Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/sg4e/Archipelago/releases/download/v1.0.0/fm.apworld",
       "size": 70361,
       "hash_sha256": "1db5179bdb048c65b594a81c6460ff4c00d9109503219995be08564d1c55b183",
@@ -49200,6 +49215,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.21/pokemon_bw.apworld",
+      "size": 37641927,
+      "hash_sha256": "47e3e154d467ef43039d74f14068462190535ac2eb97ec1bdc74466082588641",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.21",
+        "tag_version": "0.3.21",
+        "created_at": "2026-03-11T22:54:07Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.3/pokemon_bw.apworld",
       "size": 1925004,
       "hash_sha256": "cde5bddaabe558ce0551957df72fb0f5037ed93eb1e47510d549bf3107d9bc1a",
@@ -49356,19 +49384,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.21/pokemon_bw.apworld",
-      "size": 37641927,
-      "hash_sha256": "47e3e154d467ef43039d74f14068462190535ac2eb97ec1bdc74466082588641",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.21",
-        "tag_version": "0.3.21",
-        "created_at": "2026-03-11T22:54:07Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -56871,6 +56886,19 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.11.0/rotn.apworld",
+      "size": 16649,
+      "hash_sha256": "2ffd9e3f73bbd2a94acb2d92e9dcc7885b07d26424fbdccb43ab72cadbb9ac69",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-03-14T04:34:00Z",
         "minimum_ap_version": "0.6.3"
       }
     },
