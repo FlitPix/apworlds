@@ -445,6 +445,20 @@
       "version_simple": "4.11.4",
       "world_version": "4.11.4"
     },
+    "V4.11.5": {
+      "created_at": "2025-12-26T23:18:09Z",
+      "download_url": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.5/banjo_tooie.apworld",
+      "has_manifest": true,
+      "hash_sha256": "030d23365807e09a767f51bc00a1afc789c7807489b28fa5c9b0c96e6d72120c",
+      "minimum_ap_version": "0.6.7",
+      "prerelease": true,
+      "size": 272800,
+      "source_url": "https://api.github.com/repos/jjjj12212/Archipelago-BanjoTooie",
+      "tag": "V4.11.5",
+      "title": "v4.11.5",
+      "version_simple": "4.11.5",
+      "world_version": "4.11.5"
+    },
     "V4.2": {
       "created_at": "2025-02-04T02:49:17Z",
       "download_url": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.2/banjo_tooie.apworld",
