@@ -49387,6 +49387,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.23/pokemon_bw.apworld",
+      "size": 37642598,
+      "hash_sha256": "aceeb485b5eaff8f0d6417817fb0b96f056a9ddcbb39252567b34a51bdbf549a",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.23",
+        "tag_version": "0.3.23",
+        "created_at": "2026-03-14T11:11:28Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/AliceMousie/Archipelago/releases/download/0.1/pokemon_crystal.apworld",
       "size": 152500,
       "hash_sha256": "d31c76e065d7de7245b3d41444388c73d5aaed3edcebb795b8d9d0fda4ef4350",
@@ -52970,6 +52983,19 @@
         "tag_version": "0.9.4",
         "created_at": "2025-08-17T22:19:33Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/pseudoregalia-modding/pseudoregalia-archipelago/releases/download/0.10.2/pseudoregalia.apworld",
+      "size": 31879,
+      "hash_sha256": "54a99a2bad4ff7e240dcd218f2251e908fda31dc17fe39b16a266aa3c99d1f45",
+      "metadata": {
+        "game": "Pseudoregalia",
+        "id": "pseudoregalia",
+        "world_version": "0.10.2",
+        "tag_version": "0.10.2",
+        "created_at": "2026-03-14T18:23:41Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
@@ -56658,6 +56684,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.11.0/rotn.apworld",
+      "size": 16649,
+      "hash_sha256": "2ffd9e3f73bbd2a94acb2d92e9dcc7885b07d26424fbdccb43ab72cadbb9ac69",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-03-14T04:34:00Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.2/rotn.apworld",
       "size": 23898,
       "hash_sha256": "13d37ba93b971cdf8d47f7673725577e6640408c9a7cef6b420d564c5258e402",
@@ -56886,19 +56925,6 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.11.0/rotn.apworld",
-      "size": 16649,
-      "hash_sha256": "2ffd9e3f73bbd2a94acb2d92e9dcc7885b07d26424fbdccb43ab72cadbb9ac69",
-      "metadata": {
-        "game": "Rift of the Necrodancer",
-        "id": "rotn",
-        "world_version": "0.11.0",
-        "tag_version": "0.11.0",
-        "created_at": "2026-03-14T04:34:00Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -67753,6 +67779,22 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.12/tevi.apworld",
+      "size": 163392,
+      "hash_sha256": "5b93ff542921e5cf9faf31d836c312678b5a905f92cdbbe9f834dee2db0476a9",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.12",
+        "tag_version": "1.4.12",
+        "created_at": "2026-03-14T12:53:18Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nepley/eosd-apworld/releases/download/v1.0.0/th06.apworld",
       "size": 36935,
       "hash_sha256": "f8933f1f567291737d842690df98952e62bfbfc11ff39af4d0cbdbcf1151bb0b",
@@ -69061,6 +69103,19 @@
       }
     },
     {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.5.2/tje.apworld",
+      "size": 307966,
+      "hash_sha256": "a1990919428d52799eb3537f5800a67a6cf4f50ebe789929084521700d085e03",
+      "metadata": {
+        "game": "ToeJam and Earl",
+        "id": "tje",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-03-14T20:34:02Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/SenPierre/ArchipelagoOoA/releases/download/ooa/tloz_ooa.apworld",
       "size": 252185,
       "hash_sha256": null,
@@ -69763,6 +69818,38 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-18.0.1/tloz_oos.apworld",
+      "size": 640571,
+      "hash_sha256": "bae0f7d96ba969be5a04a44096911212f63e4637255984cde301c90eacbad7ef",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "18.0.1",
+        "tag_version": "18.0.1",
+        "created_at": "2026-03-15T01:17:41Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-18.0.0/tloz_oos.apworld",
+      "size": 640563,
+      "hash_sha256": "688732ff86d4cf295691a6157b8cbbc6aa691497cfa83db378f55107c48a1724",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "18.0.0",
+        "tag_version": "18.0.0",
+        "created_at": "2026-03-15T00:59:47Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]

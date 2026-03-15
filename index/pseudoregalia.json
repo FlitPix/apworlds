@@ -59,6 +59,19 @@
       "version_simple": "0.10.0",
       "world_version": "0.10.0"
     },
+    "0.10.2": {
+      "created_at": "2026-03-14T18:23:41Z",
+      "download_url": "https://github.com/pseudoregalia-modding/pseudoregalia-archipelago/releases/download/0.10.2/pseudoregalia.apworld",
+      "has_manifest": true,
+      "hash_sha256": "54a99a2bad4ff7e240dcd218f2251e908fda31dc17fe39b16a266aa3c99d1f45",
+      "minimum_ap_version": "0.6.2",
+      "size": 31879,
+      "source_url": "https://api.github.com/repos/pseudoregalia-modding/pseudoregalia-archipelago",
+      "tag": "0.10.2",
+      "title": "APWorld Docs and UE4SS Dependency Update",
+      "version_simple": "0.10.2",
+      "world_version": "0.10.2"
+    },
     "0.2.0": {
       "created_at": "2023-09-22T16:19:39Z",
       "download_url": "https://github.com/pseudoregalia-modding/pseudoregalia-archipelago/releases/download/0.2.0/pseudoregalia.apworld",
