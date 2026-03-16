@@ -172,6 +172,18 @@
       "version_simple": "2.1.4",
       "world_version": "2.1.4"
     },
+    "V2.1.5r2": {
+      "created_at": "2026-03-11T23:20:03Z",
+      "download_url": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.5/factorio_bobs.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6e5638c9f173d3b4fe4a030984878378364b6b4d5d94f3c0e2b2faa60c7e8354",
+      "size": 1034409,
+      "source_url": "https://api.github.com/repos/Osiris32-and-a-half/BobFactorioAP",
+      "tag": "V2.1.5r2",
+      "title": "V2.1.5 I go for 1 week",
+      "version_simple": "2.1.5",
+      "world_version": "2.1.5"
+    },
     "v1.0.0": {
       "created_at": "2025-10-11T00:38:03Z",
       "download_url": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
