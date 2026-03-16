@@ -18519,6 +18519,18 @@
       }
     },
     {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.5/factorio_bobs.apworld",
+      "size": 1034409,
+      "hash_sha256": "6e5638c9f173d3b4fe4a030984878378364b6b4d5d94f3c0e2b2faa60c7e8354",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "2.1.5",
+        "tag_version": "2.1.5",
+        "created_at": "2026-03-11T23:20:03Z"
+      }
+    },
+    {
       "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
       "size": 981844,
       "hash_sha256": "ce7caf8cceb9ac42c4ddf95b746584131947b667289822d40ad7b1d53aa54352",
@@ -18540,18 +18552,6 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2025-10-11T18:43:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.5/factorio_bobs.apworld",
-      "size": 1034409,
-      "hash_sha256": "6e5638c9f173d3b4fe4a030984878378364b6b4d5d94f3c0e2b2faa60c7e8354",
-      "metadata": {
-        "game": "Factorio Bob's",
-        "id": "factorio_bobs",
-        "world_version": "2.1.5",
-        "tag_version": "2.1.5",
-        "created_at": "2026-03-11T23:20:03Z"
       }
     },
     {
@@ -23270,6 +23270,22 @@
         "world_version": "1.5.0",
         "tag_version": "1.5.0",
         "created_at": "2026-03-08T23:23:06Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR7/grinch.apworld",
+      "size": 123263,
+      "hash_sha256": "7857d0e1d1e79ef4ba5db334798066a1f130b7bb6e57001bac92dc82dd7c53bc",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-03-16T04:57:12Z",
         "minimum_ap_version": "0.6.6",
         "flags": [
           "prerelease"
@@ -48161,19 +48177,6 @@
       }
     },
     {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
-      "size": 15365,
-      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.1.4b2",
-        "tag_version": "0.1.4b2",
-        "created_at": "2025-02-26T20:49:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.0/plateup.apworld",
       "size": 41168,
       "hash_sha256": "52867254cfb52649af9d70c1d9f106dae0567cc196df2bf443679c93f572cafc",
@@ -48184,6 +48187,19 @@
         "tag_version": "0.2.5",
         "created_at": "2026-03-15T20:49:01Z",
         "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
+      "size": 15365,
+      "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.1.4b2",
+        "tag_version": "0.1.4b2",
+        "created_at": "2025-02-26T20:49:30Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -48203,6 +48219,19 @@
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/plok_v011/plok.apworld",
       "size": 28011,
       "hash_sha256": "ac1d0fe77b70157481b6b0802d9d4b97d85d6fdadc0527102f1469c0237e8644",
+      "metadata": {
+        "game": "Plok",
+        "id": "plok",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2025-11-05T01:53:53Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/plok_v011/plok.apworld",
+      "size": 28110,
+      "hash_sha256": "ff8c09a678b87c276b1e84b33dbcf37825e5c690f44afd236f4941461a12bc1a",
       "metadata": {
         "game": "Plok",
         "id": "plok",
@@ -48235,19 +48264,6 @@
         "tag_version": "0.0.1.post2",
         "created_at": "2025-04-05T22:13:34Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/plok_v011/plok.apworld",
-      "size": 28110,
-      "hash_sha256": "ff8c09a678b87c276b1e84b33dbcf37825e5c690f44afd236f4941461a12bc1a",
-      "metadata": {
-        "game": "Plok",
-        "id": "plok",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-11-05T01:53:53Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -49339,6 +49355,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.22/pokemon_bw.apworld",
+      "size": 37641965,
+      "hash_sha256": "60afec40c30b74af7d35125d7f9d191d8445005665f1c631558f851f508701c6",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.22",
+        "tag_version": "0.3.22",
+        "created_at": "2026-03-14T11:11:28Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.23/pokemon_bw.apworld",
       "size": 37642598,
       "hash_sha256": "aceeb485b5eaff8f0d6417817fb0b96f056a9ddcbb39252567b34a51bdbf549a",
@@ -49508,19 +49537,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.22/pokemon_bw.apworld",
-      "size": 37641965,
-      "hash_sha256": "60afec40c30b74af7d35125d7f9d191d8445005665f1c631558f851f508701c6",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.22",
-        "tag_version": "0.3.22",
-        "created_at": "2026-03-14T11:11:28Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -74015,6 +74031,19 @@
         "tag_version": "0.2",
         "created_at": "2025-10-28T03:22:43Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.0/vampire_survivors.apworld",
+      "size": 28256,
+      "hash_sha256": "cc3878a57b86256b16bff8760b0aa9ae2d997a55a96db51001499c79ab72d0a9",
+      "metadata": {
+        "game": "Vampire Survivors",
+        "id": "vampire_survivors",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-03-16T04:00:57Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {

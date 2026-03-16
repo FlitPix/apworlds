@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 514,
-  "total_versions": 5632,
+  "total_versions": 5634,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -452,7 +452,7 @@
     "ufo50": false,
     "ultrakill": true,
     "ut99": true,
-    "vampire_survivors": false,
+    "vampire_survivors": true,
     "vespadian": false,
     "voidstranger": true,
     "voltorb_flip": false,
