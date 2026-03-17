@@ -7072,6 +7072,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-65/borderlands2.apworld",
+      "size": 52502,
+      "hash_sha256": "eb45f39cb7d4e45eb9f6c4f8a1b36c2bb4883e7eab0281020e9ae2ab05362a0b",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "65",
+        "tag_version": "65",
+        "created_at": "2026-03-16T18:59:59Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -7173,22 +7189,6 @@
         "tag_version": "0.5",
         "created_at": "2026-02-24T20:26:20Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-65/borderlands2.apworld",
-      "size": 52502,
-      "hash_sha256": "eb45f39cb7d4e45eb9f6c4f8a1b36c2bb4883e7eab0281020e9ae2ab05362a0b",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "65",
-        "tag_version": "65",
-        "created_at": "2026-03-16T18:59:59Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -8745,6 +8745,19 @@
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.6/casualtiesunknown.apworld",
       "size": 81809,
       "hash_sha256": "15cdc0b58313d75dfffa5bd0376270be46a99b89eb21a8430d8224074aed27b9",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.6",
+        "tag_version": "0.6.6",
+        "created_at": "2026-03-15T08:59:49Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.6/casualtiesunknown.apworld",
+      "size": 82506,
+      "hash_sha256": "a86a801bae661c237d37235636ba097323c1041951d5199747770807ed67d6f3",
       "metadata": {
         "game": "Casualties: Unknown",
         "id": "casualtiesunknown",
@@ -47186,6 +47199,22 @@
       }
     },
     {
+      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.5.9.rc-2/peak.apworld",
+      "size": 49122,
+      "hash_sha256": "8fed268a1074577e2310fc65a0812878189c2fae624bb5700d2bbb91416b0d3e",
+      "metadata": {
+        "game": "PEAK",
+        "id": "peak",
+        "world_version": "0.5.9rc2",
+        "tag_version": "0.5.9rc2",
+        "created_at": "2026-03-17T05:01:44Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/lagdotcom/Archipelago/releases/download/phst-0.0.3/phantasy_star_2.apworld",
       "size": 31407,
       "hash_sha256": "790f6be4c8a43e73455f293d55bfafc63c589e4cc5a4476b9f33d4a3c7f89971",
@@ -49435,6 +49464,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.24/pokemon_bw.apworld",
+      "size": 37643065,
+      "hash_sha256": "63515d7694ea034a5105469d61109f56412463e02a0c94a1cb7493de03596fdf",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.24",
+        "tag_version": "0.3.24",
+        "created_at": "2026-03-16T23:07:58Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.3/pokemon_bw.apworld",
       "size": 1925004,
       "hash_sha256": "cde5bddaabe558ce0551957df72fb0f5037ed93eb1e47510d549bf3107d9bc1a",
@@ -49591,19 +49633,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.24/pokemon_bw.apworld",
-      "size": 37643065,
-      "hash_sha256": "63515d7694ea034a5105469d61109f56412463e02a0c94a1cb7493de03596fdf",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.24",
-        "tag_version": "0.3.24",
-        "created_at": "2026-03-16T23:07:58Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -67850,6 +67879,22 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.13/tevi.apworld",
+      "size": 163758,
+      "hash_sha256": "7bd6d2a7e575937f4ef0ffbc33722e53f38f4f6c62d65cf7d6082997f9eeaba8",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.13",
+        "tag_version": "1.4.13",
+        "created_at": "2026-03-17T01:49:58Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.3/tevi.apworld",
       "size": 141182,
       "hash_sha256": "66fdf1b10950c1c316a12c6eb176ee60c42a9eefead348e5581a2cbebea1b330",
@@ -68007,22 +68052,6 @@
         "world_version": "1.4.9",
         "tag_version": "1.4.9",
         "created_at": "2026-03-05T18:11:30Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.13/tevi.apworld",
-      "size": 163758,
-      "hash_sha256": "7bd6d2a7e575937f4ef0ffbc33722e53f38f4f6c62d65cf7d6082997f9eeaba8",
-      "metadata": {
-        "game": "Tevi",
-        "id": "tevi",
-        "world_version": "1.4.13",
-        "tag_version": "1.4.13",
-        "created_at": "2026-03-17T01:49:58Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -76643,6 +76672,22 @@
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.0.7/zork_grand_inquisitor.apworld",
       "size": 1141467,
       "hash_sha256": "abd7ecc2438ae7a80699f9182e638b9080a4779a9c5dc4f5674d3a5d0f7abb86",
+      "metadata": {
+        "game": "Zork Grand Inquisitor",
+        "id": "zork_grand_inquisitor",
+        "world_version": "2.0.7",
+        "tag_version": "2.0.7",
+        "created_at": "2026-01-11T15:54:12Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.0.7/zork_grand_inquisitor.apworld",
+      "size": 1141460,
+      "hash_sha256": "582be6c33d15a712d568cebc765ab9a8cd2ba90f983c53634c0e168ae86dd0fb",
       "metadata": {
         "game": "Zork Grand Inquisitor",
         "id": "zork_grand_inquisitor",
