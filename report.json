@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 514,
-  "total_versions": 5634,
+  "total_packages": 515,
+  "total_versions": 5640,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -153,7 +153,7 @@
     "isles_of_sea_and_sky": false,
     "ittle_dew_2": false,
     "jakanddaxter": true,
-    "jakii": false,
+    "jakii": true,
     "jet_island": false,
     "jigsaw": true,
     "junko": true,

@@ -939,6 +939,32 @@
       "title": "DK64 Randomizer APWorld v1.5.0",
       "version_simple": "1.5.0",
       "world_version": "1.5.0"
+    },
+    "v1.5.1": {
+      "created_at": "2026-03-16T20:16:51Z",
+      "download_url": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.5.1/dk64.apworld",
+      "has_manifest": true,
+      "hash_sha256": "671cf63b7ee1f5e31375655dddfbf12ef6c7d97522ffbb1a345d794119cbc64c",
+      "minimum_ap_version": "0.6.5",
+      "size": 37029086,
+      "source_url": "https://api.github.com/repos/2dos/DK64-Randomizer-Dev",
+      "tag": "v1.5.1",
+      "title": "DK64 Randomizer APWorld v1.5.1",
+      "version_simple": "1.5.1",
+      "world_version": "1.5.1"
+    },
+    "v1.5.1r2": {
+      "created_at": "2026-03-16T20:25:29Z",
+      "download_url": "https://github.com/2dos/DK64-Randomizer-Release/releases/download/v1.5.1/dk64.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6de9d7a9c48ddbfc01382aee4b534182c531c8d926648e9578f1a9ac7412afa7",
+      "minimum_ap_version": "0.6.5",
+      "size": 37029135,
+      "source_url": "https://api.github.com/repos/2dos/DK64-Randomizer-Release",
+      "tag": "v1.5.1r2",
+      "title": "DK64 Randomizer APWorld v1.5.1",
+      "version_simple": "1.5.1",
+      "world_version": "1.5.1"
     }
   }
 }
