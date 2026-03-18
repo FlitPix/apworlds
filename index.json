@@ -14186,6 +14186,19 @@
       }
     },
     {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v1.1.4/diddy_kong_racing.apworld",
+      "size": 36108,
+      "hash_sha256": "3abf357eb049e70fda855bc2b008228a5e87f9bcd43c5a3c396b2c77dd913729",
+      "metadata": {
+        "game": "Diddy Kong Racing",
+        "id": "diddy_kong_racing",
+        "world_version": "1.1.4",
+        "tag_version": "1.1.4",
+        "created_at": "2026-03-17T23:16:06Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/GrabbingChecks/releases/download/0.1.0/difficult_climbing.apworld",
       "size": 13389,
       "hash_sha256": "a02b6461a0624e606096dc2cdd079e37e271066ce312f15a4787bd9a2f674cce",
@@ -21849,6 +21862,21 @@
         "world_version": "1.0.4.post2",
         "tag_version": "1.0.4.post2",
         "created_at": "2026-03-02T13:39:32Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.5/flipwitch.apworld",
+      "size": 72211,
+      "hash_sha256": "b64e9518dff5f0828321afad26e8fe0d133f66a357900efc144f491fd4000457",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.5",
+        "tag_version": "1.0.5",
+        "created_at": "2026-03-17T23:22:22Z",
         "flags": [
           "after_dark"
         ]
@@ -30417,6 +30445,18 @@
         "id": "liesofp",
         "world_version": "0.1.6",
         "tag_version": "0.1.6",
+        "created_at": "2026-02-28T21:19:41Z"
+      }
+    },
+    {
+      "world": "https://github.com/Xtruh/LiesOfAP/releases/download/0.1.7/liesofp.apworld",
+      "size": 68868,
+      "hash_sha256": "7564564b42aa5ae2d2bd98a05d722e356734b31344bd09156ac08b4c87bea03e",
+      "metadata": {
+        "game": "Lies Of P",
+        "id": "liesofp",
+        "world_version": "0.1.7",
+        "tag_version": "0.1.7",
         "created_at": "2026-02-28T21:19:41Z"
       }
     },
@@ -42191,6 +42231,19 @@
       }
     },
     {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.0/mmzero3.apworld",
+      "size": 39076,
+      "hash_sha256": "b13dcc5f5c961d594991e4bab111c58a823a3c94f364b75b86ca77f3b3b6946a",
+      "metadata": {
+        "game": "Mega Man Zero 3",
+        "id": "mmzero3",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-03-18T01:12:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.0.1/momodoramoonlitfarewell.apworld",
       "size": 6741,
       "hash_sha256": "8302e91462092ec8ef6a30a9aae0a45818641ce181a3cd13687eacf963eed23f",
@@ -48283,6 +48336,18 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.1/plateup.apworld",
+      "size": 32853,
+      "hash_sha256": "7cdd30e42765fbc7f19fd8e7b529414e32049a7237160267d9706cf41a175454",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.6.1",
+        "tag_version": "0.2.6.1",
+        "created_at": "2026-03-15T21:14:21Z"
       }
     },
     {
