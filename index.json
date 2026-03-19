@@ -13733,6 +13733,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/V0.18.1/deep_rock_galactic.apworld",
+      "size": 41088,
+      "hash_sha256": "c26a3bbe0439ca882e6a2236552be2cb1abfd1c892251579444b9a406bfe9c53",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.18.0",
+        "tag_version": "0.18.0",
+        "created_at": "2026-03-12T13:48:26Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/StellatedCUBE/Delivering-Hope-Archipelago/releases/download/v0.1.0/DeliveringHope.apworld",
       "size": 14973,
       "hash_sha256": "3dcdaf6b0b3853e693a55ff2ec2dcb17d9fb1d30373884094459946dae631581",
@@ -34110,6 +34123,19 @@
       }
     },
     {
+      "world": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.1.4/manual_dbdsurven_wabadjakk.apworld",
+      "size": 60096,
+      "hash_sha256": "72c6e74acfb5b7aaf6970a49c8072bd13e890902708c30add72cbcedfe80e3ae",
+      "metadata": {
+        "game": "Manual_DbDSurvEN_Wabadjakk",
+        "id": "manual_dbdsurven_wabadjakk",
+        "world_version": "1.1.4",
+        "tag_version": "1.1.4",
+        "created_at": "2025-08-02T17:09:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.0.0/manual_dbdsurvfr_wabadjakk.apworld",
       "size": 59040,
       "hash_sha256": "0f147776df4ecf31c94723ea7b47fb9eab7ec8180fb9066a25471065cb533248",
@@ -34170,6 +34196,19 @@
         "id": "manual_dbdsurvfr_wabadjakk",
         "world_version": "1.1.3",
         "tag_version": "1.1.3",
+        "created_at": "2025-08-02T17:09:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.1.4/manual_dbdsurvfr_wabadjakk.apworld",
+      "size": 60993,
+      "hash_sha256": "06f1e796f40c4354e180e84cfc588400f5099f47012624588cd3a2bcdcde29a1",
+      "metadata": {
+        "game": "Manual_DbDSurvFR_Wabadjakk",
+        "id": "manual_dbdsurvfr_wabadjakk",
+        "world_version": "1.1.4",
+        "tag_version": "1.1.4",
         "created_at": "2025-08-02T17:09:15Z",
         "maximum_ap_version": "0.6.99"
       }
@@ -45136,6 +45175,19 @@
       }
     },
     {
+      "world": "https://github.com/Satisha10/APwotw_release/releases/download/v0.5.3/ori_wotw.apworld",
+      "size": 199969,
+      "hash_sha256": "f773f1d6ac5779f27a3e5b923987ed2a6a14236daf773391f40293b9d77bbf8f",
+      "metadata": {
+        "game": "Ori and the Will of the Wisps",
+        "id": "ori_wotw",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-02-24T06:36:25Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/c-ostic/Archipelago/releases/download/v0.1.0-alpha/oribf.apworld",
       "size": 26369,
       "hash_sha256": "b03c4947f00c829f98369ddb29c54776c0fa1612c9b0c5d5ab7aa0506937e94f",
@@ -48348,6 +48400,18 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.1/plateup.apworld",
+      "size": 33134,
+      "hash_sha256": "66eaf6df01292a12d6de64b7e7663f250782168d60bd6dbdce72e118f5d83868",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.6.1.post2",
+        "tag_version": "0.2.6.1.post2",
+        "created_at": "2026-03-15T21:14:21Z"
       }
     },
     {
@@ -55832,6 +55896,22 @@
         "created_at": "2025-09-17T20:25:17Z",
         "flags": [
           "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/TheRealSolidusSnake/RE3R_AP_World/releases/download/0.2.7.5/residentevil3remake.apworld",
+      "size": 46564,
+      "hash_sha256": "4535ebacdbb8b105d23e8837e4cd3a3322c669e4bf66bf76117d433c7d747cab",
+      "metadata": {
+        "game": "Resident Evil 3 Remake",
+        "id": "residentevil3remake",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-03-18T19:36:14Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
         ]
       }
     },
