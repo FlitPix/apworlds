@@ -4165,6 +4165,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.13/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-03-19T20:50:57Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/mail-liam/Archipelago/releases/download/beta/axiomverge.apworld",
       "size": 70109,
       "hash_sha256": "3bff3001756b9a21599834a0243dabdda83c1a14a0cc587474b3e5579fd26b3b",
@@ -49765,6 +49778,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.25/pokemon_bw.apworld",
+      "size": 37643406,
+      "hash_sha256": "4399b32b4533341c406ac012a8a229e8800180e31aaefd035c2fcdb8de6ba711",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.25",
+        "tag_version": "0.3.25",
+        "created_at": "2026-03-16T23:07:58Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/AliceMousie/Archipelago/releases/download/0.1/pokemon_crystal.apworld",
       "size": 152500,
       "hash_sha256": "d31c76e065d7de7245b3d41444388c73d5aaed3edcebb795b8d9d0fda4ef4350",
@@ -64082,6 +64108,19 @@
       }
     },
     {
+      "world": "https://github.com/cjmang/StS-AP-World/releases/download/2.3.5/spire.apworld",
+      "size": 25842,
+      "hash_sha256": "c657bf4b947b7605caef0bc6bacb809a4210f662b4d7791f682cb8d6adde83f1",
+      "metadata": {
+        "game": "Slay the Spire",
+        "id": "spire",
+        "world_version": "2.3.5",
+        "tag_version": "2.3.5",
+        "created_at": "2026-03-19T23:44:46Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V0.1.0/spiritvalley.apworld",
       "size": 51376,
       "hash_sha256": "3eedfcb6acbf297627e454a73ecf578b29da11b4520e39f7a6589a4065fb5f73",
@@ -74405,6 +74444,18 @@
         "world_version": "0.9.1.0",
         "tag_version": "0.9.1.0",
         "created_at": "2026-02-14T19:57:30Z"
+      }
+    },
+    {
+      "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.9.2.0/voidstranger.apworld",
+      "size": 18685,
+      "hash_sha256": "cc4b02a63b4e474c519b4d5a2f2afb0c028de90fa97d653a5ad37de1353e6dfb",
+      "metadata": {
+        "game": "Void Stranger",
+        "id": "voidstranger",
+        "world_version": "0.9.2.0",
+        "tag_version": "0.9.2.0",
+        "created_at": "2026-03-20T01:03:53Z"
       }
     },
     {
