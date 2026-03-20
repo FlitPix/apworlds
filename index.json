@@ -3831,6 +3831,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.13/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-03-19T20:50:57Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.2/autopelago.apworld",
       "size": 25294,
       "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
@@ -4162,19 +4175,6 @@
         "tag_version": "0.9.0",
         "created_at": "2025-02-09T20:18:09Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.13/autopelago.apworld",
-      "size": 25294,
-      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
-      "metadata": {
-        "game": "Autopelago",
-        "id": "autopelago",
-        "world_version": "0.11.0",
-        "tag_version": "0.11.0",
-        "created_at": "2026-03-19T20:50:57Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -49619,6 +49619,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.25/pokemon_bw.apworld",
+      "size": 37643406,
+      "hash_sha256": "4399b32b4533341c406ac012a8a229e8800180e31aaefd035c2fcdb8de6ba711",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.25",
+        "tag_version": "0.3.25",
+        "created_at": "2026-03-16T23:07:58Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.3/pokemon_bw.apworld",
       "size": 1925004,
       "hash_sha256": "cde5bddaabe558ce0551957df72fb0f5037ed93eb1e47510d549bf3107d9bc1a",
@@ -49775,19 +49788,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.25/pokemon_bw.apworld",
-      "size": 37643406,
-      "hash_sha256": "4399b32b4533341c406ac012a8a229e8800180e31aaefd035c2fcdb8de6ba711",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.25",
-        "tag_version": "0.3.25",
-        "created_at": "2026-03-16T23:07:58Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -74367,6 +74367,19 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2026-03-16T04:00:57Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.1/vampire_survivors.apworld",
+      "size": 27950,
+      "hash_sha256": "8f009a0b5b3af07e859dc83a27fbaa6cc0649986089fdc0631f8548b1126c431",
+      "metadata": {
+        "game": "Vampire Survivors",
+        "id": "vampire_survivors",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-03-20T03:35:54Z",
         "minimum_ap_version": "0.6.5"
       }
     },
