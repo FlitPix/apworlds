@@ -223,6 +223,19 @@
       "version_simple": "0.18.0",
       "world_version": "0.18.0"
     },
+    "0.18.2": {
+      "created_at": "2026-03-20T21:03:27Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.2/deep_rock_galactic.apworld",
+      "has_manifest": true,
+      "hash_sha256": "80010ea65fa21415577a1929313ce25725871f195978e230ef6200e329db3450",
+      "minimum_ap_version": "0.6.6",
+      "size": 41101,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "0.18.2",
+      "title": "V0.18.2",
+      "version_simple": "0.18.2",
+      "world_version": "0.18.2"
+    },
     "Beta": {
       "created_at": "2025-10-31T00:58:51Z",
       "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
