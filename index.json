@@ -2803,6 +2803,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.23/apworld_manager.apworld",
+      "size": 542309,
+      "hash_sha256": "b3358ebcb1a98fc5c4c9899aeeaaffbdaa9b020b80dd12c857b3a15682753d98",
+      "metadata": {
+        "game": "APWorld Manager",
+        "id": "apworld_manager",
+        "world_version": "0.0.23",
+        "tag_version": "0.0.23",
+        "created_at": "2026-03-21T01:36:04Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.4/apworld_manager.apworld",
       "size": 75521,
       "hash_sha256": "bdbbf4b450e1ba798dc093ff9e88e63eb6f2515708a56507e388624165f7dd7f",
@@ -2875,15 +2887,15 @@
       }
     },
     {
-      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.23/apworld_manager.apworld",
-      "size": 542309,
-      "hash_sha256": "b3358ebcb1a98fc5c4c9899aeeaaffbdaa9b020b80dd12c857b3a15682753d98",
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.24/apworld_manager.apworld",
+      "size": 542271,
+      "hash_sha256": "385ee3b1336d8acc972425c4c62e368b544d7b63393927553f9178ab07399c99",
       "metadata": {
         "game": "APWorld Manager",
         "id": "apworld_manager",
-        "world_version": "0.0.23",
-        "tag_version": "0.0.23",
-        "created_at": "2026-03-21T01:36:04Z"
+        "world_version": "0.0.24",
+        "tag_version": "0.0.24",
+        "created_at": "2026-03-21T08:44:39Z"
       }
     },
     {
@@ -13745,6 +13757,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.2/deep_rock_galactic.apworld",
+      "size": 41101,
+      "hash_sha256": "80010ea65fa21415577a1929313ce25725871f195978e230ef6200e329db3450",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.18.2",
+        "tag_version": "0.18.2",
+        "created_at": "2026-03-20T21:03:27Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
       "size": 16029,
       "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
@@ -13767,19 +13792,6 @@
         "world_version": "0.18.0",
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
-        "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.2/deep_rock_galactic.apworld",
-      "size": 41101,
-      "hash_sha256": "80010ea65fa21415577a1929313ce25725871f195978e230ef6200e329db3450",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.18.2",
-        "tag_version": "0.18.2",
-        "created_at": "2026-03-20T21:03:27Z",
         "minimum_ap_version": "0.6.6"
       }
     },
@@ -21934,6 +21946,22 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.6-pre/flipwitch.apworld",
+      "size": 72211,
+      "hash_sha256": "b64e9518dff5f0828321afad26e8fe0d133f66a357900efc144f491fd4000457",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.6rc0",
+        "tag_version": "1.0.6rc0",
+        "created_at": "2026-03-21T06:10:05Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/sg4e/Archipelago/releases/download/v1.0.0/fm.apworld",
       "size": 70361,
       "hash_sha256": "1db5179bdb048c65b594a81c6460ff4c00d9109503219995be08564d1c55b183",
@@ -29660,6 +29688,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.0/ladx_beta.apworld",
+      "size": 371168,
+      "hash_sha256": "c017a7413d2aac843e3c0e7ee3b413a9346ffd531f982256e2e539a367b0c976",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.4.0",
+        "tag_version": "13.4.0",
+        "created_at": "2026-03-21T11:46:04Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/ZAPaDASH04/LEGO-Batman-APworld/releases/download/v0.1.1-alpha/lego_batman_1.apworld",
       "size": 14153,
       "hash_sha256": "ba943f2995d0f7c72f39c5e19b6c1ba593c3ddfb1b4a510848fb196e4d03cbea",
@@ -33478,6 +33519,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.2%2Ba/manual_blocktales_wolfboi008.apworld",
+      "size": 82671,
+      "hash_sha256": "0882f026da27ee675e3521c6eff08f3053f2d9e829d64286d6f42863835b935c",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "4.2.2+a",
+        "tag_version": "4.2.2+a",
+        "created_at": "2026-03-21T03:49:54Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -65348,6 +65402,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.3/spyro3.apworld",
+      "size": 53340,
+      "hash_sha256": "c2e82e45ced6d081d106ab3c2a54f000ba53376088729d997e162b47a6aeea0d",
+      "metadata": {
+        "game": "Spyro 3",
+        "id": "spyro3",
+        "world_version": "1.3.3",
+        "tag_version": "1.3.3",
+        "created_at": "2026-03-20T19:09:27Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S3AP/releases/download/open_world_test/spyro3.apworld",
       "size": 43547,
       "hash_sha256": "ac25ad05c48a53b800ae8423eb1f611e8ba52085ae2215a02d8926d804dd3aa8",
@@ -65361,19 +65428,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.3/spyro3.apworld",
-      "size": 53340,
-      "hash_sha256": "c2e82e45ced6d081d106ab3c2a54f000ba53376088729d997e162b47a6aeea0d",
-      "metadata": {
-        "game": "Spyro 3",
-        "id": "spyro3",
-        "world_version": "1.3.3",
-        "tag_version": "1.3.3",
-        "created_at": "2026-03-20T19:09:27Z",
-        "minimum_ap_version": "0.6.1"
       }
     },
     {
@@ -73661,6 +73715,19 @@
         "tag_version": "0.1.8",
         "created_at": "2025-09-06T14:54:05Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/UFO-50-Archipelago/Archipelago/releases/download/0.1.9/ufo50.apworld",
+      "size": 48988,
+      "hash_sha256": "2c0d16396b577893c5a5c8146467457a2e5d57603e32d933bea3fde4ae5bd46c",
+      "metadata": {
+        "game": "UFO 50",
+        "id": "ufo50",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-03-21T10:10:53Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
