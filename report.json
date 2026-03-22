@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 516,
-  "total_versions": 5678,
+  "total_versions": 5683,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -344,7 +344,7 @@
     "plok": true,
     "pmd_eos": true,
     "pocket_dungeon": true,
-    "poe": false,
+    "poe": true,
     "pokemon_bw": true,
     "pokemon_crystal": true,
     "pokemon_frlg": true,

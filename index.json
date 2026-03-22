@@ -1951,6 +1951,19 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.3/ape_escape_3.apworld",
+      "size": 142802,
+      "hash_sha256": "6ea757c8d9d8055adf8c5ba8d05a790cc797942f7f0a0f855556cd9ad1ac3732",
+      "metadata": {
+        "game": "Ape Escape 3",
+        "id": "ape_escape_3",
+        "world_version": "2.0.3",
+        "tag_version": "2.0.3",
+        "created_at": "2026-03-22T11:32:13Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.3.0/apeescape.apworld",
       "size": 181274,
       "hash_sha256": "9ccc189c239d744a190f6e8eb6ca34c74d37490cde0723159d931dc6828da145",
@@ -8818,6 +8831,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.7.0/casualtiesunknown.apworld",
+      "size": 82649,
+      "hash_sha256": "b94c5aed2df168a18ea2696d3d2781acce2dc79d6eea6393573e7ab79bfdf8ae",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-03-22T11:32:55Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -10782,6 +10808,18 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-03-21T14:10:48Z"
+      }
+    },
+    {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.5.1/cotnd.apworld",
+      "size": 21913330,
+      "hash_sha256": "459fa0c9ce079726e06458ff271070e06118b6b64abbf21552ae94ea380271c7",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-03-22T04:26:20Z"
       }
     },
     {
@@ -23384,6 +23422,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0/grinch.apworld",
+      "size": 125607,
+      "hash_sha256": "473a2849028b065064c86cedc995fd03a9c31848b6390595be12953396c7310e",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-03-21T16:46:11Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR/grinch.apworld",
       "size": 121336,
       "hash_sha256": "8609338b7295200f300f6541afa48d05557627c2c532759494a28b07ba60538d",
@@ -23504,19 +23555,6 @@
         "id": "grinch",
         "world_version": "1.5.1",
         "tag_version": "1.5.1",
-        "created_at": "2026-03-21T16:46:11Z",
-        "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0/grinch.apworld",
-      "size": 125607,
-      "hash_sha256": "473a2849028b065064c86cedc995fd03a9c31848b6390595be12953396c7310e",
-      "metadata": {
-        "game": "The Grinch",
-        "id": "grinch",
-        "world_version": "1.5.0",
-        "tag_version": "1.5.0",
         "created_at": "2026-03-21T16:46:11Z",
         "minimum_ap_version": "0.6.6"
       }
@@ -37327,6 +37365,19 @@
       }
     },
     {
+      "world": "https://github.com/ManNamedGarbo/Archipelago_Manuals/releases/download/re5-1.0.6/manual_residentevil5_garbo.apworld",
+      "size": 66221,
+      "hash_sha256": "409a241f6bed90a69ab61c877753a8d0cce136bc722283bebb4df02d261f3248",
+      "metadata": {
+        "game": "Manual_ResidentEvil5_Garbo",
+        "id": "manual_residentevil5_garbo",
+        "world_version": "5.post1",
+        "tag_version": "5.post1",
+        "created_at": "2026-03-22T04:35:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/rift_0.1.0/manual_riftofthenecrodancer_axxroy.apworld",
       "size": 52652,
       "hash_sha256": "cb11ef552cebbba039c0cea6d85ac7297145ac5cf817f0b6cc1dac195818a60c",
@@ -49399,6 +49450,19 @@
       }
     },
     {
+      "world": "https://github.com/stubobis1/Archipelago/releases/download/1.3.0/poe.apworld",
+      "size": 7753902,
+      "hash_sha256": "36f4d9b9ed3f02fe0d54de389844bfa493d9ea00df6e1c80247f9a707fa794a2",
+      "metadata": {
+        "game": "Path of Exile",
+        "id": "poe",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2026-03-22T05:50:50Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.1.0/pokemon_bw.apworld",
       "size": 1841582,
       "hash_sha256": "dbe82bcae0eff84d92b09db6dc8fe2ea3efaeffc611781982fcc591b7e12a99c",
@@ -49805,6 +49869,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.26/pokemon_bw.apworld",
+      "size": 37643078,
+      "hash_sha256": "5d0fbca515dd0bdce11a2ed75f268703e9daad82c5c2847cb21a1c57669cd1ce",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.26",
+        "tag_version": "0.3.26",
+        "created_at": "2026-03-16T23:07:58Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.3/pokemon_bw.apworld",
       "size": 1925004,
       "hash_sha256": "cde5bddaabe558ce0551957df72fb0f5037ed93eb1e47510d549bf3107d9bc1a",
@@ -49961,19 +50038,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.26/pokemon_bw.apworld",
-      "size": 37643078,
-      "hash_sha256": "5d0fbca515dd0bdce11a2ed75f268703e9daad82c5c2847cb21a1c57669cd1ce",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.26",
-        "tag_version": "0.3.26",
-        "created_at": "2026-03-16T23:07:58Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
