@@ -242,6 +242,19 @@
       "version_simple": "1.4.0",
       "world_version": "1.4.0"
     },
+    "v1.5.0": {
+      "created_at": "2026-03-21T16:46:11Z",
+      "download_url": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0/grinch.apworld",
+      "has_manifest": true,
+      "hash_sha256": "473a2849028b065064c86cedc995fd03a9c31848b6390595be12953396c7310e",
+      "minimum_ap_version": "0.6.6",
+      "size": 125607,
+      "source_url": "https://api.github.com/repos/MarioSpore/Grinch-AP",
+      "tag": "v1.5.0",
+      "title": "The Grinch (PS1) - v1.5.0",
+      "version_simple": "1.5.0",
+      "world_version": "1.5.0"
+    },
     "v1.5.0-PR": {
       "created_at": "2026-02-27T03:04:38Z",
       "download_url": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR/grinch.apworld",
@@ -339,6 +352,19 @@
       "title": "The Grinch (PS1) - v1.5.0 Pre Release 7",
       "version_simple": "1.5.0",
       "world_version": "1.5.0"
+    },
+    "v1.5.1": {
+      "created_at": "2026-03-21T16:46:11Z",
+      "download_url": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.1/grinch.apworld",
+      "has_manifest": true,
+      "hash_sha256": "056dd261f76cf7a711199e794703d2bc60960c78b5474ca1f592d5f3c2630e15",
+      "minimum_ap_version": "0.6.6",
+      "size": 45872,
+      "source_url": "https://api.github.com/repos/MarioSpore/Grinch-AP",
+      "tag": "v1.5.1",
+      "title": "The Grinch (PS1) - v1.5.1",
+      "version_simple": "1.5.1",
+      "world_version": "1.5.1"
     }
   }
 }

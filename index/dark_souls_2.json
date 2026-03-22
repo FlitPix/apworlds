@@ -283,6 +283,20 @@
       "title": "v0.6.0-alpha.1",
       "version_simple": "0.6.0",
       "world_version": "0.6.0a1"
+    },
+    "v0.6.0-alpha.2": {
+      "created_at": "2026-03-21T13:21:43Z",
+      "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.6.0-alpha.2/dark_souls_2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "77a3be54c5fc1832f4b27fe63f2bde8031ed37738f4ac3e79f1f4022d87ed572",
+      "minimum_ap_version": "0.6.4",
+      "prerelease": true,
+      "size": 195096,
+      "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
+      "tag": "v0.6.0-alpha.2",
+      "title": "v0.6.0-alpha.2",
+      "version_simple": "0.6.0",
+      "world_version": "0.6.0a2"
     }
   }
 }
