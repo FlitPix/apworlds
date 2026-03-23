@@ -10823,6 +10823,18 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.5.2/cotnd.apworld",
+      "size": 21913345,
+      "hash_sha256": "3bb67e469957fd67b353588d622b48833d1a729268ac691462c91ca9f65d57f0",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-03-22T18:51:52Z"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -40287,6 +40299,19 @@
       }
     },
     {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.4.4B/megamix.apworld",
+      "size": 44167,
+      "hash_sha256": "8cf60679aaede72b90f1204d987d9bd3754ab1328d29f0cdbf7a58e6170f1365",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.4.4b0",
+        "tag_version": "1.4.4b0",
+        "created_at": "2026-03-22T23:26:06Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap1.0/melee.apworld",
       "size": 237142,
       "hash_sha256": "6243785e8c8996eff934d65853862f81fb7c820fc086a2363f8f3440debd218a",
@@ -47651,6 +47676,20 @@
       }
     },
     {
+      "world": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.2.1/phoa.apworld",
+      "size": 15722,
+      "hash_sha256": "40a375d4551bbbc4147fd158fa158b4638bcc6359034409e0717208c471acfc8",
+      "metadata": {
+        "game": "Phoenotopia: Awakening",
+        "id": "phoa",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-03-22T12:56:13Z",
+        "minimum_ap_version": "0.6.1",
+        "maximum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Poke714/Archipelago/releases/download/v0.1.0/pikmin.apworld",
       "size": 8984,
       "hash_sha256": "8a909e0b4dd392051298bb996b6a5831a9178d525ed0c0f5912fb9bff4d90cda",
@@ -49453,6 +49492,32 @@
       "world": "https://github.com/stubobis1/Archipelago/releases/download/1.3.0/poe.apworld",
       "size": 7753902,
       "hash_sha256": "36f4d9b9ed3f02fe0d54de389844bfa493d9ea00df6e1c80247f9a707fa794a2",
+      "metadata": {
+        "game": "Path of Exile",
+        "id": "poe",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2026-03-22T05:50:50Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/stubobis1/Archipelago/releases/download/1.3.1/poe.apworld",
+      "size": 7753908,
+      "hash_sha256": "161506ac5a0798bcf64cb3509575ff68157227db941565c29ea9ef890fa78f8a",
+      "metadata": {
+        "game": "Path of Exile",
+        "id": "poe",
+        "world_version": "1.3.1",
+        "tag_version": "1.3.1",
+        "created_at": "2026-03-22T17:03:21Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/stubobis1/Archipelago/releases/download/1.3.0/poe.apworld",
+      "size": 7753903,
+      "hash_sha256": "7769f5a81bede6b4e1f2ee35f0160a70cb9053b63fd3726ee890c15e48ab6c32",
       "metadata": {
         "game": "Path of Exile",
         "id": "poe",
@@ -52544,6 +52609,19 @@
         "world_version": "0.4.2",
         "tag_version": "0.4.2",
         "created_at": "2026-02-21T06:49:55Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.5.0/PokemonStadium.apworld",
+      "size": 177622,
+      "hash_sha256": "1854aa51c4bd0f378f88baf1208ea0a37e3ba801dea07d15fa142f96b23b733c",
+      "metadata": {
+        "game": "Pokemon Stadium",
+        "id": "PokemonStadium",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-03-23T00:43:01Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -69869,6 +69947,19 @@
       }
     },
     {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.5.4/tje.apworld",
+      "size": 330029,
+      "hash_sha256": "c1371590056eae96f2263f872cea3a50987ce9e5b482b549d337b8613bcb5a44",
+      "metadata": {
+        "game": "ToeJam and Earl",
+        "id": "tje",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2026-03-22T15:06:29Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/SenPierre/ArchipelagoOoA/releases/download/ooa/tloz_ooa.apworld",
       "size": 252185,
       "hash_sha256": null,
@@ -74563,6 +74654,18 @@
         "id": "ultrakill",
         "world_version": "3.4.3",
         "tag_version": "3.4.3",
+        "created_at": "2026-03-19T03:15:25Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.4.4/ultrakill.apworld",
+      "size": 47579,
+      "hash_sha256": "089eeb6fb9e2ab20b9b0bd933187aa47fc2fff7b3d8117f4b86ce8a61955b667",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.4.4",
+        "tag_version": "3.4.4",
         "created_at": "2026-03-19T03:15:25Z"
       }
     },

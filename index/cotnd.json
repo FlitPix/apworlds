@@ -267,6 +267,18 @@
       "title": "Crypt of the NecroDancer Archipelago v0.5.1",
       "version_simple": "0.5.1",
       "world_version": "0.5.1"
+    },
+    "v0.5.2": {
+      "created_at": "2026-03-22T18:51:52Z",
+      "download_url": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.5.2/cotnd.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3bb67e469957fd67b353588d622b48833d1a729268ac691462c91ca9f65d57f0",
+      "size": 21913345,
+      "source_url": "https://api.github.com/repos/lastingParadox/Archipelago-CotND",
+      "tag": "v0.5.2",
+      "title": "Crypt of the NecroDancer Archipelago v0.5.2",
+      "version_simple": "0.5.2",
+      "world_version": "0.5.2"
     }
   }
 }
