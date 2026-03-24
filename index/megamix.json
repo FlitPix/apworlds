@@ -435,6 +435,19 @@
       "version_simple": "1.4.4",
       "world_version": "1.4.4b0"
     },
+    "1.4.4Br2": {
+      "created_at": "2026-03-22T23:26:06Z",
+      "download_url": "https://github.com/Cynichill/DivaAPworld/releases/download/1.4.4B/megamix.apworld",
+      "has_manifest": true,
+      "hash_sha256": "10be08c91d7d396c9874c1447e3aa6a553c3d85d7722a843f22479d8a2948558",
+      "minimum_ap_version": "0.6.3",
+      "size": 45458,
+      "source_url": "https://api.github.com/repos/Cynichill/DivaAPworld",
+      "tag": "1.4.4Br2",
+      "title": "1.4.4B",
+      "version_simple": "1.4.4",
+      "world_version": "1.4.4"
+    },
     "Beta": {
       "created_at": "2024-07-03T21:21:03Z",
       "download_url": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
