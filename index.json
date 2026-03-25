@@ -13248,6 +13248,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.3/dc1.apworld",
+      "size": 81671,
+      "hash_sha256": "7c1b2cc029c375fc3f4c20d5734d85636f73a724a1a9790ccd8d425c2277483d",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.4.3",
+        "tag_version": "0.4.3",
+        "created_at": "2026-03-24T16:17:32Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DC2AP/releases/download/0.0.1/dc2.apworld",
       "size": 52154,
       "hash_sha256": "d4615813efa2f112097438694e9791af6bb95b7f032c034af3e3d96f207b5c4e",
@@ -35665,6 +35678,19 @@
       }
     },
     {
+      "world": "https://github.com/Gameplushy/manual_Meteos_Konoko/releases/download/v1.1/manual_Meteos_Konoko.apworld",
+      "size": 157717,
+      "hash_sha256": "369e678d1a29145665471adb22ab50cd015083204edc593d6d0436d04ad10bc2",
+      "metadata": {
+        "game": "Manual_Meteos_Konoko",
+        "id": "manual_Meteos_Konoko",
+        "world_version": "1.1",
+        "tag_version": "1.1",
+        "created_at": "2026-03-24T21:03:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_0.1.1/manual_mhrise_hub_axxroy.apworld",
       "size": 25608,
       "hash_sha256": "ce40b0406d32b32a5ba4a77e3f60950032ae58ce5bf336329c6d36efccecb711",
@@ -40908,6 +40934,19 @@
       }
     },
     {
+      "world": "https://github.com/QPL22/MHW_Archipelago/releases/download/v0.1.3-alpha/mhw.apworld",
+      "size": 15979,
+      "hash_sha256": "f342d6ee1954896e8ec9938dea68418e429bb4e1a43757992c7d9a76752791b4",
+      "metadata": {
+        "game": "Monster Hunter World",
+        "id": "mhw",
+        "world_version": "0.1.3",
+        "tag_version": "0.1.3",
+        "created_at": "2026-03-24T21:09:21Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/JohnMahglass/Archipelago-Mindustry/releases/download/v0.3.0/mindustry.apworld",
       "size": 36020,
       "hash_sha256": "fdc5c41385d7c17e5fcd0ae253f74e5d70bff227beb4ba1855d4caa98f60144a",
@@ -42579,6 +42618,19 @@
         "world_version": "0.2.0",
         "tag_version": "0.2.0",
         "created_at": "2026-03-18T01:12:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.1/mmzero3.apworld",
+      "size": 40988,
+      "hash_sha256": "4f48b0a74c906bfddc8d1adfb4761532e8e866c12e60afcbdfdbb2e90576ef92",
+      "metadata": {
+        "game": "Mega Man Zero 3",
+        "id": "mmzero3",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-03-24T23:52:27Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -58428,6 +58480,22 @@
       }
     },
     {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1-pre-release-1/sadx.apworld",
+      "size": 3155774,
+      "hash_sha256": "aee0b77ec2af43c6f9ffef6aae7d806a06dc3b153f9b8e796423e352c59e37f4",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-03-24T23:53:14Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Jarno458/SatisfactoryArchipelagoMod/releases/download/v0.1.3/satisfactory.apworld",
       "size": 200544,
       "hash_sha256": "58ef489ecb77432842ab3684cc14c9dc39e523b3e2b0dd71ae1bc3284892d4a7",
@@ -62849,6 +62917,19 @@
         "world_version": "2.1.0",
         "tag_version": "2.1.0",
         "created_at": "2026-01-19T19:16:57Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/EthicalLogic-Archipelago-Org/SonicHeroesArchipelago/releases/download/2.2.0/sonic_heroes.apworld",
+      "size": 204372,
+      "hash_sha256": "3bbb9a2c9d20c11168b1496b050defa5a4a91db3098c3495cdca276d67bceb55",
+      "metadata": {
+        "game": "Sonic Heroes",
+        "id": "sonic_heroes",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2026-03-08T22:17:43Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -67405,6 +67486,22 @@
         "world_version": "7.4.4",
         "tag_version": "7.4.4",
         "created_at": "2026-03-12T04:09:32Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.5/stardew_valley.apworld",
+      "size": 520577,
+      "hash_sha256": "c6e67cfa473fd4ced1cf3990721679177bb98a4df10e578b0260b04172f5087c",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "7.4.4",
+        "tag_version": "7.4.4",
+        "created_at": "2026-03-25T00:43:27Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"

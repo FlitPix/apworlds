@@ -142,6 +142,19 @@
       "title": "DC1AP The Bug Fix test build",
       "version_simple": "0.4.2",
       "world_version": "0.4.2"
+    },
+    "v0.4.3": {
+      "created_at": "2026-03-24T16:17:32Z",
+      "download_url": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.3/dc1.apworld",
+      "has_manifest": true,
+      "hash_sha256": "7c1b2cc029c375fc3f4c20d5734d85636f73a724a1a9790ccd8d425c2277483d",
+      "minimum_ap_version": "0.6.1",
+      "size": 81671,
+      "source_url": "https://api.github.com/repos/Lizardman175/DC1AP",
+      "tag": "v0.4.3",
+      "title": "DC1 AP v0.4 Patch #3",
+      "version_simple": "0.4.3",
+      "world_version": "0.4.3"
     }
   }
 }
