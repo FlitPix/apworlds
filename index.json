@@ -7268,6 +7268,35 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.5.1/borderlands2.apworld",
+      "size": 102700,
+      "hash_sha256": "f98c56eab634156f1d1e302d0b3e160449d4d3865533ad3ef79c93a7d8e3e9d5",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-03-25T16:18:03Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-66/borderlands2.apworld",
+      "size": 52500,
+      "hash_sha256": "7b08439384de232749ea049014786c321702d139034161876fd033f0e69b105c",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "66",
+        "tag_version": "66",
+        "created_at": "2026-03-23T16:44:12Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -22104,6 +22133,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.6/flipwitch.apworld",
+      "size": 72316,
+      "hash_sha256": "0a2b08663ecf6e95d881720b48e5ea3e61335359b178fb25c46225cc87c3272f",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.6",
+        "tag_version": "1.0.6",
+        "created_at": "2026-03-25T11:38:15Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.6-pre/flipwitch.apworld",
       "size": 72211,
       "hash_sha256": "b64e9518dff5f0828321afad26e8fe0d133f66a357900efc144f491fd4000457",
@@ -22116,21 +22160,6 @@
         "flags": [
           "after_dark",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.6/flipwitch.apworld",
-      "size": 72316,
-      "hash_sha256": "0a2b08663ecf6e95d881720b48e5ea3e61335359b178fb25c46225cc87c3272f",
-      "metadata": {
-        "game": "Flipwitch Forbidden Sex Hex",
-        "id": "flipwitch",
-        "world_version": "1.0.6",
-        "tag_version": "1.0.6",
-        "created_at": "2026-03-25T11:38:15Z",
-        "flags": [
-          "after_dark"
         ]
       }
     },
@@ -23176,6 +23205,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-01-01T21:12:50Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Smg065/GloverArchipelago/releases/download/v1.0.1/glover.apworld",
+      "size": 490086,
+      "hash_sha256": "4c98a7bae217fbe653eae9ed1b7129fdb70a35bbbee7d811069382ce4734c9ed",
+      "metadata": {
+        "game": "Glover",
+        "id": "glover",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-03-25T16:46:10Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -52977,6 +53019,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.0/pokepark.apworld",
+      "size": 76231,
+      "hash_sha256": "a7df9f1782f812e99bfd15edbaf7a7d276fec9569b4c7c4f88f327600b9c831f",
+      "metadata": {
+        "game": "PokePark",
+        "id": "pokepark",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-03-25T19:31:03Z"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1/powerwashsimulator.apworld",
       "size": 11917,
       "hash_sha256": "c88117dc5d4eddea733e8f152b3ab1258b881e80a27e71d1363a770b06cace88",
@@ -68657,6 +68711,22 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.15/tevi.apworld",
+      "size": 165862,
+      "hash_sha256": "8469c1e1dc53d01d20818d312a3097ae715425e06165308e4d90c896b08e4a60",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.15",
+        "tag_version": "1.4.15",
+        "created_at": "2026-03-25T11:09:52Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.3/tevi.apworld",
       "size": 141182,
       "hash_sha256": "66fdf1b10950c1c316a12c6eb176ee60c42a9eefead348e5581a2cbebea1b330",
@@ -68814,22 +68884,6 @@
         "world_version": "1.4.9",
         "tag_version": "1.4.9",
         "created_at": "2026-03-05T18:11:30Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.15/tevi.apworld",
-      "size": 165862,
-      "hash_sha256": "8469c1e1dc53d01d20818d312a3097ae715425e06165308e4d90c896b08e4a60",
-      "metadata": {
-        "game": "Tevi",
-        "id": "tevi",
-        "world_version": "1.4.15",
-        "tag_version": "1.4.15",
-        "created_at": "2026-03-25T11:09:52Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
