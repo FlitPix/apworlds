@@ -43,6 +43,19 @@
       "version_simple": "0.6.1",
       "world_version": "0.6.1"
     },
+    "st-v0.7.0": {
+      "created_at": "2026-03-26T16:38:47Z",
+      "download_url": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.0/tloz_st.apworld",
+      "has_manifest": true,
+      "hash_sha256": "05c89509078aa9df449e648aba0138aced563dd02e25464a6f7309d814d28cbb",
+      "minimum_ap_version": "0.6.0",
+      "size": 347159,
+      "source_url": "https://api.github.com/repos/DayKat/spirit-tracks",
+      "tag": "st-v0.7.0",
+      "title": "Spirit Tracks AP v7.0",
+      "version_simple": "0.7.0",
+      "world_version": "0.7.0"
+    },
     "v0.1.0": {
       "created_at": "2025-08-20T21:55:35Z",
       "download_url": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
