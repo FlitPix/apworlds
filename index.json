@@ -1378,6 +1378,19 @@
       }
     },
     {
+      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.6.0/anodyne.apworld",
+      "size": 44394,
+      "hash_sha256": "7613b08f2b7263fa9ab3eb409b333f2a5a5106cef4d32900b5443fc2f90c9a98",
+      "metadata": {
+        "game": "Anodyne",
+        "id": "anodyne",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-03-24T13:59:38Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.1.1/another_crab.apworld",
       "size": 47483,
       "hash_sha256": "621bcddee5d35007b0c5ef6d27fe621010d63118ab99ef90c125692b86494ac9",
@@ -28603,6 +28616,18 @@
       }
     },
     {
+      "world": "https://github.com/LuxMake/Archipelago-KHDDD/releases/download/0.0.6/khddd.apworld",
+      "size": 30995,
+      "hash_sha256": "f8ac177664d1498dddc7f94b01fa0f9bd6847b3880b106debce8eb9a70b09e82",
+      "metadata": {
+        "game": "Kingdom Hearts Dream Drop Distance",
+        "id": "khddd",
+        "world_version": "0.0.6",
+        "tag_version": "0.0.6",
+        "created_at": "2026-03-27T21:38:22Z"
+      }
+    },
+    {
       "world": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.0.0/khrecom.apworld",
       "size": 42429,
       "hash_sha256": "c373ac0788a0c74a7f3dc4160e22ef09b8f5031bcb61953883058daa5a64a7d6",
@@ -29965,6 +29990,19 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.1/ladx_beta.apworld",
+      "size": 371175,
+      "hash_sha256": "45f65f020ef3f6aeeaa9d3c3093b784dcd0245948f9beccab80a04a92a38a70d",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.4.1",
+        "tag_version": "13.4.1",
+        "created_at": "2026-03-27T16:33:27Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -39154,6 +39192,22 @@
       }
     },
     {
+      "world": "https://github.com/TheRealSolidusSnake/Mario-Is-Missing/releases/download/0.0.2/mariomissing.apworld",
+      "size": 47793,
+      "hash_sha256": "6d998b112816c562bc4ea3a1881d11acc6796bc16dd6ad2e9201c96f2adf9538",
+      "metadata": {
+        "game": "Mario is Missing",
+        "id": "mariomissing",
+        "world_version": "0.0.2",
+        "tag_version": "0.0.2",
+        "created_at": "2026-03-03T02:51:48Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.0.1/medievil.apworld",
       "size": 10388,
       "hash_sha256": "03cc81b584865c0a326677234401be8124e3391e7088b4e91da2d53b40f50ad5",
@@ -42781,6 +42835,19 @@
         "world_version": "0.2.1",
         "tag_version": "0.2.1",
         "created_at": "2026-03-24T23:52:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.2/mmzero3.apworld",
+      "size": 41516,
+      "hash_sha256": "335bbbeedbabb431f0e722f2da17500027a917ec723b54f83660dca0823882dc",
+      "metadata": {
+        "game": "Mega Man Zero 3",
+        "id": "mmzero3",
+        "world_version": "0.2.2",
+        "tag_version": "0.2.2",
+        "created_at": "2026-03-27T19:22:45Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -50370,6 +50437,19 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.27/pokemon_bw.apworld",
+      "size": 37643140,
+      "hash_sha256": "8094956630f6bfd890e38e35f2831f4870a7ab96f146b1ab79fbf3d01d84fb55",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.27",
+        "tag_version": "0.3.27",
+        "created_at": "2026-03-28T00:41:53Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -71684,6 +71764,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.1/tloz_st.apworld",
+      "size": 347336,
+      "hash_sha256": "bc9de062e454ce1e4f3e16f4ae57dff97874034bf0a9a7a8ef6700395132833e",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.1",
+        "tag_version": "0.7.1",
+        "created_at": "2026-03-27T11:11:10Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -71835,19 +71928,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.1/tloz_st.apworld",
-      "size": 347336,
-      "hash_sha256": "bc9de062e454ce1e4f3e16f4ae57dff97874034bf0a9a7a8ef6700395132833e",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.7.1",
-        "tag_version": "0.7.1",
-        "created_at": "2026-03-27T11:11:10Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {

@@ -404,6 +404,19 @@
       "version_simple": "0.3.26",
       "world_version": "0.3.26"
     },
+    "0.3.27": {
+      "created_at": "2026-03-28T00:41:53Z",
+      "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.27/pokemon_bw.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8094956630f6bfd890e38e35f2831f4870a7ab96f146b1ab79fbf3d01d84fb55",
+      "minimum_ap_version": "0.6.4",
+      "size": 37643140,
+      "source_url": "https://api.github.com/repos/BlastSlimey/PokemonBWAP",
+      "tag": "0.3.27",
+      "title": "v0.3.27",
+      "version_simple": "0.3.27",
+      "world_version": "0.3.27"
+    },
     "0.3.3": {
       "created_at": "2025-08-11T21:01:25Z",
       "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.3/pokemon_bw.apworld",
