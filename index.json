@@ -3907,6 +3907,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.15/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-03-28T14:30:25Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.2/autopelago.apworld",
       "size": 25294,
       "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
@@ -4238,19 +4251,6 @@
         "tag_version": "0.9.0",
         "created_at": "2025-02-09T20:18:09Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.15/autopelago.apworld",
-      "size": 25294,
-      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
-      "metadata": {
-        "game": "Autopelago",
-        "id": "autopelago",
-        "world_version": "0.11.0",
-        "tag_version": "0.11.0",
-        "created_at": "2026-03-28T14:30:25Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -12748,6 +12748,19 @@
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.1/cv_dos.apworld",
       "size": 94615,
       "hash_sha256": "7a7dc18ebb382c43b2b09be7abac0949639e5b457d1f68e32435cc3d606c58a8",
+      "metadata": {
+        "game": "Castlevania: Dawn of Sorrow",
+        "id": "cv_dos",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.1/cv_dos.apworld",
+      "size": 91670,
+      "hash_sha256": "8e42f23995a9868a63eba57b2e814546d0f753a488107ffb68e8797d4ade2afc",
       "metadata": {
         "game": "Castlevania: Dawn of Sorrow",
         "id": "cv_dos",
@@ -71082,6 +71095,38 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.0.0/tloz_oos.apworld",
+      "size": 242039,
+      "hash_sha256": "c27b7359e5d35765be10718e5b2193290910c01648e29d52e200ff99c0737c5c",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.0.0",
+        "tag_version": "20.0.0",
+        "created_at": "2026-03-28T22:55:57Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.0.1/tloz_oos.apworld",
+      "size": 242064,
+      "hash_sha256": "899c12eb21c25444fc7914624b16e107d4fdc53e215af75cbe041a36a9700042",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.0.1",
+        "tag_version": "20.0.1",
+        "created_at": "2026-03-29T00:38:10Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -71300,38 +71345,6 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.0.1/tloz_oos.apworld",
-      "size": 242064,
-      "hash_sha256": "899c12eb21c25444fc7914624b16e107d4fdc53e215af75cbe041a36a9700042",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "20.0.1",
-        "tag_version": "20.0.1",
-        "created_at": "2026-03-29T00:38:10Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.0.0/tloz_oos.apworld",
-      "size": 242039,
-      "hash_sha256": "c27b7359e5d35765be10718e5b2193290910c01648e29d52e200ff99c0737c5c",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "20.0.0",
-        "tag_version": "20.0.0",
-        "created_at": "2026-03-28T22:55:57Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
