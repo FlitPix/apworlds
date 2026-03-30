@@ -11595,6 +11595,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.2/crosscode.apworld",
+      "size": 128822,
+      "hash_sha256": "c19c02af77aa1aafe068afb74ce3d269d10bd2c7f8b28cdb50fce0d5a072db8a",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.2",
+        "tag_version": "0.8.2",
+        "created_at": "2026-03-30T07:18:28Z"
+      }
+    },
+    {
       "world": "https://github.com/densebamboo/CrosswordAP/releases/download/v1.0.0-release/crossword_ap.apworld",
       "size": 33338,
       "hash_sha256": "aa76a3c3e9f505d06bd2d7cd4d76bd1e540a67f2fccd9d6cffc6cf7d80951812",
@@ -40874,6 +40886,19 @@
       }
     },
     {
+      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0/metrocubevania.apworld",
+      "size": 3980,
+      "hash_sha256": "096c6ac14aa91a2cc93536eba4d3bd89ee8d7cd07596d706ac49dd095d2e4492",
+      "metadata": {
+        "game": "MetroCUBEvania",
+        "id": "metrocubevania",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-03-29T23:52:23Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0_beta/metrocubevania.apworld",
       "size": 3660,
       "hash_sha256": "ba52e82d88e501f1d13839a111c5bc649c5c3796c7f19e6aea4ab7da6ab0ab24",
@@ -40919,19 +40944,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0/metrocubevania.apworld",
-      "size": 3980,
-      "hash_sha256": "096c6ac14aa91a2cc93536eba4d3bd89ee8d7cd07596d706ac49dd095d2e4492",
-      "metadata": {
-        "game": "MetroCUBEvania",
-        "id": "metrocubevania",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2026-03-29T23:52:23Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -58922,6 +58934,22 @@
       }
     },
     {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1-pre-release-2/sadx.apworld",
+      "size": 3155774,
+      "hash_sha256": "3fd63b11844c6875bfd9ff23f4fd50fd6b38642d9d1a05d468120d55783fcaaa",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-03-30T02:37:16Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Jarno458/SatisfactoryArchipelagoMod/releases/download/v0.1.3/satisfactory.apworld",
       "size": 200544,
       "hash_sha256": "58ef489ecb77432842ab3684cc14c9dc39e523b3e2b0dd71ae1bc3284892d4a7",
@@ -69088,6 +69116,38 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.16/tevi.apworld",
+      "size": 165850,
+      "hash_sha256": "6aadbdfa496a4daffd55cab6738561a4832d4852203821761d50da323fbf1c50",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.16",
+        "tag_version": "1.4.16",
+        "created_at": "2026-03-29T13:41:20Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.17/tevi.apworld",
+      "size": 165499,
+      "hash_sha256": "2f815f4dff268d58df81a4455ba1800f2d3b9cae6fdf11c21c159296d7569780",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.17",
+        "tag_version": "1.4.17",
+        "created_at": "2026-03-29T21:37:05Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.3/tevi.apworld",
       "size": 141182,
       "hash_sha256": "66fdf1b10950c1c316a12c6eb176ee60c42a9eefead348e5581a2cbebea1b330",
@@ -69245,38 +69305,6 @@
         "world_version": "1.4.9",
         "tag_version": "1.4.9",
         "created_at": "2026-03-05T18:11:30Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.17/tevi.apworld",
-      "size": 165499,
-      "hash_sha256": "2f815f4dff268d58df81a4455ba1800f2d3b9cae6fdf11c21c159296d7569780",
-      "metadata": {
-        "game": "Tevi",
-        "id": "tevi",
-        "world_version": "1.4.17",
-        "tag_version": "1.4.17",
-        "created_at": "2026-03-29T21:37:05Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.16/tevi.apworld",
-      "size": 165850,
-      "hash_sha256": "6aadbdfa496a4daffd55cab6738561a4832d4852203821761d50da323fbf1c50",
-      "metadata": {
-        "game": "Tevi",
-        "id": "tevi",
-        "world_version": "1.4.16",
-        "tag_version": "1.4.16",
-        "created_at": "2026-03-29T13:41:20Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -71227,6 +71255,22 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.0.2/tloz_oos.apworld",
+      "size": 242064,
+      "hash_sha256": "2d56f5a8a3455dcf2c88b66660bce4c06a7ed0329e4a110730cd61efff1c91fb",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.0.2",
+        "tag_version": "20.0.2",
+        "created_at": "2026-03-29T16:06:11Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -71445,22 +71489,6 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.0.2/tloz_oos.apworld",
-      "size": 242064,
-      "hash_sha256": "2d56f5a8a3455dcf2c88b66660bce4c06a7ed0329e4a110730cd61efff1c91fb",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "20.0.2",
-        "tag_version": "20.0.2",
-        "created_at": "2026-03-29T16:06:11Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
