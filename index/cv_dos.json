@@ -133,6 +133,19 @@
       "title": "Castlevania: Dawn of Sorrow Archipelago v2.0.1",
       "version_simple": "2.0.1",
       "world_version": "2.0.1"
+    },
+    "cvdos2.0.1r3": {
+      "created_at": "2026-03-09T21:48:16Z",
+      "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.1/cv_dos.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3a2c377cfb895566e61698059b076b8a6fd127de3967322db1e11f4c5b44849d",
+      "minimum_ap_version": "0.6.3",
+      "size": 91800,
+      "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
+      "tag": "cvdos2.0.1r3",
+      "title": "Castlevania: Dawn of Sorrow Archipelago v2.0.1",
+      "version_simple": "2.0.1",
+      "world_version": "2.0.1"
     }
   }
 }

@@ -12771,6 +12771,19 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.1/cv_dos.apworld",
+      "size": 91800,
+      "hash_sha256": "3a2c377cfb895566e61698059b076b8a6fd127de3967322db1e11f4c5b44849d",
+      "metadata": {
+        "game": "Castlevania: Dawn of Sorrow",
+        "id": "cv_dos",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvhodis_v1.0/cvhodis.apworld",
       "size": 67401,
       "hash_sha256": "fbf384f69c83b3f7c8e7818d565625ddffc6454ddd730c29941ae155c80eb22b",
@@ -40909,6 +40922,19 @@
       }
     },
     {
+      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0/metrocubevania.apworld",
+      "size": 3980,
+      "hash_sha256": "096c6ac14aa91a2cc93536eba4d3bd89ee8d7cd07596d706ac49dd095d2e4492",
+      "metadata": {
+        "game": "MetroCUBEvania",
+        "id": "metrocubevania",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-03-29T23:52:23Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Rosalie-A/Archipelago/releases/download/MF-v1/metroidfusion.apworld",
       "size": 407090,
       "hash_sha256": "f9861f0b77873912883143844f0d7428aafcb968638a4025335a0da7835e5149",
@@ -44179,6 +44205,19 @@
         "world_version": "0.5.1",
         "tag_version": "0.5.1",
         "created_at": "2026-03-11T00:21:40Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.5.2/mzm.apworld",
+      "size": 136704,
+      "hash_sha256": "83f3bf6b35da7ec091fc9113d1d8aabcb623f7f70f36b38ac9adb93fb1e85f5f",
+      "metadata": {
+        "game": "Metroid Zero Mission",
+        "id": "mzm",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-03-29T14:48:38Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -52079,6 +52118,19 @@
         "world_version": "5.3.9",
         "tag_version": "5.3.9",
         "created_at": "2026-01-31T21:58:48Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.0/pokemon_crystal.apworld",
+      "size": 645709,
+      "hash_sha256": "b65ce73b734975d41bef1a7610e6149cbfb360fa8bb1b9ab3df91917c72718d6",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.4.0",
+        "tag_version": "5.4.0",
+        "created_at": "2026-03-29T20:40:38Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -67899,6 +67951,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.6/stardew_valley.apworld",
+      "size": 520577,
+      "hash_sha256": "c6e67cfa473fd4ced1cf3990721679177bb98a4df10e578b0260b04172f5087c",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "7.4.4",
+        "tag_version": "7.4.4",
+        "created_at": "2026-03-29T19:21:18Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -69177,6 +69245,38 @@
         "world_version": "1.4.9",
         "tag_version": "1.4.9",
         "created_at": "2026-03-05T18:11:30Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.17/tevi.apworld",
+      "size": 165499,
+      "hash_sha256": "2f815f4dff268d58df81a4455ba1800f2d3b9cae6fdf11c21c159296d7569780",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.17",
+        "tag_version": "1.4.17",
+        "created_at": "2026-03-29T21:37:05Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.16/tevi.apworld",
+      "size": 165850,
+      "hash_sha256": "6aadbdfa496a4daffd55cab6738561a4832d4852203821761d50da323fbf1c50",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.16",
+        "tag_version": "1.4.16",
+        "created_at": "2026-03-29T13:41:20Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -71345,6 +71445,22 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.0.2/tloz_oos.apworld",
+      "size": 242064,
+      "hash_sha256": "2d56f5a8a3455dcf2c88b66660bce4c06a7ed0329e4a110730cd61efff1c91fb",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.0.2",
+        "tag_version": "20.0.2",
+        "created_at": "2026-03-29T16:06:11Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
@@ -75453,6 +75569,19 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.2/vampire_survivors.apworld",
+      "size": 28627,
+      "hash_sha256": "8ff145fd2a2822c64236037e43ce2cd2f932b420864a656b53ebb9982099c9ea",
+      "metadata": {
+        "game": "Vampire Survivors",
+        "id": "vampire_survivors",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-03-29T23:42:38Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/Quinn-Patrick/Archipelago-Vespadian/releases/download/V0.1.0/vespadian.apworld",
       "size": 40825,
       "hash_sha256": "f1b65650d01a83efa46d2ee911793acc386dfe96da64e9872351bb7a9398e84c",
@@ -76549,6 +76678,19 @@
         "world_version": "3.3.2",
         "tag_version": "3.3.2",
         "created_at": "2026-02-23T00:21:44Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/lilDavid/Archipelago-Wario-Land-4/releases/download/3.3.3/wl4.apworld",
+      "size": 64233,
+      "hash_sha256": "853c8fe6d7ce641599262f739fdf80dde9af784edeecc6105fa76c219e645bca",
+      "metadata": {
+        "game": "Wario Land 4",
+        "id": "wl4",
+        "world_version": "3.3.3",
+        "tag_version": "3.3.3",
+        "created_at": "2026-03-29T15:38:39Z",
         "minimum_ap_version": "0.6.0"
       }
     },
