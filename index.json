@@ -11580,6 +11580,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.2/crosscode.apworld",
+      "size": 128822,
+      "hash_sha256": "c19c02af77aa1aafe068afb74ce3d269d10bd2c7f8b28cdb50fce0d5a072db8a",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.2",
+        "tag_version": "0.8.2",
+        "created_at": "2026-03-30T07:18:28Z"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.2-pre.1/crosscode.apworld",
       "size": 128798,
       "hash_sha256": "c6fff7841f53b9a7d24dddca8dfe9926fa315760d3c2138f2d38c8b47fe24e22",
@@ -11592,18 +11604,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.2/crosscode.apworld",
-      "size": 128822,
-      "hash_sha256": "c19c02af77aa1aafe068afb74ce3d269d10bd2c7f8b28cdb50fce0d5a072db8a",
-      "metadata": {
-        "game": "CrossCode",
-        "id": "crosscode",
-        "world_version": "0.8.2",
-        "tag_version": "0.8.2",
-        "created_at": "2026-03-30T07:18:28Z"
       }
     },
     {
@@ -12791,6 +12791,19 @@
         "id": "cv_dos",
         "world_version": "2.0.1",
         "tag_version": "2.0.1",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.2/cv_dos.apworld",
+      "size": 92004,
+      "hash_sha256": "fe4d7e8aa6fc41cb683bdf00b85bcb8f0a701eba7ff4b4709acd9060b06cf41f",
+      "metadata": {
+        "game": "Castlevania: Dawn of Sorrow",
+        "id": "cv_dos",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
         "created_at": "2026-03-09T21:48:16Z",
         "minimum_ap_version": "0.6.3"
       }
@@ -21413,6 +21426,18 @@
         "world_version": "0.26.2",
         "tag_version": "0.26.2",
         "created_at": "2026-03-02T05:58:55Z"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.27.0/ffxiv.apworld",
+      "size": 130731,
+      "hash_sha256": "08184379fc358f99eab5194d6b96b62b6e8124e85c6064af9e31cbbffa6d0f33",
+      "metadata": {
+        "game": "Final Fantasy XIV",
+        "id": "ffxiv",
+        "world_version": "0.27.0",
+        "tag_version": "0.27.0",
+        "created_at": "2026-03-31T01:06:05Z"
       }
     },
     {
@@ -43619,32 +43644,6 @@
       }
     },
     {
-      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.13/musedash.apworld",
-      "size": 74094,
-      "hash_sha256": "27073d62435d7aede5d3ed6d3aa69ff81f74974b9e850c03c946a8080e23d925",
-      "metadata": {
-        "game": "Muse Dash",
-        "id": "musedash",
-        "world_version": "1.5.13",
-        "tag_version": "1.5.13",
-        "created_at": "2025-03-28T10:44:47Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.14/musedash.apworld",
-      "size": 74107,
-      "hash_sha256": "66eacd7b0f1c3762e70e6dbcc9a8165e529522e26506518e983a9c9e0b0b31a7",
-      "metadata": {
-        "game": "Muse Dash",
-        "id": "musedash",
-        "world_version": "1.5.14",
-        "tag_version": "1.5.14",
-        "created_at": "2025-03-30T00:14:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.15/musedash.apworld",
       "size": 75101,
       "hash_sha256": "fc2858b1e4853f1d28777a9cb788a3aaae010035fb535eb5ba631ea4bc21e25d",
@@ -46088,19 +46087,6 @@
         "world_version": "0.5.0b0",
         "tag_version": "0.5.0b0",
         "created_at": "2025-09-01T03:51:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/digiholic/Archipelago/releases/download/osrs-v2.0.1/osrs.apworld",
-      "size": 150945,
-      "hash_sha256": "03a53e69ecefaf8092848c07096ee0a19bf4aefd85ee9be495b3e2eca50ffec4",
-      "metadata": {
-        "game": "Old School Runescape",
-        "id": "osrs",
-        "world_version": "2.0.1",
-        "tag_version": "2.0.1",
-        "created_at": "2025-03-27T16:27:10Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -73570,45 +73556,6 @@
       }
     },
     {
-      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/4.2.0/tunic.apworld",
-      "size": 555784,
-      "hash_sha256": "de1f775f102c98c487473cb0ecbe5c908715264b59f6d665533baf14ecd0b411",
-      "metadata": {
-        "game": "TUNIC",
-        "id": "tunic",
-        "world_version": "4.2.0",
-        "tag_version": "4.2.0",
-        "created_at": "2025-03-14T22:48:38Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/4.2.1/tunic.apworld",
-      "size": 555784,
-      "hash_sha256": "de1f775f102c98c487473cb0ecbe5c908715264b59f6d665533baf14ecd0b411",
-      "metadata": {
-        "game": "TUNIC",
-        "id": "tunic",
-        "world_version": "4.2.1",
-        "tag_version": "4.2.1",
-        "created_at": "2025-03-15T22:06:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/4.2.2/tunic.apworld",
-      "size": 555784,
-      "hash_sha256": "de1f775f102c98c487473cb0ecbe5c908715264b59f6d665533baf14ecd0b411",
-      "metadata": {
-        "game": "TUNIC",
-        "id": "tunic",
-        "world_version": "4.2.2",
-        "tag_version": "4.2.2",
-        "created_at": "2025-03-18T21:52:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/4.2.3/tunic.apworld",
       "size": 556170,
       "hash_sha256": "2d37e58cd570f343d877a5dae0d86da9487e3918f1db411d2da1cf17bd2993f0",
@@ -75606,6 +75553,19 @@
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
         "created_at": "2026-03-29T23:42:38Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.3/vampire_survivors.apworld",
+      "size": 28627,
+      "hash_sha256": "8ff145fd2a2822c64236037e43ce2cd2f932b420864a656b53ebb9982099c9ea",
+      "metadata": {
+        "game": "Vampire Survivors",
+        "id": "vampire_survivors",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-03-30T22:08:35Z",
         "minimum_ap_version": "0.6.5"
       }
     },
