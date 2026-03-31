@@ -21441,6 +21441,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.27.1/ffxiv.apworld",
+      "size": 136980,
+      "hash_sha256": "ee6c6e412c6708c22077e91552b0a868b8db29b0ad0d5e2ad23e88eb85780cb7",
+      "metadata": {
+        "game": "Final Fantasy XIV",
+        "id": "ffxiv",
+        "world_version": "0.27.1",
+        "tag_version": "0.27.1",
+        "created_at": "2026-03-31T04:44:16Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/0.1.0/flipwitch.apworld",
       "size": 65995,
       "hash_sha256": null,
