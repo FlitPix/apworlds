@@ -21469,6 +21469,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.27.2/ffxiv.apworld",
+      "size": 137109,
+      "hash_sha256": "31b129e170b7dfbcdbe85c72d8e1b853ed1816040a12ad4f5920a9dcacb69e21",
+      "metadata": {
+        "game": "Final Fantasy XIV",
+        "id": "ffxiv",
+        "world_version": "0.27.2",
+        "tag_version": "0.27.2",
+        "created_at": "2026-04-01T13:06:14Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/0.1.0/flipwitch.apworld",
       "size": 65995,
       "hash_sha256": null,
@@ -29803,6 +29815,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.2/ladx_beta.apworld",
+      "size": 371176,
+      "hash_sha256": "76d30451b01729172d2359d9e715c2f5fa8db0d52f02d8d1156d94fd7ce5c260",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.4.2",
+        "tag_version": "13.4.2",
+        "created_at": "2026-04-01T02:04:26Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -30174,19 +30199,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.2/ladx_beta.apworld",
-      "size": 371176,
-      "hash_sha256": "76d30451b01729172d2359d9e715c2f5fa8db0d52f02d8d1156d94fd7ce5c260",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.4.2",
-        "tag_version": "13.4.2",
-        "created_at": "2026-04-01T02:04:26Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -62534,6 +62546,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.0/sm64hacks.apworld",
+      "size": 294681,
+      "hash_sha256": "5d267733ba46c076e92156f275630292bc8a8d9769d5e5cd8691eeab5a97d98b",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-04-01T05:47:49Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.1/smrpg.apworld",
       "size": 1396945,
       "hash_sha256": "0e09816e2c5143d99b775c263a2ab358aaddff32f681214123db7ab27ec3d189",
@@ -69214,6 +69242,22 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.18-Bnyuu/tevi.apworld",
+      "size": 165563,
+      "hash_sha256": "2920ae8574e56a3550d386d9ac933b3c83fc7b7f550bde293e2563b7e0a6f2f2",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.18b0",
+        "tag_version": "1.4.18b0",
+        "created_at": "2026-03-29T21:37:05Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.3/tevi.apworld",
       "size": 141182,
       "hash_sha256": "66fdf1b10950c1c316a12c6eb176ee60c42a9eefead348e5581a2cbebea1b330",
@@ -69371,22 +69415,6 @@
         "world_version": "1.4.9",
         "tag_version": "1.4.9",
         "created_at": "2026-03-05T18:11:30Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.18-Bnyuu/tevi.apworld",
-      "size": 165563,
-      "hash_sha256": "2920ae8574e56a3550d386d9ac933b3c83fc7b7f550bde293e2563b7e0a6f2f2",
-      "metadata": {
-        "game": "Tevi",
-        "id": "tevi",
-        "world_version": "1.4.18b0",
-        "tag_version": "1.4.18b0",
-        "created_at": "2026-03-29T21:37:05Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
