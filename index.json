@@ -3679,6 +3679,22 @@
       }
     },
     {
+      "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v1.0.0-rc1/astalon.apworld",
+      "size": 303808,
+      "hash_sha256": "5cda92a5e2c1476749ee5fccea23b5a02aac5301aa91b398e3f56c7f4806a2b5",
+      "metadata": {
+        "game": "Astalon",
+        "id": "astalon",
+        "world_version": "0.99.0",
+        "tag_version": "0.99.0",
+        "created_at": "2026-04-02T02:30:22Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ThatOneGuy27/Archipelago-aus/releases/download/v1.1-beta/aus.apworld",
       "size": 14954,
       "hash_sha256": "727548d83eac4fce58370b62825739c6c8c2f881d6955bd3fc48320315815075",
@@ -37724,6 +37740,19 @@
       }
     },
     {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.10/manual_residentevil4_vincentssin.apworld",
+      "size": 92469,
+      "hash_sha256": "6e9b6656bb2c842fbd63d013a4fbc63b62c3ac5729868dd28af80a0ddffcb399",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.0.10",
+        "tag_version": "2.0.10",
+        "created_at": "2026-04-01T22:22:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.2/manual_residentevil4_vincentssin.apworld",
       "size": 85945,
       "hash_sha256": "12a5dc3c52ef8b7e43ed2ed674369a578a2b2d72e63413a27cbd5bd97628807a",
@@ -37828,15 +37857,28 @@
       }
     },
     {
-      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.10/manual_residentevil4_vincentssin.apworld",
-      "size": 92469,
-      "hash_sha256": "6e9b6656bb2c842fbd63d013a4fbc63b62c3ac5729868dd28af80a0ddffcb399",
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.11/manual_residentevil4_vincentssin.apworld",
+      "size": 92480,
+      "hash_sha256": "316a4ffa52fb8e18fc370c0d975d8553bf7a9b5943473a389b61df1a0eb81545",
       "metadata": {
         "game": "Manual_ResidentEvil4_VincentsSin",
         "id": "manual_residentevil4_vincentssin",
-        "world_version": "2.0.10",
-        "tag_version": "2.0.10",
-        "created_at": "2026-04-01T22:22:56Z",
+        "world_version": "2.0.11",
+        "tag_version": "2.0.11",
+        "created_at": "2026-04-02T06:18:30Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.10%2Bhotfix1/manual_residentevil4_vincentssin.apworld",
+      "size": 92470,
+      "hash_sha256": "56fdbc167133faa8985823c2281dafdfc9c74a15bd56196a3604560924d84577",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.0.10+hotfix1",
+        "tag_version": "2.0.10+hotfix1",
+        "created_at": "2026-04-02T03:15:04Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -56058,6 +56100,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.10.0-TEST/refunct.apworld",
+      "size": 15970,
+      "hash_sha256": "956025a7e378dcdc944f76b1230ad4d40a6c59f17a68d4e475719ccf1aa1007e",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-04-02T01:00:56Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.2.1/refunct.apworld",
       "size": 22190,
       "hash_sha256": "5161583a478533ffdbe57e5f6b50cf1da5f0618a432fa71610d6fc32d4313c21",
@@ -56384,19 +56439,6 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-03-20T23:36:37Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.10.0-TEST/refunct.apworld",
-      "size": 15970,
-      "hash_sha256": "956025a7e378dcdc944f76b1230ad4d40a6c59f17a68d4e475719ccf1aa1007e",
-      "metadata": {
-        "game": "Refunct",
-        "id": "refunct",
-        "world_version": "0.10.0",
-        "tag_version": "0.10.0",
-        "created_at": "2026-04-02T01:00:56Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -59969,6 +60011,22 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.4/shadow_the_hedgehog.apworld",
+      "size": 237722,
+      "hash_sha256": "ef590dcce28f75937b9fb94f4f9c3341c31c13ca69594a918384ec924ee1956b",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.4.4",
+        "tag_version": "0.4.4",
+        "created_at": "2026-03-14T07:07:43Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/choatix/Archipelago/releases/download/shadow0.3.0/shadow_the_hedgehog.apworld",
       "size": 750070,
       "hash_sha256": "83d34e78e002b50bef8d897ac60d892f91f399f1be31bbca15a3b268e6196760",
@@ -59995,22 +60053,6 @@
         "tag_version": "0.3.0.post2",
         "created_at": "2025-11-23T19:55:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.4/shadow_the_hedgehog.apworld",
-      "size": 237722,
-      "hash_sha256": "ef590dcce28f75937b9fb94f4f9c3341c31c13ca69594a918384ec924ee1956b",
-      "metadata": {
-        "game": "Shadow The Hedgehog",
-        "id": "shadow_the_hedgehog",
-        "world_version": "0.4.4",
-        "tag_version": "0.4.4",
-        "created_at": "2026-03-14T07:07:43Z",
-        "minimum_ap_version": "0.6.2",
         "flags": [
           "prerelease"
         ]
@@ -62677,6 +62719,22 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-04-01T05:47:49Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.1/sm64hacks.apworld",
+      "size": 294646,
+      "hash_sha256": "6ab715d4545e32ef82e02a064d27adc03f2d147f8fbb417422570e9c4ac34604",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-04-02T04:30:00Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
@@ -72291,6 +72349,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.2/tloz_st.apworld",
+      "size": 348229,
+      "hash_sha256": "e23bd60d3e577fe598a4f5837711abd2fed4f41b2f3265d38b1913297d5a71da",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.2",
+        "tag_version": "0.7.2",
+        "created_at": "2026-04-01T13:56:14Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -72442,19 +72513,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.2/tloz_st.apworld",
-      "size": 348229,
-      "hash_sha256": "e23bd60d3e577fe598a4f5837711abd2fed4f41b2f3265d38b1913297d5a71da",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.7.2",
-        "tag_version": "0.7.2",
-        "created_at": "2026-04-01T13:56:14Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
