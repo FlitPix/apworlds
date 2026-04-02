@@ -4,5 +4,18 @@
   "github": "https://github.com/Silvris/Archipelago",
   "license": null,
   "supported": true,
-  "versions": {}
+  "versions": {
+    "kdl3_3.0.0-beta1": {
+      "created_at": "2026-03-22T23:02:51Z",
+      "download_url": "https://github.com/Silvris/Archipelago/releases/download/kdl3_3.0.0-beta1/kdl3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e91b23f3da5d171d85b638b103d2d6e9bea99d7672ab7b634835ae6609de11cd",
+      "size": 117575,
+      "source_url": "https://api.github.com/repos/Silvris/Archipelago",
+      "tag": "kdl3_3.0.0-beta1",
+      "title": "Kirby's Dream Land 3 APWorld v3.0.0 Beta 1",
+      "version_simple": "3.0.0",
+      "world_version": "3.0.0b1"
+    }
+  }
 }
