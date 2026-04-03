@@ -56,6 +56,20 @@
       "version_simple": "0.10.0",
       "world_version": "0.10.0"
     },
+    "v0.10.0-TEST4": {
+      "created_at": "2026-04-03T02:09:12Z",
+      "download_url": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.10.0-TEST4/refunct.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c1ad40d72a2cf10fdaae595c57d01cf34b546da51d0e312a34c905b5ce3a3a43",
+      "minimum_ap_version": "0.6.4",
+      "prerelease": true,
+      "size": 16080,
+      "source_url": "https://api.github.com/repos/spinerak/refunct-tas-archipelago",
+      "tag": "v0.10.0-TEST4",
+      "title": "Test 4 for v0.10.0",
+      "version_simple": "0.10.0",
+      "world_version": "0.10.0"
+    },
     "v0.2.1": {
       "created_at": "2025-11-29T23:56:36Z",
       "download_url": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.2.1/refunct.apworld",

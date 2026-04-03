@@ -517,6 +517,20 @@
       "title": "v1.0.0-rc1",
       "version_simple": "0.99.0",
       "world_version": "0.99.0"
+    },
+    "v1.0.0-rc1r2": {
+      "created_at": "2026-04-02T02:30:22Z",
+      "download_url": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v1.0.0-rc1/astalon.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b2ec4c7dec432d1f3c43175bd250f717c90b36f74e8d314cb5716038e09b1315",
+      "minimum_ap_version": "0.6.7",
+      "prerelease": true,
+      "size": 301413,
+      "source_url": "https://api.github.com/repos/drtchops/Archipelago-Astalon",
+      "tag": "v1.0.0-rc1r2",
+      "title": "v1.0.0-rc1",
+      "version_simple": "0.99.1",
+      "world_version": "0.99.1"
     }
   }
 }
