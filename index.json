@@ -5241,6 +5241,19 @@
       }
     },
     {
+      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.5/banjo_tooie.apworld",
+      "size": 273834,
+      "hash_sha256": "bb77560d8bcfe8612913ccaf9749de9eb8173fc0f0e72f1066e0e523c01d1680",
+      "metadata": {
+        "game": "Banjo Tooie",
+        "id": "banjo_tooie",
+        "world_version": "4.11.5",
+        "tag_version": "4.11.5",
+        "created_at": "2025-12-26T23:18:09Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.2/banjo_tooie.apworld",
       "size": 204710,
       "hash_sha256": "6946e77d1a31eb6b289eeba6cecc0f46f6af9ec96eaf41e341469e5cff531860",
@@ -5420,19 +5433,6 @@
         "tag_version": "4.9",
         "created_at": "2025-08-16T03:40:18Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.5/banjo_tooie.apworld",
-      "size": 273834,
-      "hash_sha256": "bb77560d8bcfe8612913ccaf9749de9eb8173fc0f0e72f1066e0e523c01d1680",
-      "metadata": {
-        "game": "Banjo Tooie",
-        "id": "banjo_tooie",
-        "world_version": "4.11.5",
-        "tag_version": "4.11.5",
-        "created_at": "2025-12-26T23:18:09Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -56181,6 +56181,22 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.10.0-TEST4/refunct.apworld",
+      "size": 16080,
+      "hash_sha256": "c1ad40d72a2cf10fdaae595c57d01cf34b546da51d0e312a34c905b5ce3a3a43",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-04-03T02:09:12Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.2.1/refunct.apworld",
       "size": 22190,
       "hash_sha256": "5161583a478533ffdbe57e5f6b50cf1da5f0618a432fa71610d6fc32d4313c21",
@@ -56508,22 +56524,6 @@
         "tag_version": "0.9.0",
         "created_at": "2026-03-20T23:36:37Z",
         "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.10.0-TEST4/refunct.apworld",
-      "size": 16080,
-      "hash_sha256": "c1ad40d72a2cf10fdaae595c57d01cf34b546da51d0e312a34c905b5ce3a3a43",
-      "metadata": {
-        "game": "Refunct",
-        "id": "refunct",
-        "world_version": "0.10.0",
-        "tag_version": "0.10.0",
-        "created_at": "2026-04-03T02:09:12Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -65639,6 +65639,18 @@
       }
     },
     {
+      "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V2.0.0/spiritvalley.apworld",
+      "size": 53698,
+      "hash_sha256": "926a73bbc08dbb0bb69dc39666e848970431bb9f3552b5315aceec2477dfd9df",
+      "metadata": {
+        "game": "Spirit Valley",
+        "id": "spiritvalley",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-04-03T04:35:00Z"
+      }
+    },
+    {
       "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.0.1/spyro.apworld",
       "size": 18232,
       "hash_sha256": "d5d4d5833e6f132c93cb3210de183dd0c21e35b4805856ba8b6c211ce2ce4bbc",
@@ -66640,6 +66652,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.4/spyro3.apworld",
+      "size": 49847,
+      "hash_sha256": "54135e720900e7077ef4a62fa049bd6238a36a34ff2c576315f5d73e91571078",
+      "metadata": {
+        "game": "Spyro 3",
+        "id": "spyro3",
+        "world_version": "1.3.4",
+        "tag_version": "1.3.4",
+        "created_at": "2026-04-02T19:00:21Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S3AP/releases/download/open_world_test/spyro3.apworld",
       "size": 43547,
       "hash_sha256": "ac25ad05c48a53b800ae8423eb1f611e8ba52085ae2215a02d8926d804dd3aa8",
@@ -66653,19 +66678,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.4/spyro3.apworld",
-      "size": 49847,
-      "hash_sha256": "54135e720900e7077ef4a62fa049bd6238a36a34ff2c576315f5d73e91571078",
-      "metadata": {
-        "game": "Spyro 3",
-        "id": "spyro3",
-        "world_version": "1.3.4",
-        "tag_version": "1.3.4",
-        "created_at": "2026-04-02T19:00:21Z",
-        "minimum_ap_version": "0.6.1"
       }
     },
     {
