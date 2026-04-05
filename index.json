@@ -11003,9 +11003,9 @@
       }
     },
     {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.5.4/cotnd.apworld",
-      "size": 21924103,
-      "hash_sha256": "634a3fffca927301671c7c5b9632c967f135ab0b99581a2577e82607d775bfa8",
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.5.3/cotnd.apworld",
+      "size": 21924080,
+      "hash_sha256": "2b19530bf609418b98c86f9ec1d50b0b105cb96e46e61309a5d3b26c6afb8261",
       "metadata": {
         "game": "Crypt of the NecroDancer",
         "id": "cotnd",
@@ -11016,9 +11016,9 @@
       }
     },
     {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.5.3/cotnd.apworld",
-      "size": 21924080,
-      "hash_sha256": "2b19530bf609418b98c86f9ec1d50b0b105cb96e46e61309a5d3b26c6afb8261",
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.5.4/cotnd.apworld",
+      "size": 21924103,
+      "hash_sha256": "634a3fffca927301671c7c5b9632c967f135ab0b99581a2577e82607d775bfa8",
       "metadata": {
         "game": "Crypt of the NecroDancer",
         "id": "cotnd",
@@ -18834,6 +18834,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.2/everhood_2.apworld",
+      "size": 20221,
+      "hash_sha256": "e2d39cf84481cd8e76c75bfddcbe4cdc7b28010a20d7e7b11f8eb31223663eb8",
+      "metadata": {
+        "game": "Everhood 2",
+        "id": "everhood_2",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-04-05T11:03:07Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -73729,6 +73742,19 @@
         "created_at": "2025-06-20T22:35:33Z",
         "minimum_ap_version": "0.6.2",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.27/tracker.apworld",
+      "size": 84464,
+      "hash_sha256": "cabcde438647100fd1ab5641af3efc49f27cf1fee9a4e4d0ee2b02c481c41b57",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.27",
+        "tag_version": "0.2.27",
+        "created_at": "2026-04-05T07:50:16Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {

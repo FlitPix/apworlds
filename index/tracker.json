@@ -451,6 +451,19 @@
       "version_simple": "0.2.26",
       "world_version": "0.2.26"
     },
+    "Tracker_v0.2.27": {
+      "created_at": "2026-04-05T07:50:16Z",
+      "download_url": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.27/tracker.apworld",
+      "has_manifest": true,
+      "hash_sha256": "cabcde438647100fd1ab5641af3efc49f27cf1fee9a4e4d0ee2b02c481c41b57",
+      "minimum_ap_version": "0.6.2",
+      "size": 84464,
+      "source_url": "https://api.github.com/repos/FarisTheAncient/Archipelago",
+      "tag": "Tracker_v0.2.27",
+      "title": "Tracker_v0.2.27",
+      "version_simple": "0.2.27",
+      "world_version": "0.2.27"
+    },
     "Tracker_v0.2.2MD": {
       "created_at": "2025-04-08T02:23:25Z",
       "download_url": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.2MD/tracker.apworld",
