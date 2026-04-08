@@ -219,6 +219,19 @@
       "title": "Donkey Kong Country 2 v3.1.0",
       "version_simple": "3.1.0",
       "world_version": "3.1.0"
+    },
+    "dkc2-v3.1.0r2": {
+      "created_at": "2026-03-31T05:35:46Z",
+      "download_url": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.0/dkc2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1d83578d1db1775ccb38d24e8fcb72731e597c5a572497d28616456aff334c72",
+      "minimum_ap_version": "0.6.7",
+      "size": 147306,
+      "source_url": "https://api.github.com/repos/TheLX5/Archipelago",
+      "tag": "dkc2-v3.1.0r2",
+      "title": "Donkey Kong Country 2 v3.1.0",
+      "version_simple": "3.1.0",
+      "world_version": "3.1.0"
     }
   }
 }
