@@ -1394,6 +1394,19 @@
       "title": "5.4.1",
       "version_simple": "5.4.1",
       "world_version": "5.4.1"
+    },
+    "5.4.2": {
+      "created_at": "2026-04-08T11:35:01Z",
+      "download_url": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.2/pokemon_crystal.apworld",
+      "has_manifest": true,
+      "hash_sha256": "97a157a6a0e4689b40f4fa2b473ab4ef82dacfb2289b5f444708c1cae69fc874",
+      "minimum_ap_version": "0.6.3",
+      "size": 648034,
+      "source_url": "https://api.github.com/repos/gerbiljames/Archipelago",
+      "tag": "5.4.2",
+      "title": "5.4.2",
+      "version_simple": "5.4.2",
+      "world_version": "5.4.2"
     }
   }
 }

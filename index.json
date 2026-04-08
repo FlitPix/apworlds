@@ -4010,6 +4010,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.17/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "Autopelago",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-04-07T22:09:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.2/autopelago.apworld",
       "size": 25294,
       "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
@@ -4341,19 +4354,6 @@
         "tag_version": "0.9.0",
         "created_at": "2025-02-09T20:18:09Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.17/autopelago.apworld",
-      "size": 25294,
-      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
-      "metadata": {
-        "game": "Autopelago",
-        "id": "autopelago",
-        "world_version": "0.11.0",
-        "tag_version": "0.11.0",
-        "created_at": "2026-04-07T22:09:24Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -52707,6 +52707,19 @@
       }
     },
     {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.2/pokemon_crystal.apworld",
+      "size": 648034,
+      "hash_sha256": "97a157a6a0e4689b40f4fa2b473ab4ef82dacfb2289b5f444708c1cae69fc874",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.4.2",
+        "tag_version": "5.4.2",
+        "created_at": "2026-04-08T11:35:01Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/vyneras/Archipelago/releases/download/0.1.0-alpha/pokemon_frlg.apworld",
       "size": 648964,
       "hash_sha256": null,
@@ -72145,6 +72158,32 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.5/tloz_oos.apworld",
+      "size": 243449,
+      "hash_sha256": "515ef3674e73ffd5d649d93e232b2cbd31430d4ce0ab4f559705ac265dba40e6",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.1.5",
+        "tag_version": "20.1.5",
+        "created_at": "2026-04-08T00:11:20Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.6/tloz_oos.apworld",
+      "size": 243468,
+      "hash_sha256": "9c92e956df93dfd419996011ac7dbcd3789bebdfcf99a3ec9f0454bde73ab76a",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.1.6",
+        "tag_version": "20.1.6",
+        "created_at": "2026-04-08T01:06:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -72369,28 +72408,15 @@
       }
     },
     {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.6/tloz_oos.apworld",
-      "size": 243468,
-      "hash_sha256": "9c92e956df93dfd419996011ac7dbcd3789bebdfcf99a3ec9f0454bde73ab76a",
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.7/tloz_oos.apworld",
+      "size": 243420,
+      "hash_sha256": "379ee03da773f751d8df918789d26db1d328eac97221f87fea7681efc652cfc0",
       "metadata": {
         "game": "The Legend of Zelda - Oracle of Seasons",
         "id": "tloz_oos",
         "world_version": "20.1.6",
         "tag_version": "20.1.6",
-        "created_at": "2026-04-08T01:06:54Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.5/tloz_oos.apworld",
-      "size": 243449,
-      "hash_sha256": "515ef3674e73ffd5d649d93e232b2cbd31430d4ce0ab4f559705ac265dba40e6",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "20.1.5",
-        "tag_version": "20.1.5",
-        "created_at": "2026-04-08T00:11:20Z",
+        "created_at": "2026-04-08T13:20:40Z",
         "minimum_ap_version": "0.6.7"
       }
     },
