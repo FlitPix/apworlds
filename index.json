@@ -23798,6 +23798,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.5/gl.apworld",
+      "size": 381442,
+      "hash_sha256": "5a8fd8b2078c809a2beda41218e74c7c56f11693a00555c71230263ea23c892b",
+      "metadata": {
+        "game": "Gauntlet Legends",
+        "id": "gl",
+        "world_version": "2.1.5",
+        "tag_version": "2.1.5",
+        "created_at": "2026-04-10T08:03:45Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Smg065/GloverArchipelago/releases/download/beta/glover.apworld",
       "size": 286172,
       "hash_sha256": "16627aa16fca1346d900ac4069c4c6af108442ce51caf73f638343f0a827b98d",
