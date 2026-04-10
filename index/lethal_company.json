@@ -417,6 +417,19 @@
       "title": "v0.7.9-beta",
       "version_simple": "0.7.9",
       "world_version": "0.7.9"
+    },
+    "v0.8.0-pre-1": {
+      "created_at": "2026-04-10T00:14:17Z",
+      "download_url": "https://github.com/T0r1nn/APLC/releases/download/v0.8.0-pre-1/lethal_company.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d768100d7bd2c8722832c5682e40e39f48f84fc828a424aee1c2443b5181118a",
+      "prerelease": true,
+      "size": 500198,
+      "source_url": "https://api.github.com/repos/T0r1nn/APLC",
+      "tag": "v0.8.0-pre-1",
+      "title": "v0.8.0-pre-release-1",
+      "version_simple": "0.8.0",
+      "world_version": "0.8.0"
     }
   }
 }
