@@ -1407,6 +1407,19 @@
       }
     },
     {
+      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.6.1/anodyne.apworld",
+      "size": 44467,
+      "hash_sha256": "f255f7f25b87c515af9e9d066a2735a1517c12d3f671aae62985c5080ce854ac",
+      "metadata": {
+        "game": "Anodyne",
+        "id": "anodyne",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-04-10T13:37:44Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.1.1/another_crab.apworld",
       "size": 47483,
       "hash_sha256": "621bcddee5d35007b0c5ef6d27fe621010d63118ab99ef90c125692b86494ac9",
@@ -57561,6 +57574,22 @@
       }
     },
     {
+      "world": "https://github.com/TheRealSolidusSnake/RE3R_AP_World/releases/download/0.2.9/residentevil3remake.apworld",
+      "size": 43871,
+      "hash_sha256": "80600e7b5245f23e020abeb2327c59ada1f1f0f076778fc222d73178a48f1538",
+      "metadata": {
+        "game": "Resident Evil 3 Remake",
+        "id": "residentevil3remake",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-04-10T23:36:26Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.0.10/residentevil7biohazard.apworld",
       "size": 31155,
       "hash_sha256": "b8a6e70778aae32b0f89830e365848f01b1a208d6d8deab0b5c3e337e108191e",
@@ -58963,6 +58992,19 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.12.0/rotn.apworld",
+      "size": 16796,
+      "hash_sha256": "7b65ceb32751c776040100d37846fee95157ff4fd91bb49f06fa44f5f18acb62",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.12.0",
+        "tag_version": "0.12.0",
+        "created_at": "2026-03-14T04:34:00Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -73232,6 +73274,19 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.3/tloz_st.apworld",
+      "size": 348472,
+      "hash_sha256": "acfd3a431d85b12847f5459a5c5190a92786d821339e3c1755f324993461fc32",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.3",
+        "tag_version": "0.7.3",
+        "created_at": "2026-04-10T18:00:29Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
