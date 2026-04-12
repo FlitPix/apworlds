@@ -7396,6 +7396,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-68/borderlands2.apworld",
+      "size": 54432,
+      "hash_sha256": "44ee3afecefac52ed649d8155b38a078b4b2fff537e396e6b1bfddf567523693",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "68",
+        "tag_version": "68",
+        "created_at": "2026-04-11T03:28:50Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -7513,15 +7529,15 @@
       }
     },
     {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-68/borderlands2.apworld",
-      "size": 54432,
-      "hash_sha256": "44ee3afecefac52ed649d8155b38a078b4b2fff537e396e6b1bfddf567523693",
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-69/borderlands2.apworld",
+      "size": 105553,
+      "hash_sha256": "29de9d158ad6111240a56eb4844647cb4910c6ddcbe71db8f9b7a1421c03009f",
       "metadata": {
         "game": "Borderlands 2",
         "id": "borderlands2",
-        "world_version": "68",
-        "tag_version": "68",
-        "created_at": "2026-04-11T03:28:50Z",
+        "world_version": "69",
+        "tag_version": "69",
+        "created_at": "2026-04-11T21:57:56Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -22749,6 +22765,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.9/flipwitch.apworld",
+      "size": 72334,
+      "hash_sha256": "1a7114b4676bd7ace8554ff6c979cc818e05684c006c6572801171437e1d0eae",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.0.9",
+        "tag_version": "1.0.9",
+        "created_at": "2026-03-25T11:53:39Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/sg4e/Archipelago/releases/download/v1.0.0/fm.apworld",
       "size": 70361,
       "hash_sha256": "1db5179bdb048c65b594a81c6460ff4c00d9109503219995be08564d1c55b183",
@@ -27162,6 +27193,19 @@
         "world_version": "0.0.10.post3",
         "tag_version": "0.0.10.post3",
         "created_at": "2025-07-17T13:33:38Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
+      "size": 1499634,
+      "hash_sha256": "c849ae013f12be7f4bb666e5e916194adfe0de60450ef22c4acad2b84843423d",
+      "metadata": {
+        "game": "IslesOfSeaAndSky",
+        "id": "isles_of_sea_and_sky",
+        "world_version": "14.post2",
+        "tag_version": "14.post2",
+        "created_at": "2025-12-03T12:53:39Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -47681,6 +47725,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.2.1/outer_wilds.apworld",
+      "size": 86353,
+      "hash_sha256": "4109418091ca4805e72372a23f87f412e41706878ad62eab67205d4f19ce3090",
+      "metadata": {
+        "game": "Outer Wilds",
+        "id": "outer_wilds",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-11T20:36:58Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/Daphoa/ArchipelagoP5R/releases/download/v0.1.0/p5r.apworld",
       "size": 10084,
       "hash_sha256": "e648ee6f80ac20f601e391f132c7ecd89a54d4af9a87530b05562693f987efa1",
@@ -53896,6 +53953,19 @@
       }
     },
     {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.5.6/PokemonStadium.apworld",
+      "size": 179134,
+      "hash_sha256": "17bd8b48e011fd5f90cdc44e266a2306c7b830e02edfa05927bb73b2fc66a496",
+      "metadata": {
+        "game": "Pokemon Stadium",
+        "id": "PokemonStadium",
+        "world_version": "0.5.6",
+        "tag_version": "0.5.6",
+        "created_at": "2026-04-12T00:43:54Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/0.0.0/pokepark.apworld",
       "size": 160705,
       "hash_sha256": "5e9b4a7730932bbe9df8c8f09066e76379ed3a84c06e76fff318f5f88d591e77",
@@ -57648,6 +57718,22 @@
       }
     },
     {
+      "world": "https://github.com/TheRealSolidusSnake/RE3R_AP_World/releases/download/0.2.9/residentevil3remake.apworld",
+      "size": 47325,
+      "hash_sha256": "1ee9d770c34d273cbf55c07b5fa071fe7fc38b5d98d24d3a86feaa6ba5f18e66",
+      "metadata": {
+        "game": "Resident Evil 3 Remake",
+        "id": "residentevil3remake",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-04-10T23:36:26Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.0.10/residentevil7biohazard.apworld",
       "size": 31155,
       "hash_sha256": "b8a6e70778aae32b0f89830e365848f01b1a208d6d8deab0b5c3e337e108191e",
@@ -59815,6 +59901,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1/sadx.apworld",
+      "size": 3156368,
+      "hash_sha256": "7c3937a5f0bdfda191c22b4cab843781dd70d5d5e743b257eadf31d5bf731ee5",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-11T18:32:06Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -66703,6 +66802,23 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/1.2.0-rc/spyro2.apworld",
+      "size": 40622,
+      "hash_sha256": "cd189771e8751ecc6b4f51b96d0d6bb9d6d8c5dbc4af03204095e6f2e92976ad",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "1.1.3",
+        "tag_version": "1.1.3",
+        "created_at": "2026-04-11T02:27:52Z",
+        "minimum_ap_version": "0.6.1",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S2AP/releases/download/full_gemsanity_31_10_25/spyro2.apworld",
       "size": 30729,
       "hash_sha256": "140e609154fe0bd3d5d15d6eea5948bd54ed750f4439fbecce2e069885ec86ab",
@@ -66776,23 +66892,6 @@
         "world_version": "6",
         "tag_version": "6",
         "created_at": "2026-01-06T21:03:55Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S2AP/releases/download/1.2.0-rc/spyro2.apworld",
-      "size": 40622,
-      "hash_sha256": "cd189771e8751ecc6b4f51b96d0d6bb9d6d8c5dbc4af03204095e6f2e92976ad",
-      "metadata": {
-        "game": "Spyro 2",
-        "id": "spyro2",
-        "world_version": "1.1.3",
-        "tag_version": "1.1.3",
-        "created_at": "2026-04-11T02:27:52Z",
-        "minimum_ap_version": "0.6.1",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -70199,6 +70298,22 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.20/tevi.apworld",
+      "size": 165903,
+      "hash_sha256": "3855cc47b5094a1bc196f45d3d6c2a515ceb580600e8df02bdc15aa7d10c0b83",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.20",
+        "tag_version": "1.4.20",
+        "created_at": "2026-04-06T10:54:05Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.3/tevi.apworld",
       "size": 141182,
       "hash_sha256": "66fdf1b10950c1c316a12c6eb176ee60c42a9eefead348e5581a2cbebea1b330",
@@ -70356,22 +70471,6 @@
         "world_version": "1.4.9",
         "tag_version": "1.4.9",
         "created_at": "2026-03-05T18:11:30Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.20/tevi.apworld",
-      "size": 165903,
-      "hash_sha256": "3855cc47b5094a1bc196f45d3d6c2a515ceb580600e8df02bdc15aa7d10c0b83",
-      "metadata": {
-        "game": "Tevi",
-        "id": "tevi",
-        "world_version": "1.4.20",
-        "tag_version": "1.4.20",
-        "created_at": "2026-04-06T10:54:05Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -76789,6 +76888,19 @@
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
         "created_at": "2026-03-30T22:08:35Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.4/vampire_survivors.apworld",
+      "size": 28716,
+      "hash_sha256": "dec14f8cbd918a038e5f5098ac07d37f7b4398ff02d3b284c4f04836895e09d8",
+      "metadata": {
+        "game": "Vampire Survivors",
+        "id": "vampire_survivors",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-04-11T20:23:12Z",
         "minimum_ap_version": "0.6.5"
       }
     },

@@ -230,6 +230,19 @@
       "title": "Version 3 Test Release",
       "version_simple": "0.2.7",
       "world_version": "0.2.7"
+    },
+    "0.2.9r2": {
+      "created_at": "2026-04-10T23:36:26Z",
+      "download_url": "https://github.com/TheRealSolidusSnake/RE3R_AP_World/releases/download/0.2.9/residentevil3remake.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1ee9d770c34d273cbf55c07b5fa071fe7fc38b5d98d24d3a86feaa6ba5f18e66",
+      "prerelease": true,
+      "size": 47325,
+      "source_url": "https://api.github.com/repos/dontjoome/RE3R_AP_World",
+      "tag": "0.2.9r2",
+      "title": "Version 3 Test Release",
+      "version_simple": "0.2.7",
+      "world_version": "0.2.7"
     }
   }
 }
