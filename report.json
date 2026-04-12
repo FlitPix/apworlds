@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 521,
-  "total_versions": 5852,
+  "total_versions": 5855,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -284,7 +284,7 @@
     "medievil2": true,
     "megamix": true,
     "melee": false,
-    "messenger": false,
+    "messenger": true,
     "metrocubevania": false,
     "metroidfusion": true,
     "metroidprime": false,
@@ -397,7 +397,7 @@
     "sly2": true,
     "sm64hacks": true,
     "smrpg": true,
-    "sms": false,
+    "sms": true,
     "smsa2": false,
     "smushi_come_home": true,
     "smw": false,

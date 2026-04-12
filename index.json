@@ -7412,6 +7412,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-69/borderlands2.apworld",
+      "size": 105553,
+      "hash_sha256": "29de9d158ad6111240a56eb4844647cb4910c6ddcbe71db8f9b7a1421c03009f",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "69",
+        "tag_version": "69",
+        "created_at": "2026-04-11T21:57:56Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -7526,22 +7542,6 @@
         "tag_version": "0.5.1",
         "created_at": "2026-03-25T16:18:03Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-69/borderlands2.apworld",
-      "size": 105553,
-      "hash_sha256": "29de9d158ad6111240a56eb4844647cb4910c6ddcbe71db8f9b7a1421c03009f",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "69",
-        "tag_version": "69",
-        "created_at": "2026-04-11T21:57:56Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -27122,6 +27122,19 @@
       }
     },
     {
+      "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
+      "size": 1499634,
+      "hash_sha256": "c849ae013f12be7f4bb666e5e916194adfe0de60450ef22c4acad2b84843423d",
+      "metadata": {
+        "game": "IslesOfSeaAndSky",
+        "id": "isles_of_sea_and_sky",
+        "world_version": "14.post2",
+        "tag_version": "14.post2",
+        "created_at": "2025-12-03T12:53:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_8/isles_of_sea_and_sky.apworld",
       "size": 344567,
       "hash_sha256": "6461d25b93a12edd81f0bc6f2cea7216cf70009c79b44b5c0d92dfa0b9ec315d",
@@ -27193,19 +27206,6 @@
         "world_version": "0.0.10.post3",
         "tag_version": "0.0.10.post3",
         "created_at": "2025-07-17T13:33:38Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
-      "size": 1499634,
-      "hash_sha256": "c849ae013f12be7f4bb666e5e916194adfe0de60450ef22c4acad2b84843423d",
-      "metadata": {
-        "game": "IslesOfSeaAndSky",
-        "id": "isles_of_sea_and_sky",
-        "world_version": "14.post2",
-        "tag_version": "14.post2",
-        "created_at": "2025-12-03T12:53:39Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -41560,6 +41560,21 @@
         "tag_version": "0.6.6.post2",
         "created_at": "2026-02-22T22:19:34Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.7-messenger-ut-beta/messenger.apworld",
+      "size": 78005,
+      "hash_sha256": "2cd109be33356ee37008b033ec25828693ab2c0d118b2a967874914fa47de2f1",
+      "metadata": {
+        "game": "The Messenger",
+        "id": "messenger",
+        "world_version": "0.6.7",
+        "tag_version": "0.6.7",
+        "created_at": "2026-04-12T03:59:58Z",
         "flags": [
           "prerelease"
         ]
@@ -59840,6 +59855,19 @@
       }
     },
     {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1/sadx.apworld",
+      "size": 3156368,
+      "hash_sha256": "7c3937a5f0bdfda191c22b4cab843781dd70d5d5e743b257eadf31d5bf731ee5",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-11T18:32:06Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1-pre-release-1/sadx.apworld",
       "size": 3155774,
       "hash_sha256": "aee0b77ec2af43c6f9ffef6aae7d806a06dc3b153f9b8e796423e352c59e37f4",
@@ -59901,19 +59929,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1/sadx.apworld",
-      "size": 3156368,
-      "hash_sha256": "7c3937a5f0bdfda191c22b4cab843781dd70d5d5e743b257eadf31d5bf731ee5",
-      "metadata": {
-        "game": "Sonic Adventure DX",
-        "id": "sadx",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2026-04-11T18:32:06Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -63781,6 +63796,19 @@
         "tag_version": "0.5.3",
         "created_at": "2026-03-06T05:02:55Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Joshark/archipelago-sms/releases/download/0.6.0/sms.apworld",
+      "size": 124974,
+      "hash_sha256": "616e842b9318e54055030ac53a2da2c25c1c9e90dd024be252dec1032ef0938c",
+      "metadata": {
+        "game": "",
+        "id": "sms",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-04-12T03:21:58Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -74488,6 +74516,19 @@
         "created_at": "2025-06-20T22:35:33Z",
         "minimum_ap_version": "0.6.2",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.28/tracker.apworld",
+      "size": 85025,
+      "hash_sha256": "59551490e0671b6c24367771e44050ae4f509dc706434694b3eef6baf73e3444",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.28",
+        "tag_version": "0.2.28",
+        "created_at": "2026-04-12T05:47:33Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
