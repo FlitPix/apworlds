@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 521,
-  "total_versions": 5855,
+  "total_versions": 5862,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -405,7 +405,7 @@
     "sonic_heroes": true,
     "sonic_rush": false,
     "sotm": true,
-    "sotn": false,
+    "sotn": true,
     "soulblazer": true,
     "spelclassic": false,
     "spelunky2": true,
