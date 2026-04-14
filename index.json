@@ -4528,6 +4528,19 @@
       }
     },
     {
+      "world": "https://github.com/Nikkilites/Archipelago-BacklogExpedition-APWorld/releases/download/v1.2.0/backlog_expedition.apworld",
+      "size": 199949,
+      "hash_sha256": "904c60608f840d4741686a581dc9ac06e5592b3af631d57420239fcd9c89cc04",
+      "metadata": {
+        "game": "Backlog Expedition",
+        "id": "backlog_expedition",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-04-13T17:31:33Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/BurndiL/BalatroAP/releases/download/v0.0.1/balatro.apworld",
       "size": 6556,
       "hash_sha256": "c11fbfa4147287c0095f1ed1d8e49b54d5b113b86bc6964956bbaa838f526234",
@@ -45293,6 +45306,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.2/nine_sols.apworld",
+      "size": 2584979,
+      "hash_sha256": "c2357358d443228236e30ae93ebf5f7cc109cef3e9ef461e9498514f1ef1d41b",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-04-13T21:44:33Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_0/no100f.apworld",
       "size": 216707,
       "hash_sha256": "c7a73db59222d8761aa6528118924eca25b97a3f3e6fde3dd3e74ba64d9abda0",
@@ -48501,6 +48527,19 @@
         "world_version": "1.3.1",
         "tag_version": "1.3.1",
         "created_at": "2026-01-25T15:34:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.3.2/parkitect.apworld",
+      "size": 111429,
+      "hash_sha256": "10aca0028e2c3981da4bf903345d56a9b4f6f3237150688b1cb332a099949def",
+      "metadata": {
+        "game": "Parkitect",
+        "id": "parkitect",
+        "world_version": "1.3.2",
+        "tag_version": "1.3.2",
+        "created_at": "2026-04-13T18:25:58Z",
         "maximum_ap_version": "0.6.99"
       }
     },

@@ -335,6 +335,19 @@
       "title": "0.5.1",
       "version_simple": "0.5.1",
       "world_version": "0.5.1"
+    },
+    "0.5.2": {
+      "created_at": "2026-04-13T21:44:33Z",
+      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.2/nine_sols.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c2357358d443228236e30ae93ebf5f7cc109cef3e9ef461e9498514f1ef1d41b",
+      "minimum_ap_version": "0.6.4",
+      "size": 2584979,
+      "source_url": "https://api.github.com/repos/Ixrec/NineSolsArchipelagoRandomizer",
+      "tag": "0.5.2",
+      "title": "0.5.2",
+      "version_simple": "0.5.2",
+      "world_version": "0.5.2"
     }
   }
 }
