@@ -23913,48 +23913,6 @@
       }
     },
     {
-      "world": "https://github.com/Smg065/GloverArchipelago/releases/download/beta/glover.apworld",
-      "size": 286172,
-      "hash_sha256": "16627aa16fca1346d900ac4069c4c6af108442ce51caf73f638343f0a827b98d",
-      "metadata": {
-        "game": "Glover",
-        "id": "glover",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-12-08T07:09:44Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Smg065/GloverArchipelago/releases/download/v1.0.0/glover.apworld",
-      "size": 368536,
-      "hash_sha256": "6bc8021694790bbbe34add8e2457272968fc516a0f3a7f162cb6019e07fc47a0",
-      "metadata": {
-        "game": "Glover",
-        "id": "glover",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-01-01T21:12:50Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Smg065/GloverArchipelago/releases/download/v1.0.1/glover.apworld",
-      "size": 490086,
-      "hash_sha256": "4c98a7bae217fbe653eae9ed1b7129fdb70a35bbbee7d811069382ce4734c9ed",
-      "metadata": {
-        "game": "Glover",
-        "id": "glover",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2026-03-25T16:46:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/grimdawn-v0.1.2/grim_dawn.apworld",
       "size": 43696,
       "hash_sha256": "32b717b34f012c9cee21fa1036e0cafcbd8f4ce88ef972876d423c44b51500a1",
@@ -35626,71 +35584,6 @@
       }
     },
     {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Fellowship/releases/download/2025.09.02/manual_fellowship_chakraa.apworld",
-      "size": 52550,
-      "hash_sha256": "068794b4134f38b3fbe7e0203004e9bf59d6da7810fa54f1587a88bd6365e99e",
-      "metadata": {
-        "game": "Manual_Fellowship_Chakraa",
-        "id": "manual_fellowship_chakraa",
-        "world_version": "2025.9.2",
-        "tag_version": "2025.9.2",
-        "created_at": "2025-09-02T19:38:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Fellowship/releases/download/2025.09.12/manual_fellowship_chakraa.apworld",
-      "size": 55196,
-      "hash_sha256": "942ab6830900777e627a0bcffe26e2b3d4b8d21a162b33c2a05ce1bdbaf51027",
-      "metadata": {
-        "game": "Manual_Fellowship_Chakraa",
-        "id": "manual_fellowship_chakraa",
-        "world_version": "2025.9.12",
-        "tag_version": "2025.9.12",
-        "created_at": "2025-09-12T14:09:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Fellowship/releases/download/2025.09.12.2/manual_fellowship_chakraa.apworld",
-      "size": 55238,
-      "hash_sha256": "5ade2e21270723f6062b46ae92682bd899a4f9669593b4d0a8910b297da79ffd",
-      "metadata": {
-        "game": "Manual_Fellowship_Chakraa",
-        "id": "manual_fellowship_chakraa",
-        "world_version": "2025.9.12.2",
-        "tag_version": "2025.9.12.2",
-        "created_at": "2025-09-12T15:03:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Fellowship/releases/download/2025.10.14/manual_fellowship_chakraa.apworld",
-      "size": 55228,
-      "hash_sha256": "9ff1e6ee405e0578ad752d127108526e6eb13f307608e880ad42e54cd1a61f9b",
-      "metadata": {
-        "game": "Manual_Fellowship_Chakraa",
-        "id": "manual_fellowship_chakraa",
-        "world_version": "2025.10.14",
-        "tag_version": "2025.10.14",
-        "created_at": "2025-10-14T13:24:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Fellowship/releases/download/2026.02.23/manual_fellowship_chakraa.apworld",
-      "size": 55932,
-      "hash_sha256": "24fface248199d460abc48fa0d7943332c170d9ad0b484ccb8dfd61ccf1bb251",
-      "metadata": {
-        "game": "Manual_Fellowship_Chakraa",
-        "id": "manual_fellowship_chakraa",
-        "world_version": "2026.2.23",
-        "tag_version": "2026.2.23",
-        "created_at": "2026-02-23T20:03:05Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/pizie11/FFXIVBMB/releases/download/0.3/manual_ffxivbmb_pizzie.apworld",
       "size": 51899,
       "hash_sha256": "25a635a4c979c5d8996756aa43541c1ab16b12f76031cacc3801e69330e4e77f",
@@ -44596,6 +44489,19 @@
         "world_version": "1.5.30",
         "tag_version": "1.5.30",
         "created_at": "2026-03-27T10:50:03Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.31/musedash.apworld",
+      "size": 33538,
+      "hash_sha256": "1222c43837582ae70b5c85ea33506b63a46d7be8e0a86564a20ec0d1cfdbe4f3",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.30",
+        "tag_version": "1.5.30",
+        "created_at": "2026-04-14T08:44:50Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -80244,10 +80150,6 @@
       "game": "Gauntlet Legends",
       "description": "Gauntlet Legends"
     },
-    "glover": {
-      "game": "Glover",
-      "description": "Glover is an N64 physics puzzle platforming game."
-    },
     "grim_dawn": {
       "game": "Grim Dawn",
       "description": "It's Grim Dawn"
@@ -80564,10 +80466,6 @@
     },
     "manual_fantasylife_jbtheshadow": {
       "game": "Manual_FantasyLife_JBtheShadow",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_fellowship_chakraa": {
-      "game": "Manual_Fellowship_Chakraa",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_ffxivbmb_pizzie": {
