@@ -43,6 +43,18 @@
       "version_simple": "6.5.1",
       "world_version": "6.5.1"
     },
+    "OW7.0.0": {
+      "created_at": "2026-04-15T01:30:37Z",
+      "download_url": "https://github.com/nicopop/ManualApworlds/releases/download/OW7.0.0/manual_outerwilds_nicopopxd.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ed49000be13a6ae2f0357b4c865d84bc0e337f7ac99d31d4552dd9b38bc279ca",
+      "size": 85887,
+      "source_url": "https://api.github.com/repos/nicopop/ManualApworlds",
+      "tag": "OW7.0.0",
+      "title": "Manual_OuterWilds_Nicopopxd - 7.0.0",
+      "version_simple": "7.0.0",
+      "world_version": "7.0.0"
+    },
     "v3.0.0": {
       "created_at": "2023-05-25T21:47:53Z",
       "download_url": "https://github.com/nicopop/NicosManualApworlds/releases/download/v3.0.0/manual_outerwilds_nicopopxd.apworld",

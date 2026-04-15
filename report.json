@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 519,
-  "total_versions": 5859,
+  "total_packages": 522,
+  "total_versions": 5870,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -128,6 +128,7 @@
     "gauntlet_legends": false,
     "getting_over_it": false,
     "gl": true,
+    "glover": false,
     "grim_dawn": true,
     "grinch": true,
     "gstla": true,
@@ -207,6 +208,7 @@
     "manual_eschatos_flit": false,
     "manual_ets2_dopin": false,
     "manual_fantasylife_jbtheshadow": false,
+    "manual_fellowship_chakraa": false,
     "manual_ffxivbmb_pizzie": true,
     "manual_fireemblempathofradiance_mercenarygreil": false,
     "manual_freedomplanet2_knuxfan24": false,
