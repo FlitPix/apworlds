@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 520,
-  "total_versions": 5831,
+  "total_packages": 522,
+  "total_versions": 5874,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -38,6 +38,7 @@
     "bomberman_tournament": false,
     "bomberman_tsa": true,
     "borderlands2": false,
+    "brotato": true,
     "candybox2": true,
     "cassette_beasts": true,
     "casualtiesunknown": true,
@@ -224,6 +225,7 @@
     "manual_mariokart7_bigbradley": true,
     "manual_mariokart7local_bigbradley": true,
     "manual_mariokartworld_greengamefire": false,
+    "manual_marvellegendary_samitian": false,
     "manual_Meteos_Konoko": false,
     "manual_mhrise_hub_axxroy": false,
     "manual_mhrise_village_axxroy": false,

@@ -4541,6 +4541,19 @@
       }
     },
     {
+      "world": "https://github.com/Nikkilites/Archipelago-BacklogExpedition-APWorld/releases/download/v1.2.1/backlog_expedition.apworld",
+      "size": 317970,
+      "hash_sha256": "e05a7125a8c84b527ec08b8b0b7d86bf97afeafda12ebd378609a693a1ef04c4",
+      "metadata": {
+        "game": "Backlog Expedition",
+        "id": "backlog_expedition",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-16T00:20:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/BurndiL/BalatroAP/releases/download/v0.0.1/balatro.apworld",
       "size": 6556,
       "hash_sha256": "c11fbfa4147287c0095f1ed1d8e49b54d5b113b86bc6964956bbaa838f526234",
@@ -7554,6 +7567,451 @@
         "world_version": "0.5.1",
         "tag_version": "0.5.1",
         "created_at": "2026-03-25T16:18:03Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
+      "size": 43928,
+      "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.12.1",
+        "tag_version": "0.12.1",
+        "created_at": "2025-12-09T04:35:57Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/new-cd-test/brotato.apworld",
+      "size": 43928,
+      "hash_sha256": "9e64c7352b8cc072cc69591b430febb1d1f3de893165deda288a568f17f9771a",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.11.1",
+        "tag_version": "0.11.1",
+        "created_at": "2025-11-13T03:18:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.0.1/brotato.apworld",
+      "size": 10331,
+      "hash_sha256": "7078055003abfd86b9428097beb93329d7e801145f5a5cc3cfcf1feec90f54f1",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2023-10-15T18:12:56Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.0.2/brotato.apworld",
+      "size": 10327,
+      "hash_sha256": "1d76cecd4d29f69afab19c091380e30ada34de38cce7199631a77f19ea101713",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.0.2",
+        "tag_version": "0.0.2",
+        "created_at": "2023-10-27T22:55:23Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.0.3/brotato.apworld",
+      "size": 11756,
+      "hash_sha256": "d5257b647f06560835e28ce4974474a0b3cb188902b710a5ba4a54f5d9c36dc4",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.0.3",
+        "tag_version": "0.0.3",
+        "created_at": "2024-01-07T01:44:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.0.4/brotato.apworld",
+      "size": 10358,
+      "hash_sha256": "7d81db7b3ba49efbee6c085baeb334ead4faebcc66ed0773cf842f90e15082c4",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.0.4",
+        "tag_version": "0.0.4",
+        "created_at": "2024-01-10T05:29:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.0.5/brotato.apworld",
+      "size": 10568,
+      "hash_sha256": "b3786ef721327613403f493339744a3856c8b4e8076124505bb8a788b0833c9f",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.0.5",
+        "tag_version": "0.0.5",
+        "created_at": "2024-01-25T05:19:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.0.6/brotato.apworld",
+      "size": 11045,
+      "hash_sha256": "bffff6ecbe437aad945e70984e77034dadc904192dd3cfcc868065060d89de69",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.0.6",
+        "tag_version": "0.0.6",
+        "created_at": "2024-03-27T05:20:47Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.1.0/brotato.apworld",
+      "size": 16506,
+      "hash_sha256": "3e54997e5e6ea8b0a61611390ead91db02873cc80c39f7ee22352c5f1d2fd316",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2024-07-07T19:24:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.10.0/brotato.apworld",
+      "size": 23714,
+      "hash_sha256": "d455edc2261ddafeaea3e55d08c0a96d25b32778fd2bcdea3424f308e3d34659",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2025-08-07T02:52:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.10.1/brotato.apworld",
+      "size": 23714,
+      "hash_sha256": "5271b5c13fd5e319ce383f9bac0977137c85e5a602dfde95383952c84d489aae",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.10.1",
+        "tag_version": "0.10.1",
+        "created_at": "2025-09-01T23:16:21Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.11.0/brotato.apworld",
+      "size": 43917,
+      "hash_sha256": "43abba45eef659a52bf8c07af8d61d02d017530b46103fb031170be896afd3e2",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2025-10-25T21:49:41Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.11.1/brotato.apworld",
+      "size": 43917,
+      "hash_sha256": "06c59f8558aba1a8624bcccf0a95732e9e6055969d1fe6df882776bf30f36177",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.11.1",
+        "tag_version": "0.11.1",
+        "created_at": "2025-10-28T01:32:14Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.12.0/brotato.apworld",
+      "size": 43928,
+      "hash_sha256": "f59ed37729474aa0a287f888f22c5ec3407babd6263385d95a179d7d656e8573",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.12.0",
+        "tag_version": "0.12.0",
+        "created_at": "2025-11-13T03:42:23Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.12.1/brotato.apworld",
+      "size": 43928,
+      "hash_sha256": "5e5a9e58eb4915fa9536c38d8b58a75f22e155b96198d93f4da98fe48f56a19e",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.12.1",
+        "tag_version": "0.12.1",
+        "created_at": "2025-12-09T04:41:21Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.13.0/brotato.apworld",
+      "size": 43632,
+      "hash_sha256": "bedf620d3fadb7bdb4f528a3e3a8f5c87bd12231cba816eeb412bab28923d909",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-02-12T02:36:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.14.0/brotato.apworld",
+      "size": 43632,
+      "hash_sha256": "ae22c9a312b7dfaa3a7f111ff8a02d78f1ec2eb1ac821d9e076c0228f51cfecb",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.14.0",
+        "tag_version": "0.14.0",
+        "created_at": "2026-02-16T18:27:00Z"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.2.0/brotato.apworld",
+      "size": 17355,
+      "hash_sha256": "58eab0a0a6062cb23b55b8ef1f520510f1bfdd9904bd22e28415dfbfaa7a684c",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2024-07-18T06:03:42Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.2.1/brotato.apworld",
+      "size": 17367,
+      "hash_sha256": "19e69a4b3266e27f29f0a64757bfa8f6fe9bc9d1edc10d91f5ddf7b6ab9449d8",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2024-08-05T04:14:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.3.0/brotato.apworld",
+      "size": 17846,
+      "hash_sha256": "697397d8e9c4a7eb5fe55a4214e28cdbd7836ffa90b034787ea99e59174877c5",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2024-08-16T03:56:46Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.4.0/brotato.apworld",
+      "size": 17848,
+      "hash_sha256": "60ca7f98e47e46e0a597e56d765873d8fa202dc3c5e7e696fb6a77738c36f14d",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2024-09-07T22:30:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.5.0/brotato.apworld",
+      "size": 19758,
+      "hash_sha256": "02d0cf706510f3e9fa2bdb5597d355103208b763b6164654a5fcc4682cf70794",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2024-10-28T04:18:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.5.1/brotato.apworld",
+      "size": 19758,
+      "hash_sha256": "852c2a285e40e65e98da9ca9b975b1bb6bba4ff5fc1df9d64051122a284cd9cb",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2024-11-11T05:22:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.5.2/brotato.apworld",
+      "size": 19758,
+      "hash_sha256": "e415f331478c4a6f2b105b2417a5744f1100f0f0f380d8c4c1d9a4228d927108",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2024-11-24T02:46:45Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.5.3/brotato.apworld",
+      "size": 20700,
+      "hash_sha256": "96ae3261852c5c7c27f203921b0ac2406f1ed3122641c2ef05b76954ba02c81f",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2024-12-15T06:13:54Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.5.4/brotato.apworld",
+      "size": 20700,
+      "hash_sha256": "cf79a72043bc8f7a42f51fbc67f01cca6e1b250883996c635f849f64963b44ca",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2024-12-22T03:32:37Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.6.0/brotato.apworld",
+      "size": 20700,
+      "hash_sha256": "042ffffd9bebaad49ba9dd3da4fdb60b46b8ec94c5d76bdc13ff9fd32c3dbbe6",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2025-01-13T04:34:32Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.7.0/brotato.apworld",
+      "size": 21603,
+      "hash_sha256": "fee572c0c175b02fa5568ac7943073b9fa904b67523ef43b09de8682980b3a49",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2025-01-23T05:22:05Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.7.1/brotato.apworld",
+      "size": 21603,
+      "hash_sha256": "3d9698a32ea3cc15ce739104fabf96955df9b7bcdc4911ae627e82aac022ee9e",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.7.1",
+        "tag_version": "0.7.1",
+        "created_at": "2025-01-29T02:13:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.7.2/brotato.apworld",
+      "size": 21592,
+      "hash_sha256": "ea59382b3c01b03dec0a8aa7aed2f3894d2ec6cd71494a9d22684b523b4e81e9",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.7.2",
+        "tag_version": "0.7.2",
+        "created_at": "2025-02-12T03:52:06Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.8.0/brotato.apworld",
+      "size": 23281,
+      "hash_sha256": "c7f3437f56f2a98e60164d2b8785e610df00a9fa269fe1c2773d0a1c38187080",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2025-04-08T03:57:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.8.1/brotato.apworld",
+      "size": 23281,
+      "hash_sha256": "309504945b9fa66e62c85cb0a92cdbe179221079514f68c69b4f0c984e10094a",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2025-04-26T16:02:03Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.8.2/brotato.apworld",
+      "size": 23281,
+      "hash_sha256": "c8904ebdce49fa71e9bede3da92995c196f1f01a3a4792feaefd0f49fad68bf8",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.8.2",
+        "tag_version": "0.8.2",
+        "created_at": "2025-06-19T20:32:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.9.0/brotato.apworld",
+      "size": 23714,
+      "hash_sha256": "ac7dd32f284479aed15c5c6f7e419132e4a1885dbc6a3f448715e484ffd981e2",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2025-07-11T21:11:37Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.9.1/brotato.apworld",
+      "size": 23714,
+      "hash_sha256": "a856ffcd047228cb5060113028a0ce497326545711788a4bf8c44536bf257aeb",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.9.1",
+        "tag_version": "0.9.1",
+        "created_at": "2025-07-18T01:16:55Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -36090,6 +36548,58 @@
       }
     },
     {
+      "world": "https://github.com/Samitian/Marvel-Legendary-ManualAP/releases/download/v0.2.0/manual_marvellegendary_samitian.apworld",
+      "size": 44385,
+      "hash_sha256": "4caadb53cfdf7914217116a1a8a7c610d077f89454dee2e685d6f21ccff6adf1",
+      "metadata": {
+        "game": "Manual_MarvelLegendary_Samitian",
+        "id": "manual_marvellegendary_samitian",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2025-02-20T16:08:48Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Samitian/Marvel-Legendary-ManualAP/releases/download/v0.3.0/manual_marvellegendary_samitian.apworld",
+      "size": 47990,
+      "hash_sha256": "a7f1595cd67e0af4a0e2b5f7b4da45e4aad26b2fdd3ee2b7661bc3aba87d2559",
+      "metadata": {
+        "game": "Manual_MarvelLegendary_Samitian",
+        "id": "manual_marvellegendary_samitian",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2025-02-23T20:43:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Samitian/Marvel-Legendary-ManualAP/releases/download/v0.4.0/manual_marvellegendary_samitian.apworld",
+      "size": 51209,
+      "hash_sha256": "1f29c3538e5eb4dd5242e55205f325650739276c764dd7d6175b8b6a41a562f0",
+      "metadata": {
+        "game": "Manual_MarvelLegendary_Samitian",
+        "id": "manual_marvellegendary_samitian",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-03-01T02:05:07Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Samitian/Marvel-Legendary-ManualAP/releases/download/v0.4.1/manual_marvellegendary_samitian.apworld",
+      "size": 51209,
+      "hash_sha256": "88fb196556b4b05c3ae0acf699ac581e842cae39245267aad02b264c53bf6b08",
+      "metadata": {
+        "game": "Manual_MarvelLegendary_Samitian",
+        "id": "manual_marvellegendary_samitian",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2025-03-03T02:23:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Gameplushy/manual_Meteos_Konoko/releases/download/prod/manual_Meteos_Konoko.apworld",
       "size": 150403,
       "hash_sha256": "5378a50f5a08add456cc767ee043f9c94b0b5348ea6e23fe079ffec2ab498507",
@@ -44856,6 +45366,19 @@
         "world_version": "0.5.2",
         "tag_version": "0.5.2",
         "created_at": "2026-04-13T21:44:33Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.3/nine_sols.apworld",
+      "size": 2585016,
+      "hash_sha256": "40cb5c894ac6330e563c76413d63a2647c941b4830447cf90799ee91bb1b685b",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-04-16T01:48:34Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -56120,6 +56643,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.5.0/rac3.apworld",
+      "size": 2846863,
+      "hash_sha256": "6c8126623ce51ef83dc4c20a6f41a6d95c0655e8fb0961f9aa6154f588d4c61b",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-04-15T16:48:40Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.1.0/rain_world.apworld",
       "size": 209071,
       "hash_sha256": "736ac7cc0cf86d56de825740273e59ab2bc0cd5c1833b5b8683fefb91219131c",
@@ -59587,6 +60123,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1/sadx.apworld",
+      "size": 3156325,
+      "hash_sha256": "5fc605dceae038b9967008d2ae32e7ca5e3b54b3b1e7dc75bb586031ed46b808",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-11T18:32:06Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -79437,6 +79986,10 @@
       "game": "Borderlands 2",
       "description": "Borderlands 2 is a looter shooter we all love."
     },
+    "brotato": {
+      "game": "Brotato",
+      "description": "Brotato is a top-down arena shooter roguelite where you play a potato wielding up to\n6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits\nand items to create unique builds and survive until help arrives."
+    },
     "candybox2": {
       "game": "Candy Box 2",
       "description": "Candy Box 2 is a text-based browser RPG that features beautiful ASCII art"
@@ -80182,6 +80735,10 @@
     },
     "manual_mariokartworld_greengamefire": {
       "game": "Manual_MarioKartWorld_Greengamefire",
+      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
+    },
+    "manual_marvellegendary_samitian": {
+      "game": "Manual_MarvelLegendary_Samitian",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_Meteos_Konoko": {
