@@ -38428,6 +38428,19 @@
       }
     },
     {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.1.0/manual_residentevil4_vincentssin.apworld",
+      "size": 92806,
+      "hash_sha256": "29ce9fe7aa4f5290bf46b7c3c54592b5b6ba9bed7dbd50cfbceefa490b2062e4",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-04-02T06:18:30Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Archipelago_Manuals/releases/download/re5-1.0.5/manual_residentevil5_garbo.apworld",
       "size": 58784,
       "hash_sha256": "8af2ad2eb467377c27d1a43755c839dc88c89ebddf2ba06880fb4926a02b0e19",
