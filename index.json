@@ -30949,6 +30949,19 @@
       }
     },
     {
+      "world": "https://github.com/Mysteryem/Archipelago-TCS/releases/download/v1.4.0/lego_star_wars_tcs.apworld",
+      "size": 215171,
+      "hash_sha256": "171e091de5853fa876a5d7e75844e56e59fd96130568cd4d95b373f34780a762",
+      "metadata": {
+        "game": "Lego Star Wars: The Complete Saga",
+        "id": "lego_star_wars_tcs",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-04-16T19:13:00Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/0.2.0-alpha/lethal_company.apworld",
       "size": 29725,
       "hash_sha256": "e97b0b4a72269070bbbfc22920e67001a26cf592bb84037dc3489ab306cc83ae",
@@ -57277,6 +57290,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.0.2/refunct.apworld",
+      "size": 16344,
+      "hash_sha256": "839474c45cad754948675be1454ec34a57c56b78797daa475115d3b5fde0fa4c",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-04-14T19:55:32Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -63772,6 +63798,22 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-04-11T12:15:12Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.5/sm64hacks.apworld",
+      "size": 294684,
+      "hash_sha256": "13013c58eabfd3a7c86fb8ae5fcefc62368eccb69d4d23aaa09e592902b1d20c",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-04-16T20:52:52Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
