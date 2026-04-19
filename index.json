@@ -56764,6 +56764,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.5.2/rac3.apworld",
+      "size": 2847528,
+      "hash_sha256": "5caaf268e2c8b90bff3ba8b834d4f6fedcaaf18950f77a83ee79bcd7c2b1067c",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-04-18T21:03:14Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.1.0/rain_world.apworld",
       "size": 209071,
       "hash_sha256": "736ac7cc0cf86d56de825740273e59ab2bc0cd5c1833b5b8683fefb91219131c",
@@ -72952,6 +72965,22 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.8/tloz_oos.apworld",
+      "size": 252437,
+      "hash_sha256": "338d3ee90c96cd282b1e80106a115718945b75f47f1f6b73c2f4b74efbe2edac",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.1.8",
+        "tag_version": "20.1.8",
+        "created_at": "2026-04-18T23:38:51Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -73170,22 +73199,6 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.8/tloz_oos.apworld",
-      "size": 252437,
-      "hash_sha256": "338d3ee90c96cd282b1e80106a115718945b75f47f1f6b73c2f4b74efbe2edac",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "20.1.8",
-        "tag_version": "20.1.8",
-        "created_at": "2026-04-18T23:38:51Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
@@ -73782,6 +73795,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.4/tloz_st.apworld",
+      "size": 353379,
+      "hash_sha256": "d3a53409a6deacb028af1ff461b3487db3b714705cd4c547ee8857f6710bc3c9",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.4",
+        "tag_version": "0.7.4",
+        "created_at": "2026-04-18T17:38:03Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -73933,19 +73959,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.4/tloz_st.apworld",
-      "size": 353379,
-      "hash_sha256": "d3a53409a6deacb028af1ff461b3487db3b714705cd4c547ee8857f6710bc3c9",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.7.4",
-        "tag_version": "0.7.4",
-        "created_at": "2026-04-18T17:38:03Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
