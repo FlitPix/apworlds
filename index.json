@@ -9331,6 +9331,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.9.0/casualtiesunknown.apworld",
+      "size": 94519,
+      "hash_sha256": "d87b50bc11ff6b66a3945621fff1af392f5991540daad187f8f5537bbd6a6e33",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-04-20T21:13:41Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -64061,6 +64074,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.6/sm64hacks.apworld",
+      "size": 294970,
+      "hash_sha256": "c5ff60c35dd463f0d3fe25d5c4addd0d052be2d8253a2d73445b022b7f76b566",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.6",
+        "tag_version": "1.1.6",
+        "created_at": "2026-04-21T02:36:19Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.1/smrpg.apworld",
       "size": 1396945,
       "hash_sha256": "0e09816e2c5143d99b775c263a2ab358aaddff32f681214123db7ab27ec3d189",
@@ -73061,6 +73090,38 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.11/tloz_oos.apworld",
+      "size": 252916,
+      "hash_sha256": "95ca942a570af8295c566e0ee973497be35e0c154ccd2630b8d64b42dadc3b01",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.1.11",
+        "tag_version": "20.1.11",
+        "created_at": "2026-04-20T16:37:45Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.12/tloz_oos.apworld",
+      "size": 253254,
+      "hash_sha256": "fab3f89cb8c70026204a27de0f175e9ed73c5f6cb88a176262e833a45a8d1a29",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.1.12",
+        "tag_version": "20.1.12",
+        "created_at": "2026-04-20T22:07:06Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.2/tloz_oos.apworld",
       "size": 242593,
       "hash_sha256": "9c80be8e6dc38abe17b1b237158f39bdae780245a1bb6c9bab98fae5f22c2110",
@@ -73389,38 +73450,6 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.12/tloz_oos.apworld",
-      "size": 253254,
-      "hash_sha256": "fab3f89cb8c70026204a27de0f175e9ed73c5f6cb88a176262e833a45a8d1a29",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "20.1.12",
-        "tag_version": "20.1.12",
-        "created_at": "2026-04-20T22:07:06Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.11/tloz_oos.apworld",
-      "size": 252916,
-      "hash_sha256": "95ca942a570af8295c566e0ee973497be35e0c154ccd2630b8d64b42dadc3b01",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "20.1.11",
-        "tag_version": "20.1.11",
-        "created_at": "2026-04-20T16:37:45Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
@@ -75577,6 +75606,19 @@
         "tag_version": "0.9.0",
         "created_at": "2026-03-05T13:56:03Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.9.1/ttyd.apworld",
+      "size": 430806,
+      "hash_sha256": "7f332862847021a05df07897f2f4140fd0f626a25b5e244da3313c332e92b33e",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.9.1",
+        "tag_version": "0.9.1",
+        "created_at": "2026-04-21T08:18:22Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {

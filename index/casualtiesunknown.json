@@ -469,6 +469,19 @@
       "title": "",
       "version_simple": "0.9.0",
       "world_version": "0.9.0"
+    },
+    "v0.9.0r2": {
+      "created_at": "2026-04-20T21:13:41Z",
+      "download_url": "https://github.com/Nichologeam/CUAP/releases/download/v0.9.0/casualtiesunknown.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d87b50bc11ff6b66a3945621fff1af392f5991540daad187f8f5537bbd6a6e33",
+      "minimum_ap_version": "0.6.7",
+      "size": 94519,
+      "source_url": "https://api.github.com/repos/Nichologeam/CUAP",
+      "tag": "v0.9.0r2",
+      "title": "",
+      "version_simple": "0.9.0",
+      "world_version": "0.9.0"
     }
   }
 }
