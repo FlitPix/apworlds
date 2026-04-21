@@ -9318,6 +9318,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.9.0/casualtiesunknown.apworld",
+      "size": 94559,
+      "hash_sha256": "431534b9e65b04184fc03cceaf37df8e4990cc2fc7f5fc434aa76316ec70ea21",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-04-20T21:13:41Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -68751,6 +68764,19 @@
       }
     },
     {
+      "world": "https://github.com/JammyGeeza/Stacklands-Randomizer/releases/download/v0.2.5/stacklands.apworld",
+      "size": 32974,
+      "hash_sha256": "aaf202c172d080121577d7761e18b1ca7ab88efb65712184a78ba374d9a9c22d",
+      "metadata": {
+        "game": "Stacklands",
+        "id": "stacklands",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-04-15T17:51:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Auztin/AP-Star-Fox-64/releases/download/v0.1.0/star_fox_64.apworld",
       "size": 60898,
       "hash_sha256": "76ada50d1c3fd2eba5d05b339126d0fc81074317d2bcd9c127446f103b0ce655",
@@ -73363,6 +73389,38 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.12/tloz_oos.apworld",
+      "size": 253254,
+      "hash_sha256": "fab3f89cb8c70026204a27de0f175e9ed73c5f6cb88a176262e833a45a8d1a29",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.1.12",
+        "tag_version": "20.1.12",
+        "created_at": "2026-04-20T22:07:06Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.11/tloz_oos.apworld",
+      "size": 252916,
+      "hash_sha256": "95ca942a570af8295c566e0ee973497be35e0c154ccd2630b8d64b42dadc3b01",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.1.11",
+        "tag_version": "20.1.11",
+        "created_at": "2026-04-20T16:37:45Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
@@ -78054,6 +78112,19 @@
         "world_version": "1.3.1",
         "tag_version": "1.3.1",
         "created_at": "2026-04-04T20:08:09Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.2/waffles.apworld",
+      "size": 265571,
+      "hash_sha256": "3b2fd9e7c52674dc6e0e531643dc8d3176a2d2ba1ac898119ebe3c581f70f95b",
+      "metadata": {
+        "game": "SMW: Spicy Mycena Waffles",
+        "id": "waffles",
+        "world_version": "1.3.2",
+        "tag_version": "1.3.2",
+        "created_at": "2026-04-21T00:32:44Z",
         "minimum_ap_version": "0.6.7"
       }
     },

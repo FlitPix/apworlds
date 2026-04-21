@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 522,
-  "total_versions": 5894,
+  "total_versions": 5899,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -417,7 +417,7 @@
     "spyro3": true,
     "ss": true,
     "ss2": false,
-    "stacklands": false,
+    "stacklands": true,
     "star_fox_64": false,
     "stardew_valley": true,
     "stick_ranger": false,
