@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 522,
-  "total_versions": 5902,
+  "total_packages": 521,
+  "total_versions": 5906,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -62,7 +62,6 @@
     "corruobserver": true,
     "cotnd": true,
     "crosscode": true,
-    "crossword_ap": false,
     "crystal_project": true,
     "crystalis": true,
     "ctjot": true,
