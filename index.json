@@ -61948,6 +61948,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/2hapezipelago/releases/download/1.0.0/shapez_2.apworld",
+      "size": 102355,
+      "hash_sha256": "f7a483d5789219e66f3a67f048e8a3ee445547a60d714768d58fe1a51bd83057",
+      "metadata": {
+        "game": "shapez 2",
+        "id": "shapez_2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-04-23T12:27:08Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/lagdotcom/Archipelago/releases/download/0.0.1/shining_itd.apworld",
       "size": 13908,
       "hash_sha256": "1d143d91aecda97609e7b09a5a8a70429c4d8602f89e96ba098c32f2274f70e9",
@@ -74038,6 +74051,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.0-alpha/tloz_ph.apworld",
+      "size": 2582265,
+      "hash_sha256": "755174188513f67dd549187b3f23c10ca0a98032a9fa44ce6ec1a85bfc9ef850",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-04-23T10:24:07Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.0/tloz_st.apworld",
       "size": 260898,
       "hash_sha256": "2541e4f264aca6f60fc3b8acd4c3e1d6bd53d321e50a77aaff0468aeba5f6825",
@@ -75314,6 +75340,19 @@
         "created_at": "2025-06-20T22:35:33Z",
         "minimum_ap_version": "0.6.2",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.30/tracker.apworld",
+      "size": 89101,
+      "hash_sha256": "caaacd974090d9e284819cb85d4bb4ad60658efe99e7e01cc119b5f74700a57f",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.30",
+        "tag_version": "0.2.30",
+        "created_at": "2026-04-23T05:32:34Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
