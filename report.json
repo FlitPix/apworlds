@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 521,
-  "total_versions": 5913,
+  "total_versions": 5920,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -455,7 +455,7 @@
     "vampire_survivors": true,
     "vespadian": false,
     "voidstranger": true,
-    "voltorb_flip": false,
+    "voltorb_flip": true,
     "votipelago": false,
     "waffles": true,
     "waterywords": false,

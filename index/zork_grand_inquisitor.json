@@ -219,6 +219,19 @@
       "title": "Zork Grand Inquisitor - 2.1.1",
       "version_simple": "2.1.1",
       "world_version": "2.1.1"
+    },
+    "zgi-v2.1.1r2": {
+      "created_at": "2026-04-03T16:01:19Z",
+      "download_url": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.1.1/zork_grand_inquisitor.apworld",
+      "has_manifest": true,
+      "hash_sha256": "66f18766f16e91741358ed4f103a2047d776efc19fd822051b4676a830f6a588",
+      "minimum_ap_version": "0.6.7",
+      "size": 1142770,
+      "source_url": "https://api.github.com/repos/SerpentAI/Archipelago",
+      "tag": "zgi-v2.1.1r2",
+      "title": "Zork Grand Inquisitor - 2.1.1",
+      "version_simple": "2.1.1",
+      "world_version": "2.1.1"
     }
   }
 }

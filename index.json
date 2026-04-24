@@ -7677,6 +7677,35 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-72/borderlands2.apworld",
+      "size": 56046,
+      "hash_sha256": "5b80d1c610d30b54081e1de26b9c4d8da132976130a138fd885dcb42219d0dd4",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "72",
+        "tag_version": "72",
+        "created_at": "2026-04-24T02:12:57Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.5.2/borderlands2.apworld",
+      "size": 54435,
+      "hash_sha256": "9f6b4102b46ad9b4700bdc63f5c3188043fe99f6a33d6f8c122173e45062206c",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-04-11T21:57:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -9353,6 +9382,19 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2026-04-21T19:46:53Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.9.2/casualtiesunknown.apworld",
+      "size": 94520,
+      "hash_sha256": "6faa481e65d451befa340870bab7727345ca7c65bb38c7a1a1070b3902b274d9",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.9.2",
+        "tag_version": "0.9.2",
+        "created_at": "2026-04-23T19:35:51Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -57622,6 +57664,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.0.2a/refunct.apworld",
+      "size": 16344,
+      "hash_sha256": "839474c45cad754948675be1454ec34a57c56b78797daa475115d3b5fde0fa4c",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-04-23T23:12:52Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -68902,6 +68957,19 @@
       }
     },
     {
+      "world": "https://github.com/JammyGeeza/Stacklands-Randomizer/releases/download/v0.2.5/stacklands.apworld",
+      "size": 32972,
+      "hash_sha256": "223e86b79d082503eb5cf7a9ab62c6ec3ca06d76536d4444665984e57514d563",
+      "metadata": {
+        "game": "Stacklands",
+        "id": "stacklands",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-04-15T17:51:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Auztin/AP-Star-Fox-64/releases/download/v0.1.0/star_fox_64.apworld",
       "size": 60898,
       "hash_sha256": "76ada50d1c3fd2eba5d05b339126d0fc81074317d2bcd9c127446f103b0ce655",
@@ -73617,6 +73685,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.0-alpha/tloz_ph.apworld",
+      "size": 2582265,
+      "hash_sha256": "755174188513f67dd549187b3f23c10ca0a98032a9fa44ce6ec1a85bfc9ef850",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-04-23T10:24:07Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -74047,19 +74128,6 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
-        "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.0-alpha/tloz_ph.apworld",
-      "size": 2582265,
-      "hash_sha256": "755174188513f67dd549187b3f23c10ca0a98032a9fa44ce6ec1a85bfc9ef850",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.9.0",
-        "tag_version": "0.9.0",
-        "created_at": "2026-04-23T10:24:07Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -75127,6 +75195,19 @@
       }
     },
     {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.30/tracker.apworld",
+      "size": 89101,
+      "hash_sha256": "caaacd974090d9e284819cb85d4bb4ad60658efe99e7e01cc119b5f74700a57f",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.30",
+        "tag_version": "0.2.30",
+        "created_at": "2026-04-23T05:32:34Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.3MD/tracker.apworld",
       "size": 42527,
       "hash_sha256": "ef41f57fa7d99c3f7aa4589b89833bb83520ec08dc0b29a297a597f9ea9fe4fc",
@@ -75340,19 +75421,6 @@
         "created_at": "2025-06-20T22:35:33Z",
         "minimum_ap_version": "0.6.2",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.30/tracker.apworld",
-      "size": 89101,
-      "hash_sha256": "caaacd974090d9e284819cb85d4bb4ad60658efe99e7e01cc119b5f74700a57f",
-      "metadata": {
-        "game": "Universal Tracker",
-        "id": "tracker",
-        "world_version": "0.2.30",
-        "tag_version": "0.2.30",
-        "created_at": "2026-04-23T05:32:34Z",
-        "minimum_ap_version": "0.6.2"
       }
     },
     {
@@ -77948,6 +78016,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/Archipelago/releases/download/voltorb_flip_1.1.1/voltorb_flip.apworld",
+      "size": 6875,
+      "hash_sha256": "cbec215b73626cb6e3ee9c8b0cd35089e32e3cd1ec47bac8a787530a514f6699",
+      "metadata": {
+        "game": "Voltorb Flip",
+        "id": "voltorb_flip",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-04-23T17:28:28Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/FlySniper/Archipelago/releases/download/votipelago-0.1.4/votipelago.apworld",
       "size": 43266,
       "hash_sha256": "c2ec7dbba7f24f45faea4e233bd5cddf59828ba630ace8058bcf495cdd1ead25",
@@ -80458,6 +80539,22 @@
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.1.1/zork_grand_inquisitor.apworld",
       "size": 1142764,
       "hash_sha256": "8d085fb3e9adc7a047cd7f44966855ae6456eda884d64bef971c79d5f755e517",
+      "metadata": {
+        "game": "Zork Grand Inquisitor",
+        "id": "zork_grand_inquisitor",
+        "world_version": "2.1.1",
+        "tag_version": "2.1.1",
+        "created_at": "2026-04-03T16:01:19Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.1.1/zork_grand_inquisitor.apworld",
+      "size": 1142770,
+      "hash_sha256": "66f18766f16e91741358ed4f103a2047d776efc19fd822051b4676a830f6a588",
       "metadata": {
         "game": "Zork Grand Inquisitor",
         "id": "zork_grand_inquisitor",
