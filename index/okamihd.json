@@ -81,6 +81,19 @@
       "title": "0.3.2",
       "version_simple": "0.3.2",
       "world_version": "0.3.2"
+    },
+    "0.3.3": {
+      "created_at": "2026-04-24T21:30:27Z",
+      "download_url": "https://github.com/Ragmoa/Archipelago/releases/download/0.3.3/okamihd.apworld",
+      "has_manifest": true,
+      "hash_sha256": "cd9454a8d84e8138845e08553377c967724bdbc03de25126442957ab18df26f6",
+      "prerelease": true,
+      "size": 43238,
+      "source_url": "https://api.github.com/repos/Ragmoa/Archipelago",
+      "tag": "0.3.3",
+      "title": "0.3.3",
+      "version_simple": "0.3.3",
+      "world_version": "0.3.3"
     }
   }
 }

@@ -7706,6 +7706,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-74/borderlands2.apworld",
+      "size": 56179,
+      "hash_sha256": "996b9b4dc1cf83aceb63ff3e2fadf4aa0676b5fb566b86f7ccd1c78c7b5064bf",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "74",
+        "tag_version": "74",
+        "created_at": "2026-04-24T16:02:48Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -31258,6 +31274,19 @@
       }
     },
     {
+      "world": "https://github.com/Mysteryem/Archipelago-TCS/releases/download/v1.4.1/lego_star_wars_tcs.apworld",
+      "size": 215079,
+      "hash_sha256": "2b0f7f920da43e3e664955c78ce786d624ff35549c0bbfe7639b0db57ea5601c",
+      "metadata": {
+        "game": "Lego Star Wars: The Complete Saga",
+        "id": "lego_star_wars_tcs",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-04-24T15:59:16Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/0.2.0-alpha/lethal_company.apworld",
       "size": 29725,
       "hash_sha256": "e97b0b4a72269070bbbfc22920e67001a26cf592bb84037dc3489ab306cc83ae",
@@ -44986,6 +45015,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.32/musedash.apworld",
+      "size": 33610,
+      "hash_sha256": "865c9912e78640775bfd71f8d9d3f1982805e099e8fc139325552a5b6055851f",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.32",
+        "tag_version": "1.5.32",
+        "created_at": "2026-04-24T13:25:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.1.0/mzm.apworld",
       "size": 91647,
       "hash_sha256": "067deb39ba7da2fd745157c70afc40608d6a51f1d003648e34d2e0fb0804399c",
@@ -46250,6 +46292,21 @@
       }
     },
     {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.3.3/okamihd.apworld",
+      "size": 43238,
+      "hash_sha256": "cd9454a8d84e8138845e08553377c967724bdbc03de25126442957ab18df26f6",
+      "metadata": {
+        "game": "Okami HD",
+        "id": "okamihd",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-04-24T21:30:27Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/old_launcher-1.0.0/old_launcher.apworld",
       "size": 15494,
       "hash_sha256": "fc62e8bc849b44e6a46301baaab01f97ef61ee4d732ddb5d23d9a61c32531147",
@@ -47069,6 +47126,19 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2026-02-24T06:36:25Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Satisha10/APwotw_release/releases/download/v0.5.4/ori_wotw.apworld",
+      "size": 199961,
+      "hash_sha256": "bb039d875fb117ee280e481b29b80858fa8e84145ba1387e0f452c440af845db",
+      "metadata": {
+        "game": "Ori and the Will of the Wisps",
+        "id": "ori_wotw",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2026-04-24T20:03:10Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -62016,6 +62086,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/2hapezipelago/releases/download/1.0.1/shapez_2.apworld",
+      "size": 102484,
+      "hash_sha256": "89acce5c4c2aef75fe6bb45a5949c062d924ad09cec56512deb143f929784286",
+      "metadata": {
+        "game": "shapez 2",
+        "id": "shapez_2",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-04-24T16:47:20Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/lagdotcom/Archipelago/releases/download/0.0.1/shining_itd.apworld",
       "size": 13908,
       "hash_sha256": "1d143d91aecda97609e7b09a5a8a70429c4d8602f89e96ba098c32f2274f70e9",
@@ -67551,6 +67634,20 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/2.0.0/spyro2.apworld",
+      "size": 67609,
+      "hash_sha256": "728e954db98e01d94e8369ffa8d48c3c27671bfa13ce31ea52f3c05b4866a885",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-04-24T02:56:29Z",
+        "minimum_ap_version": "0.6.1",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S2AP/releases/download/full_gemsanity_31_10_25/spyro2.apworld",
       "size": 30729,
       "hash_sha256": "140e609154fe0bd3d5d15d6eea5948bd54ed750f4439fbecce2e069885ec86ab",
@@ -67645,20 +67742,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S2AP/releases/download/2.0.0/spyro2.apworld",
-      "size": 67609,
-      "hash_sha256": "728e954db98e01d94e8369ffa8d48c3c27671bfa13ce31ea52f3c05b4866a885",
-      "metadata": {
-        "game": "Spyro 2",
-        "id": "spyro2",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2026-04-24T02:56:29Z",
-        "minimum_ap_version": "0.6.1",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -77730,6 +77813,18 @@
         "world_version": "3.4.5",
         "tag_version": "3.4.5",
         "created_at": "2026-04-04T20:20:49Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.0/ultrakill.apworld",
+      "size": 47864,
+      "hash_sha256": "f35b9e77bd24fd653ee298857a698d794db1c63487a02ca4bea496721a8ee817",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.5.0",
+        "tag_version": "3.5.0",
+        "created_at": "2026-04-24T20:42:31Z"
       }
     },
     {

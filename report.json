@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 521,
-  "total_versions": 5921,
+  "total_versions": 5928,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -315,7 +315,7 @@
     "noita-killsanity": false,
     "oblivion": true,
     "obra_dinn": false,
-    "okamihd": false,
+    "okamihd": true,
     "old_launcher": true,
     "oni": false,
     "oot_soh": true,
