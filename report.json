@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 521,
-  "total_versions": 5910,
+  "total_versions": 5939,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -65,6 +65,7 @@
     "crystal_project": true,
     "crystalis": true,
     "ctjot": true,
+    "cuphead": true,
     "custom_robo": false,
     "cv64": false,
     "cv_dos": true,
