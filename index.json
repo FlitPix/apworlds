@@ -13015,6 +13015,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03a/cuphead.apworld",
+      "size": 111833,
+      "hash_sha256": "340f3804c07d58e20f7c06d676d4e224b17af636b381a35bc5b1b7e4144321b4",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.16908543",
+        "tag_version": "0.2.16908543",
+        "created_at": "2026-04-26T01:19:56Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -13144,19 +13157,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03a/cuphead.apworld",
-      "size": 111833,
-      "hash_sha256": "340f3804c07d58e20f7c06d676d4e224b17af636b381a35bc5b1b7e4144321b4",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.16908543",
-        "tag_version": "0.2.16908543",
-        "created_at": "2026-04-26T01:19:56Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -45490,6 +45490,19 @@
       }
     },
     {
+      "world": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.5.3/mzm.apworld",
+      "size": 136323,
+      "hash_sha256": "5d5afc2e9fefd267a5f96fcf27f3d525d436e70d0c1469af84eba5dc03ad946a",
+      "metadata": {
+        "game": "Metroid Zero Mission",
+        "id": "mzm",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-04-27T00:10:44Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.1.0/nine_sols.apworld",
       "size": 81795,
       "hash_sha256": "1976ecbf1410b8cfaec3363801bbd08e01876030cedc428ecce061c4912728ba",
@@ -73926,6 +73939,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.1-alpha/tloz_ph.apworld",
+      "size": 2582630,
+      "hash_sha256": "8123bda7f613fea18b78f8a3d56b042d902c2dcfcf74c80ba78ad513dd1f05ee",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.1",
+        "tag_version": "0.9.1",
+        "created_at": "2026-04-26T10:48:49Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -74356,19 +74382,6 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
-        "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.1-alpha/tloz_ph.apworld",
-      "size": 2582630,
-      "hash_sha256": "8123bda7f613fea18b78f8a3d56b042d902c2dcfcf74c80ba78ad513dd1f05ee",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.9.1",
-        "tag_version": "0.9.1",
-        "created_at": "2026-04-26T10:48:49Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -78649,6 +78662,19 @@
         "world_version": "1.3.3",
         "tag_version": "1.3.3",
         "created_at": "2026-04-22T07:01:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.4/waffles.apworld",
+      "size": 265342,
+      "hash_sha256": "65c0cf14777e3511b0b42842e312ad94ebd438769e959c92a4d85b4869f417f6",
+      "metadata": {
+        "game": "SMW: Spicy Mycena Waffles",
+        "id": "waffles",
+        "world_version": "1.3.4",
+        "tag_version": "1.3.4",
+        "created_at": "2026-04-27T00:00:09Z",
         "minimum_ap_version": "0.6.7"
       }
     },
