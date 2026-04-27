@@ -9431,6 +9431,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.9.3/casualtiesunknown.apworld",
+      "size": 95461,
+      "hash_sha256": "e95ad05bfca8dde9e0ff3cf5237cb751b3c42d547838b61393f862324e6b73b5",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.9.3",
+        "tag_version": "0.9.3",
+        "created_at": "2026-04-27T03:07:23Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -24832,6 +24845,19 @@
         "tag_version": "1.5.1",
         "created_at": "2026-03-21T16:46:11Z",
         "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.2/grinch.apworld",
+      "size": 50064,
+      "hash_sha256": "478ccfcf5f3046f39da4555c865aa555b37ad85528787293e3646c0dfc0170e8",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.5.2",
+        "tag_version": "1.5.2",
+        "created_at": "2026-03-21T21:27:50Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
