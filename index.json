@@ -49957,6 +49957,19 @@
       }
     },
     {
+      "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/1.3.0/pizza_tower.apworld",
+      "size": 87293,
+      "hash_sha256": "ceff33c2029ed44da16e349e390e715fbcfe6dfeca98f5efc5bad9305dd6c616",
+      "metadata": {
+        "game": "Pizza Tower",
+        "id": "pizza_tower",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2026-04-27T10:35:18Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PPDSArchipelago/releases/download/v.0.1.0/placidplasticducksim.apworld",
       "size": 8321,
       "hash_sha256": "1c5e8b564afb5524e553d1aeb52c8ad3ec1304ed2e2dd809b6044b36a6c66242",
@@ -74667,6 +74680,19 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.5/tloz_st.apworld",
+      "size": 354484,
+      "hash_sha256": "07f0e5677a450ef55bf5774d818383b3e19fb137d4c4ae1bd5afc707764e7118",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.5",
+        "tag_version": "0.7.5",
+        "created_at": "2026-04-27T17:36:10Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
