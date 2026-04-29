@@ -7949,6 +7949,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.14.1/brotato.apworld",
+      "size": 43689,
+      "hash_sha256": "8133a93a3f9b698fbbf9dfb150537edff9631730574156b4d7ef280795f513dc",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.14.1",
+        "tag_version": "0.14.1",
+        "created_at": "2026-04-29T01:08:23Z"
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.2.0/brotato.apworld",
       "size": 17355,
       "hash_sha256": "58eab0a0a6062cb23b55b8ef1f520510f1bfdd9904bd22e28415dfbfaa7a684c",
@@ -8180,18 +8192,6 @@
         "tag_version": "0.9.1",
         "created_at": "2025-07-18T01:16:55Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.14.1/brotato.apworld",
-      "size": 43689,
-      "hash_sha256": "8133a93a3f9b698fbbf9dfb150537edff9631730574156b4d7ef280795f513dc",
-      "metadata": {
-        "game": "Brotato",
-        "id": "brotato",
-        "world_version": "0.14.1",
-        "tag_version": "0.14.1",
-        "created_at": "2026-04-29T01:08:23Z"
       }
     },
     {
@@ -14709,6 +14709,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.3/deep_rock_galactic.apworld",
+      "size": 41210,
+      "hash_sha256": "d5cfa7c68878eb02c2d3635839ddd826b20c18a8722d6b76affb912de36f4f59",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.18.3",
+        "tag_version": "0.18.3",
+        "created_at": "2026-04-28T15:56:46Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
       "size": 16029,
       "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
@@ -14731,19 +14744,6 @@
         "world_version": "0.18.0",
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
-        "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.3/deep_rock_galactic.apworld",
-      "size": 41210,
-      "hash_sha256": "d5cfa7c68878eb02c2d3635839ddd826b20c18a8722d6b76affb912de36f4f59",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.18.3",
-        "tag_version": "0.18.3",
-        "created_at": "2026-04-28T15:56:46Z",
         "minimum_ap_version": "0.6.6"
       }
     },
@@ -62749,15 +62749,15 @@
       }
     },
     {
-      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.2-b/simpsonshitnrun.apworld",
-      "size": 588918,
-      "hash_sha256": "245a46c64c643e4a21ed7ec3d281bb405f65df8b210bd0fe9123f8548d138c3e",
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.0-b/simpsonshitnrun.apworld",
+      "size": 588930,
+      "hash_sha256": "962c3fc1185cde6c92aa1738f238d59afada52d6937d1e43abdcb7233c5bc584",
       "metadata": {
         "game": "The Simpsons Hit And Run",
         "id": "simpsonshitnrun",
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
-        "created_at": "2026-04-28T15:40:18Z",
+        "created_at": "2026-04-28T04:57:41Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -62775,15 +62775,15 @@
       }
     },
     {
-      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.0-b/simpsonshitnrun.apworld",
-      "size": 588930,
-      "hash_sha256": "962c3fc1185cde6c92aa1738f238d59afada52d6937d1e43abdcb7233c5bc584",
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.2-b/simpsonshitnrun.apworld",
+      "size": 588918,
+      "hash_sha256": "245a46c64c643e4a21ed7ec3d281bb405f65df8b210bd0fe9123f8548d138c3e",
       "metadata": {
         "game": "The Simpsons Hit And Run",
         "id": "simpsonshitnrun",
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
-        "created_at": "2026-04-28T04:57:41Z",
+        "created_at": "2026-04-28T15:40:18Z",
         "minimum_ap_version": "0.6.0"
       }
     },
