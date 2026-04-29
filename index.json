@@ -8183,6 +8183,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.14.1/brotato.apworld",
+      "size": 43689,
+      "hash_sha256": "8133a93a3f9b698fbbf9dfb150537edff9631730574156b4d7ef280795f513dc",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.14.1",
+        "tag_version": "0.14.1",
+        "created_at": "2026-04-29T01:08:23Z"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/20250326-1/candybox2.apworld",
       "size": 12330,
       "hash_sha256": "e68a35ae48f13574b9c1c03c776ce6f518d6b36a0facabd04c04aca7fc6da892",
@@ -14719,6 +14731,19 @@
         "world_version": "0.18.0",
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.3/deep_rock_galactic.apworld",
+      "size": 41210,
+      "hash_sha256": "d5cfa7c68878eb02c2d3635839ddd826b20c18a8722d6b76affb912de36f4f59",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.18.3",
+        "tag_version": "0.18.3",
+        "created_at": "2026-04-28T15:56:46Z",
         "minimum_ap_version": "0.6.6"
       }
     },
@@ -49514,6 +49539,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Pharcryption-APWorld/releases/download/release2/pharcryption.apworld",
+      "size": 5197,
+      "hash_sha256": "23bb828ad8be261ba1ffc38bacd1ebadbd5bff68b0ea8d327d0e1d39e9abb655",
+      "metadata": {
+        "game": "Pharcryption",
+        "id": "pharcryption",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-04-28T23:32:51Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.1.0/phoa.apworld",
       "size": 10380,
       "hash_sha256": "9a6c3f00a1025b800e3cc8d20146fc36d2b05b79f3d04ff0009016854c5a222c",
@@ -49944,19 +49982,6 @@
       }
     },
     {
-      "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/release/pizza_tower.apworld",
-      "size": 25779,
-      "hash_sha256": "387f7930d06e06f53f3fb7ed30211813a83c50b84b1a0ba37798eed14a096b91",
-      "metadata": {
-        "game": "Pizza Tower",
-        "id": "pizza_tower",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-06-02T18:27:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/1.3.0/pizza_tower.apworld",
       "size": 87293,
       "hash_sha256": "ceff33c2029ed44da16e349e390e715fbcfe6dfeca98f5efc5bad9305dd6c616",
@@ -49967,6 +49992,19 @@
         "tag_version": "1.3.0",
         "created_at": "2026-04-27T10:35:18Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/release/pizza_tower.apworld",
+      "size": 25779,
+      "hash_sha256": "387f7930d06e06f53f3fb7ed30211813a83c50b84b1a0ba37798eed14a096b91",
+      "metadata": {
+        "game": "Pizza Tower",
+        "id": "pizza_tower",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2025-06-02T18:27:59Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -53659,6 +53697,19 @@
         "world_version": "5.4.3",
         "tag_version": "5.4.3",
         "created_at": "2026-04-13T11:33:07Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.4/pokemon_crystal.apworld",
+      "size": 649766,
+      "hash_sha256": "000c7d3db599542138523f1eac1b05abaa64d4402ec46597e78ad892e8341192",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.4.4",
+        "tag_version": "5.4.4",
+        "created_at": "2026-04-28T18:31:56Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -58764,6 +58815,18 @@
       }
     },
     {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.4/residentevil7biohazard.apworld",
+      "size": 30400,
+      "hash_sha256": "6c502f68b7c9ae5c82055769c8315c7c124edba4a0112ceae6af3db92e70227d",
+      "metadata": {
+        "game": "Resident Evil 7",
+        "id": "residentevil7biohazard",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-04-28T19:45:50Z"
+      }
+    },
+    {
       "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.10.0/reventure.apworld",
       "size": 23456,
       "hash_sha256": "8567d2105c985c1cce10065c43c6b5d86edaa976d16070476da117fd9619572d",
@@ -62683,6 +62746,45 @@
         "world_version": "0.4.3b0",
         "tag_version": "0.4.3b0",
         "created_at": "2025-12-08T03:20:50Z"
+      }
+    },
+    {
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.2-b/simpsonshitnrun.apworld",
+      "size": 588918,
+      "hash_sha256": "245a46c64c643e4a21ed7ec3d281bb405f65df8b210bd0fe9123f8548d138c3e",
+      "metadata": {
+        "game": "The Simpsons Hit And Run",
+        "id": "simpsonshitnrun",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-04-28T15:40:18Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.1-b/simpsonshitnrun.apworld",
+      "size": 588938,
+      "hash_sha256": "c27895e97be262fd63ad53d57b533c231dbdeb7ca629f3e6fd2b0530f895e096",
+      "metadata": {
+        "game": "The Simpsons Hit And Run",
+        "id": "simpsonshitnrun",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-04-28T15:40:18Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.0-b/simpsonshitnrun.apworld",
+      "size": 588930,
+      "hash_sha256": "962c3fc1185cde6c92aa1738f238d59afada52d6937d1e43abdcb7233c5bc584",
+      "metadata": {
+        "game": "The Simpsons Hit And Run",
+        "id": "simpsonshitnrun",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-04-28T04:57:41Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -74529,6 +74631,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.5/tloz_st.apworld",
+      "size": 354484,
+      "hash_sha256": "07f0e5677a450ef55bf5774d818383b3e19fb137d4c4ae1bd5afc707764e7118",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.5",
+        "tag_version": "0.7.5",
+        "created_at": "2026-04-27T17:36:10Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -74680,19 +74795,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.5/tloz_st.apworld",
-      "size": 354484,
-      "hash_sha256": "07f0e5677a450ef55bf5774d818383b3e19fb137d4c4ae1bd5afc707764e7118",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.7.5",
-        "tag_version": "0.7.5",
-        "created_at": "2026-04-27T17:36:10Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -78034,6 +78136,18 @@
         "world_version": "3.5.0",
         "tag_version": "3.5.0",
         "created_at": "2026-04-24T20:42:31Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.1/ultrakill.apworld",
+      "size": 47853,
+      "hash_sha256": "342288250f4e3eceb71f12135ec96342d889be15c784389146013d9ad36dc49c",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.5.1",
+        "tag_version": "3.5.1",
+        "created_at": "2026-04-28T03:18:26Z"
       }
     },
     {
