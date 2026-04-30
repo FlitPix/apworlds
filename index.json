@@ -13053,6 +13053,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03b/cuphead.apworld",
+      "size": 111992,
+      "hash_sha256": "e75e8e35e1e89b080d696da0545a4886b017ab21c1a0426ede3fb3cbae6b367e",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.16908799",
+        "tag_version": "0.2.16908799",
+        "created_at": "2026-04-29T19:14:52Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -13182,19 +13195,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03b/cuphead.apworld",
-      "size": 111992,
-      "hash_sha256": "e75e8e35e1e89b080d696da0545a4886b017ab21c1a0426ede3fb3cbae6b367e",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.16908799",
-        "tag_version": "0.2.16908799",
-        "created_at": "2026-04-29T19:14:52Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -19810,6 +19810,18 @@
       }
     },
     {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.2.1/factorio_bobs.apworld",
+      "size": 1615084,
+      "hash_sha256": "7e60a40548cd7efef93d25eb8d52989e693ba969694f3f30d06bc156c7158b15",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "2.2.1",
+        "tag_version": "2.2.1",
+        "created_at": "2026-04-29T16:40:49Z"
+      }
+    },
+    {
       "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
       "size": 981844,
       "hash_sha256": "ce7caf8cceb9ac42c4ddf95b746584131947b667289822d40ad7b1d53aa54352",
@@ -19831,18 +19843,6 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2025-10-11T18:43:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.2.1/factorio_bobs.apworld",
-      "size": 1615084,
-      "hash_sha256": "7e60a40548cd7efef93d25eb8d52989e693ba969694f3f30d06bc156c7158b15",
-      "metadata": {
-        "game": "Factorio Bob's",
-        "id": "factorio_bobs",
-        "world_version": "2.2.1",
-        "tag_version": "2.2.1",
-        "created_at": "2026-04-29T16:40:49Z"
       }
     },
     {
@@ -47468,82 +47468,6 @@
       }
     },
     {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/OSRS-v0.1.3/osrs.apworld",
-      "size": 2240846,
-      "hash_sha256": "9eb39929947a62abb9feabc12f39dea9842e413f758fbec1eace694fd5bfbfc1",
-      "metadata": {
-        "game": "Old School Runescape",
-        "id": "osrs",
-        "world_version": "0.1.3",
-        "tag_version": "0.1.3",
-        "created_at": "2025-08-24T05:38:37Z"
-      }
-    },
-    {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/OSRS-v0.1.4/osrs.apworld",
-      "size": 2263048,
-      "hash_sha256": "5661fe7447af0a9be9a1edcdfc38a56317ef865165218aa3ca7f4a212c32daa8",
-      "metadata": {
-        "game": "Old School Runescape",
-        "id": "osrs",
-        "world_version": "0.1.4",
-        "tag_version": "0.1.4",
-        "created_at": "2025-08-28T04:08:46Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/OSRS-v0.1.5/osrs.apworld",
-      "size": 2593770,
-      "hash_sha256": "224e2222421c64a4906f869b7fe2a1ce9ac983a2d87b28d1a9e5ec5f2a8cc221",
-      "metadata": {
-        "game": "Old School Runescape",
-        "id": "osrs",
-        "world_version": "2",
-        "tag_version": "2",
-        "created_at": "2025-09-04T20:48:46Z"
-      }
-    },
-    {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/OSRS-v0.1.6/osrs.apworld",
-      "size": 2598879,
-      "hash_sha256": "59b4a416c73365eba07b22f15c2afdaa2709d76151f05fc979a3433ab69438ff",
-      "metadata": {
-        "game": "Old School Runescape",
-        "id": "osrs",
-        "world_version": "3",
-        "tag_version": "3",
-        "created_at": "2025-09-11T00:24:14Z"
-      }
-    },
-    {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/OSRS-v0.1.7/osrs.apworld",
-      "size": 2599271,
-      "hash_sha256": "561b9147f258a32cc23de93fd79b664aa9d8ac3da4406e7d547465bf9f1328c9",
-      "metadata": {
-        "game": "Old School Runescape",
-        "id": "osrs",
-        "world_version": "4",
-        "tag_version": "4",
-        "created_at": "2025-09-13T22:16:20Z"
-      }
-    },
-    {
-      "world": "https://github.com/digiholic/Archipelago/releases/download/osrs-members-0.5.0b/osrs.apworld",
-      "size": 2858261,
-      "hash_sha256": "eebfa0d19b8ed7f867953ae03c0d19692b9c7864b3e9cdc4caca770d847fe7c4",
-      "metadata": {
-        "game": "Old School Runescape",
-        "id": "osrs",
-        "world_version": "0.5.0b0",
-        "tag_version": "0.5.0b0",
-        "created_at": "2025-09-01T03:51:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/lilymnky-F/Archipelago-Osu/releases/download/v0.1.0/osu.apworld",
       "size": 87135,
       "hash_sha256": "b642d42c46faf969f48c79b5392fb422528464aaaa5bafbdcf6e0cf541fa0c02",
@@ -47882,591 +47806,6 @@
         "world_version": "1.3.2",
         "tag_version": "1.3.2",
         "created_at": "2026-01-21T09:05:35Z",
-        "minimum_ap_version": "0.5.0"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.1/outer_wilds.apworld",
-      "size": 125805,
-      "hash_sha256": "57f03e14994915707b68b7f067f693213f12309edec8e028e1ff28a4407c9db4",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.1",
-        "tag_version": "0.2.1",
-        "created_at": "2024-06-02T15:07:30Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.2/outer_wilds.apworld",
-      "size": 128522,
-      "hash_sha256": "51ed8a21d699956159d888b565d5ef840b329734a66979c387981253d7dcd052",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.2",
-        "tag_version": "0.2.2",
-        "created_at": "2024-06-06T11:36:45Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.3/outer_wilds.apworld",
-      "size": 128524,
-      "hash_sha256": "6dc5030283561c40279e3b77b798041450d1edf62bcefc618b36d855b2390025",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.3",
-        "tag_version": "0.2.3",
-        "created_at": "2024-06-11T08:29:43Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.4/outer_wilds.apworld",
-      "size": 59794,
-      "hash_sha256": "92d6e4b6c273251db0721256179bb0e22a34363131a666ff364f5257febdd84b",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.4",
-        "tag_version": "0.2.4",
-        "created_at": "2024-07-16T20:47:14Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.4-rc/outer_wilds.apworld",
-      "size": 136041,
-      "hash_sha256": "bfd497e41462e333a179c39b0037a25d270e580011ae213e4af48c7b2f99dee1",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.4",
-        "tag_version": "0.2.4",
-        "created_at": "2024-07-14T09:37:09Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.5/outer_wilds.apworld",
-      "size": 67593,
-      "hash_sha256": "598df063f32b7481502138c6a538d0bdab63c6698545ee15780b57bcc7479d27",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.5",
-        "tag_version": "0.2.5",
-        "created_at": "2024-07-25T07:50:54Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.5-rc/outer_wilds.apworld",
-      "size": 67593,
-      "hash_sha256": "598df063f32b7481502138c6a538d0bdab63c6698545ee15780b57bcc7479d27",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.5",
-        "tag_version": "0.2.5",
-        "created_at": "2024-07-25T07:50:54Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.6/outer_wilds.apworld",
-      "size": 67722,
-      "hash_sha256": "dd2736e08a6a56d5e0ceeca4c105e8fc3dab3639986c5c68a58f0669565e6306",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.6",
-        "tag_version": "0.2.6",
-        "created_at": "2024-08-12T15:17:09Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.7/outer_wilds.apworld",
-      "size": 81003,
-      "hash_sha256": "709366b04e16f1561317b53338dba2192b8950a7f0810e636ea29fd79431bc07",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.7",
-        "tag_version": "0.2.7",
-        "created_at": "2024-08-28T17:44:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.2.7-rc/outer_wilds.apworld",
-      "size": 81014,
-      "hash_sha256": "0111a1727fbe7a79e3233bac6499813e8f0a48d61d2260ecfd14daa316776e83",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.2.7",
-        "tag_version": "0.2.7",
-        "created_at": "2024-08-26T17:58:18Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.0/outer_wilds.apworld",
-      "size": 104597,
-      "hash_sha256": "bce310811c4007774429354a6a7d2ada68faf1b0c1b4cc5de16e08a9eb5d3571",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2024-09-18T18:23:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.0-rc/outer_wilds.apworld",
-      "size": 96745,
-      "hash_sha256": "7b84684d1052ea006b7cafdf1459ed6cb19169eb45a64d84581ab9cc691b131c",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2024-09-13T12:41:13Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.0-rc2/outer_wilds.apworld",
-      "size": 96766,
-      "hash_sha256": "55404a54c9e507098c13825563881b1db9f9219ee7ad21c757780bcef4b7fe6b",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2024-09-14T10:16:22Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.0-rc3/outer_wilds.apworld",
-      "size": 98168,
-      "hash_sha256": "8d73756b48c94c85bc93ddb93a458f5de5ce31fede610d7a3a2c64b965500675",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2024-09-15T17:17:33Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.1/outer_wilds.apworld",
-      "size": 107775,
-      "hash_sha256": "0aa9aaeef452f98345fcf05274c6e83acc6cda1305e79d948e428cdb7de3a0c6",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.1",
-        "tag_version": "0.3.1",
-        "created_at": "2024-09-22T16:49:29Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.1-rc/outer_wilds.apworld",
-      "size": 107775,
-      "hash_sha256": "0aa9aaeef452f98345fcf05274c6e83acc6cda1305e79d948e428cdb7de3a0c6",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.1",
-        "tag_version": "0.3.1",
-        "created_at": "2024-09-22T16:49:29Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.10/outer_wilds.apworld",
-      "size": 129618,
-      "hash_sha256": "734facaf2c6bb301c43641cb8d98ce097106bbf5b80f3c014c331687d8204609",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.10",
-        "tag_version": "0.3.10",
-        "created_at": "2024-12-23T05:25:56Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.11/outer_wilds.apworld",
-      "size": 129778,
-      "hash_sha256": "54a04a6de2a83d980acf0486c85a395488c023076b0ffb18a8bf6b250c79addc",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.11",
-        "tag_version": "0.3.11",
-        "created_at": "2024-12-23T07:56:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.12/outer_wilds.apworld",
-      "size": 130449,
-      "hash_sha256": "0439a81f199d3faf933580d3a7523a62dbb99d52a61209ef8e2f11144257ebb7",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.12",
-        "tag_version": "0.3.12",
-        "created_at": "2025-03-21T21:20:00Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.13/outer_wilds.apworld",
-      "size": 130457,
-      "hash_sha256": "ef872c467ea862578f5588238298e2ad1f660e1d7490795f046813df731ce09c",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.13",
-        "tag_version": "0.3.13",
-        "created_at": "2025-03-30T13:38:06Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.14/outer_wilds.apworld",
-      "size": 131346,
-      "hash_sha256": "7f77b2d4fbd8b398f036234815430cfca575723186794145b96084a712225879",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.14",
-        "tag_version": "0.3.14",
-        "created_at": "2025-04-04T14:31:36Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.15/outer_wilds.apworld",
-      "size": 186151,
-      "hash_sha256": "db5b811ed7eafe92ba449de96546f9ceb405ecc9bbbacc7431344d178c993a65",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.15",
-        "tag_version": "0.3.15",
-        "created_at": "2025-05-11T03:47:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.16/outer_wilds.apworld",
-      "size": 187292,
-      "hash_sha256": "d20fb662ffdc7224962b054b3bfb002e3d0bc09f89716dc63e881cfd5647ed63",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.16",
-        "tag_version": "0.3.16",
-        "created_at": "2025-05-22T19:44:50Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.17/outer_wilds.apworld",
-      "size": 187896,
-      "hash_sha256": "cc8c20967dc7f4ca6d2c11dfac511d8781872c14a4e1709154e02729b12494cf",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.17",
-        "tag_version": "0.3.17",
-        "created_at": "2025-06-07T14:43:28Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.18/outer_wilds.apworld",
-      "size": 188620,
-      "hash_sha256": "76aa416cdefdf90f421adcde35820b196d9d3d0ffd6f642cbb12e8bf1e976f97",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.18",
-        "tag_version": "0.3.18",
-        "created_at": "2025-06-22T19:15:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.19/outer_wilds.apworld",
-      "size": 137164,
-      "hash_sha256": "95a749fa5ec7b85ff1d50b385ce85268fb4c41bd62d75739ec916ea4ef457f07",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.19",
-        "tag_version": "0.3.19",
-        "created_at": "2025-08-24T15:25:30Z",
-        "minimum_ap_version": "0.5.0"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.2/outer_wilds.apworld",
-      "size": 113999,
-      "hash_sha256": "82e54d32e7a82f009d8dd0c673e1067c714e1065ec3543d5191e45d385d937ec",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.2",
-        "tag_version": "0.3.2",
-        "created_at": "2024-09-30T18:29:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.2-rc/outer_wilds.apworld",
-      "size": 113999,
-      "hash_sha256": "82e54d32e7a82f009d8dd0c673e1067c714e1065ec3543d5191e45d385d937ec",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.2",
-        "tag_version": "0.3.2",
-        "created_at": "2024-09-29T20:16:24Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.20/outer_wilds.apworld",
-      "size": 76752,
-      "hash_sha256": "66cd9952db874dbc07a00cd826dcc9d563f5d616cf4036ddad8f8e05216113b9",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.20",
-        "tag_version": "0.3.20",
-        "created_at": "2026-01-12T18:48:27Z",
-        "minimum_ap_version": "0.5.0"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.3/outer_wilds.apworld",
-      "size": 123076,
-      "hash_sha256": "dba05ba408ba73474f34a0c47081af574a163127ef13261623229e7a42b4e36d",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.3",
-        "tag_version": "0.3.3",
-        "created_at": "2024-10-15T16:13:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.3-rc/outer_wilds.apworld",
-      "size": 123077,
-      "hash_sha256": "1cf32baf0af132b71c364514c14df6ce49f99e9a9b10c42557666659d929dc63",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.3",
-        "tag_version": "0.3.3",
-        "created_at": "2024-10-11T15:47:31Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.4/outer_wilds.apworld",
-      "size": 129215,
-      "hash_sha256": "f5af7afa2b8f95dc6ea08e4bee1683337b26b5e1643ec1f975a2fa06dbeb719c",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.4",
-        "tag_version": "0.3.4",
-        "created_at": "2024-10-16T17:27:09Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.5/outer_wilds.apworld",
-      "size": 129618,
-      "hash_sha256": "db08b66744d426ab4555b33370db4356630156d62a5659794aa9290bf71f94af",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.5",
-        "tag_version": "0.3.5",
-        "created_at": "2024-10-19T13:57:50Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.6/outer_wilds.apworld",
-      "size": 129659,
-      "hash_sha256": "fe4ddd06e41620ea22c478986f4b3e3b79d105543f89f0bde8267b7afae7a161",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.6",
-        "tag_version": "0.3.6",
-        "created_at": "2024-10-27T14:19:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.6.1/outer_wilds.apworld",
-      "size": 129659,
-      "hash_sha256": "fe4ddd06e41620ea22c478986f4b3e3b79d105543f89f0bde8267b7afae7a161",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.6.1",
-        "tag_version": "0.3.6.1",
-        "created_at": "2024-10-27T14:19:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.7/outer_wilds.apworld",
-      "size": 129591,
-      "hash_sha256": "f0801cb0366dfb4165cdec320dc0495273d91cc17be6d49ae54ba587ddd8c117",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.7",
-        "tag_version": "0.3.7",
-        "created_at": "2024-11-10T21:56:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.7.1/outer_wilds.apworld",
-      "size": 129591,
-      "hash_sha256": "f0801cb0366dfb4165cdec320dc0495273d91cc17be6d49ae54ba587ddd8c117",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.7.1",
-        "tag_version": "0.3.7.1",
-        "created_at": "2024-11-11T01:13:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.8/outer_wilds.apworld",
-      "size": 129767,
-      "hash_sha256": "c11e3dd4c3378f7c2039f04907d41b000feefc13e7b553da4ef52a882fc7484c",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.8",
-        "tag_version": "0.3.8",
-        "created_at": "2024-11-15T16:58:01Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.9/outer_wilds.apworld",
-      "size": 129847,
-      "hash_sha256": "f4bfa8912de10ede9cdc9dcb7443a494b979785eeac4afa075bfcd092d1f9af7",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "0.3.9",
-        "tag_version": "0.3.9",
-        "created_at": "2024-12-06T17:41:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.0.0/outer_wilds.apworld",
-      "size": 84083,
-      "hash_sha256": "e5e7736e0ef6e45014bf73abcea51b23e2602657a5919e194efbe44cbeaf3a15",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-01-19T13:58:22Z",
-        "minimum_ap_version": "0.5.0"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.0.1/outer_wilds.apworld",
-      "size": 84107,
-      "hash_sha256": "4b21a97bfe4f63a3e7ee7645e18870da838c7421ec7d8929b2671d4fbc93153e",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2026-01-24T00:16:37Z",
-        "minimum_ap_version": "0.5.0"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.1.0/outer_wilds.apworld",
-      "size": 85522,
-      "hash_sha256": "ac5a6b3a7af4e529dba7579843ac04119942d1a3c7e8320f680299cb3a6a5d21",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2026-01-25T19:58:02Z",
-        "minimum_ap_version": "0.5.0"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.2.0/outer_wilds.apworld",
-      "size": 86304,
-      "hash_sha256": "cdc44050bd084e7ba0adbdafaa76b426d13010f4d8d6ef4ae1fe7cdd33785e80",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "1.2.0",
-        "tag_version": "1.2.0",
-        "created_at": "2026-02-22T17:10:27Z",
-        "minimum_ap_version": "0.5.0"
-      }
-    },
-    {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.2.1/outer_wilds.apworld",
-      "size": 86353,
-      "hash_sha256": "4109418091ca4805e72372a23f87f412e41706878ad62eab67205d4f19ce3090",
-      "metadata": {
-        "game": "Outer Wilds",
-        "id": "outer_wilds",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2026-04-11T20:36:58Z",
         "minimum_ap_version": "0.5.0"
       }
     },
@@ -50669,6 +50008,18 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.3/plateup.apworld",
+      "size": 34510,
+      "hash_sha256": "4cdabb7a1afbb3adb3da2da4a86d48a7696ac7d880110527e7173b30960eff92",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.6.3",
+        "tag_version": "0.2.6.3",
+        "created_at": "2026-04-30T10:04:34Z"
       }
     },
     {
@@ -73708,6 +73059,19 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.13/tloz_oos.apworld",
+      "size": 253221,
+      "hash_sha256": "0e0e28eca112a6821e9d9c93337d0d5d8fa5b9bc7f30b8c3fada0885b99456cd",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "20.1.13",
+        "tag_version": "20.1.13",
+        "created_at": "2026-04-29T13:53:22Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.2/tloz_oos.apworld",
       "size": 242593,
       "hash_sha256": "9c80be8e6dc38abe17b1b237158f39bdae780245a1bb6c9bab98fae5f22c2110",
@@ -74039,19 +73403,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.13/tloz_oos.apworld",
-      "size": 253221,
-      "hash_sha256": "0e0e28eca112a6821e9d9c93337d0d5d8fa5b9bc7f30b8c3fada0885b99456cd",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "20.1.13",
-        "tag_version": "20.1.13",
-        "created_at": "2026-04-29T13:53:22Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -76655,378 +76006,6 @@
         "world_version": "0.1.post2",
         "tag_version": "0.1.post2",
         "created_at": "2025-07-27T17:10:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.0.0/ty_the_tasmanian_tiger.apworld",
-      "size": 56824,
-      "hash_sha256": "d620cb9e1c2a3c7da55a52f4ce681b9ab8ebfe57b731cc4745914963858d8021",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-02-06T19:07:06Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.0.1/ty_the_tasmanian_tiger.apworld",
-      "size": 56845,
-      "hash_sha256": "005bce991f879e6e49f06f6d4ca7b61fcd10c173f83ddcfc843ebcf6845e5117",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2025-02-07T01:44:41Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.0.3/ty_the_tasmanian_tiger.apworld",
-      "size": 56911,
-      "hash_sha256": "795c21ff379327155afc28059a21af943a008c0729452ded7b000a20f4accea0",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.0.3",
-        "tag_version": "1.0.3",
-        "created_at": "2025-02-07T20:46:00Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.0.4/ty_the_tasmanian_tiger.apworld",
-      "size": 56903,
-      "hash_sha256": "10acf9cf84ea327ee55a70e5907c42a2950fee01b8913c5401997c7c3e41bcc6",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.0.4",
-        "tag_version": "1.0.4",
-        "created_at": "2025-02-09T03:17:36Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.0/ty_the_tasmanian_tiger.apworld",
-      "size": 59930,
-      "hash_sha256": "8f6e7bbc354859dd8d76bd397549eff2684f8794f597beb8e270f0c9e7b6df12",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2025-02-12T21:41:25Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.1/ty_the_tasmanian_tiger.apworld",
-      "size": 60908,
-      "hash_sha256": "42bdd4959191cdb9f1809e743445a971be2e8dd2c5aeee37d77c9de2f61a132d",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.1",
-        "tag_version": "1.1.1",
-        "created_at": "2025-02-14T20:25:15Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.10/ty_the_tasmanian_tiger.apworld",
-      "size": 62677,
-      "hash_sha256": "f91c9511078098bf4c6391af30ca5cd85069a04726405ac1f5347e5aabf715d0",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.10",
-        "tag_version": "1.1.10",
-        "created_at": "2025-03-18T09:21:05Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.2/ty_the_tasmanian_tiger.apworld",
-      "size": 61272,
-      "hash_sha256": "731b788abd11480def659c2ab433ebea0abf233460290c374005b5a8494b2257",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.2",
-        "tag_version": "1.1.2",
-        "created_at": "2025-02-17T18:58:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.3/ty_the_tasmanian_tiger.apworld",
-      "size": 59048,
-      "hash_sha256": "2fef18f47c1a8bbee838f0ccf6c27115ee85f9ec2105f00bfcefb9da9c5aefbe",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.3",
-        "tag_version": "1.1.3",
-        "created_at": "2025-02-20T21:04:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.4/ty_the_tasmanian_tiger.apworld",
-      "size": 59048,
-      "hash_sha256": "2fef18f47c1a8bbee838f0ccf6c27115ee85f9ec2105f00bfcefb9da9c5aefbe",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.4",
-        "tag_version": "1.1.4",
-        "created_at": "2025-02-22T12:22:46Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.5/ty_the_tasmanian_tiger.apworld",
-      "size": 62619,
-      "hash_sha256": "ea8b6eb4638d9a135ee7a88576c59b96f0774b4f5599261303ac7518f534bda7",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.5",
-        "tag_version": "1.1.5",
-        "created_at": "2025-02-24T15:47:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.6/ty_the_tasmanian_tiger.apworld",
-      "size": 62619,
-      "hash_sha256": "29515987841966fb106cb042329bd7287990f611f1367bfdf42982e13e93e68d",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.6",
-        "tag_version": "1.1.6",
-        "created_at": "2025-02-24T15:47:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.7/ty_the_tasmanian_tiger.apworld",
-      "size": 62644,
-      "hash_sha256": "4871062b95199e31d2e5133095b54b7d8296a653e87de56cb6f2c04accb8b0d4",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.7",
-        "tag_version": "1.1.7",
-        "created_at": "2025-03-02T16:41:31Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.8/ty_the_tasmanian_tiger.apworld",
-      "size": 62666,
-      "hash_sha256": "039d70726a84438e420c5d2d47753b3d636ebee03800787997d473e0b89399e6",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.8",
-        "tag_version": "1.1.8",
-        "created_at": "2025-03-08T20:36:04Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.1.9/ty_the_tasmanian_tiger.apworld",
-      "size": 62673,
-      "hash_sha256": "24dbb3b20f3c1b229b8f32561c5b6af0171433979e2d3d29dc6f94d3f00a737b",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.1.9",
-        "tag_version": "1.1.9",
-        "created_at": "2025-03-13T00:20:15Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.2.0/ty_the_tasmanian_tiger.apworld",
-      "size": 125295,
-      "hash_sha256": "ff284bef604cfb9b1e107d729d9f2bf590eb8eb218c97faa8dacccdb5cb85b32",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.2.0",
-        "tag_version": "1.2.0",
-        "created_at": "2025-03-28T21:14:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.2.1/ty_the_tasmanian_tiger.apworld",
-      "size": 125310,
-      "hash_sha256": "64daf8d471cd6d39f81ea4bcdb28f7e98f9af269a31055d57aacbd75517074df",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2025-04-01T00:36:24Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.2.2/ty_the_tasmanian_tiger.apworld",
-      "size": 125312,
-      "hash_sha256": "6a46faec3eaae2d62cd5bb94ba7c495b487a91752b1afc367d5cda23507520ff",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.2.2",
-        "tag_version": "1.2.2",
-        "created_at": "2025-04-02T07:57:02Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.2.3/ty_the_tasmanian_tiger.apworld",
-      "size": 125306,
-      "hash_sha256": "e9a5c68b183575e4bf98187123e65aec4b217d4ee8768defef7e739cdbb46b8a",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.2.3",
-        "tag_version": "1.2.3",
-        "created_at": "2025-04-02T20:21:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.0/ty_the_tasmanian_tiger.apworld",
-      "size": 125794,
-      "hash_sha256": "109eb119005af5cc024cb30c1f3cf0d1697eb4003056db9b04f64f50657bda19",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.0",
-        "tag_version": "1.3.0",
-        "created_at": "2025-04-28T09:03:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.1/ty_the_tasmanian_tiger.apworld",
-      "size": 125885,
-      "hash_sha256": "22eee70dc36340dbb2d72f284e25b992f790fe117a75f5034647bb1568abbcca",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.1",
-        "tag_version": "1.3.1",
-        "created_at": "2025-05-26T21:00:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.2/ty_the_tasmanian_tiger.apworld",
-      "size": 125884,
-      "hash_sha256": "1a2b45185fef6d9e221dd535fa27ab8bcb23d1d83c5aee1a250fb4d05f51e424",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.2",
-        "tag_version": "1.3.2",
-        "created_at": "2025-06-27T20:01:37Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.3/ty_the_tasmanian_tiger.apworld",
-      "size": 126019,
-      "hash_sha256": "b23f27ba60cfee0f0598aee07655ada7fe0a88fa6b2ea639df39542398ef577f",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.3",
-        "tag_version": "1.3.3",
-        "created_at": "2025-08-31T02:32:55Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.5/ty_the_tasmanian_tiger.apworld",
-      "size": 39588,
-      "hash_sha256": "5d99c3169fccda6d19bca9b14219992530d5aa1529d365ee929a33258b7fdccb",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.5",
-        "tag_version": "1.3.5",
-        "created_at": "2026-01-02T20:09:42Z"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.6/ty_the_tasmanian_tiger.apworld",
-      "size": 39588,
-      "hash_sha256": "275ed2ae58bbb3b03304a7267a125699ecc45c3ce47f2ba6bbb2549c8b074e64",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.6",
-        "tag_version": "1.3.6",
-        "created_at": "2026-01-03T00:34:48Z"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.3.7/ty_the_tasmanian_tiger.apworld",
-      "size": 40778,
-      "hash_sha256": "0a95c27c36c2713a63cc77453e78f19f0d820120ea5d4b91c3c03e9865f34fd1",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.7",
-        "tag_version": "1.3.7",
-        "created_at": "2026-02-02T20:35:05Z"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.4.0/ty_the_tasmanian_tiger.apworld",
-      "size": 40215,
-      "hash_sha256": "9903dfbb0cc0689e2de809c67793cb853a0e0246ede882bb795f0cc714161a5a",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.4.0",
-        "tag_version": "1.4.0",
-        "created_at": "2026-02-09T20:14:19Z"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.4.1/ty_the_tasmanian_tiger.apworld",
-      "size": 40201,
-      "hash_sha256": "e8126f5d6b519b534799ddc07b14ac83ee5d6f2079f9be1c41babc8521a10ca3",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.4.1",
-        "tag_version": "1.4.1",
-        "created_at": "2026-02-16T21:12:23Z"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/v1.3.4/ty_the_tasmanian_tiger.apworld",
-      "size": 124271,
-      "hash_sha256": "a206040a4a96ef52684be1c127236d2fb97f7fab00a60d1269a46ddb50a04a26",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.4",
-        "tag_version": "1.3.4",
-        "created_at": "2025-11-07T22:27:33Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -82359,17 +81338,9 @@
       "game": "Ori and the Blind Forest",
       "description": "Insert description of the world/game here."
     },
-    "osrs": {
-      "game": "Old School Runescape",
-      "description": "The best retro fantasy MMORPG on the planet. Old School is RuneScape but\u2026 older! This is the open world you know and love, but as it was in 2007.\nThe Randomizer takes the form of a Chunk-Restricted f2p Ironman that takes a brand new account up through defeating\nthe Green Dragon of Crandor and earning a spot in the fabled Champion's Guild!"
-    },
     "osu": {
       "game": "osu!",
       "description": "osu! is a free to play rhythm game featuring 4 modes, an online ranking system/statistics,\nwith user submitted songs downloadable from its website."
-    },
-    "outer_wilds": {
-      "game": "Outer Wilds",
-      "description": ""
     },
     "p5r": {
       "game": "Persona 5 Royal",
@@ -82848,10 +81819,6 @@
     "tww3": {
       "game": "Total War Warhammer 3",
       "description": "Insert description of the world/game here."
-    },
-    "ty_the_tasmanian_tiger": {
-      "game": "Ty the Tasmanian Tiger",
-      "description": "Ty the Tasmanian Tiger is a 3D platformer collectathon created by Australian developers Krome Studios.\nPlay as Ty and travel the Australian outback to snowy mountains to defeat Boss Cass and rescue your family from The Dreaming."
     },
     "ty_the_tasmanian_tiger_2": {
       "game": "Ty the Tasmanian Tiger 2",

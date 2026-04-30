@@ -526,6 +526,18 @@
       "version_simple": "0.2.6.2",
       "world_version": "0.2.6.2"
     },
+    "0.2.6.3": {
+      "created_at": "2026-04-30T10:04:34Z",
+      "download_url": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.3/plateup.apworld",
+      "has_manifest": true,
+      "hash_sha256": "4cdabb7a1afbb3adb3da2da4a86d48a7696ac7d880110527e7173b30960eff92",
+      "size": 34510,
+      "source_url": "https://api.github.com/repos/CazIsABoi/Archipelago",
+      "tag": "0.2.6.3",
+      "title": "PlateupAP apworld v0.2.6-beta.3",
+      "version_simple": "0.2.6.3",
+      "world_version": "0.2.6.3"
+    },
     "v0.1.4.2": {
       "created_at": "2025-02-26T20:49:30Z",
       "download_url": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
