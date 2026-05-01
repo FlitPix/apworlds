@@ -7608,6 +7608,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-76/borderlands2.apworld",
+      "size": 56092,
+      "hash_sha256": "804876fcfbf0a768e8df077802d6a2c3b54bd1526f817eec835122b38f9511f6",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "76",
+        "tag_version": "76",
+        "created_at": "2026-05-01T01:20:29Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -7735,22 +7751,6 @@
         "tag_version": "0.5.2",
         "created_at": "2026-04-11T21:57:56Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-76/borderlands2.apworld",
-      "size": 56092,
-      "hash_sha256": "804876fcfbf0a768e8df077802d6a2c3b54bd1526f817eec835122b38f9511f6",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "76",
-        "tag_version": "76",
-        "created_at": "2026-05-01T01:20:29Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -12217,6 +12217,33 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.0-pre.2/crosscode.apworld",
+      "size": 146469,
+      "hash_sha256": "92679d8d75e464d2d39502c549165926fd12672d79b340e93338ef7945c85333",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-05-01T08:51:45Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.4/crosscode.apworld",
+      "size": 129022,
+      "hash_sha256": "38ee11ad4330e53c69b30e29cb8a826cbbf52a0b8a3cf8b5efe699b6448847d8",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.4",
+        "tag_version": "0.8.4",
+        "created_at": "2026-05-01T08:03:07Z"
       }
     },
     {
@@ -24927,6 +24954,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.3/grinch.apworld",
+      "size": 50114,
+      "hash_sha256": "098706d482a73d2b5ca075ccfde5fa4aa3080ce6cc30418efa927cad798f1ac6",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.5.3",
+        "tag_version": "1.5.3",
+        "created_at": "2026-05-01T04:10:08Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/cjmang/Archipelago/releases/download/0.1.0-alpha/gstla.apworld",
       "size": 423011,
       "hash_sha256": "bf202c029df370f29525cd0aa7645e6a6408955f5a42c853dfa62e83bffe45f1",
@@ -29330,30 +29370,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt/Archipelago-KeyWe/releases/download/1.0.0/keywe.apworld",
-      "size": 10303,
-      "hash_sha256": "ef39fb962da06207cc9b508bd41140bfa99fff3af87bedd10354409a4ffebc1e",
-      "metadata": {
-        "game": "KeyWe",
-        "id": "keywe",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-11-18T19:47:07Z"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt/Archipelago-KeyWe/releases/download/1.0.1/keywe.apworld",
-      "size": 10302,
-      "hash_sha256": "e37d8637dc4737e3e6152eaab48dd507628e20a3174cface0b897d3b44a5ddcc",
-      "metadata": {
-        "game": "KeyWe",
-        "id": "keywe",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2025-11-19T14:50:27Z"
       }
     },
     {
@@ -35143,6 +35159,22 @@
         "world_version": "4.0.0.post7",
         "tag_version": "4.0.0.post7",
         "created_at": "2025-05-26T21:49:20Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-5.0.0-1/manual_blocktales_wolfboi008.apworld",
+      "size": 82867,
+      "hash_sha256": "8b6f0c3dfb8537ee3b841694981c9054bb6f5c47c1347b8dbb8fad8ec5e7c6bd",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0.post1",
+        "tag_version": "5.0.0.post1",
+        "created_at": "2026-04-05T13:30:06Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -74620,6 +74652,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.2-alpha/tloz_ph.apworld",
+      "size": 2584314,
+      "hash_sha256": "b59752b7784a1d88a113161c39a4ac12d360928d82e31435f0a557cae6c42dc6",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.2",
+        "tag_version": "0.9.2",
+        "created_at": "2026-05-01T11:50:25Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.0/tloz_st.apworld",
       "size": 260898,
       "hash_sha256": "2541e4f264aca6f60fc3b8acd4c3e1d6bd53d321e50a77aaff0468aeba5f6825",
@@ -81740,10 +81785,6 @@
     "keymasters_keep_manager": {
       "game": "",
       "description": ""
-    },
-    "keywe": {
-      "game": "KeyWe",
-      "description": "KeyWe is a co-op puzzle game where the players control Jeff and Debra,\ntwo Kiwis tasked with manning the stations at a post office."
     },
     "kh1": {
       "game": "Kingdom Hearts",

@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 521,
-  "total_versions": 5961,
+  "total_packages": 520,
+  "total_versions": 5964,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -160,7 +160,6 @@
     "kdl3": true,
     "keymasters_keep": true,
     "keymasters_keep_manager": false,
-    "keywe": true,
     "kh1": false,
     "khbbs": false,
     "khcom": false,
