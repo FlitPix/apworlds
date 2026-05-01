@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 519,
-  "total_versions": 5880,
+  "total_packages": 521,
+  "total_versions": 5961,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -324,7 +324,9 @@
     "options_select": false,
     "ori_wotw": true,
     "oribf": true,
+    "osrs": false,
     "osu": true,
+    "outer_wilds": true,
     "p5r": false,
     "paint": true,
     "papermario": false,
@@ -444,6 +446,7 @@
     "turnipboy": false,
     "twistycube": true,
     "tww3": false,
+    "ty_the_tasmanian_tiger": true,
     "ty_the_tasmanian_tiger_2": true,
     "tyrian": true,
     "ufo50": true,
