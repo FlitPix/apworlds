@@ -19545,6 +19545,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.5/everhood_2.apworld",
+      "size": 20198,
+      "hash_sha256": "ac4ab39b59a8477a8e2668db3eae011d49c94518583b5d435683ee9db6b0398f",
+      "metadata": {
+        "game": "Everhood 2",
+        "id": "everhood_2",
+        "world_version": "0.4.5",
+        "tag_version": "0.4.5",
+        "created_at": "2026-04-06T08:15:58Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/pamymaf/Exocolonist-AP/releases/download/v0.1.0/exocolonist.apworld",
       "size": 15304,
       "hash_sha256": "1f37ae2ec86a7faa870ec7be57c78d762d6102087091daf67c103ffa5b2895c3",
@@ -20027,6 +20040,19 @@
         "world_version": "0.8.5",
         "tag_version": "0.8.5",
         "created_at": "2026-01-14T01:43:42Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.6/factorio_saws.apworld",
+      "size": 888977,
+      "hash_sha256": "e0e91b23c4982a28404d1a8edd72e643cbae1a56540dd1ffcb166c1b4c11a9e9",
+      "metadata": {
+        "game": "Factorio - Space Age Without Space",
+        "id": "factorio_saws",
+        "world_version": "0.8.6",
+        "tag_version": "0.8.6",
+        "created_at": "2026-05-02T11:34:36Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -37853,6 +37879,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.1/manual_onemorenight_wolfboi008.apworld",
+      "size": 74191,
+      "hash_sha256": "1366d30141651cce1d13a80bf35e4ddc7f918caea02bc5fc7a9b34f1fb4deb88",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.1",
+        "tag_version": "2.3.1",
+        "created_at": "2026-04-21T22:40:19Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -37994,19 +38033,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.1/manual_onemorenight_wolfboi008.apworld",
-      "size": 74191,
-      "hash_sha256": "1366d30141651cce1d13a80bf35e4ddc7f918caea02bc5fc7a9b34f1fb4deb88",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.3.1",
-        "tag_version": "2.3.1",
-        "created_at": "2026-04-21T22:40:19Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -46606,6 +46632,21 @@
       }
     },
     {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.4.0/okamihd.apworld",
+      "size": 45034,
+      "hash_sha256": "d1e274b141e7cfbbda15b3e3826cf17777ed77fa502f72324438b8bb3e988d1c",
+      "metadata": {
+        "game": "Okami HD",
+        "id": "okamihd",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-05-02T10:09:55Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/old_launcher-1.0.0/old_launcher.apworld",
       "size": 15494,
       "hash_sha256": "fc62e8bc849b44e6a46301baaab01f97ef61ee4d732ddb5d23d9a61c32531147",
@@ -55132,6 +55173,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.1/pokepark.apworld",
+      "size": 76588,
+      "hash_sha256": "3244278f8fb520f35950b034f6605e9bd05051e7a949da02e139dfb6123f0033",
+      "metadata": {
+        "game": "PokePark",
+        "id": "pokepark",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-05-02T11:03:00Z"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1/powerwashsimulator.apworld",
       "size": 11917,
       "hash_sha256": "c88117dc5d4eddea733e8f152b3ab1258b881e80a27e71d1363a770b06cace88",
@@ -62929,19 +62982,6 @@
       }
     },
     {
-      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.4b/simpsonshitnrun.apworld",
-      "size": 588910,
-      "hash_sha256": "5a9eda65e7687d55c4c9fedfcab37ae2b072a6c05dc4bb5dfaae7987ea57d0f4",
-      "metadata": {
-        "game": "The Simpsons Hit And Run",
-        "id": "simpsonshitnrun",
-        "world_version": "0.5.4",
-        "tag_version": "0.5.4",
-        "created_at": "2026-05-01T19:17:15Z",
-        "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
       "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.3-b/simpsonshitnrun.apworld",
       "size": 588910,
       "hash_sha256": "331258befec975fc683773bfa6576c085eecc3f87889e0022472dfb09c354271",
@@ -62951,6 +62991,19 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2026-05-01T04:05:45Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.4b/simpsonshitnrun.apworld",
+      "size": 588910,
+      "hash_sha256": "5a9eda65e7687d55c4c9fedfcab37ae2b072a6c05dc4bb5dfaae7987ea57d0f4",
+      "metadata": {
+        "game": "The Simpsons Hit And Run",
+        "id": "simpsonshitnrun",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2026-05-01T19:17:15Z",
         "minimum_ap_version": "0.6.0"
       }
     },
