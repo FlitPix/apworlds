@@ -82,6 +82,19 @@
       "version_simple": "1.4.2",
       "world_version": "1.4.2"
     },
+    "1.4.7": {
+      "created_at": "2026-05-02T19:37:13Z",
+      "download_url": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.7/rabi_ribi.apworld",
+      "has_manifest": true,
+      "hash_sha256": "92e869ef83a891758c180c04c78916f62cd63e0ac07467e1aa208906199c8bea",
+      "minimum_ap_version": "0.6.4",
+      "size": 211247,
+      "source_url": "https://api.github.com/repos/tdkollins/Archipelago-Rabi-Ribi",
+      "tag": "1.4.7",
+      "title": "Rabi-Ribi APWorld 1.4.7",
+      "version_simple": "1.4.7",
+      "world_version": "1.4.7"
+    },
     "alpha": {
       "created_at": "2024-03-11T03:46:17Z",
       "download_url": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/alpha/rabi_ribi.apworld",

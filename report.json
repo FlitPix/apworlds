@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 520,
-  "total_versions": 5972,
+  "total_versions": 5976,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -9,7 +9,7 @@
     "air_delivery": false,
     "albw": true,
     "am2r": true,
-    "animal_well": false,
+    "animal_well": true,
     "anodyne": true,
     "another_crab": false,
     "ape_escape_3": true,
