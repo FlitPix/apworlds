@@ -19590,6 +19590,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.6/everhood_2.apworld",
+      "size": 20455,
+      "hash_sha256": "3ffb6049d5c1b2e965a6fd02afac04027963859a3bf08f78a6713b669d505642",
+      "metadata": {
+        "game": "Everhood 2",
+        "id": "everhood_2",
+        "world_version": "0.4.6",
+        "tag_version": "0.4.6",
+        "created_at": "2026-04-06T08:15:58Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/pamymaf/Exocolonist-AP/releases/download/v0.1.0/exocolonist.apworld",
       "size": 15304,
       "hash_sha256": "1f37ae2ec86a7faa870ec7be57c78d762d6102087091daf67c103ffa5b2895c3",
@@ -26313,6 +26326,42 @@
       }
     },
     {
+      "world": "https://github.com/WritingHusky/haste_apworld/releases/download/v0.3.1/haste.apworld",
+      "size": 26302,
+      "hash_sha256": "71d3b4c09274ff16c640bde0ae1ad1bc7fea76c14447409885e94e9fd2e19840",
+      "metadata": {
+        "game": "Haste",
+        "id": "haste",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2025-11-07T21:05:37Z"
+      }
+    },
+    {
+      "world": "https://github.com/WritingHusky/haste_apworld/releases/download/v0.3.2/haste.apworld",
+      "size": 26991,
+      "hash_sha256": "cdb70a20e7ec3e25a3a999fd87b3771e0f5a33d8a02e5f318a1ed3050f46cf03",
+      "metadata": {
+        "game": "Haste",
+        "id": "haste",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2025-11-09T23:22:46Z"
+      }
+    },
+    {
+      "world": "https://github.com/WritingHusky/haste_apworld/releases/download/v0.4.0/haste.apworld",
+      "size": 35176,
+      "hash_sha256": "0500ff1d241f5012bcd890765725f919f3ed772444f75a10def012740a977299",
+      "metadata": {
+        "game": "Haste",
+        "id": "haste",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-02-03T23:35:04Z"
+      }
+    },
+    {
       "world": "https://github.com/niieli/Niko-Archipelago/releases/download/0.1.0/hcniko.apworld",
       "size": 37018,
       "hash_sha256": "5eca73827feaa794774f9f69902dbef5a842c250d0b5c78309622a6de7acaeff",
@@ -27746,6 +27795,19 @@
       }
     },
     {
+      "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
+      "size": 1499653,
+      "hash_sha256": "13a8c8bec8152e11ec7a54ef8633574cbb2fa8ff289d8f2c7316d8823c258eae",
+      "metadata": {
+        "game": "IslesOfSeaAndSky",
+        "id": "isles_of_sea_and_sky",
+        "world_version": "14.post3",
+        "tag_version": "14.post3",
+        "created_at": "2025-12-03T12:53:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_8/isles_of_sea_and_sky.apworld",
       "size": 344567,
       "hash_sha256": "6461d25b93a12edd81f0bc6f2cea7216cf70009c79b44b5c0d92dfa0b9ec315d",
@@ -27822,13 +27884,13 @@
     },
     {
       "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
-      "size": 1499653,
-      "hash_sha256": "13a8c8bec8152e11ec7a54ef8633574cbb2fa8ff289d8f2c7316d8823c258eae",
+      "size": 1499790,
+      "hash_sha256": "8cd4fef87ce94f31387eb3aecec2b5d917017fa27c57c5b2ef41c02739ccb544",
       "metadata": {
         "game": "IslesOfSeaAndSky",
         "id": "isles_of_sea_and_sky",
-        "world_version": "14.post3",
-        "tag_version": "14.post3",
+        "world_version": "14.post4",
+        "tag_version": "14.post4",
         "created_at": "2025-12-03T12:53:39Z",
         "maximum_ap_version": "0.6.99"
       }
@@ -50214,19 +50276,6 @@
       }
     },
     {
-      "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/release/pizza_tower.apworld",
-      "size": 25779,
-      "hash_sha256": "387f7930d06e06f53f3fb7ed30211813a83c50b84b1a0ba37798eed14a096b91",
-      "metadata": {
-        "game": "Pizza Tower",
-        "id": "pizza_tower",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-06-02T18:27:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/1.3.1/pizza_tower.apworld",
       "size": 87389,
       "hash_sha256": "c7350b7c545c17c4ecd42388ae5a9edd4b7742a75e305a092aa98a81fa54e75b",
@@ -50237,6 +50286,19 @@
         "tag_version": "1.3.1",
         "created_at": "2026-05-02T20:42:36Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/release/pizza_tower.apworld",
+      "size": 25779,
+      "hash_sha256": "387f7930d06e06f53f3fb7ed30211813a83c50b84b1a0ba37798eed14a096b91",
+      "metadata": {
+        "game": "Pizza Tower",
+        "id": "pizza_tower",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2025-06-02T18:27:59Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -81885,6 +81947,10 @@
     "hammerwatch": {
       "game": "Hammerwatch",
       "description": "Hammerwatch is a hack and slash action adventure.\nPlay as a hero that is one of seven classes as you fight your way through Castle Hammerwatch to defeat the dragon\nor the Temple of the Sun to stop the evil Sun Guardian Sha'Rand."
+    },
+    "haste": {
+      "game": "Haste",
+      "description": "Join Zoe on an adventure in Haste."
     },
     "hcniko": {
       "game": "Here Comes Niko!",

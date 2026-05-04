@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 520,
-  "total_versions": 5978,
+  "total_packages": 521,
+  "total_versions": 5983,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -136,6 +136,7 @@
     "hacknet": false,
     "hades": false,
     "hammerwatch": false,
+    "haste": true,
     "hcniko": true,
     "heretic": false,
     "herocore": false,
