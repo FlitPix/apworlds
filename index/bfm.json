@@ -379,6 +379,19 @@
       "title": "v0.5.0",
       "version_simple": "0.5.0",
       "world_version": "0.5.0"
+    },
+    "v0.5.1": {
+      "created_at": "2026-05-03T19:14:02Z",
+      "download_url": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.5.1/bfm.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1e4892b56f4135ad1976a7292468daf76202dcb79d92e8098354ee667ae58434",
+      "minimum_ap_version": "0.6.4",
+      "size": 2209967,
+      "source_url": "https://api.github.com/repos/AegeusEvander/Brave-Fencer-Musashi-AP-World",
+      "tag": "v0.5.1",
+      "title": "v0.5.1",
+      "version_simple": "0.5.1",
+      "world_version": "0.5.1"
     }
   }
 }
