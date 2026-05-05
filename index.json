@@ -20435,6 +20435,22 @@
       }
     },
     {
+      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.5.0/fez.apworld",
+      "size": 12475,
+      "hash_sha256": "bd601a9e709c3c8e964ddc04bf2aa6a5a59f5f3f388fbbbab1af08054388cc3c",
+      "metadata": {
+        "game": "Fez",
+        "id": "fez",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-05-04T22:25:15Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Bartz24/Archipelago/releases/download/0.1.0/ff12_open_world.apworld",
       "size": 237687,
       "hash_sha256": "1eafb393431abfcbe5bd50ebbd2f390357433d521d7b0c1c2eb7af468909269e",
@@ -22457,6 +22473,19 @@
         "world_version": "0.27.3",
         "tag_version": "0.27.3",
         "created_at": "2026-04-22T02:44:49Z"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.28.0/ffxiv.apworld",
+      "size": 137291,
+      "hash_sha256": "5c0b92f7186e8429387af0fe069f5789c349ed77b92cb7c3ce764fba40d4fefc",
+      "metadata": {
+        "game": "Final Fantasy XIV",
+        "id": "ffxiv",
+        "world_version": "0.28.0",
+        "tag_version": "0.28.0",
+        "created_at": "2026-05-05T02:07:56Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
@@ -27808,6 +27837,19 @@
       }
     },
     {
+      "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
+      "size": 1499790,
+      "hash_sha256": "8cd4fef87ce94f31387eb3aecec2b5d917017fa27c57c5b2ef41c02739ccb544",
+      "metadata": {
+        "game": "IslesOfSeaAndSky",
+        "id": "isles_of_sea_and_sky",
+        "world_version": "14.post4",
+        "tag_version": "14.post4",
+        "created_at": "2025-12-03T12:53:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_8/isles_of_sea_and_sky.apworld",
       "size": 344567,
       "hash_sha256": "6461d25b93a12edd81f0bc6f2cea7216cf70009c79b44b5c0d92dfa0b9ec315d",
@@ -27879,19 +27921,6 @@
         "world_version": "0.0.10.post3",
         "tag_version": "0.0.10.post3",
         "created_at": "2025-07-17T13:33:38Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
-      "size": 1499790,
-      "hash_sha256": "8cd4fef87ce94f31387eb3aecec2b5d917017fa27c57c5b2ef41c02739ccb544",
-      "metadata": {
-        "game": "IslesOfSeaAndSky",
-        "id": "isles_of_sea_and_sky",
-        "world_version": "14.post4",
-        "tag_version": "14.post4",
-        "created_at": "2025-12-03T12:53:39Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -35316,6 +35345,22 @@
         "world_version": "5.0.0.post3",
         "tag_version": "5.0.0.post3",
         "created_at": "2026-05-02T16:48:05Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-5.0.0-4/manual_blocktales_wolfboi008.apworld",
+      "size": 82543,
+      "hash_sha256": "41b487b359f46e15e03833f82a4724ae95b85c29b549ec0694a9b0c3909e2fd6",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0.post4",
+        "tag_version": "5.0.0.post4",
+        "created_at": "2026-05-04T02:49:13Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -64155,6 +64200,18 @@
       }
     },
     {
+      "world": "https://github.com/hoppel16/ArchipelagoBranchSly1/releases/download/v0.3.4-alpha/sly1.apworld",
+      "size": 31750,
+      "hash_sha256": "8dfe28eb1b1f43677c9ce4e0e9082b013c42df030ebf21b325aca4cd572b15b5",
+      "metadata": {
+        "game": "Sly Cooper and the Thievius Raccoonus",
+        "id": "sly1",
+        "world_version": "0.3.4a0",
+        "tag_version": "0.3.4a0",
+        "created_at": "2026-05-04T18:25:30Z"
+      }
+    },
+    {
       "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.1.0/sly2.apworld",
       "size": 251249,
       "hash_sha256": "15ee9c520dca573dfca555ec702994c74b24dd30bc4f1a49e2a34f92d9c1ec23",
@@ -72997,6 +73054,19 @@
         "world_version": "0.1.6",
         "tag_version": "0.1.6",
         "created_at": "2025-10-01T22:40:30Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Archipelago-Trails-in-the-Sky-the-3rd/Archipelago-Trails-in-the-Sky-the-3rd/releases/download/0.1.7/tits_the_3rd.apworld",
+      "size": 1572548,
+      "hash_sha256": "52735c550c6718cd016fea6263292a806f3940b67158c286ad0b3e23a649fb22",
+      "metadata": {
+        "game": "Trails in the Sky the 3rd",
+        "id": "tits_the_3rd",
+        "world_version": "0.1.7",
+        "tag_version": "0.1.7",
+        "created_at": "2026-05-04T23:16:05Z",
         "maximum_ap_version": "0.6.99"
       }
     },

@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 521,
-  "total_versions": 5983,
+  "total_versions": 5988,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -391,7 +391,7 @@
     "sims4": true,
     "slotlock": true,
     "slowrelease": true,
-    "sly1": false,
+    "sly1": true,
     "sly2": true,
     "sm64hacks": true,
     "smrpg": true,

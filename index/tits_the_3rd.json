@@ -145,6 +145,18 @@
       "title": "0.1.6 - Final Chapter 2 Bugfix Release",
       "version_simple": "0.1.6",
       "world_version": "0.1.6"
+    },
+    "0.1.7": {
+      "created_at": "2026-05-04T23:16:05Z",
+      "download_url": "https://github.com/Archipelago-Trails-in-the-Sky-the-3rd/Archipelago-Trails-in-the-Sky-the-3rd/releases/download/0.1.7/tits_the_3rd.apworld",
+      "has_manifest": false,
+      "hash_sha256": "52735c550c6718cd016fea6263292a806f3940b67158c286ad0b3e23a649fb22",
+      "size": 1572548,
+      "source_url": "https://api.github.com/repos/Archipelago-Trails-in-the-Sky-the-3rd/Archipelago-Trails-in-the-Sky-the-3rd",
+      "tag": "0.1.7",
+      "title": "Archipelago 0.1.7",
+      "version_simple": "0.1.7",
+      "world_version": "0.1.7"
     }
   }
 }

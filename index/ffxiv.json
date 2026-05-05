@@ -267,6 +267,19 @@
       "title": "AP XIV v0.27.3",
       "version_simple": "0.27.3",
       "world_version": "0.27.3"
+    },
+    "0.28.0": {
+      "created_at": "2026-05-05T02:07:56Z",
+      "download_url": "https://github.com/silasary/APxiv/releases/download/0.28.0/ffxiv.apworld",
+      "has_manifest": true,
+      "hash_sha256": "5c0b92f7186e8429387af0fe069f5789c349ed77b92cb7c3ce764fba40d4fefc",
+      "minimum_ap_version": "0.6.2",
+      "size": 137291,
+      "source_url": "https://api.github.com/repos/silasary/APxiv",
+      "tag": "0.28.0",
+      "title": "AP XIV v0.28.0",
+      "version_simple": "0.28.0",
+      "world_version": "0.28.0"
     }
   }
 }
