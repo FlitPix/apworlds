@@ -454,6 +454,19 @@
       "title": "v1.1.6",
       "version_simple": "1.1.6",
       "world_version": "1.1.6"
+    },
+    "v1.1.7": {
+      "created_at": "2026-05-07T02:18:01Z",
+      "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.7/sm64hacks.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a68bca05319c1364f2f356bc32ce286ffd188faff2f51a0d4f2d25e59c0d7e36",
+      "minimum_ap_version": "0.6.3",
+      "size": 296116,
+      "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
+      "tag": "v1.1.7",
+      "title": "v1.1.7",
+      "version_simple": "1.1.7",
+      "world_version": "1.1.7"
     }
   }
 }

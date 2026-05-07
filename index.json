@@ -526,6 +526,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.2.1/albw.apworld",
+      "size": 17017906,
+      "hash_sha256": "e293663af559e2d6bd39dd75237fe9794b61ecb7d6da4b31853809327dcef3da",
+      "metadata": {
+        "game": "A Link Between Worlds",
+        "id": "albw",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-05-05T18:11:50Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.0/am2r.apworld",
       "size": 33004,
       "hash_sha256": "8d10309d941f39d8223bedb6cecc636bc509ec5f4815b05341538b703e745c69",
@@ -1074,6 +1087,35 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.4/animal_well.apworld",
+      "size": 81922,
+      "hash_sha256": "838960fdb529d4a9bce36443018f897be50f8a4165b3e38108abd3ed9506b954",
+      "metadata": {
+        "game": "ANIMAL WELL",
+        "id": "animal_well",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2026-05-02T15:01:11Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.3/animal_well.apworld",
+      "size": 81922,
+      "hash_sha256": "838960fdb529d4a9bce36443018f897be50f8a4165b3e38108abd3ed9506b954",
+      "metadata": {
+        "game": "ANIMAL WELL",
+        "id": "animal_well",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2025-06-14T20:56:51Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -25147,6 +25189,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.4/grinch.apworld",
+      "size": 50115,
+      "hash_sha256": "6b1570970dbda101d0045763629baf55b6e38ddc769e3c8e6cc3942da2728649",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.5.4",
+        "tag_version": "1.5.4",
+        "created_at": "2026-05-06T23:53:08Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/cjmang/Archipelago/releases/download/0.1.0-alpha/gstla.apworld",
       "size": 423011,
       "hash_sha256": "bf202c029df370f29525cd0aa7645e6a6408955f5a42c853dfa62e83bffe45f1",
@@ -35468,6 +35523,22 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0-RC1/manual_blocktales_wolfboi008.apworld",
+      "size": 84823,
+      "hash_sha256": "439af78b8dfc96ad061b58b5889ba68b18be8e4746b34ba860b54720268058c5",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0rc1",
+        "tag_version": "5.0.0rc1",
+        "created_at": "2026-05-06T07:50:32Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Archipelago_Manuals/releases/download/cmz-0.4/manual_castleminerz_garbo.apworld",
       "size": 40155,
       "hash_sha256": "1f708c1131a2aa12ab79d5a38e417f708460707fd3c309dee4f870e7688191af",
@@ -42347,6 +42418,19 @@
         "tag_version": "1.0.0",
         "created_at": "2024-07-03T21:21:03Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.0B/megamix.apworld",
+      "size": 37680,
+      "hash_sha256": "21da8182df909d1d2a0e9893852a38ffa73b499c74d98a24711008ae37f62803",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-05-07T01:36:49Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -65125,6 +65209,22 @@
         "world_version": "1.1.6",
         "tag_version": "1.1.6",
         "created_at": "2026-04-21T02:36:19Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.7/sm64hacks.apworld",
+      "size": 296116,
+      "hash_sha256": "a68bca05319c1364f2f356bc32ce286ffd188faff2f51a0d4f2d25e59c0d7e36",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.7",
+        "tag_version": "1.1.7",
+        "created_at": "2026-05-07T02:18:01Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
