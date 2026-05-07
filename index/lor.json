@@ -80,6 +80,19 @@
       "title": "v0.3.1d",
       "version_simple": "0.3.1",
       "world_version": "0.3.1.post2"
+    },
+    "v1.0.0": {
+      "created_at": "2026-05-07T12:14:10Z",
+      "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0/lor.apworld",
+      "has_manifest": false,
+      "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
+      "prerelease": true,
+      "size": 29183,
+      "source_url": "https://api.github.com/repos/Az-LastPenguin/LORAP",
+      "tag": "v1.0.0",
+      "title": "v1.0.0-alpha",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
     }
   }
 }

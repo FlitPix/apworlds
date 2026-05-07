@@ -1074,6 +1074,19 @@
       }
     },
     {
+      "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.3/animal_well.apworld",
+      "size": 81922,
+      "hash_sha256": "838960fdb529d4a9bce36443018f897be50f8a4165b3e38108abd3ed9506b954",
+      "metadata": {
+        "game": "ANIMAL WELL",
+        "id": "animal_well",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2025-06-14T20:56:51Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.4/animal_well.apworld",
       "size": 81932,
       "hash_sha256": "519b3fe4e56bb3c530efd36e28c015c6f546397d3494dcfc50cd783d35a2bb04",
@@ -1103,19 +1116,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.3/animal_well.apworld",
-      "size": 81922,
-      "hash_sha256": "838960fdb529d4a9bce36443018f897be50f8a4165b3e38108abd3ed9506b954",
-      "metadata": {
-        "game": "ANIMAL WELL",
-        "id": "animal_well",
-        "world_version": "0.5.4",
-        "tag_version": "0.5.4",
-        "created_at": "2025-06-14T20:56:51Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -7854,6 +7854,22 @@
         "tag_version": "0.5.2",
         "created_at": "2026-04-11T21:57:56Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-77/borderlands2.apworld",
+      "size": 130008,
+      "hash_sha256": "7ae8cde182c2e665a0bbe1e54ba007de6980f366faa71c56c068e668aa98a53d",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "77",
+        "tag_version": "77",
+        "created_at": "2026-05-07T02:25:51Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -33162,6 +33178,23 @@
       }
     },
     {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0/lor.apworld",
+      "size": 29183,
+      "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
+      "metadata": {
+        "game": "Library of Ruina",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-07T12:14:10Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Bartz24/ArchipelagoLR/releases/download/0.1.0/lrff13.apworld",
       "size": 165530,
       "hash_sha256": "2cec278b85d57bba4d35bf9789a624b4fa2c5c80496737d51180bd4eacf1561e",
@@ -35299,6 +35332,22 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0-RC1/manual_blocktales_wolfboi008.apworld",
+      "size": 84823,
+      "hash_sha256": "439af78b8dfc96ad061b58b5889ba68b18be8e4746b34ba860b54720268058c5",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0rc1",
+        "tag_version": "5.0.0rc1",
+        "created_at": "2026-05-06T07:50:32Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-4.0.0-1/manual_blocktales_wolfboi008.apworld",
       "size": 52109,
       "hash_sha256": "babcb30031c4c1b3aa37bddeaeda7010a52cc433e81d41265c2416fca1936b2a",
@@ -35516,22 +35565,6 @@
         "world_version": "5.0.0.post6",
         "tag_version": "5.0.0.post6",
         "created_at": "2026-05-04T17:17:56Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0-RC1/manual_blocktales_wolfboi008.apworld",
-      "size": 84823,
-      "hash_sha256": "439af78b8dfc96ad061b58b5889ba68b18be8e4746b34ba860b54720268058c5",
-      "metadata": {
-        "game": "Manual_BlockTales_WolfBoi008",
-        "id": "manual_blocktales_wolfboi008",
-        "world_version": "5.0.0rc1",
-        "tag_version": "5.0.0rc1",
-        "created_at": "2026-05-06T07:50:32Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -42408,19 +42441,6 @@
       }
     },
     {
-      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
-      "size": 470162,
-      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
-      "metadata": {
-        "game": "Hatsune Miku Project Diva Mega Mix+",
-        "id": "megamix",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2024-07-03T21:21:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.0B/megamix.apworld",
       "size": 37680,
       "hash_sha256": "21da8182df909d1d2a0e9893852a38ffa73b499c74d98a24711008ae37f62803",
@@ -42431,6 +42451,19 @@
         "tag_version": "1.5.0",
         "created_at": "2026-05-07T01:36:49Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
+      "size": 470162,
+      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2024-07-03T21:21:03Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -46997,6 +47030,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.4.1/okamihd.apworld",
+      "size": 46190,
+      "hash_sha256": "128d32ba06f0ff9a82234cdf1a1437e51e1697704d3566572fc05feef316f9af",
+      "metadata": {
+        "game": "Okami HD",
+        "id": "okamihd",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-05-07T11:00:53Z"
       }
     },
     {
@@ -75474,6 +75519,19 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.6/tloz_st.apworld",
+      "size": 356859,
+      "hash_sha256": "458e103dd874f59aaa414f3925252f6754e4b52634b6c28d9c5fb039b2edb678",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.6",
+        "tag_version": "0.7.6",
+        "created_at": "2026-05-07T13:29:27Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
