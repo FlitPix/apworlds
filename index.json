@@ -3067,6 +3067,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.25/apworld_manager.apworld",
+      "size": 542215,
+      "hash_sha256": "c6608c3b5d48302bf05124072b23029c930b6a8c6d08e79479c1917925fd7762",
+      "metadata": {
+        "game": "APWorld Manager",
+        "id": "apworld_manager",
+        "world_version": "0.0.25",
+        "tag_version": "0.0.25",
+        "created_at": "2026-05-08T09:15:00Z"
+      }
+    },
+    {
       "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
       "size": 94112,
       "hash_sha256": "b7fa1c29a74a0e727637d23b755cb5ed9b6292a5a6fe9f96cbf99e5e5a08d181",
@@ -18369,6 +18381,22 @@
       }
     },
     {
+      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.0.1/dsr.apworld",
+      "size": 52729,
+      "hash_sha256": "e7fc13aa1f5d8797df21d4a6fa987b3a0e95e961223d1c2025123187ae20101a",
+      "metadata": {
+        "game": "Dark Souls Remastered",
+        "id": "dsr",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-05-07T15:25:41Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.0.2/dsr.apworld",
       "size": 52729,
       "hash_sha256": "534a58330279f4c05ec5f81727d8684a515c84b2e761b276c4494ac1d3c0f751",
@@ -18385,15 +18413,15 @@
       }
     },
     {
-      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.0.1/dsr.apworld",
-      "size": 52729,
-      "hash_sha256": "e7fc13aa1f5d8797df21d4a6fa987b3a0e95e961223d1c2025123187ae20101a",
+      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.1.0/dsr.apworld",
+      "size": 52687,
+      "hash_sha256": "939a6eb58b9a7b817efed5fb77c7adae72fee694a5423df921984aa046dcdf1d",
       "metadata": {
         "game": "Dark Souls Remastered",
         "id": "dsr",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2026-05-07T15:25:41Z",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2026-05-08T07:48:46Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -22672,6 +22700,19 @@
         "world_version": "0.28.0",
         "tag_version": "0.28.0",
         "created_at": "2026-05-05T02:07:56Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.28.1/ffxiv.apworld",
+      "size": 137420,
+      "hash_sha256": "f2cfb228bb56e83f8d7b0f20d8f1f50a6ff6ecea5f4924da9954e4ce84558e08",
+      "metadata": {
+        "game": "Final Fantasy XIV",
+        "id": "ffxiv",
+        "world_version": "0.28.1",
+        "tag_version": "0.28.1",
+        "created_at": "2026-05-08T04:12:16Z",
         "minimum_ap_version": "0.6.2"
       }
     },
@@ -32255,6 +32296,18 @@
       }
     },
     {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.11-beta/lethal_company.apworld",
+      "size": 500198,
+      "hash_sha256": "b648be87f71b62b0264785d432ef1fdaa847a4c0bbc2bfbcf5dbd799dde9ed6d",
+      "metadata": {
+        "game": "Lethal Company",
+        "id": "lethal_company",
+        "world_version": "0.7.11",
+        "tag_version": "0.7.11",
+        "created_at": "2026-05-07T18:29:52Z"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.5-beta/lethal_company.apworld",
       "size": 498880,
       "hash_sha256": "9266cdefaedf7f050aeb1489c1b68ecf879e053e84e875f3d1ecfadbbf34af2f",
@@ -32345,18 +32398,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.11-beta/lethal_company.apworld",
-      "size": 500198,
-      "hash_sha256": "b648be87f71b62b0264785d432ef1fdaa847a4c0bbc2bfbcf5dbd799dde9ed6d",
-      "metadata": {
-        "game": "Lethal Company",
-        "id": "lethal_company",
-        "world_version": "0.7.11",
-        "tag_version": "0.7.11",
-        "created_at": "2026-05-07T18:29:52Z"
       }
     },
     {
@@ -33260,6 +33301,40 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-05-07T12:14:10Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-alpha/lor.apworld",
+      "size": 29183,
+      "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
+      "metadata": {
+        "game": "Library of Ruina",
+        "id": "lor",
+        "world_version": "1.0.0a0",
+        "tag_version": "1.0.0a0",
+        "created_at": "2026-05-07T12:14:10Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-beta/lor.apworld",
+      "size": 29183,
+      "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
+      "metadata": {
+        "game": "Library of Ruina",
+        "id": "lor",
+        "world_version": "1.0.0b0",
+        "tag_version": "1.0.0b0",
+        "created_at": "2025-08-31T19:35:32Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
@@ -35421,6 +35496,22 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0-RC2/manual_blocktales_wolfboi008.apworld",
+      "size": 84991,
+      "hash_sha256": "43701de87a7ad2cefff12a32776dae8bd68bd5a1635c976602b9469c320fa21e",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0rc2",
+        "tag_version": "5.0.0rc2",
+        "created_at": "2026-05-06T23:07:50Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-4.0.0-1/manual_blocktales_wolfboi008.apworld",
       "size": 52109,
       "hash_sha256": "babcb30031c4c1b3aa37bddeaeda7010a52cc433e81d41265c2416fca1936b2a",
@@ -35638,22 +35729,6 @@
         "world_version": "5.0.0.post6",
         "tag_version": "5.0.0.post6",
         "created_at": "2026-05-04T17:17:56Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0-RC2/manual_blocktales_wolfboi008.apworld",
-      "size": 84991,
-      "hash_sha256": "43701de87a7ad2cefff12a32776dae8bd68bd5a1635c976602b9469c320fa21e",
-      "metadata": {
-        "game": "Manual_BlockTales_WolfBoi008",
-        "id": "manual_blocktales_wolfboi008",
-        "world_version": "5.0.0rc2",
-        "tag_version": "5.0.0rc2",
-        "created_at": "2026-05-06T23:07:50Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -52648,6 +52723,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.29/pokemon_bw.apworld",
+      "size": 37643721,
+      "hash_sha256": "49144db16beafefe6f8dba8afa7466d8a58af8b81c0fff8f71491b59cb7fbc8b",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.29",
+        "tag_version": "0.3.29",
+        "created_at": "2026-05-07T16:35:26Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.3/pokemon_bw.apworld",
       "size": 1925004,
       "hash_sha256": "cde5bddaabe558ce0551957df72fb0f5037ed93eb1e47510d549bf3107d9bc1a",
@@ -52804,19 +52892,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.29/pokemon_bw.apworld",
-      "size": 37643721,
-      "hash_sha256": "49144db16beafefe6f8dba8afa7466d8a58af8b81c0fff8f71491b59cb7fbc8b",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.29",
-        "tag_version": "0.3.29",
-        "created_at": "2026-05-07T16:35:26Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
