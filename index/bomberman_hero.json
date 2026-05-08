@@ -44,6 +44,19 @@
       "title": "Bomberman Hero AP v0.2.1",
       "version_simple": "0.2.1",
       "world_version": "0.2.1"
+    },
+    "bombhero_v0.2.1r2": {
+      "created_at": "2025-09-18T19:26:07Z",
+      "download_url": "https://github.com/Happyhappyism/Archipelago/releases/download/bombhero_v0.2.1/bomberman_hero.apworld",
+      "has_manifest": true,
+      "hash_sha256": "bca6b388b988532a72750413aebd96c01cff85f969ca8e8460a004e5d5cafe25",
+      "minimum_ap_version": "0.6.3",
+      "size": 36851,
+      "source_url": "https://api.github.com/repos/Happyhappyism/Archipelago",
+      "tag": "bombhero_v0.2.1r2",
+      "title": "Bomberman Hero AP v0.2.1",
+      "version_simple": "0.2.3",
+      "world_version": "0.2.3"
     }
   }
 }

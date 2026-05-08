@@ -397,6 +397,34 @@
       "title": "V0.1.0.0",
       "version_simple": "0.1.0",
       "world_version": "0.1.0"
+    },
+    "0.1.0.1": {
+      "created_at": "2026-05-07T15:25:41Z",
+      "download_url": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.0.1/dsr.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e7fc13aa1f5d8797df21d4a6fa987b3a0e95e961223d1c2025123187ae20101a",
+      "minimum_ap_version": "0.6.4",
+      "prerelease": true,
+      "size": 52729,
+      "source_url": "https://api.github.com/repos/ArsonAssassin/DSAP",
+      "tag": "0.1.0.1",
+      "title": "V0.1.0.1",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
+    },
+    "0.1.0.2": {
+      "created_at": "2026-05-07T16:15:00Z",
+      "download_url": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.0.2/dsr.apworld",
+      "has_manifest": true,
+      "hash_sha256": "534a58330279f4c05ec5f81727d8684a515c84b2e761b276c4494ac1d3c0f751",
+      "minimum_ap_version": "0.6.4",
+      "prerelease": true,
+      "size": 52729,
+      "source_url": "https://api.github.com/repos/ArsonAssassin/DSAP",
+      "tag": "0.1.0.2",
+      "title": "V0.1.0.2",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
     }
   }
 }
