@@ -404,6 +404,19 @@
       "title": "Ape Escape apworld v0.9.6",
       "version_simple": "0.9.6",
       "world_version": "0.9.6"
+    },
+    "v0.9.7": {
+      "created_at": "2026-05-09T02:21:24Z",
+      "download_url": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.7/apeescape.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a38de3a3bf15de6f009b17fa6ca74c08ab079e20a000849e0e4d6b69c6affa2e",
+      "minimum_ap_version": "0.6.4",
+      "size": 708774,
+      "source_url": "https://api.github.com/repos/Thedragon005/Archipelago-Ape-Escape",
+      "tag": "v0.9.7",
+      "title": "Ape Escape apworld v0.9.7",
+      "version_simple": "0.9.7",
+      "world_version": "0.9.7"
     }
   }
 }

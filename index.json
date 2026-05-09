@@ -2540,6 +2540,19 @@
       }
     },
     {
+      "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.7/apeescape.apworld",
+      "size": 708774,
+      "hash_sha256": "a38de3a3bf15de6f009b17fa6ca74c08ab079e20a000849e0e4d6b69c6affa2e",
+      "metadata": {
+        "game": "Ape Escape",
+        "id": "apeescape",
+        "world_version": "0.9.7",
+        "tag_version": "0.9.7",
+        "created_at": "2026-05-09T02:21:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/aki665/react-native-archipelago/releases/download/0.4.0/apgo.apworld",
       "size": 53592,
       "hash_sha256": "54494fb34b7f25169747ecf567cca998d946cb0a5bf626fd342c5fbe897c047e",
@@ -2995,6 +3008,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.25/apworld_manager.apworld",
+      "size": 542215,
+      "hash_sha256": "c6608c3b5d48302bf05124072b23029c930b6a8c6d08e79479c1917925fd7762",
+      "metadata": {
+        "game": "APWorld Manager",
+        "id": "apworld_manager",
+        "world_version": "0.0.25",
+        "tag_version": "0.0.25",
+        "created_at": "2026-05-08T09:15:00Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.4/apworld_manager.apworld",
       "size": 75521,
       "hash_sha256": "bdbbf4b450e1ba798dc093ff9e88e63eb6f2515708a56507e388624165f7dd7f",
@@ -3064,18 +3089,6 @@
         "world_version": "0.0.9",
         "tag_version": "0.0.9",
         "created_at": "2025-05-01T04:24:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.25/apworld_manager.apworld",
-      "size": 542215,
-      "hash_sha256": "c6608c3b5d48302bf05124072b23029c930b6a8c6d08e79479c1917925fd7762",
-      "metadata": {
-        "game": "APWorld Manager",
-        "id": "apworld_manager",
-        "world_version": "0.0.25",
-        "tag_version": "0.0.25",
-        "created_at": "2026-05-08T09:15:00Z"
       }
     },
     {
@@ -11334,6 +11347,19 @@
       }
     },
     {
+      "world": "https://github.com/Cyb3RGER/cornkidz64_apworld/releases/download/v0.0.7/cornkidz64.apworld",
+      "size": 29031,
+      "hash_sha256": "f163217ba1789c3b1fca5f67246800ab4209ce7262b95c5fa5929c06688488ba",
+      "metadata": {
+        "game": "Corn Kidz 64",
+        "id": "cornkidz64",
+        "world_version": "0.0.7",
+        "tag_version": "0.0.7",
+        "created_at": "2026-05-08T18:18:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Adrthegamedev/ArchipelagoCorruObserver/releases/download/v0.1.0/corruobserver.apworld",
       "size": 25302,
       "hash_sha256": "2ff586d42ef1e0adaa16a0a940aed79dc7b8f8e63869bed90bc35df6ff5a6d16",
@@ -13394,6 +13420,54 @@
         "world_version": "0.3",
         "tag_version": "0.3",
         "created_at": "2025-04-21T06:17:17Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview03f/cuphead.apworld",
+      "size": 48506,
+      "hash_sha256": "f805ab41525baa40667718863d3f14e89b33ef044469165f6b033df1f6de93c4",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "3",
+        "tag_version": "3",
+        "created_at": "2025-04-21T06:17:17Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview02j/cuphead.apworld",
+      "size": 38778,
+      "hash_sha256": "df83b4dc8145df90b97bc46e92abf536d3989d678de1629f8b3df45c1163c412",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2025-03-08T22:22:39Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview01a/cuphead.apworld",
+      "size": 32691,
+      "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "1a0",
+        "tag_version": "1a0",
+        "created_at": "2024-08-10T02:07:17Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -25316,6 +25390,19 @@
         "world_version": "1.5.4",
         "tag_version": "1.5.4",
         "created_at": "2026-05-06T23:53:08Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.5/grinch.apworld",
+      "size": 50130,
+      "hash_sha256": "1b2d9512fe91a3e2d89f15f61549162c135f9b8bf9a121cd996a233eb7a4624d",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.5.5",
+        "tag_version": "1.5.5",
+        "created_at": "2026-05-08T20:33:24Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -39577,6 +39664,19 @@
       }
     },
     {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.1.1/manual_residentevil4_vincentssin.apworld",
+      "size": 92816,
+      "hash_sha256": "106a989e9c88ebb7711fd35df54a61139957f362cef15429c7fd063e49ddd34d",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.1.1",
+        "tag_version": "2.1.1",
+        "created_at": "2026-05-03T18:27:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Archipelago_Manuals/releases/download/re5-1.0.5/manual_residentevil5_garbo.apworld",
       "size": 58784,
       "hash_sha256": "8af2ad2eb467377c27d1a43755c839dc88c89ebddf2ba06880fb4926a02b0e19",
@@ -44939,6 +45039,19 @@
         "world_version": "0.2.2",
         "tag_version": "0.2.2",
         "created_at": "2026-03-27T19:22:45Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.3/mmzero3.apworld",
+      "size": 45524,
+      "hash_sha256": "8e868d5d6038cc97742fbf76f2eef7ef5841eba133912cf710f5cf686872a8a7",
+      "metadata": {
+        "game": "Mega Man Zero 3",
+        "id": "mmzero3",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-05-09T00:31:48Z",
         "maximum_ap_version": "0.6.99"
       }
     },
