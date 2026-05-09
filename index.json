@@ -13048,6 +13048,54 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview01a/cuphead.apworld",
+      "size": 32691,
+      "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "1a0",
+        "tag_version": "1a0",
+        "created_at": "2024-08-10T02:07:17Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview02j/cuphead.apworld",
+      "size": 38778,
+      "hash_sha256": "df83b4dc8145df90b97bc46e92abf536d3989d678de1629f8b3df45c1163c412",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2025-03-08T22:22:39Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview03f/cuphead.apworld",
+      "size": 48506,
+      "hash_sha256": "f805ab41525baa40667718863d3f14e89b33ef044469165f6b033df1f6de93c4",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "3",
+        "tag_version": "3",
+        "created_at": "2025-04-21T06:17:17Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha01a.1/cuphead.apworld",
       "size": 59913,
       "hash_sha256": "cbb3ca9d7d811c0718582f23e15ac99cc1c30a3cec28f240ed337b6fb9671383",
@@ -13420,54 +13468,6 @@
         "world_version": "0.3",
         "tag_version": "0.3",
         "created_at": "2025-04-21T06:17:17Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview03f/cuphead.apworld",
-      "size": 48506,
-      "hash_sha256": "f805ab41525baa40667718863d3f14e89b33ef044469165f6b033df1f6de93c4",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "3",
-        "tag_version": "3",
-        "created_at": "2025-04-21T06:17:17Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview02j/cuphead.apworld",
-      "size": 38778,
-      "hash_sha256": "df83b4dc8145df90b97bc46e92abf536d3989d678de1629f8b3df45c1163c412",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "2",
-        "tag_version": "2",
-        "created_at": "2025-03-08T22:22:39Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview01a/cuphead.apworld",
-      "size": 32691,
-      "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "1a0",
-        "tag_version": "1a0",
-        "created_at": "2024-08-10T02:07:17Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -27393,6 +27393,22 @@
         "flags": [
           "after_dark",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/BenDipp/Archipelago/releases/download/0.8.0/hitman_woa.apworld",
+      "size": 7712351,
+      "hash_sha256": "b435b425159a102407174a331b471b4a681701aa378b858bc5992b13a111bf97",
+      "metadata": {
+        "game": "HITMAN World of Assasination",
+        "id": "hitman_woa",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-05-08T22:23:57Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark"
         ]
       }
     },
@@ -47319,6 +47335,18 @@
         "world_version": "0.4.1",
         "tag_version": "0.4.1",
         "created_at": "2026-05-07T11:00:53Z"
+      }
+    },
+    {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.4.2/okamihd.apworld",
+      "size": 46767,
+      "hash_sha256": "4661c22d8c4459dcefc7194b8b52861e76e902270baafe7b5c031934acf27d27",
+      "metadata": {
+        "game": "Okami HD",
+        "id": "okamihd",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-05-09T12:29:58Z"
       }
     },
     {
