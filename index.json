@@ -23732,6 +23732,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.2/flipwitch.apworld",
+      "size": 70905,
+      "hash_sha256": "b0f054b0b70eb389b9db754596298bda027497c4a8c06a7e6aba784db635f43d",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
+        "created_at": "2026-04-18T00:55:04Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/sg4e/Archipelago/releases/download/v1.0.0/fm.apworld",
       "size": 70361,
       "hash_sha256": "1db5179bdb048c65b594a81c6460ff4c00d9109503219995be08564d1c55b183",
@@ -27199,6 +27214,18 @@
       }
     },
     {
+      "world": "https://github.com/TRPG0/HbkArchipelago/releases/download/0.2.3/hi_fi_rush.apworld",
+      "size": 17323,
+      "hash_sha256": "45a420c2d2c8e6516f48ffba4b1c18133dbd3861a33d4492dd7725ef8cc4d2c3",
+      "metadata": {
+        "game": "Hi-Fi RUSH",
+        "id": "hi_fi_rush",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-05-09T22:21:43Z"
+      }
+    },
+    {
       "world": "https://github.com/BenDipp/Archipelago/releases/download/0.3.0/hitman_woa.apworld",
       "size": 244215,
       "hash_sha256": "7605e6339a3dc632e9a109b33ab8008576948fae6cd14a0aa3ec91bb685d4a77",
@@ -27363,6 +27390,22 @@
       }
     },
     {
+      "world": "https://github.com/BenDipp/Archipelago/releases/download/0.8.0/hitman_woa.apworld",
+      "size": 7712351,
+      "hash_sha256": "b435b425159a102407174a331b471b4a681701aa378b858bc5992b13a111bf97",
+      "metadata": {
+        "game": "HITMAN World of Assasination",
+        "id": "hitman_woa",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-05-08T22:23:57Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/BenDipp/Archipelago/releases/download/v0.1/hitman_woa.apworld",
       "size": 135707,
       "hash_sha256": "53853e8b17b760ceacd29f79e4e0b4c3fb74bc97165c0a6ccafc36f768c2c563",
@@ -27397,15 +27440,15 @@
       }
     },
     {
-      "world": "https://github.com/BenDipp/Archipelago/releases/download/0.8.0/hitman_woa.apworld",
-      "size": 7712351,
-      "hash_sha256": "b435b425159a102407174a331b471b4a681701aa378b858bc5992b13a111bf97",
+      "world": "https://github.com/BenDipp/Archipelago/releases/download/0.8.1/hitman_woa.apworld",
+      "size": 7712350,
+      "hash_sha256": "ade53eb09f76ba57b27f2f5cc011637805b6c63b4b120bd84f77d964ff42b24d",
       "metadata": {
         "game": "HITMAN World of Assasination",
         "id": "hitman_woa",
-        "world_version": "0.8.0",
-        "tag_version": "0.8.0",
-        "created_at": "2026-05-08T22:23:57Z",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-05-09T20:56:05Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "after_dark"
@@ -44659,6 +44702,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx-v1.6.2/mmx.apworld",
+      "size": 53736,
+      "hash_sha256": "e283852d39dbf6ec7a687f872e4ce5baf7521d760b4d798fd9f08b26d90b7647",
+      "metadata": {
+        "game": "Mega Man X",
+        "id": "mmx",
+        "world_version": "1.6.2",
+        "tag_version": "1.6.2",
+        "created_at": "2026-05-09T17:40:23Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v1.0.0/mmx2.apworld",
       "size": 52515,
       "hash_sha256": "857b08c2280703630d4fddfef5173eaf3412ffc1c08407365d0b98482ffd1616",
@@ -58926,6 +58982,19 @@
         "world_version": "1.0.2",
         "tag_version": "1.0.2",
         "created_at": "2026-04-23T23:12:52Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.1.0/refunct.apworld",
+      "size": 19356,
+      "hash_sha256": "4478333b0225e7d57c4167c2f93b06a13359d3a622e43f87573fd9540b4fbe98",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-05-09T18:19:08Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -79909,6 +79978,19 @@
         "world_version": "1.3.5",
         "tag_version": "1.3.5",
         "created_at": "2026-05-05T06:09:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.6/waffles.apworld",
+      "size": 266912,
+      "hash_sha256": "0bde7f482043b89c82b6f71012737aa10e7d8ada438b0f71491209c927f10a8f",
+      "metadata": {
+        "game": "SMW: Spicy Mycena Waffles",
+        "id": "waffles",
+        "world_version": "1.3.6",
+        "tag_version": "1.3.6",
+        "created_at": "2026-05-09T17:44:49Z",
         "minimum_ap_version": "0.6.7"
       }
     },
