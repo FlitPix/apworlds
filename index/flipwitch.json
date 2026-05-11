@@ -738,6 +738,18 @@
       "title": "Flipwitch Randomizer v1.1.2",
       "version_simple": "1.1.2",
       "world_version": "1.1.2"
+    },
+    "1.1.3": {
+      "created_at": "2026-04-18T00:55:04Z",
+      "download_url": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.3/flipwitch.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fc5f225d7e1445845a951acdb3beec03f6bec569bae80fb206ba15bea5455181",
+      "size": 70933,
+      "source_url": "https://api.github.com/repos/Witchybun/FlipwitchAPClient",
+      "tag": "1.1.3",
+      "title": "Flipwitch Randomizer v1.1.3",
+      "version_simple": "1.1.3",
+      "world_version": "1.1.3"
     }
   }
 }

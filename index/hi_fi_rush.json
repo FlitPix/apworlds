@@ -87,6 +87,18 @@
       "title": "HbkArchipelago 0.2.3",
       "version_simple": "0.2.3",
       "world_version": "0.2.3"
+    },
+    "0.2.3r2": {
+      "created_at": "2026-05-09T22:21:43Z",
+      "download_url": "https://github.com/TRPG0/HbkArchipelago/releases/download/0.2.3/hi_fi_rush.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ea331f4de6d80d4c415df786f52215bb691bd6f7403b7133723d6ad0bba25475",
+      "size": 17326,
+      "source_url": "https://api.github.com/repos/TRPG0/HbkArchipelago",
+      "tag": "0.2.3r2",
+      "title": "HbkArchipelago 0.2.3",
+      "version_simple": "0.2.3",
+      "world_version": "0.2.3"
     }
   }
 }
