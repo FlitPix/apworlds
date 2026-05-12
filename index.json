@@ -1504,6 +1504,19 @@
       }
     },
     {
+      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.6.2/anodyne.apworld",
+      "size": 44496,
+      "hash_sha256": "bc15629c1a6f12c7cba2bac4fceeb482db7b6abfebbd2dd173589c7af51154d3",
+      "metadata": {
+        "game": "Anodyne",
+        "id": "anodyne",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2026-05-11T15:11:52Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.1.1/another_crab.apworld",
       "size": 47483,
       "hash_sha256": "621bcddee5d35007b0c5ef6d27fe621010d63118ab99ef90c125692b86494ac9",
@@ -5473,6 +5486,19 @@
       }
     },
     {
+      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.6/banjo_tooie.apworld",
+      "size": 275223,
+      "hash_sha256": "6dbde14e50bf0f6f2782f6de72a5f0b6581bf499ecbcca5881f25933b2d3a6b8",
+      "metadata": {
+        "game": "Banjo Tooie",
+        "id": "banjo_tooie",
+        "world_version": "4.11.6",
+        "tag_version": "4.11.6",
+        "created_at": "2026-05-11T14:05:19Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.2/banjo_tooie.apworld",
       "size": 204710,
       "hash_sha256": "6946e77d1a31eb6b289eeba6cecc0f46f6af9ec96eaf41e341469e5cff531860",
@@ -5652,19 +5678,6 @@
         "tag_version": "4.9",
         "created_at": "2025-08-16T03:40:18Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.6/banjo_tooie.apworld",
-      "size": 275223,
-      "hash_sha256": "6dbde14e50bf0f6f2782f6de72a5f0b6581bf499ecbcca5881f25933b2d3a6b8",
-      "metadata": {
-        "game": "Banjo Tooie",
-        "id": "banjo_tooie",
-        "world_version": "4.11.6",
-        "tag_version": "4.11.6",
-        "created_at": "2026-05-11T14:05:19Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -7936,6 +7949,35 @@
         "world_version": "0.5.2",
         "tag_version": "0.5.2",
         "created_at": "2026-04-11T21:57:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-79/borderlands2.apworld",
+      "size": 69750,
+      "hash_sha256": "73a24ee8d0a3da22924dbde4c6871c5a2a3d09fda84d33f16a01b2e7643128c1",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "79",
+        "tag_version": "79",
+        "created_at": "2026-05-11T20:53:03Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.5.3/borderlands2.apworld",
+      "size": 61085,
+      "hash_sha256": "831c6e8a57858fad56316d188a164d1d0440623693eb6db5bff2568a5cd63085",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-05-07T02:25:51Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -16616,6 +16658,19 @@
         "world_version": "1.5.4",
         "tag_version": "1.5.4",
         "created_at": "2026-04-22T02:30:42Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.5.5/dk64.apworld",
+      "size": 35965698,
+      "hash_sha256": "8336acc2ce68657a4c6e01b6bb999ffc3c0c478749747f856a210aa9d0524cb7",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.5",
+        "tag_version": "1.5.5",
+        "created_at": "2026-05-11T18:14:40Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -30954,6 +31009,18 @@
       }
     },
     {
+      "world": "https://github.com/dannybonz/k-on_archipelago/releases/download/v1.1.4/kon.apworld",
+      "size": 28630,
+      "hash_sha256": "2c1c0edc3bb8a752171e334a3aafb066f30ae7a6d2d8a82931a5772c60b2077b",
+      "metadata": {
+        "game": "K-On! After School Live!!",
+        "id": "kon",
+        "world_version": "1.1.4",
+        "tag_version": "1.1.4",
+        "created_at": "2026-05-11T18:42:42Z"
+      }
+    },
+    {
       "world": "https://github.com/Silvris/Archipelago/releases/download/kss_0.0.1/kss.apworld",
       "size": 33446,
       "hash_sha256": "f0fe151f9976c91ea9082e7107586af46c7a82e6f25d5927f0e7248a8c67074a",
@@ -45220,6 +45287,19 @@
         "world_version": "0.2.3",
         "tag_version": "0.2.3",
         "created_at": "2026-05-09T00:31:48Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.4/mmzero3.apworld",
+      "size": 46385,
+      "hash_sha256": "3db9468b2c051fa1e5bccbdf34768350cae7d8ac8a79fed961223c42321b47e3",
+      "metadata": {
+        "game": "Mega Man Zero 3",
+        "id": "mmzero3",
+        "world_version": "0.2.4",
+        "tag_version": "0.2.4",
+        "created_at": "2026-05-11T23:50:58Z",
         "maximum_ap_version": "0.6.99"
       }
     },
