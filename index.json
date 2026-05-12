@@ -7823,6 +7823,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-79/borderlands2.apworld",
+      "size": 69750,
+      "hash_sha256": "73a24ee8d0a3da22924dbde4c6871c5a2a3d09fda84d33f16a01b2e7643128c1",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "79",
+        "tag_version": "79",
+        "created_at": "2026-05-11T20:53:03Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -7950,22 +7966,6 @@
         "tag_version": "0.5.2",
         "created_at": "2026-04-11T21:57:56Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-79/borderlands2.apworld",
-      "size": 69750,
-      "hash_sha256": "73a24ee8d0a3da22924dbde4c6871c5a2a3d09fda84d33f16a01b2e7643128c1",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "79",
-        "tag_version": "79",
-        "created_at": "2026-05-11T20:53:03Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -25540,6 +25540,19 @@
         "world_version": "1.5.5",
         "tag_version": "1.5.5",
         "created_at": "2026-05-08T20:33:24Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.6/grinch.apworld",
+      "size": 50303,
+      "hash_sha256": "d102913275ce8f6b1bee0e5006f587a9a96da25c7fbef5400fc4c0d2cedd33fe",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.5.6",
+        "tag_version": "1.5.6",
+        "created_at": "2026-05-12T03:36:15Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -79512,6 +79525,18 @@
         "world_version": "3.5.1",
         "tag_version": "3.5.1",
         "created_at": "2026-04-28T03:18:26Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.2/ultrakill.apworld",
+      "size": 47852,
+      "hash_sha256": "72e3c2a161d6dd1597e770efe8be61cc86cde54c6c1e6a4d4194410a90bc198c",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.5.2",
+        "tag_version": "3.5.2",
+        "created_at": "2026-05-12T03:24:12Z"
       }
     },
     {
