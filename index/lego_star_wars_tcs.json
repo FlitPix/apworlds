@@ -162,6 +162,19 @@
       "title": "v1.4.1 Chapter Requirements Display and other Client fixes",
       "version_simple": "1.4.1",
       "world_version": "1.4.1"
+    },
+    "v1.4.2": {
+      "created_at": "2026-05-12T21:50:36Z",
+      "download_url": "https://github.com/Mysteryem/Archipelago-TCS/releases/download/v1.4.2/lego_star_wars_tcs.apworld",
+      "has_manifest": true,
+      "hash_sha256": "694690d2d6be4bcf13a29c9ab1a8d98e08b92c34e118674f5dc18a528127d444",
+      "minimum_ap_version": "0.6.1",
+      "size": 224634,
+      "source_url": "https://api.github.com/repos/Mysteryem/Archipelago-TCS",
+      "tag": "v1.4.2",
+      "title": "v1.4.2 Client Quality of Life - Auto-collect spawned pickups and better Free Play character selection",
+      "version_simple": "1.4.2",
+      "world_version": "1.4.2"
     }
   }
 }

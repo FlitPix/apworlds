@@ -2566,6 +2566,19 @@
       }
     },
     {
+      "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.8/apeescape.apworld",
+      "size": 715795,
+      "hash_sha256": "aabbc3c05989d655db38e034a23304f394ec7e6203c4ec0f4b9e4ee66c7426c5",
+      "metadata": {
+        "game": "Ape Escape",
+        "id": "apeescape",
+        "world_version": "0.9.8",
+        "tag_version": "0.9.8",
+        "created_at": "2026-05-13T01:43:01Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/aki665/react-native-archipelago/releases/download/0.4.0/apgo.apworld",
       "size": 53592,
       "hash_sha256": "54494fb34b7f25169747ecf567cca998d946cb0a5bf626fd342c5fbe897c047e",
@@ -8436,6 +8449,18 @@
         "tag_version": "0.9.1",
         "created_at": "2025-07-18T01:16:55Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.15.0/brotato.apworld",
+      "size": 43701,
+      "hash_sha256": "966174016f2ad4cba379e2b492ed11d6b2704eb9bac4a66b6af9cde07c58f15b",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-05-13T01:02:58Z"
       }
     },
     {
@@ -15115,6 +15140,19 @@
         "world_version": "0.18.0",
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.4/deep_rock_galactic.apworld",
+      "size": 41594,
+      "hash_sha256": "730302e37177eea9271ec2a5c183f9df793e4e217d82068fc1ccb9f574a31e02",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.18.4",
+        "tag_version": "0.18.4",
+        "created_at": "2026-05-12T17:50:24Z",
         "minimum_ap_version": "0.6.6"
       }
     },
@@ -32173,6 +32211,19 @@
       }
     },
     {
+      "world": "https://github.com/Mysteryem/Archipelago-TCS/releases/download/v1.4.2/lego_star_wars_tcs.apworld",
+      "size": 224634,
+      "hash_sha256": "694690d2d6be4bcf13a29c9ab1a8d98e08b92c34e118674f5dc18a528127d444",
+      "metadata": {
+        "game": "Lego Star Wars: The Complete Saga",
+        "id": "lego_star_wars_tcs",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2026-05-12T21:50:36Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/0.2.0-alpha/lethal_company.apworld",
       "size": 29725,
       "hash_sha256": "e97b0b4a72269070bbbfc22920e67001a26cf592bb84037dc3489ab306cc83ae",
@@ -35248,6 +35299,18 @@
         "id": "lunacid",
         "world_version": "1.0.9",
         "tag_version": "1.0.9",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.1.0/lunacid.apworld",
+      "size": 4898322,
+      "hash_sha256": "f6751671286d0748a50e9f5c80992712238af2f29d3d280420e96e7bca4324f6",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
