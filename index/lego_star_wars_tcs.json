@@ -175,6 +175,19 @@
       "title": "v1.4.2 Client Quality of Life - Auto-collect spawned pickups and better Free Play character selection",
       "version_simple": "1.4.2",
       "world_version": "1.4.2"
+    },
+    "v1.4.3": {
+      "created_at": "2026-05-13T21:13:32Z",
+      "download_url": "https://github.com/Mysteryem/Archipelago-TCS/releases/download/v1.4.3/lego_star_wars_tcs.apworld",
+      "has_manifest": true,
+      "hash_sha256": "4b0c9e714a94930648b1233f37af3a718613a8c13d5e6eca0f0566d118369bb3",
+      "minimum_ap_version": "0.6.1",
+      "size": 225311,
+      "source_url": "https://api.github.com/repos/Mysteryem/Archipelago-TCS",
+      "tag": "v1.4.3",
+      "title": "v1.4.3 Fix Universal Tracker `/next_progression` and fix IG-88/4-LOM not being picked as Protocol Droids",
+      "version_simple": "1.4.3",
+      "world_version": "1.4.3"
     }
   }
 }

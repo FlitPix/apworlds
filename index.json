@@ -7852,6 +7852,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-80/borderlands2.apworld",
+      "size": 109435,
+      "hash_sha256": "842d59d81dafd6de2d138105a14e4270b3e3a45d72cd55595b2b98ff55e1c7cb",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "80",
+        "tag_version": "80",
+        "created_at": "2026-05-13T03:45:57Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -7992,22 +8008,6 @@
         "tag_version": "0.5.3",
         "created_at": "2026-05-07T02:25:51Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-80/borderlands2.apworld",
-      "size": 109435,
-      "hash_sha256": "842d59d81dafd6de2d138105a14e4270b3e3a45d72cd55595b2b98ff55e1c7cb",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "80",
-        "tag_version": "80",
-        "created_at": "2026-05-13T03:45:57Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -32240,6 +32240,19 @@
       }
     },
     {
+      "world": "https://github.com/Mysteryem/Archipelago-TCS/releases/download/v1.4.3/lego_star_wars_tcs.apworld",
+      "size": 225311,
+      "hash_sha256": "4b0c9e714a94930648b1233f37af3a718613a8c13d5e6eca0f0566d118369bb3",
+      "metadata": {
+        "game": "Lego Star Wars: The Complete Saga",
+        "id": "lego_star_wars_tcs",
+        "world_version": "1.4.3",
+        "tag_version": "1.4.3",
+        "created_at": "2026-05-13T21:13:32Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/0.2.0-alpha/lethal_company.apworld",
       "size": 29725,
       "hash_sha256": "e97b0b4a72269070bbbfc22920e67001a26cf592bb84037dc3489ab306cc83ae",
@@ -33724,6 +33737,23 @@
         "world_version": "1.0.0.post2",
         "tag_version": "1.0.0.post2",
         "created_at": "2025-08-31T19:35:32Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
+      "size": 25615,
+      "hash_sha256": "49c786c6f6f7a853a069fedb0750b607e2115dae2f369f6239dcc7475b49935c",
+      "metadata": {
+        "game": "Library of Ruina",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-13T18:32:31Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
@@ -59318,6 +59348,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.1.1a/refunct.apworld",
+      "size": 19377,
+      "hash_sha256": "b00e59cbfa7cd62cefc8028b2275b891a342fda6d128f8f4d0df6a97af3389aa",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-05-13T18:52:41Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -78431,6 +78474,19 @@
         "tag_version": "1.3.4",
         "created_at": "2025-11-07T22:27:33Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.4.2/ty_the_tasmanian_tiger.apworld",
+      "size": 40229,
+      "hash_sha256": "71b1f9726ec3f01d3e0c83c8c4daa249caf7605db0a5c1dfada1e88fd9f7e55e",
+      "metadata": {
+        "game": "Ty the Tasmanian Tiger",
+        "id": "ty_the_tasmanian_tiger",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2026-05-13T15:55:40Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
