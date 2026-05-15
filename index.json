@@ -8011,6 +8011,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-81/borderlands2.apworld",
+      "size": 111452,
+      "hash_sha256": "8d2fd3c66a2d6558108dbe1d3e27b2c402b8e956ba814b9843975ccdab1473f0",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "81",
+        "tag_version": "81",
+        "created_at": "2026-05-14T21:07:45Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -23903,6 +23919,21 @@
         "id": "flipwitch",
         "world_version": "1.1.3",
         "tag_version": "1.1.3",
+        "created_at": "2026-04-18T00:55:04Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.4/flipwitch.apworld",
+      "size": 70967,
+      "hash_sha256": "fde689f8cdba52dc7a2fae0c031c6c0b10fe20ab837569d8ee440123a148205b",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.1.4",
+        "tag_version": "1.1.4",
         "created_at": "2026-04-18T00:55:04Z",
         "flags": [
           "after_dark"
@@ -50461,6 +50492,19 @@
       }
     },
     {
+      "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.3.5/parkitect.apworld",
+      "size": 110891,
+      "hash_sha256": "e3b8414cee0918ae931e5864d2ba0129d4529d229a6c4d42412c905d81a33b42",
+      "metadata": {
+        "game": "Parkitect",
+        "id": "parkitect",
+        "world_version": "1.3.5",
+        "tag_version": "1.3.5",
+        "created_at": "2026-05-14T15:27:11Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ThePhar/ThePasswordGameArchipelago/releases/download/1.0/password.apworld",
       "size": 6381,
       "hash_sha256": "d9d1d8b2e4482eef4a8e7dc5c22af6c5fa54acf313365fd0816f0a63d35df97b",
@@ -58091,6 +58135,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.5.0/rabi_ribi.apworld",
+      "size": 231682,
+      "hash_sha256": "a3ec465bbb9e8a43ce202686f8288f9f39b3f6a754defcff07569b93e1b6c3e2",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-05-14T16:54:21Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -78974,6 +79031,19 @@
         "world_version": "0.2.0",
         "tag_version": "0.2.0",
         "created_at": "2026-03-21T10:10:53Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/UFO-50-Archipelago/Archipelago/releases/download/0.2.1/ufo50.apworld",
+      "size": 48988,
+      "hash_sha256": "ed86ace1e4586749e14ffbda7228dcb919ceb7e0098a12e51cde06def34127b5",
+      "metadata": {
+        "game": "UFO 50",
+        "id": "ufo50",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-05-15T00:52:09Z",
         "minimum_ap_version": "0.6.4"
       }
     },
