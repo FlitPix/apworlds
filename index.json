@@ -13863,6 +13863,19 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.3/cv_dos.apworld",
+      "size": 92369,
+      "hash_sha256": "fb05c3dea69f3ae31c31979b3c4c16ca392e578642e470874691664c927bc15d",
+      "metadata": {
+        "game": "Castlevania: Dawn of Sorrow",
+        "id": "cv_dos",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2026-04-29T20:29:41Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvhodis_v1.0/cvhodis.apworld",
       "size": 67401,
       "hash_sha256": "fbf384f69c83b3f7c8e7818d565625ddffc6454ddd730c29941ae155c80eb22b",
@@ -72645,6 +72658,22 @@
       }
     },
     {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.0.0-Pre2/tcg_card_shop_simulator.apworld",
+      "size": 88089,
+      "hash_sha256": "34c4fe0fd98e94112078278fab75e7b59bfe2b022640e77fdfb1fc535164fa52",
+      "metadata": {
+        "game": "TCG Card Shop Simulator",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.0.0.post2",
+        "tag_version": "1.0.0.post2",
+        "created_at": "2026-05-15T20:29:31Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.0.1/tetrisattack.apworld",
       "size": 11457,
       "hash_sha256": "f6fc71a6e473a4a5591ba4d5348344d0084a6d1e9b0e7ac32cb71154d3cbecd8",
@@ -75725,6 +75754,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.3-alpha/tloz_ph.apworld",
+      "size": 2585990,
+      "hash_sha256": "fd8d8b3d1ec904a64dcc5735a811dc1ef6d5009560832a76e60db562d409a4d9",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.3",
+        "tag_version": "0.9.3",
+        "created_at": "2026-05-15T21:36:02Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -76159,19 +76201,6 @@
       }
     },
     {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.3-alpha/tloz_ph.apworld",
-      "size": 2585990,
-      "hash_sha256": "fd8d8b3d1ec904a64dcc5735a811dc1ef6d5009560832a76e60db562d409a4d9",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.9.3",
-        "tag_version": "0.9.3",
-        "created_at": "2026-05-15T21:36:02Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.0/tloz_st.apworld",
       "size": 260898,
       "hash_sha256": "2541e4f264aca6f60fc3b8acd4c3e1d6bd53d321e50a77aaff0468aeba5f6825",
@@ -76298,6 +76327,19 @@
         "world_version": "0.7.6",
         "tag_version": "0.7.6",
         "created_at": "2026-05-07T13:29:27Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.7/tloz_st.apworld",
+      "size": 357203,
+      "hash_sha256": "ecb09eb8e705e0661263f6483e839a80e2e0c1f94f69f7cd58c1b0b64c8f903e",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.6",
+        "tag_version": "0.7.6",
+        "created_at": "2026-05-15T14:42:21Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -76453,19 +76495,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.7/tloz_st.apworld",
-      "size": 357203,
-      "hash_sha256": "ecb09eb8e705e0661263f6483e839a80e2e0c1f94f69f7cd58c1b0b64c8f903e",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.7.6",
-        "tag_version": "0.7.6",
-        "created_at": "2026-05-15T14:42:21Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
