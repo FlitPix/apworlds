@@ -7884,6 +7884,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-82/borderlands2.apworld",
+      "size": 56544,
+      "hash_sha256": "f6940eb320729fc359cf60cd50d69fc5ee0bfa7814b5a8d911a2c9e5435f9721",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "82",
+        "tag_version": "82",
+        "created_at": "2026-05-15T04:38:12Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8024,22 +8040,6 @@
         "tag_version": "0.5.3",
         "created_at": "2026-05-07T02:25:51Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-82/borderlands2.apworld",
-      "size": 56544,
-      "hash_sha256": "f6940eb320729fc359cf60cd50d69fc5ee0bfa7814b5a8d911a2c9e5435f9721",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "82",
-        "tag_version": "82",
-        "created_at": "2026-05-15T04:38:12Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -45501,6 +45501,19 @@
       }
     },
     {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.5/mmzero3.apworld",
+      "size": 48462,
+      "hash_sha256": "21053b4bc6a55b6534af63029c8a498522a0e8e9f3c4df5d93ae36d9f0af20e2",
+      "metadata": {
+        "game": "Mega Man Zero 3",
+        "id": "mmzero3",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-05-16T00:48:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.0.1/momodoramoonlitfarewell.apworld",
       "size": 6741,
       "hash_sha256": "8302e91462092ec8ef6a30a9aae0a45818641ce181a3cd13687eacf963eed23f",
@@ -72616,6 +72629,22 @@
       }
     },
     {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.0.0-Pre2/tcg_card_shop_simulator.apworld",
+      "size": 88101,
+      "hash_sha256": "cef6c78554addd8744f28ecf3690d42e7159b8a6326d4a77f61fc1677782c6e5",
+      "metadata": {
+        "game": "TCG Card Shop Simulator",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.0.0rc2",
+        "tag_version": "1.0.0rc2",
+        "created_at": "2026-05-15T20:29:31Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.0.1/tetrisattack.apworld",
       "size": 11457,
       "hash_sha256": "f6fc71a6e473a4a5591ba4d5348344d0084a6d1e9b0e7ac32cb71154d3cbecd8",
@@ -76130,6 +76159,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.3-alpha/tloz_ph.apworld",
+      "size": 2585990,
+      "hash_sha256": "fd8d8b3d1ec904a64dcc5735a811dc1ef6d5009560832a76e60db562d409a4d9",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.3",
+        "tag_version": "0.9.3",
+        "created_at": "2026-05-15T21:36:02Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.0/tloz_st.apworld",
       "size": 260898,
       "hash_sha256": "2541e4f264aca6f60fc3b8acd4c3e1d6bd53d321e50a77aaff0468aeba5f6825",
@@ -76411,6 +76453,19 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.7/tloz_st.apworld",
+      "size": 357203,
+      "hash_sha256": "ecb09eb8e705e0661263f6483e839a80e2e0c1f94f69f7cd58c1b0b64c8f903e",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.6",
+        "tag_version": "0.7.6",
+        "created_at": "2026-05-15T14:42:21Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {

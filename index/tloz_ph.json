@@ -108,6 +108,19 @@
       "version_simple": "0.9.2",
       "world_version": "0.9.2"
     },
+    "ph-v0.9.3-alpha": {
+      "created_at": "2026-05-15T21:36:02Z",
+      "download_url": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.3-alpha/tloz_ph.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fd8d8b3d1ec904a64dcc5735a811dc1ef6d5009560832a76e60db562d409a4d9",
+      "minimum_ap_version": "0.6.3",
+      "size": 2585990,
+      "source_url": "https://api.github.com/repos/carrotinator/Archipelago",
+      "tag": "ph-v0.9.3-alpha",
+      "title": "tloz_ph AP v0.9.3-alpha",
+      "version_simple": "0.9.3",
+      "world_version": "0.9.3"
+    },
     "tloz_ph-v0.8.2-alpha": {
       "created_at": "2026-01-31T10:54:58Z",
       "download_url": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
