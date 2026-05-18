@@ -14553,6 +14553,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.1/dc1.apworld",
+      "size": 91707,
+      "hash_sha256": "4187b79017feaf9c15a4d373de41c62c8cbceb99dfb13f454ef87569fac7ec43",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-05-17T22:23:42Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DC2AP/releases/download/0.0.1/dc2.apworld",
       "size": 52154,
       "hash_sha256": "d4615813efa2f112097438694e9791af6bb95b7f032c034af3e3d96f207b5c4e",
@@ -24026,6 +24039,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.6/flipwitch.apworld",
+      "size": 71042,
+      "hash_sha256": "ba3a4e275d568ac1fb54cfed38cd854df4a7bcc4325ebdad9a8d1de81baf7973",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.1.6",
+        "tag_version": "1.1.6",
+        "created_at": "2026-05-16T17:42:26Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/sg4e/Archipelago/releases/download/v1.0.0/fm.apworld",
       "size": 70361,
       "hash_sha256": "1db5179bdb048c65b594a81c6460ff4c00d9109503219995be08564d1c55b183",
@@ -32382,6 +32410,19 @@
       }
     },
     {
+      "world": "https://github.com/Mysteryem/Archipelago-TCS/releases/download/v1.4.4/lego_star_wars_tcs.apworld",
+      "size": 225823,
+      "hash_sha256": "7628cfe7f090358cc5afadd1910053e3cca4e704d0bb50a92c576e584de54b6b",
+      "metadata": {
+        "game": "Lego Star Wars: The Complete Saga",
+        "id": "lego_star_wars_tcs",
+        "world_version": "1.4.4",
+        "tag_version": "1.4.4",
+        "created_at": "2026-05-17T16:19:49Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/0.2.0-alpha/lethal_company.apworld",
       "size": 29725,
       "hash_sha256": "e97b0b4a72269070bbbfc22920e67001a26cf592bb84037dc3489ab306cc83ae",
@@ -35507,6 +35548,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.1.1/lunacid.apworld",
+      "size": 4898322,
+      "hash_sha256": "f6751671286d0748a50e9f5c80992712238af2f29d3d280420e96e7bca4324f6",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari/madou.apworld",
       "size": 167900,
       "hash_sha256": "133e880c112ff3e50f37a5920e0db2c1e97e3fe09081a88f4c2f418b79693fb3",
@@ -36306,6 +36359,22 @@
         "world_version": "5.0.0.post6",
         "tag_version": "5.0.0.post6",
         "created_at": "2026-05-04T17:17:56Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0-RC3/manual_blocktales_wolfboi008.apworld",
+      "size": 85166,
+      "hash_sha256": "87f0785bf7b865166b8d77ded1ef69443482a2fa3f5755f9f83ebd0f2e86ba9d",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0rc3",
+        "tag_version": "5.0.0rc3",
+        "created_at": "2026-05-07T21:54:34Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -41777,6 +41846,22 @@
         "tag_version": "0.3.2",
         "created_at": "2026-04-11T05:37:48Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v1.0.0rc1/mario_kart_double_dash.apworld",
+      "size": 172968,
+      "hash_sha256": "fad61682888d1182f14b7a74f5a77800a7a4f49a1f1b9fa0af3820be13027598",
+      "metadata": {
+        "game": "Mario Kart Double Dash",
+        "id": "mario_kart_double_dash",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-17T20:39:26Z",
+        "minimum_ap_version": "0.6.0",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -48823,6 +48908,18 @@
         "world_version": "0.4.1",
         "tag_version": "0.4.1",
         "created_at": "2026-03-10T17:41:26Z"
+      }
+    },
+    {
+      "world": "https://github.com/c-ostic/Archipelago/releases/download/v0.4.2/oribf.apworld",
+      "size": 29533,
+      "hash_sha256": "87bee0a21dc89c1bc408c6bea29d2527e7914163657815e1e9682ee2c76231cb",
+      "metadata": {
+        "game": "Ori and the Blind Forest",
+        "id": "oribf",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-05-17T21:24:32Z"
       }
     },
     {
@@ -67973,6 +68070,19 @@
       }
     },
     {
+      "world": "https://github.com/fdelduque/Archipelago/releases/download/b08161/sotn.apworld",
+      "size": 271823,
+      "hash_sha256": "5ae1ba531152a8f159a6b352c5c99cc2fa8752932ed5bea0a984bfc62952d849",
+      "metadata": {
+        "game": "Symphony of the Night",
+        "id": "sotn",
+        "world_version": "0.8.16",
+        "tag_version": "0.8.16",
+        "created_at": "2026-05-17T21:25:29Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/Tranquilite0/Archipelago-SoulBlazer/releases/download/v0.1.0.beta.1/soulblazer.apworld",
       "size": 60403,
       "hash_sha256": "143321da83787395aeb61455ee1d33158e5700049b061e6fe8a9508daa083e7d",
@@ -80201,6 +80311,18 @@
         "world_version": "0.9.2.2",
         "tag_version": "0.9.2.2",
         "created_at": "2026-04-08T23:58:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.10.0/voidstranger.apworld",
+      "size": 20250,
+      "hash_sha256": "3f55db0e1a04875f4d54a0e6416a9a473e1a25c50d78192655e2f4c614652bfb",
+      "metadata": {
+        "game": "Void Stranger",
+        "id": "voidstranger",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-05-17T23:09:21Z"
       }
     },
     {
