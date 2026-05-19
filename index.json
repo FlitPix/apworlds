@@ -552,6 +552,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.2.2/albw.apworld",
+      "size": 16934442,
+      "hash_sha256": "5c2a0147ac00152f3158143471f4e75aaa46f41e43116938c7a4b998a19c8120",
+      "metadata": {
+        "game": "A Link Between Worlds",
+        "id": "albw",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-05-18T19:08:22Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.0/am2r.apworld",
       "size": 33004,
       "hash_sha256": "8d10309d941f39d8223bedb6cecc636bc509ec5f4815b05341538b703e745c69",
@@ -7913,6 +7926,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-83/borderlands2.apworld",
+      "size": 58656,
+      "hash_sha256": "5ae1b1ff614b99eb609ac5b987cc6139917ada3ce68b546c426858627320ceb5",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "83",
+        "tag_version": "83",
+        "created_at": "2026-05-18T05:52:53Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8053,22 +8082,6 @@
         "tag_version": "0.5.3",
         "created_at": "2026-05-07T02:25:51Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-83/borderlands2.apworld",
-      "size": 58656,
-      "hash_sha256": "5ae1b1ff614b99eb609ac5b987cc6139917ada3ce68b546c426858627320ceb5",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "83",
-        "tag_version": "83",
-        "created_at": "2026-05-18T05:52:53Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -15247,6 +15260,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.4.1/deep_rock_galactic.apworld",
+      "size": 41593,
+      "hash_sha256": "d2c48387c826b3d9ce97ad7bdd5a9b50e28e407636586168947c0d22e599236c",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.18.4",
+        "tag_version": "0.18.4",
+        "created_at": "2026-05-18T13:58:30Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
       "size": 16029,
       "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
@@ -15269,19 +15295,6 @@
         "world_version": "0.18.0",
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
-        "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.4.1/deep_rock_galactic.apworld",
-      "size": 41593,
-      "hash_sha256": "d2c48387c826b3d9ce97ad7bdd5a9b50e28e407636586168947c0d22e599236c",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.18.4",
-        "tag_version": "0.18.4",
-        "created_at": "2026-05-18T13:58:30Z",
         "minimum_ap_version": "0.6.6"
       }
     },
@@ -16842,6 +16855,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Release/releases/download/v1.5.5/dk64.apworld",
+      "size": 37031608,
+      "hash_sha256": "33fe8ff6d3d5fb1e0d7c5c1002f5205b7ec02f7564fa8e5b361a6449902ee922",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.5",
+        "tag_version": "1.5.5",
+        "created_at": "2026-05-18T20:00:42Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.0.0/dkc.apworld",
       "size": 56776,
       "hash_sha256": "15d2d8a12aad3d4e068bd805e8f0da29b132cbaca62ae022c3c0f4f80cc439e4",
@@ -17251,6 +17277,19 @@
         "world_version": "3.1.1",
         "tag_version": "3.1.1",
         "created_at": "2026-05-05T06:12:08Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.2/dkc2.apworld",
+      "size": 142094,
+      "hash_sha256": "834c6f4ec8f95ca03c012eccf13cf78f305b180a9f06c952e3c577557b4f3070",
+      "metadata": {
+        "game": "Donkey Kong Country 2",
+        "id": "dkc2",
+        "world_version": "3.1.2",
+        "tag_version": "3.1.2",
+        "created_at": "2026-05-19T02:41:47Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -27351,6 +27390,19 @@
         "world_version": "0.8.2",
         "tag_version": "0.8.2",
         "created_at": "2026-05-14T10:16:51Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/niieli/Niko-Archipelago/releases/download/0.8.3/hcniko.apworld",
+      "size": 43810,
+      "hash_sha256": "8b3e501b60f77d4b75101ffe4f753e40a9f6f647638455ca51c9b7b624ea6e40",
+      "metadata": {
+        "game": "Here Comes Niko!",
+        "id": "hcniko",
+        "world_version": "0.8.3",
+        "tag_version": "0.8.3",
+        "created_at": "2026-05-18T19:00:55Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -41887,6 +41939,22 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-05-17T20:39:26Z",
+        "minimum_ap_version": "0.6.0",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v1.0.0rc2/mario_kart_double_dash.apworld",
+      "size": 173839,
+      "hash_sha256": "7c0b9c1f70608866fcaa0875f444c19376eb59a60561ffe87487762d5c02c171",
+      "metadata": {
+        "game": "Mario Kart Double Dash",
+        "id": "mario_kart_double_dash",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-18T22:16:59Z",
         "minimum_ap_version": "0.6.0",
         "flags": [
           "prerelease"
@@ -78875,19 +78943,6 @@
       }
     },
     {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/v1.3.4/ty_the_tasmanian_tiger.apworld",
-      "size": 124271,
-      "hash_sha256": "a206040a4a96ef52684be1c127236d2fb97f7fab00a60d1269a46ddb50a04a26",
-      "metadata": {
-        "game": "Ty the Tasmanian Tiger",
-        "id": "ty_the_tasmanian_tiger",
-        "world_version": "1.3.4",
-        "tag_version": "1.3.4",
-        "created_at": "2025-11-07T22:27:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/1.5.0/ty_the_tasmanian_tiger.apworld",
       "size": 40335,
       "hash_sha256": "f427ce0b113813711cd8a2724ed4e242f45029a0a403bd7396cccfb3ab75fa84",
@@ -78898,6 +78953,19 @@
         "tag_version": "1.5.0",
         "created_at": "2026-05-18T14:48:58Z",
         "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-TyTheTasmanianTiger/releases/download/v1.3.4/ty_the_tasmanian_tiger.apworld",
+      "size": 124271,
+      "hash_sha256": "a206040a4a96ef52684be1c127236d2fb97f7fab00a60d1269a46ddb50a04a26",
+      "metadata": {
+        "game": "Ty the Tasmanian Tiger",
+        "id": "ty_the_tasmanian_tiger",
+        "world_version": "1.3.4",
+        "tag_version": "1.3.4",
+        "created_at": "2025-11-07T22:27:33Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
