@@ -565,6 +565,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.2.3/albw.apworld",
+      "size": 17034439,
+      "hash_sha256": "a756c9fbd7b7d2c2428a272a213d9736b6a8d2ffd73526570775fcb1da6b43db",
+      "metadata": {
+        "game": "A Link Between Worlds",
+        "id": "albw",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-05-20T03:14:27Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.0/am2r.apworld",
       "size": 33004,
       "hash_sha256": "8d10309d941f39d8223bedb6cecc636bc509ec5f4815b05341538b703e745c69",
@@ -6243,6 +6256,22 @@
       }
     },
     {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.6.0/bfm.apworld",
+      "size": 2216451,
+      "hash_sha256": "63b89b922537662fe9fa06f192a40f667209355b7648b12468be9d63c2c22a56",
+      "metadata": {
+        "game": "Brave Fencer Musashi",
+        "id": "bfm",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-05-20T01:06:42Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.1/bg3.apworld",
       "size": 14863,
       "hash_sha256": "c15ea1d2ab1070aaef34d32f3b922813645e7e17b32404d8c20f42c8d5255b5c",
@@ -7942,6 +7971,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-84/borderlands2.apworld",
+      "size": 58867,
+      "hash_sha256": "7faf66944f38966438f7ab17fedf37dbafd5409b2a0f56e8ef6269ff32ab3186",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "84",
+        "tag_version": "84",
+        "created_at": "2026-05-19T02:34:09Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8082,22 +8127,6 @@
         "tag_version": "0.5.3",
         "created_at": "2026-05-07T02:25:51Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-84/borderlands2.apworld",
-      "size": 58867,
-      "hash_sha256": "7faf66944f38966438f7ab17fedf37dbafd5409b2a0f56e8ef6269ff32ab3186",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "84",
-        "tag_version": "84",
-        "created_at": "2026-05-19T02:34:09Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -27877,6 +27906,22 @@
       }
     },
     {
+      "world": "https://github.com/BenDipp/Archipelago/releases/download/0.8.2/hitman_woa.apworld",
+      "size": 7712798,
+      "hash_sha256": "465ff087daa19abe46eb6e56c7a2f0c6ab1ee0ed566e7e80aaa7e9cfdb4175bc",
+      "metadata": {
+        "game": "HITMAN World of Assasination",
+        "id": "hitman_woa",
+        "world_version": "0.8.2",
+        "tag_version": "0.8.2",
+        "created_at": "2026-05-19T12:24:10Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/BenDipp/Archipelago/releases/download/v0.1/hitman_woa.apworld",
       "size": 135707,
       "hash_sha256": "53853e8b17b760ceacd29f79e4e0b4c3fb74bc97165c0a6ccafc36f768c2c563",
@@ -27907,22 +27952,6 @@
         "flags": [
           "after_dark",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/BenDipp/Archipelago/releases/download/0.8.2/hitman_woa.apworld",
-      "size": 7712798,
-      "hash_sha256": "465ff087daa19abe46eb6e56c7a2f0c6ab1ee0ed566e7e80aaa7e9cfdb4175bc",
-      "metadata": {
-        "game": "HITMAN World of Assasination",
-        "id": "hitman_woa",
-        "world_version": "0.8.2",
-        "tag_version": "0.8.2",
-        "created_at": "2026-05-19T12:24:10Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "after_dark"
         ]
       }
     },
@@ -51121,6 +51150,19 @@
       }
     },
     {
+      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.6.0/peak.apworld",
+      "size": 49264,
+      "hash_sha256": "1207f541c2a9129610d831934c1e82d4a4b9c6eaf309c0cfe5886bb048e62402",
+      "metadata": {
+        "game": "PEAK",
+        "id": "peak",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-05-15T20:21:32Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/lagdotcom/Archipelago/releases/download/phst-0.0.3/phantasy_star_2.apworld",
       "size": 31407,
       "hash_sha256": "790f6be4c8a43e73455f293d55bfafc63c589e4cc5a4476b9f33d4a3c7f89971",
@@ -52307,6 +52349,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.4/plateup.apworld",
+      "size": 34694,
+      "hash_sha256": "b6aa818019f92f7793a943579bc67878ef5e16231fc54724d773c5b15d4d92b1",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.6.4",
+        "tag_version": "0.2.6.4",
+        "created_at": "2026-05-19T09:09:02Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
       "size": 15365,
       "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
@@ -52317,18 +52371,6 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.4/plateup.apworld",
-      "size": 34694,
-      "hash_sha256": "b6aa818019f92f7793a943579bc67878ef5e16231fc54724d773c5b15d4d92b1",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.2.6.4",
-        "tag_version": "0.2.6.4",
-        "created_at": "2026-05-19T09:09:02Z"
       }
     },
     {
@@ -60639,6 +60681,30 @@
         "world_version": "0.3.4",
         "tag_version": "0.3.4",
         "created_at": "2026-05-19T13:14:36Z"
+      }
+    },
+    {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.7/residentevil7biohazard.apworld",
+      "size": 31159,
+      "hash_sha256": "dc11fabad7250f3a0b4c77325a2db7b1f90047914fcc55c36128620ba1a53475",
+      "metadata": {
+        "game": "Resident Evil 7",
+        "id": "residentevil7biohazard",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-05-19T21:09:01Z"
+      }
+    },
+    {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.6/residentevil7biohazard.apworld",
+      "size": 30570,
+      "hash_sha256": "d6508b075dc82bc2fe08355634086f666a9c114735c84d4d2ee0705b8eb335d3",
+      "metadata": {
+        "game": "Resident Evil 7",
+        "id": "residentevil7biohazard",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-05-19T17:41:27Z"
       }
     },
     {
