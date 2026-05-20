@@ -6272,6 +6272,22 @@
       }
     },
     {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.6.0/bfm.apworld",
+      "size": 2216455,
+      "hash_sha256": "b10954134415408666aea53d31d762b3091e87765bfe6691a32630a2f222d048",
+      "metadata": {
+        "game": "Brave Fencer Musashi",
+        "id": "bfm",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-05-20T01:06:42Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.1/bg3.apworld",
       "size": 14863,
       "hash_sha256": "c15ea1d2ab1070aaef34d32f3b922813645e7e17b32404d8c20f42c8d5255b5c",
@@ -20748,6 +20764,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.1/factorio_saws.apworld",
+      "size": 889953,
+      "hash_sha256": "b13dd0a21bb4bb2e98e87c9d4650a58f8c59b3811574e124ee10f4c310280c6d",
+      "metadata": {
+        "game": "Factorio - Space Age Without Space",
+        "id": "factorio_saws",
+        "world_version": "0.9.1",
+        "tag_version": "0.9.1",
+        "created_at": "2026-05-20T07:38:25Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.0/fe8.apworld",
       "size": 167155,
       "hash_sha256": "868ec07f4dfa231d385458a07892587188b600b52a812c3b662801c8a6a9488d",
@@ -34083,6 +34112,23 @@
         "world_version": "1.0.0.post2",
         "tag_version": "1.0.0.post2",
         "created_at": "2026-05-13T18:32:31Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-delta/lor.apworld",
+      "size": 25659,
+      "hash_sha256": "8a1776c307056b186ab29c6f123796361219aafe408d123f71cdf3fb2104abd8",
+      "metadata": {
+        "game": "Library of Ruina",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-20T10:07:38Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
@@ -48118,6 +48164,18 @@
       }
     },
     {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.4.4/okamihd.apworld",
+      "size": 50640,
+      "hash_sha256": "763ace86ee009681de463f5cbe161aafa743a812087b8fe939383f97a4856685",
+      "metadata": {
+        "game": "Okami HD",
+        "id": "okamihd",
+        "world_version": "0.4.4",
+        "tag_version": "0.4.4",
+        "created_at": "2026-05-20T06:34:23Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/old_launcher-1.0.0/old_launcher.apworld",
       "size": 15494,
       "hash_sha256": "fc62e8bc849b44e6a46301baaab01f97ef61ee4d732ddb5d23d9a61c32531147",
@@ -58546,6 +58604,19 @@
       }
     },
     {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.5.1/rabi_ribi.apworld",
+      "size": 231641,
+      "hash_sha256": "bdd25744155c1c1e47d4f3a659713c669f004f9ccfd2ad8901d6223540995a84",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.5.1",
+        "tag_version": "1.5.1",
+        "created_at": "2026-05-20T05:23:36Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Panda291/Archipelago/releases/download/v0.1.0/rac1.apworld",
       "size": 31448,
       "hash_sha256": "ea1f76fe913e76ab219c8d8853ef4dbd73b331ed283480828f056aa1823e6c71",
@@ -60684,18 +60755,6 @@
       }
     },
     {
-      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.7/residentevil7biohazard.apworld",
-      "size": 31159,
-      "hash_sha256": "dc11fabad7250f3a0b4c77325a2db7b1f90047914fcc55c36128620ba1a53475",
-      "metadata": {
-        "game": "Resident Evil 7",
-        "id": "residentevil7biohazard",
-        "world_version": "0.3.4",
-        "tag_version": "0.3.4",
-        "created_at": "2026-05-19T21:09:01Z"
-      }
-    },
-    {
       "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.6/residentevil7biohazard.apworld",
       "size": 30570,
       "hash_sha256": "d6508b075dc82bc2fe08355634086f666a9c114735c84d4d2ee0705b8eb335d3",
@@ -60705,6 +60764,18 @@
         "world_version": "0.3.4",
         "tag_version": "0.3.4",
         "created_at": "2026-05-19T17:41:27Z"
+      }
+    },
+    {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.7/residentevil7biohazard.apworld",
+      "size": 31159,
+      "hash_sha256": "dc11fabad7250f3a0b4c77325a2db7b1f90047914fcc55c36128620ba1a53475",
+      "metadata": {
+        "game": "Resident Evil 7",
+        "id": "residentevil7biohazard",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-05-19T21:09:01Z"
       }
     },
     {
