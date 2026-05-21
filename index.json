@@ -44693,6 +44693,19 @@
       }
     },
     {
+      "world": "https://github.com/qwint/APMinit/releases/download/v0.6.11/minit.apworld",
+      "size": 130238,
+      "hash_sha256": "de2058a1c16f84287162e0265178ac0a5a13b884012b8e74feafa5eb8e8f8464",
+      "metadata": {
+        "game": "Minit",
+        "id": "minit",
+        "world_version": "0.6.11",
+        "tag_version": "0.6.11",
+        "created_at": "2026-05-21T04:56:22Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Edsploration/MK64-Archipelago/releases/download/mk64/0.2/mk64.apworld",
       "size": 125991,
       "hash_sha256": "36283bb308fdbcce0bc5d4335450ea48209553207261094505462d40aa6d7483",
@@ -66604,6 +66617,22 @@
         "world_version": "1.1.7",
         "tag_version": "1.1.7",
         "created_at": "2026-05-07T02:18:01Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.8/sm64hacks.apworld",
+      "size": 296257,
+      "hash_sha256": "5219d1e731aecadc2ff419c047bad9e6e54f1bf58689cd2c895a471055a07ecb",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.7",
+        "tag_version": "1.1.7",
+        "created_at": "2026-05-21T04:48:29Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
