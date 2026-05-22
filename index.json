@@ -8162,6 +8162,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-85/borderlands2.apworld",
+      "size": 58904,
+      "hash_sha256": "f1e379eb377b84f1f36061562dc680e80b2c3e8a519782325a0db1422d1cd281",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "85",
+        "tag_version": "85",
+        "created_at": "2026-05-22T06:45:29Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -42101,6 +42117,22 @@
       }
     },
     {
+      "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v1.0.0rc3/mario_kart_double_dash.apworld",
+      "size": 174558,
+      "hash_sha256": "52e476832b2a36cc3d28cc8d3049ba2d5709f83aa51deca71209564d01636865",
+      "metadata": {
+        "game": "Mario Kart Double Dash",
+        "id": "mario_kart_double_dash",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-21T21:19:54Z",
+        "minimum_ap_version": "0.6.0",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/TheRealSolidusSnake/Mario-Is-Missing/releases/download/0.0.1/mariomissing.apworld",
       "size": 284157,
       "hash_sha256": "0871d9cbbd933ec9278be095aed4800b523f329f5671a8a5065eb5c7e4adf233",
@@ -73233,6 +73265,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.0.0-Pre3/tcg_card_shop_simulator.apworld",
+      "size": 93616,
+      "hash_sha256": "c8ed85495da7a17369b2a143a0cda413ecd526fd7dc54606954cbd21749fd3e1",
+      "metadata": {
+        "game": "TCG Card Shop Simulator",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.0.0rc3",
+        "tag_version": "1.0.0rc3",
+        "created_at": "2026-05-22T05:39:35Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
