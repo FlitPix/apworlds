@@ -6288,6 +6288,22 @@
       }
     },
     {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.6.0/bfm.apworld",
+      "size": 2216694,
+      "hash_sha256": "76ca4bb8e560c1ed75af4ec03907b62659914a8669b714010aae9c65be9efe81",
+      "metadata": {
+        "game": "Brave Fencer Musashi",
+        "id": "bfm",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-05-20T01:06:42Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.1/bg3.apworld",
       "size": 14863,
       "hash_sha256": "c15ea1d2ab1070aaef34d32f3b922813645e7e17b32404d8c20f42c8d5255b5c",
@@ -42069,6 +42085,22 @@
       }
     },
     {
+      "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v1.0.0rc3/mario_kart_double_dash.apworld",
+      "size": 174563,
+      "hash_sha256": "7792e2ff8cd322dc9cf0a0dce1d7534ede7f255408e4f9e5d68812daf2fc24f8",
+      "metadata": {
+        "game": "Mario Kart Double Dash",
+        "id": "mario_kart_double_dash",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-21T21:19:54Z",
+        "minimum_ap_version": "0.6.0",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/TheRealSolidusSnake/Mario-Is-Missing/releases/download/0.0.1/mariomissing.apworld",
       "size": 284157,
       "hash_sha256": "0871d9cbbd933ec9278be095aed4800b523f329f5671a8a5065eb5c7e4adf233",
@@ -44586,6 +44618,19 @@
       }
     },
     {
+      "world": "https://github.com/qwint/APMinit/releases/download/v0.6.11/minit.apworld",
+      "size": 130238,
+      "hash_sha256": "de2058a1c16f84287162e0265178ac0a5a13b884012b8e74feafa5eb8e8f8464",
+      "metadata": {
+        "game": "Minit",
+        "id": "minit",
+        "world_version": "0.6.11",
+        "tag_version": "0.6.11",
+        "created_at": "2026-05-21T04:56:22Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/qwint/APMinit/releases/download/v0.6.2/minit.apworld",
       "size": 160106,
       "hash_sha256": "ba99dee8861a06b5dbbe74433f9f8574caa9b46e30b66f308151991593ab38b6",
@@ -44690,19 +44735,6 @@
         "created_at": "2025-05-26T22:28:49Z",
         "minimum_ap_version": "0.5.0",
         "maximum_ap_version": "0.5.0"
-      }
-    },
-    {
-      "world": "https://github.com/qwint/APMinit/releases/download/v0.6.11/minit.apworld",
-      "size": 130238,
-      "hash_sha256": "de2058a1c16f84287162e0265178ac0a5a13b884012b8e74feafa5eb8e8f8464",
-      "metadata": {
-        "game": "Minit",
-        "id": "minit",
-        "world_version": "0.6.11",
-        "tag_version": "0.6.11",
-        "created_at": "2026-05-21T04:56:22Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -56842,6 +56874,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.2/pokepark.apworld",
+      "size": 79641,
+      "hash_sha256": "22c21ddd8d0fcb89ff7df5bb0c62624f73d8137a326fad9d4c5ab0eab96234af",
+      "metadata": {
+        "game": "PokePark",
+        "id": "pokepark",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-05-21T20:12:27Z"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1/powerwashsimulator.apworld",
       "size": 11917,
       "hash_sha256": "c88117dc5d4eddea733e8f152b3ab1258b881e80a27e71d1363a770b06cace88",
@@ -60792,6 +60836,21 @@
       }
     },
     {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.8/residentevil7biohazard.apworld",
+      "size": 30613,
+      "hash_sha256": "75b08563ab2729c4c5042930f1b918742b5a9a0784256d7c2debaabeaadac674",
+      "metadata": {
+        "game": "Resident Evil 7",
+        "id": "residentevil7biohazard",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-05-21T15:40:34Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.10.0/reventure.apworld",
       "size": 23456,
       "hash_sha256": "8567d2105c985c1cce10065c43c6b5d86edaa976d16070476da117fd9619572d",
@@ -62830,6 +62889,22 @@
         "tag_version": "1.2.1",
         "created_at": "2026-04-11T18:32:06Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.2-pre-release-1/sadx.apworld",
+      "size": 3156362,
+      "hash_sha256": "482f655dedf2ef1d366a6973b3b8d989a74f151cab3556989bc63f1f668f2e13",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-11T18:32:06Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
