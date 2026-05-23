@@ -27,6 +27,19 @@
       "title": "Devil May Cry 3 0.5.0",
       "version_simple": "0.5.0",
       "world_version": "0.5.0"
+    },
+    "v0.5.1": {
+      "created_at": "2026-05-19T08:40:46Z",
+      "download_url": "https://github.com/AshIndigo/Archipelago/releases/download/v0.5.1/dmc3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "cd99f0b911b7c9a0bf1096f35bf999ebeec44cd8507fbe5c6d800edd8525a74b",
+      "minimum_ap_version": "0.6.3",
+      "size": 28302,
+      "source_url": "https://api.github.com/repos/AshIndigo/Archipelago",
+      "tag": "v0.5.1",
+      "title": "Devil May Cry 3 0.5.1",
+      "version_simple": "0.5.1",
+      "world_version": "0.5.1"
     }
   }
 }
