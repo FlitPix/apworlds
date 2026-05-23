@@ -258,6 +258,19 @@
       "title": "Here Comes Niko! APWorld 0.8.3 - Home Textbox fix",
       "version_simple": "0.8.3",
       "world_version": "0.8.3"
+    },
+    "0.8.4": {
+      "created_at": "2026-05-23T12:51:31Z",
+      "download_url": "https://github.com/niieli/Niko-Archipelago/releases/download/0.8.4/hcniko.apworld",
+      "has_manifest": true,
+      "hash_sha256": "000de93a7664eaa39279984277b175ba0379559d7d15195fb5133a73eb1e4553",
+      "minimum_ap_version": "0.6.3",
+      "size": 43585,
+      "source_url": "https://api.github.com/repos/niieli/Niko-Archipelago",
+      "tag": "0.8.4",
+      "title": "Here Comes Niko! APWorld 0.8.4 - i forgor \ud83d\ude43",
+      "version_simple": "0.8.4",
+      "world_version": "0.8.4"
     }
   }
 }

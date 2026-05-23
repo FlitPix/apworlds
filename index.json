@@ -27539,6 +27539,19 @@
       }
     },
     {
+      "world": "https://github.com/niieli/Niko-Archipelago/releases/download/0.8.4/hcniko.apworld",
+      "size": 43585,
+      "hash_sha256": "000de93a7664eaa39279984277b175ba0379559d7d15195fb5133a73eb1e4553",
+      "metadata": {
+        "game": "Here Comes Niko!",
+        "id": "hcniko",
+        "world_version": "0.8.4",
+        "tag_version": "0.8.4",
+        "created_at": "2026-05-23T12:51:31Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Minish-Link/HeroCore-Archipelago/releases/download/v0.1.0/herocore.apworld",
       "size": 7369,
       "hash_sha256": "68b360d1c9c791313a1e0ff64b2624abee853359e9c8db319ee1028836aed316",
@@ -36356,6 +36369,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0/manual_blocktales_wolfboi008.apworld",
+      "size": 85166,
+      "hash_sha256": "87f0785bf7b865166b8d77ded1ef69443482a2fa3f5755f9f83ebd0f2e86ba9d",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0",
+        "tag_version": "5.0.0",
+        "created_at": "2026-05-22T18:05:43Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0-RC1/manual_blocktales_wolfboi008.apworld",
       "size": 84823,
       "hash_sha256": "439af78b8dfc96ad061b58b5889ba68b18be8e4746b34ba860b54720268058c5",
@@ -36625,19 +36651,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0/manual_blocktales_wolfboi008.apworld",
-      "size": 85166,
-      "hash_sha256": "87f0785bf7b865166b8d77ded1ef69443482a2fa3f5755f9f83ebd0f2e86ba9d",
-      "metadata": {
-        "game": "Manual_BlockTales_WolfBoi008",
-        "id": "manual_blocktales_wolfboi008",
-        "world_version": "5.0.0",
-        "tag_version": "5.0.0",
-        "created_at": "2026-05-22T18:05:43Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
