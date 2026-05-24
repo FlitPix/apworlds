@@ -48289,7 +48289,10 @@
         "id": "okamihd",
         "world_version": "0.4.3",
         "tag_version": "0.4.3",
-        "created_at": "2026-05-10T16:17:32Z"
+        "created_at": "2026-05-10T16:17:32Z",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -54064,6 +54067,19 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.30/pokemon_bw.apworld",
+      "size": 1094792,
+      "hash_sha256": "dd4de0fe366c180082ccac8d3acc68926b226aabf5da7f7787b9d4fa6a014029",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.30",
+        "tag_version": "0.3.30",
+        "created_at": "2026-05-07T16:35:26Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -78204,6 +78220,32 @@
         "created_at": "2025-06-20T22:35:33Z",
         "minimum_ap_version": "0.6.2",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.32/tracker.apworld",
+      "size": 88453,
+      "hash_sha256": "88bcaa38e4e80969e1c4ad2ef509a11fe227f6043a62044ef8bd99de37b229f7",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.32",
+        "tag_version": "0.2.32",
+        "created_at": "2026-05-23T22:04:40Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.31/tracker.apworld",
+      "size": 88456,
+      "hash_sha256": "f3e054a5731284fb96d6aa6bf7dadd118d05c6d5d4b030392e7096e1cfb7c05d",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.31",
+        "tag_version": "0.2.31",
+        "created_at": "2026-05-23T21:08:16Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
