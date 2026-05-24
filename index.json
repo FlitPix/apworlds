@@ -12696,6 +12696,33 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.0-pre.3/crosscode.apworld",
+      "size": 129030,
+      "hash_sha256": "a05ff70da9595cf4ec3489fbacd1aa9e72acabe52067964e980880a0b1d4d037",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.5",
+        "tag_version": "0.8.5",
+        "created_at": "2026-05-24T09:33:10Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.5/crosscode.apworld",
+      "size": 129030,
+      "hash_sha256": "a05ff70da9595cf4ec3489fbacd1aa9e72acabe52067964e980880a0b1d4d037",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.5",
+        "tag_version": "0.8.5",
+        "created_at": "2026-05-24T09:10:34Z"
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.10.0/crystal_project.apworld",
       "size": 121628,
       "hash_sha256": "c08233dcd23ea893a51c6bebe64dd39bdc39962f145515725e0f16329a6ce393",
@@ -53924,6 +53951,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.30/pokemon_bw.apworld",
+      "size": 1094792,
+      "hash_sha256": "dd4de0fe366c180082ccac8d3acc68926b226aabf5da7f7787b9d4fa6a014029",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.30",
+        "tag_version": "0.3.30",
+        "created_at": "2026-05-07T16:35:26Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.4/pokemon_bw.apworld",
       "size": 1991422,
       "hash_sha256": "4582ab9f71f788971d548d6e1253652a248a6fc1897fa752d6604d3779421eb2",
@@ -54067,19 +54107,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.30/pokemon_bw.apworld",
-      "size": 1094792,
-      "hash_sha256": "dd4de0fe366c180082ccac8d3acc68926b226aabf5da7f7787b9d4fa6a014029",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.30",
-        "tag_version": "0.3.30",
-        "created_at": "2026-05-07T16:35:26Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -78007,6 +78034,32 @@
       }
     },
     {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.31/tracker.apworld",
+      "size": 88456,
+      "hash_sha256": "f3e054a5731284fb96d6aa6bf7dadd118d05c6d5d4b030392e7096e1cfb7c05d",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.31",
+        "tag_version": "0.2.31",
+        "created_at": "2026-05-23T21:08:16Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.32/tracker.apworld",
+      "size": 88453,
+      "hash_sha256": "88bcaa38e4e80969e1c4ad2ef509a11fe227f6043a62044ef8bd99de37b229f7",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.32",
+        "tag_version": "0.2.32",
+        "created_at": "2026-05-23T22:04:40Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.3MD/tracker.apworld",
       "size": 42527,
       "hash_sha256": "ef41f57fa7d99c3f7aa4589b89833bb83520ec08dc0b29a297a597f9ea9fe4fc",
@@ -78220,32 +78273,6 @@
         "created_at": "2025-06-20T22:35:33Z",
         "minimum_ap_version": "0.6.2",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.32/tracker.apworld",
-      "size": 88453,
-      "hash_sha256": "88bcaa38e4e80969e1c4ad2ef509a11fe227f6043a62044ef8bd99de37b229f7",
-      "metadata": {
-        "game": "Universal Tracker",
-        "id": "tracker",
-        "world_version": "0.2.32",
-        "tag_version": "0.2.32",
-        "created_at": "2026-05-23T22:04:40Z",
-        "minimum_ap_version": "0.6.2"
-      }
-    },
-    {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.31/tracker.apworld",
-      "size": 88456,
-      "hash_sha256": "f3e054a5731284fb96d6aa6bf7dadd118d05c6d5d4b030392e7096e1cfb7c05d",
-      "metadata": {
-        "game": "Universal Tracker",
-        "id": "tracker",
-        "world_version": "0.2.31",
-        "tag_version": "0.2.31",
-        "created_at": "2026-05-23T21:08:16Z",
-        "minimum_ap_version": "0.6.2"
       }
     },
     {
