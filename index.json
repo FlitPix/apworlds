@@ -12666,6 +12666,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.5/crosscode.apworld",
+      "size": 129030,
+      "hash_sha256": "a05ff70da9595cf4ec3489fbacd1aa9e72acabe52067964e980880a0b1d4d037",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.8.5",
+        "tag_version": "0.8.5",
+        "created_at": "2026-05-24T09:10:34Z"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.0-pre.1/crosscode.apworld",
       "size": 146195,
       "hash_sha256": "f2cd5c61b4094d39dfd87807f908d08da32b75a6e90726662fb0c1e3b07c6079",
@@ -12711,15 +12723,18 @@
       }
     },
     {
-      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.5/crosscode.apworld",
-      "size": 129030,
-      "hash_sha256": "a05ff70da9595cf4ec3489fbacd1aa9e72acabe52067964e980880a0b1d4d037",
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.0-pre.3/crosscode.apworld",
+      "size": 146580,
+      "hash_sha256": "1f74fcb7722b01f2212cce6fef9be5eae642638b5cca1ea63290312bb0b2c025",
       "metadata": {
         "game": "CrossCode",
         "id": "crosscode",
-        "world_version": "0.8.5",
-        "tag_version": "0.8.5",
-        "created_at": "2026-05-24T09:10:34Z"
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-05-24T09:33:10Z",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -14033,6 +14048,19 @@
         "id": "cv_dos",
         "world_version": "2.0.2",
         "tag_version": "2.0.2",
+        "created_at": "2026-04-29T20:29:41Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.4/cv_dos.apworld",
+      "size": 92457,
+      "hash_sha256": "f5c86f09840eb6d82b1b76d71cb6e2f7eaa99121ad2bc9e69b589137d209a029",
+      "metadata": {
+        "game": "Castlevania: Dawn of Sorrow",
+        "id": "cv_dos",
+        "world_version": "2.0.4",
+        "tag_version": "2.0.4",
         "created_at": "2026-04-29T20:29:41Z",
         "minimum_ap_version": "0.6.3"
       }
@@ -16997,6 +17025,19 @@
         "world_version": "1.5.5",
         "tag_version": "1.5.5",
         "created_at": "2026-05-18T20:00:42Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.5.6/dk64.apworld",
+      "size": 37031564,
+      "hash_sha256": "18badc36b5a78376be6fe558c51ce624909a196c92c8aad14da40f1a653e0672",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.6",
+        "tag_version": "1.5.6",
+        "created_at": "2026-05-24T17:09:32Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -27837,6 +27878,18 @@
       }
     },
     {
+      "world": "https://github.com/TRPG0/HbkArchipelago/releases/download/0.3.0/hi_fi_rush.apworld",
+      "size": 18739,
+      "hash_sha256": "26446cfaa7a8722dc3393166cf33fd4a218f6d508ad019e9fbda0e9bee1bfc3c",
+      "metadata": {
+        "game": "Hi-Fi RUSH",
+        "id": "hi_fi_rush",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-05-24T23:20:56Z"
+      }
+    },
+    {
       "world": "https://github.com/BenDipp/Archipelago/releases/download/0.3.0/hitman_woa.apworld",
       "size": 244215,
       "hash_sha256": "7605e6339a3dc632e9a109b33ab8008576948fae6cd14a0aa3ec91bb685d4a77",
@@ -35842,6 +35895,18 @@
         "id": "lunacid",
         "world_version": "1.1.1",
         "tag_version": "1.1.1",
+        "created_at": "2025-07-02T22:10:18Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.1.2/lunacid.apworld",
+      "size": 4898325,
+      "hash_sha256": "edeadf8d700bfeb620d1634c342bef4ca404d4c49814e5d0accaf34797b4154a",
+      "metadata": {
+        "game": "Lunacid",
+        "id": "lunacid",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
         "created_at": "2025-07-02T22:10:18Z"
       }
     },
@@ -55712,6 +55777,19 @@
       }
     },
     {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.5/pokemon_crystal.apworld",
+      "size": 651665,
+      "hash_sha256": "d0067dda45950bd9e64dbf14f8a7a7e7877a28cc8aef38e741d6851a89265298",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.4.5",
+        "tag_version": "5.4.5",
+        "created_at": "2026-05-24T16:11:53Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/vyneras/Archipelago/releases/download/0.1.0-alpha/pokemon_frlg.apworld",
       "size": 648964,
       "hash_sha256": null,
@@ -60978,6 +61056,18 @@
       }
     },
     {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.4.0/residentevil7biohazard.apworld",
+      "size": 30680,
+      "hash_sha256": "9465f212e6ff52701e11910e620a3eb81dd82a12f00e24e190e1fb5e52c3755e",
+      "metadata": {
+        "game": "Resident Evil 7",
+        "id": "residentevil7biohazard",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-05-24T18:59:52Z"
+      }
+    },
+    {
       "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.10.0/reventure.apworld",
       "size": 23456,
       "hash_sha256": "8567d2105c985c1cce10065c43c6b5d86edaa976d16070476da117fd9619572d",
@@ -61435,6 +61525,22 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2024-03-04T21:45:01Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.20.0/reventure.apworld",
+      "size": 162089,
+      "hash_sha256": "3745d336f03d97f5d6e121cf12ecf167e774a35aabf3b232fdec4a9920039b93",
+      "metadata": {
+        "game": "Reventure",
+        "id": "reventure",
+        "world_version": "0.20.0",
+        "tag_version": "0.20.0",
+        "created_at": "2026-05-24T15:28:45Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -81400,6 +81506,19 @@
         "world_version": "1.3.8",
         "tag_version": "1.3.8",
         "created_at": "2026-05-21T02:59:31Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.9/waffles.apworld",
+      "size": 265542,
+      "hash_sha256": "e5ac2980de407963cd891ff1ea4bde97b70df692e7cee868a6f340a940bc1b1e",
+      "metadata": {
+        "game": "SMW: Spicy Mycena Waffles",
+        "id": "waffles",
+        "world_version": "1.3.9",
+        "tag_version": "1.3.9",
+        "created_at": "2026-05-25T01:59:46Z",
         "minimum_ap_version": "0.6.7"
       }
     },
