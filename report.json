@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 523,
-  "total_versions": 6147,
+  "total_versions": 6150,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -425,7 +425,7 @@
     "tboir": true,
     "tcg_card_shop_simulator": false,
     "tetrisattack": true,
-    "tevi": false,
+    "tevi": true,
     "th06": true,
     "th07": true,
     "th08": true,

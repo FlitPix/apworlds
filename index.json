@@ -6624,6 +6624,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.4.5/bg3.apworld",
+      "size": 105862,
+      "hash_sha256": "c5b56a5ea766e20c601e62c616fc06a0ec6703140b130c0a3a25a77a8886bc45",
+      "metadata": {
+        "game": "Baldur's Gate 3",
+        "id": "bg3",
+        "world_version": "0.4.5",
+        "tag_version": "0.4.5",
+        "created_at": "2026-05-25T07:21:41Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cynichill/APBingo/releases/download/0.1.0/Bingo.apworld",
       "size": 14220,
       "hash_sha256": "b2ce957dce41d6b3b45a24e0a276d15948284d02243c40f6692e1424764d0776",
@@ -61404,6 +61420,22 @@
       }
     },
     {
+      "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.20.0/reventure.apworld",
+      "size": 162089,
+      "hash_sha256": "3745d336f03d97f5d6e121cf12ecf167e774a35aabf3b232fdec4a9920039b93",
+      "metadata": {
+        "game": "Reventure",
+        "id": "reventure",
+        "world_version": "0.20.0",
+        "tag_version": "0.20.0",
+        "created_at": "2026-05-24T15:28:45Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.4.0/reventure.apworld",
       "size": 20536,
       "hash_sha256": "01ca76c499a4f2a5aed856391272d52785c371994d5dcacb6de2942cab9073a5",
@@ -61525,22 +61557,6 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2024-03-04T21:45:01Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.20.0/reventure.apworld",
-      "size": 162089,
-      "hash_sha256": "3745d336f03d97f5d6e121cf12ecf167e774a35aabf3b232fdec4a9920039b93",
-      "metadata": {
-        "game": "Reventure",
-        "id": "reventure",
-        "world_version": "0.20.0",
-        "tag_version": "0.20.0",
-        "created_at": "2026-05-24T15:28:45Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -74091,6 +74107,32 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.5.1/tevi.apworld",
+      "size": 84046,
+      "hash_sha256": "11f5914651b7d486692d64a611dd755f48baee34c331a8f20adc4f773185827f",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "0.7.1",
+        "tag_version": "0.7.1",
+        "created_at": "2026-05-25T07:53:14Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.5.0/tevi.apworld",
+      "size": 84012,
+      "hash_sha256": "b4f1ab7611e2e126ab6d56eba1eaca5180747694f47d237b77327720c628690e",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-05-12T11:32:59Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
