@@ -14801,6 +14801,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.4/dc1.apworld",
+      "size": 93026,
+      "hash_sha256": "e89139d7ccda86867c2eb64ab36420993d0c67f929e32e326e20a0694b3fac7f",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-05-27T23:10:58Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DC2AP/releases/download/0.0.1/dc2.apworld",
       "size": 52154,
       "hash_sha256": "d4615813efa2f112097438694e9791af6bb95b7f032c034af3e3d96f207b5c4e",
