@@ -17100,6 +17100,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.5.7/dk64.apworld",
+      "size": 37179882,
+      "hash_sha256": "9235518e77f5955e835635a750d6981cb40c4f6e8c4e171cec8245d6b411ba85",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.7",
+        "tag_version": "1.5.7",
+        "created_at": "2026-05-29T13:45:32Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.0.0/dkc.apworld",
       "size": 56776,
       "hash_sha256": "15d2d8a12aad3d4e068bd805e8f0da29b132cbaca62ae022c3c0f4f80cc439e4",
@@ -47157,6 +47170,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.33/musedash.apworld",
+      "size": 36653,
+      "hash_sha256": "99c11698020966a5d72876bc8e71cf487338ab0421c933428e17e389bdef4a75",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.33",
+        "tag_version": "1.5.33",
+        "created_at": "2026-05-29T12:15:21Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.1.0/mzm.apworld",
       "size": 91647,
       "hash_sha256": "067deb39ba7da2fd745157c70afc40608d6a51f1d003648e34d2e0fb0804399c",
@@ -73754,7 +73780,10 @@
         "world_version": "1.0.0rc5",
         "tag_version": "1.0.0rc5",
         "created_at": "2026-05-29T02:46:47Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
