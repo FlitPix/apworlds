@@ -13007,6 +13007,22 @@
       }
     },
     {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.16.0/crystal_project.apworld",
+      "size": 213516,
+      "hash_sha256": "369b682790db064ef2917add1a011babd444482462b72e3bba2901ae686ac07a",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.16.0",
+        "tag_version": "0.16.0",
+        "created_at": "2026-05-30T17:31:54Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.5.0/crystal_project.apworld",
       "size": 242135,
       "hash_sha256": "364cf700e1b81b87404be45fb83d8e5c7a20f5e6607c1ba5357a621d2e2b4d7d",
@@ -13224,22 +13240,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-05-21T22:20:48Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "tracker_included"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.16.0/crystal_project.apworld",
-      "size": 213516,
-      "hash_sha256": "369b682790db064ef2917add1a011babd444482462b72e3bba2901ae686ac07a",
-      "metadata": {
-        "game": "Crystal Project",
-        "id": "crystal_project",
-        "world_version": "0.16.0",
-        "tag_version": "0.16.0",
-        "created_at": "2026-05-30T17:31:54Z",
-        "minimum_ap_version": "0.6.4",
         "flags": [
           "tracker_included"
         ]
@@ -52346,6 +52346,19 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/PPDSArchipelago/releases/download/v0.3.0/placidplasticducksim.apworld",
+      "size": 7125,
+      "hash_sha256": "963cd99360094669a41216a64f3f8903519b72d35b0d820d1c45c3a1d33fb0bc",
+      "metadata": {
+        "game": "Placid Plastic Duck Simulator",
+        "id": "placidplasticducksim",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-05-31T06:14:26Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.1.5/plateup.apworld",
       "size": 17958,
       "hash_sha256": "c5857331c72b43cd0f613f06410efe9e3dffb1d9ee571e16574045d9a4386900",
@@ -60445,19 +60458,6 @@
       }
     },
     {
-      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.2.1/refunct.apworld",
-      "size": 20298,
-      "hash_sha256": "0e68db040d18ac21aa0e347501ee3196d22cd7f856edb8f16d07221f66625727",
-      "metadata": {
-        "game": "Refunct",
-        "id": "refunct",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2026-05-30T14:44:58Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
       "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.2.0/refunct.apworld",
       "size": 20292,
       "hash_sha256": "0393f69b10ba311ff3badb1fb3d9180c43fbd3c034cafc163f45d2e250bd6ed4",
@@ -60466,6 +60466,19 @@
         "id": "refunct",
         "world_version": "1.2.0",
         "tag_version": "1.2.0",
+        "created_at": "2026-05-30T14:44:58Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.2.1/refunct.apworld",
+      "size": 20298,
+      "hash_sha256": "0e68db040d18ac21aa0e347501ee3196d22cd7f856edb8f16d07221f66625727",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
         "created_at": "2026-05-30T14:44:58Z",
         "minimum_ap_version": "0.6.4"
       }

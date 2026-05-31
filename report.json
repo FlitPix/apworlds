@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 522,
-  "total_versions": 6177,
+  "total_versions": 6178,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -338,7 +338,7 @@
     "pikmin": false,
     "pikmin2": true,
     "pizza_tower": true,
-    "placidplasticducksim": false,
+    "placidplasticducksim": true,
     "plateup": true,
     "plok": true,
     "pmd_eos": true,
