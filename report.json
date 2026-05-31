@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 522,
-  "total_versions": 6172,
+  "total_versions": 6177,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -423,7 +423,7 @@
     "supraland": true,
     "swr": true,
     "tboir": true,
-    "tcg_card_shop_simulator": false,
+    "tcg_card_shop_simulator": true,
     "tetrisattack": true,
     "tevi": true,
     "th06": true,

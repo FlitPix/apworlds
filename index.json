@@ -13230,6 +13230,22 @@
       }
     },
     {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.16.0/crystal_project.apworld",
+      "size": 213516,
+      "hash_sha256": "369b682790db064ef2917add1a011babd444482462b72e3bba2901ae686ac07a",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.16.0",
+        "tag_version": "0.16.0",
+        "created_at": "2026-05-30T17:31:54Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v1.0.0/crystalis.apworld",
       "size": 181192,
       "hash_sha256": "be3272df8413ccea637b398847b34f0148777985716737803aa9605d4d6f1ee6",
@@ -36621,6 +36637,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/6.0.0/manual_blocktales_wolfboi008.apworld",
+      "size": 88467,
+      "hash_sha256": "957e5f5eb76944d73bf2fa5e7582de3d2b7b86e308ab37738864d0eaeb4254a0",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "6.0.0",
+        "tag_version": "6.0.0",
+        "created_at": "2026-05-30T13:32:29Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/6.0.0-RC1/manual_blocktales_wolfboi008.apworld",
       "size": 88185,
       "hash_sha256": "e8f602515819e36bbb9449ed2d8e77e6f41a7f177134b2a80cc84baa6034a47e",
@@ -36906,19 +36935,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/6.0.0/manual_blocktales_wolfboi008.apworld",
-      "size": 88467,
-      "hash_sha256": "957e5f5eb76944d73bf2fa5e7582de3d2b7b86e308ab37738864d0eaeb4254a0",
-      "metadata": {
-        "game": "Manual_BlockTales_WolfBoi008",
-        "id": "manual_blocktales_wolfboi008",
-        "world_version": "6.0.0",
-        "tag_version": "6.0.0",
-        "created_at": "2026-05-30T13:32:29Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -60429,6 +60445,32 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.2.1/refunct.apworld",
+      "size": 20298,
+      "hash_sha256": "0e68db040d18ac21aa0e347501ee3196d22cd7f856edb8f16d07221f66625727",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-05-30T14:44:58Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.2.0/refunct.apworld",
+      "size": 20292,
+      "hash_sha256": "0393f69b10ba311ff3badb1fb3d9180c43fbd3c034cafc163f45d2e250bd6ed4",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-05-30T14:44:58Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -70588,6 +70630,23 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/2.0.1-rc1/spyro2.apworld",
+      "size": 72714,
+      "hash_sha256": "687e18aef52b5fd7d823914ca04f3d764fa9c1e1d137bec8cd0cd8abb3e92e56",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-05-29T20:28:26Z",
+        "minimum_ap_version": "0.6.1",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S2AP/releases/download/full_gemsanity_31_10_25/spyro2.apworld",
       "size": 30729,
       "hash_sha256": "140e609154fe0bd3d5d15d6eea5948bd54ed750f4439fbecce2e069885ec86ab",
@@ -70678,23 +70737,6 @@
         "world_version": "6",
         "tag_version": "6",
         "created_at": "2026-01-06T21:03:55Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S2AP/releases/download/2.0.1-rc1/spyro2.apworld",
-      "size": 72714,
-      "hash_sha256": "687e18aef52b5fd7d823914ca04f3d764fa9c1e1d137bec8cd0cd8abb3e92e56",
-      "metadata": {
-        "game": "Spyro 2",
-        "id": "spyro2",
-        "world_version": "2.0.1",
-        "tag_version": "2.0.1",
-        "created_at": "2026-05-29T20:28:26Z",
-        "minimum_ap_version": "0.6.1",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -73827,6 +73869,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.1.0-Candidate1/tcg_card_shop_simulator.apworld",
+      "size": 29011,
+      "hash_sha256": "a35c443f0cec17f14cc3e903c3ea3940b3366e7008d818b5dba49b2b4df7d6e1",
+      "metadata": {
+        "game": "TCG Card Shop Simulator",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-05-30T19:42:44Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -80237,6 +80292,19 @@
         "world_version": "1.0.4",
         "tag_version": "1.0.4",
         "created_at": "2025-12-31T17:53:02Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/KScl/TyrianArchipelago/releases/download/v1.0.5/tyrian.apworld",
+      "size": 84590,
+      "hash_sha256": "85e0b35c15a41c910069b9378ac39f718000d95a58ec456051798aaeff933988",
+      "metadata": {
+        "game": "Tyrian",
+        "id": "tyrian",
+        "world_version": "1.0.5",
+        "tag_version": "1.0.5",
+        "created_at": "2026-05-30T14:17:34Z",
         "minimum_ap_version": "0.6.3"
       }
     },

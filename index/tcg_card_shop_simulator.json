@@ -297,6 +297,19 @@
       "title": "Archipelago v1.0.0-Pre5",
       "version_simple": "1.0.0",
       "world_version": "1.0.0rc5"
+    },
+    "v1.1.0-Candidate1": {
+      "created_at": "2026-05-30T19:42:44Z",
+      "download_url": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.1.0-Candidate1/tcg_card_shop_simulator.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a35c443f0cec17f14cc3e903c3ea3940b3366e7008d818b5dba49b2b4df7d6e1",
+      "minimum_ap_version": "0.6.5",
+      "size": 29011,
+      "source_url": "https://api.github.com/repos/FyreDay/Archipelago-TCGCardShopSimulator",
+      "tag": "v1.1.0-Candidate1",
+      "title": "Archipelago v1.1.0-Candidate1",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
     }
   }
 }

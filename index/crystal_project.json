@@ -188,6 +188,19 @@
       "version_simple": "0.15.0",
       "world_version": "0.15.0"
     },
+    "CrystalProject-v0.16.0": {
+      "created_at": "2026-05-30T17:31:54Z",
+      "download_url": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.16.0/crystal_project.apworld",
+      "has_manifest": true,
+      "hash_sha256": "369b682790db064ef2917add1a011babd444482462b72e3bba2901ae686ac07a",
+      "minimum_ap_version": "0.6.4",
+      "size": 213516,
+      "source_url": "https://api.github.com/repos/Emerassi/CrystalProjectAPWorld",
+      "tag": "CrystalProject-v0.16.0",
+      "title": "Crystal Project Version 0.16.0",
+      "version_simple": "0.16.0",
+      "world_version": "0.16.0"
+    },
     "CrystalProject-v0.5.0": {
       "created_at": "2025-06-07T19:33:25Z",
       "download_url": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.5.0/crystal_project.apworld",
