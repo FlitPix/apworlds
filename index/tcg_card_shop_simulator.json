@@ -304,6 +304,7 @@
       "has_manifest": true,
       "hash_sha256": "a35c443f0cec17f14cc3e903c3ea3940b3366e7008d818b5dba49b2b4df7d6e1",
       "minimum_ap_version": "0.6.5",
+      "prerelease": true,
       "size": 29011,
       "source_url": "https://api.github.com/repos/FyreDay/Archipelago-TCGCardShopSimulator",
       "tag": "v1.1.0-Candidate1",
