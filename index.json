@@ -12783,6 +12783,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.0/crosscode.apworld",
+      "size": 146978,
+      "hash_sha256": "26fac9bf968aac4e963636e59ed7f8605f2988cf349773b51f0d70dfe4fd1d9e",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-05-31T20:13:30Z"
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.10.0/crystal_project.apworld",
       "size": 121628,
       "hash_sha256": "c08233dcd23ea893a51c6bebe64dd39bdc39962f145515725e0f16329a6ce393",
