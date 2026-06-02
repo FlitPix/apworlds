@@ -10488,6 +10488,19 @@
       }
     },
     {
+      "world": "https://github.com/Samupo/ChainedEchoesAPWorld/releases/download/v1.1.0/chainedechoes.apworld",
+      "size": 21853,
+      "hash_sha256": "5321f0ee687fb32f7e0d0893d09f46ed3ae213dd71b00d8a024af965cd3bd9a8",
+      "metadata": {
+        "game": "Chained Echoes",
+        "id": "chainedechoes",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-06-01T22:06:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/chesslogic/chessv/releases/download/v0.0/checksmate.apworld",
       "size": 48366,
       "hash_sha256": "09d63684319abc17314a67aa857efa27d4705e873eb62dea16efd451cb0d7727",
@@ -14851,6 +14864,19 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-05-27T23:10:58Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.5/dc1.apworld",
+      "size": 93026,
+      "hash_sha256": "e89139d7ccda86867c2eb64ab36420993d0c67f929e32e326e20a0694b3fac7f",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-01T20:14:50Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -42442,6 +42468,19 @@
       }
     },
     {
+      "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v1.0.0/mario_kart_double_dash.apworld",
+      "size": 174825,
+      "hash_sha256": "0fa876e6ed59b7ba996af9ab76c055ef66985bbcb5ff8b4771352013734ccce1",
+      "metadata": {
+        "game": "Mario Kart Double Dash",
+        "id": "mario_kart_double_dash",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-31T13:42:13Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v1.0.0rc1/mario_kart_double_dash.apworld",
       "size": 172968,
       "hash_sha256": "fad61682888d1182f14b7a74f5a77800a7a4f49a1f1b9fa0af3820be13027598",
@@ -42519,19 +42558,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v1.0.0/mario_kart_double_dash.apworld",
-      "size": 174825,
-      "hash_sha256": "0fa876e6ed59b7ba996af9ab76c055ef66985bbcb5ff8b4771352013734ccce1",
-      "metadata": {
-        "game": "Mario Kart Double Dash",
-        "id": "mario_kart_double_dash",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-05-31T13:42:13Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -45169,6 +45195,19 @@
         "created_at": "2025-05-26T22:28:49Z",
         "minimum_ap_version": "0.5.0",
         "maximum_ap_version": "0.5.0"
+      }
+    },
+    {
+      "world": "https://github.com/qwint/APMinit/releases/download/v0.6.12/minit.apworld",
+      "size": 130239,
+      "hash_sha256": "e040cf870641db2adc90f21bfec754804a93dc15b4c70f1053477cef15350a97",
+      "metadata": {
+        "game": "Minit",
+        "id": "minit",
+        "world_version": "0.6.11",
+        "tag_version": "0.6.11",
+        "created_at": "2026-06-01T17:28:17Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -73935,6 +73974,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.1.0/tcg_card_shop_simulator.apworld",
+      "size": 30553,
+      "hash_sha256": "5610eb80035ab380d41bd91e5e0bcbd92e8717882791f50cf870336a4be3195b",
+      "metadata": {
+        "game": "TCG Card Shop Simulator",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-06-01T05:48:21Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
