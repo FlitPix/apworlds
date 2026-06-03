@@ -75,6 +75,18 @@
       "title": "Backlog Expedition APWorld v1.2.1",
       "version_simple": "1.2.1",
       "world_version": "1.2.1"
+    },
+    "v3.0.0": {
+      "created_at": "2026-06-03T16:46:04Z",
+      "download_url": "https://github.com/Nikkilites/Archipelago-BacklogExpedition-APWorld/releases/download/v3.0.0/backlog_expedition.apworld",
+      "has_manifest": false,
+      "hash_sha256": "6eaa52363b53e21067b257ee50dd79ac03d588cdd139a3cd994f56997feb1f4e",
+      "size": 509863,
+      "source_url": "https://api.github.com/repos/Nikkilites/Archipelago-BacklogExpedition-APWorld",
+      "tag": "v3.0.0",
+      "title": "Backlog Expedition AP World v3.0.0",
+      "version_simple": "3.0.0",
+      "world_version": "3.0.0"
     }
   }
 }
