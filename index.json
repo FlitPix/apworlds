@@ -25636,6 +25636,19 @@
       }
     },
     {
+      "world": "https://github.com/Smg065/GloverArchipelago/releases/download/v1.1.0/glover.apworld",
+      "size": 501550,
+      "hash_sha256": "13e6d053becb923219d48443d6d5a7a7063e37e00bf50008f525f90e76b757d1",
+      "metadata": {
+        "game": "Glover",
+        "id": "glover",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-03-18T17:54:17Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/grimdawn-v0.1.2/grim_dawn.apworld",
       "size": 43696,
       "hash_sha256": "32b717b34f012c9cee21fa1036e0cafcbd8f4ce88ef972876d423c44b51500a1",
@@ -45321,6 +45334,19 @@
       }
     },
     {
+      "world": "https://github.com/Edsploration/MK64-Archipelago/releases/download/mk64/0.2.6/mk64.apworld",
+      "size": 126372,
+      "hash_sha256": "0aeb76136185ea7bdedc1541e579625d37a261ea98c829e9fb5c0a25f81a3bb9",
+      "metadata": {
+        "game": "Mario Kart 64",
+        "id": "mk64",
+        "world_version": "0.2.6",
+        "tag_version": "0.2.6",
+        "created_at": "2026-04-12T10:07:42Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Silvris/Archipelago/releases/download/mm3_0.0.1/mm3.apworld",
       "size": 77279,
       "hash_sha256": "e59a6fb7bc6083737d19a69724d70b5d97a0dcde116407c8223fcfa394caeadd",
@@ -52444,6 +52470,19 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2026-05-31T06:14:26Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/PPDSArchipelago/releases/download/v0.3.1/placidplasticducksim.apworld",
+      "size": 7125,
+      "hash_sha256": "963cd99360094669a41216a64f3f8903519b72d35b0d820d1c45c3a1d33fb0bc",
+      "metadata": {
+        "game": "Placid Plastic Duck Simulator",
+        "id": "placidplasticducksim",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-06-02T19:19:35Z",
         "minimum_ap_version": "0.6.5"
       }
     },

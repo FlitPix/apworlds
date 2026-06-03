@@ -40,6 +40,18 @@
       "title": "Glover AP v1.0.1",
       "version_simple": "1.0.1",
       "world_version": "1.0.1"
+    },
+    "v1.1.0": {
+      "created_at": "2026-03-18T17:54:17Z",
+      "download_url": "https://github.com/Smg065/GloverArchipelago/releases/download/v1.1.0/glover.apworld",
+      "has_manifest": false,
+      "hash_sha256": "13e6d053becb923219d48443d6d5a7a7063e37e00bf50008f525f90e76b757d1",
+      "size": 501550,
+      "source_url": "https://api.github.com/repos/Smg065/GloverArchipelago",
+      "tag": "v1.1.0",
+      "title": "Glover AP v1.1.0",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
     }
   }
 }
