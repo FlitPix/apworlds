@@ -9982,6 +9982,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.10.0/casualtiesunknown.apworld",
+      "size": 97486,
+      "hash_sha256": "9127cd1901d6ab4bfb3a6d9841197de66bd669c8d6dd19aa6641c97307a6e17d",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-06-05T09:31:34Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -36786,6 +36799,32 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/6.0.1/manual_blocktales_wolfboi008.apworld",
+      "size": 88471,
+      "hash_sha256": "34d9306a93ea345975c0937f9f36bc6bd0cbe0f90d82094da2c598558224ccad",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "6.0.1",
+        "tag_version": "6.0.1",
+        "created_at": "2026-05-30T13:35:30Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/6.0.2/manual_blocktales_wolfboi008.apworld",
+      "size": 88513,
+      "hash_sha256": "4918a6244b0c6f2a9e9c33d7870fed15e39ad098d2d7de8a1d2943cfa29dd1a7",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "6.0.2",
+        "tag_version": "6.0.2",
+        "created_at": "2026-06-05T00:52:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-4.0.0-1/manual_blocktales_wolfboi008.apworld",
       "size": 52109,
       "hash_sha256": "babcb30031c4c1b3aa37bddeaeda7010a52cc433e81d41265c2416fca1936b2a",
@@ -37039,32 +37078,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/6.0.2/manual_blocktales_wolfboi008.apworld",
-      "size": 88513,
-      "hash_sha256": "4918a6244b0c6f2a9e9c33d7870fed15e39ad098d2d7de8a1d2943cfa29dd1a7",
-      "metadata": {
-        "game": "Manual_BlockTales_WolfBoi008",
-        "id": "manual_blocktales_wolfboi008",
-        "world_version": "6.0.2",
-        "tag_version": "6.0.2",
-        "created_at": "2026-06-05T00:52:31Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/6.0.1/manual_blocktales_wolfboi008.apworld",
-      "size": 88471,
-      "hash_sha256": "34d9306a93ea345975c0937f9f36bc6bd0cbe0f90d82094da2c598558224ccad",
-      "metadata": {
-        "game": "Manual_BlockTales_WolfBoi008",
-        "id": "manual_blocktales_wolfboi008",
-        "world_version": "6.0.1",
-        "tag_version": "6.0.1",
-        "created_at": "2026-05-30T13:35:30Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -73473,6 +73486,22 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2026-01-24T04:52:09Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DrNjitram/ArchipelagoSupra/releases/download/V0.3.0/supraland.apworld",
+      "size": 227033,
+      "hash_sha256": "2fea542e6ffa9c522148fcd00dbee641f7b0ebbb0eb8729e83f65f2d40fa0abc",
+      "metadata": {
+        "game": "Supraland",
+        "id": "supraland",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-06-05T07:54:27Z",
         "minimum_ap_version": "0.6.6",
         "flags": [
           "prerelease"
