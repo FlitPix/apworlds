@@ -6682,6 +6682,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.5.0/bg3.apworld",
+      "size": 94876,
+      "hash_sha256": "001eff65dc195c4831d4c3fb5607b51e598f24cf14958337630f152ea4348438",
+      "metadata": {
+        "game": "Baldur's Gate 3",
+        "id": "bg3",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-04T23:50:29Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cynichill/APBingo/releases/download/0.1.0/Bingo.apworld",
       "size": 14220,
       "hash_sha256": "b2ce957dce41d6b3b45a24e0a276d15948284d02243c40f6692e1424764d0776",
@@ -37026,6 +37042,32 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/6.0.2/manual_blocktales_wolfboi008.apworld",
+      "size": 88513,
+      "hash_sha256": "4918a6244b0c6f2a9e9c33d7870fed15e39ad098d2d7de8a1d2943cfa29dd1a7",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "6.0.2",
+        "tag_version": "6.0.2",
+        "created_at": "2026-06-05T00:52:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/6.0.1/manual_blocktales_wolfboi008.apworld",
+      "size": 88471,
+      "hash_sha256": "34d9306a93ea345975c0937f9f36bc6bd0cbe0f90d82094da2c598558224ccad",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "6.0.1",
+        "tag_version": "6.0.1",
+        "created_at": "2026-05-30T13:35:30Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Archipelago_Manuals/releases/download/cmz-0.4/manual_castleminerz_garbo.apworld",
       "size": 40155,
       "hash_sha256": "1f708c1131a2aa12ab79d5a38e417f708460707fd3c309dee4f870e7688191af",
@@ -40954,6 +40996,18 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2026-02-20T22:35:36Z"
+      }
+    },
+    {
+      "world": "https://github.com/IThisGuyHere/SkylandersGiants_Manual/releases/download/v1.1.1/manual_skylandersgiants_thisguyhere.apworld",
+      "size": 81748,
+      "hash_sha256": "edb1929995992c5e779eeb90473dc59d971fb602d06f56cfdbdc61e02b936e4c",
+      "metadata": {
+        "game": "Manual_SkylandersGiants_ThisGuyHere",
+        "id": "manual_skylandersgiants_thisguyhere",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-06-05T01:27:20Z"
       }
     },
     {
