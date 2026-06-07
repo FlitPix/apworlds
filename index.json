@@ -64705,6 +64705,19 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.6/shadow_the_hedgehog.apworld",
+      "size": 238323,
+      "hash_sha256": "8f0267ff72965be2318ee636d0eb0dbe305f2b35f5b6ca9f27544415fe17a98a",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.4.6",
+        "tag_version": "0.4.6",
+        "created_at": "2026-06-07T09:08:35Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/jjjj12212/Archipelago-Shadowgate64/releases/download/V0.1/shadowgate64.apworld",
       "size": 29907,
       "hash_sha256": "b05154eae3bbc324df9e01a1e1211ff902191ebcb5b3d493a41ae33c187e7546",
