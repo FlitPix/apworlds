@@ -223,6 +223,19 @@
       "version_simple": "1.4.4",
       "world_version": "1.4.4"
     },
+    "1.4.5-M2": {
+      "created_at": "2026-04-27T05:34:34Z",
+      "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.5-M2/am2r.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b7c8afc47998a7a1e782a00b07eaea3325be87a268aed889b4f3015ac66f0818",
+      "minimum_ap_version": "0.5.0",
+      "size": 35280,
+      "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
+      "tag": "1.4.5-M2",
+      "title": "1.4.5-M2",
+      "version_simple": "1.4.5",
+      "world_version": "1.4.5"
+    },
     "beta-2": {
       "created_at": "2024-02-05T01:20:44Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/beta-2/am2r.apworld",
