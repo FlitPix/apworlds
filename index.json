@@ -20197,6 +20197,19 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.4/earthbound.apworld",
+      "size": 367329,
+      "hash_sha256": "4123bb539194882da602aa2d1b84e8ffe51376a103edcdeccc090a94a59d285b",
+      "metadata": {
+        "game": "EarthBound",
+        "id": "earthbound",
+        "world_version": "4.4.0",
+        "tag_version": "4.4.0",
+        "created_at": "2026-04-29T20:29:41Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.1/enderlilies.apworld",
       "size": 61133,
       "hash_sha256": "6045c672cfca36b0a4227f58f9dbbfc1f07e59aadc6c866c437d8ce715803098",
@@ -25686,6 +25699,19 @@
         "world_version": "2.1.5",
         "tag_version": "2.1.5",
         "created_at": "2026-04-10T08:03:45Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.6/gl.apworld",
+      "size": 381650,
+      "hash_sha256": "e26499498f338c1efcea57c353d25cc4f983dc8759f4a9529f97bf15a0e97d76",
+      "metadata": {
+        "game": "Gauntlet Legends",
+        "id": "gl",
+        "world_version": "2.1.6",
+        "tag_version": "2.1.6",
+        "created_at": "2026-06-10T00:52:06Z",
         "minimum_ap_version": "0.6.6"
       }
     },
@@ -54180,6 +54206,19 @@
         "world_version": "2.0.0",
         "tag_version": "2.0.0",
         "created_at": "2026-05-03T03:06:23Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/stubobis1/Archipelago/releases/download/2.1.0/poe.apworld",
+      "size": 2805004,
+      "hash_sha256": "85fa93ef812d2b55b6f1fbbb2f90c3700311cb3d5866df0275af588525841f2d",
+      "metadata": {
+        "game": "Path of Exile",
+        "id": "poe",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-06-10T00:38:07Z",
         "minimum_ap_version": "0.6.3"
       }
     },
