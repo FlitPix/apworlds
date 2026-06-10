@@ -17432,276 +17432,6 @@
       }
     },
     {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v0.1.0/dkc2.apworld",
-      "size": 38188,
-      "hash_sha256": "3f76706bdd1c0ad81b5316b9577339fe6ae04c47c72572231ad71eb84782631b",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2024-11-09T06:19:48Z"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v0.1.1/dkc2.apworld",
-      "size": 38792,
-      "hash_sha256": "79b60a7a2981298723daf89c2c853ab1fd39a422e4a6f1bdd7dad71ffce79f66",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2024-11-15T05:22:02Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v1.0.0/dkc2.apworld",
-      "size": 64743,
-      "hash_sha256": "168a4781c0bca4b81abad7cde6f1af7ec049b60ece16158af63de467c9c4698a",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2024-12-31T23:55:47Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v1.0.1/dkc2.apworld",
-      "size": 64772,
-      "hash_sha256": "0cad3301de4a623a6ece290c78a5e88e366dcf585697ab33f5a4449473f8aafe",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2025-01-03T01:19:49Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v2.0.0/dkc2.apworld",
-      "size": 102344,
-      "hash_sha256": "daebfae9ffba08246e868cd6d92e08cf6772d31942636449adee47f6a66a7f53",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2025-01-18T05:17:25Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v2.1.0/dkc2.apworld",
-      "size": 109054,
-      "hash_sha256": "1d14290a19b1a1c1df75b3b05bba5b5ab7532f2de898ad784f9a28dc700cf007",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "2.1.0",
-        "tag_version": "2.1.0",
-        "created_at": "2025-03-11T04:50:46Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v2.1.1/dkc2.apworld",
-      "size": 109135,
-      "hash_sha256": "d9103494053379a9d6750784e797046298ac46a4d4f39cacc48498f6844ce997",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "2.1.1",
-        "tag_version": "2.1.1",
-        "created_at": "2025-03-20T04:14:02Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v2.1.2/dkc2.apworld",
-      "size": 117495,
-      "hash_sha256": "873546a795c05a8f893b07925c3f5e264952aa7467b796773b7d2c51f659cf10",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "2.1.2",
-        "tag_version": "2.1.2",
-        "created_at": "2025-04-03T23:40:37Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v2.2.0/dkc2.apworld",
-      "size": 118689,
-      "hash_sha256": "17ad901ee472f4a5ad59b7559cbb85f2a9694c27205c599805d4c629626e89e3",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "2.2.0",
-        "tag_version": "2.2.0",
-        "created_at": "2025-04-10T22:56:12Z"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v2.2.0/dkc2.apworld",
-      "size": 118683,
-      "hash_sha256": "80c8ea30bee25af8cd813bb604692c5903cb0d10965c3524c6cf9b472b5daa98",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "2.2.0.post2",
-        "tag_version": "2.2.0.post2",
-        "created_at": "2025-04-10T22:56:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v2.3.0/dkc2.apworld",
-      "size": 128828,
-      "hash_sha256": "d9aef2e7b58dac0e4b83d7f9de5c6d2fddcad9dbc13acac61973d2da4a424d27",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "2.3.0",
-        "tag_version": "2.3.0",
-        "created_at": "2025-07-18T02:20:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.0.0/dkc2.apworld",
-      "size": 145216,
-      "hash_sha256": "0fc659e5bd12b3cf5f6dff12f9eeb95cc4922b57d8539333598ee19dbf296bf0",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.0.0",
-        "tag_version": "3.0.0",
-        "created_at": "2025-08-12T02:32:48Z"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.0.0/dkc2.apworld",
-      "size": 145231,
-      "hash_sha256": "e1b954edaa6649f4ddc68365719b0de4cc5abf11c3f8f479e295be641600926d",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.0.0.post2",
-        "tag_version": "3.0.0.post2",
-        "created_at": "2025-08-12T02:32:48Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.0.1/dkc2.apworld",
-      "size": 145244,
-      "hash_sha256": "cbf4d1ad61c625f4b1562f9a15033a88531e9d577068da9733f6b2d4c704a3ae",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.0.1",
-        "tag_version": "3.0.1",
-        "created_at": "2025-08-12T00:41:43Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.0.2/dkc2.apworld",
-      "size": 701987,
-      "hash_sha256": "92268892a4014a221a5ee3a17c3388575fff63858e168e4cdf24c3c54653bb40",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.0.2",
-        "tag_version": "3.0.2",
-        "created_at": "2025-08-27T21:06:29Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.0.3/dkc2.apworld",
-      "size": 143683,
-      "hash_sha256": "1b9ffe29eb8d6f231d051f2cd25b11b1ddb8fbc879919f2d3bb6c71398c90dea",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.0.3",
-        "tag_version": "3.0.3",
-        "created_at": "2025-09-30T02:02:28Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.0.4/dkc2.apworld",
-      "size": 143783,
-      "hash_sha256": "38a13fd71c6bb524ac1b519e9d2ed66eceb8a94b231e3167a7d0efa24e2c2673",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.0.4",
-        "tag_version": "3.0.4",
-        "created_at": "2025-10-02T01:10:45Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.0/dkc2.apworld",
-      "size": 111110,
-      "hash_sha256": "74196c8262bc14d68f1ee4de96b2c9a689bc4d8651261fef3fa7cda6a0dda5c6",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.1.0",
-        "tag_version": "3.1.0",
-        "created_at": "2026-03-31T05:35:46Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.0/dkc2.apworld",
-      "size": 147306,
-      "hash_sha256": "1d83578d1db1775ccb38d24e8fcb72731e597c5a572497d28616456aff334c72",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.1.0",
-        "tag_version": "3.1.0",
-        "created_at": "2026-03-31T05:35:46Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.1/dkc2.apworld",
-      "size": 142070,
-      "hash_sha256": "3fe62d167959aefa3ea35620e46aa904ea50de64f7d687316aa4e8e72986310e",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.1.1",
-        "tag_version": "3.1.1",
-        "created_at": "2026-05-05T06:12:08Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.2/dkc2.apworld",
-      "size": 142094,
-      "hash_sha256": "834c6f4ec8f95ca03c012eccf13cf78f305b180a9f06c952e3c577557b4f3070",
-      "metadata": {
-        "game": "Donkey Kong Country 2",
-        "id": "dkc2",
-        "world_version": "3.1.2",
-        "tag_version": "3.1.2",
-        "created_at": "2026-05-19T02:41:47Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
       "world": "https://github.com/AshIndigo/Archipelago/releases/download/v0.4.0/dmc3.apworld",
       "size": 26053,
       "hash_sha256": "5c820d7e64f2afa9c2f840bd83236c70dae335a9984c695025648c9631f7ec85",
@@ -19236,97 +18966,6 @@
       }
     },
     {
-      "world": "https://github.com/LLCoolDave/Duke3DAP/releases/download/0.0.1-alpha/duke3d.apworld",
-      "size": 95514,
-      "hash_sha256": "cc3eafd7f7349ffbd44c9a64ec9af13ec0a68c5f8dd41d05314e2b2c11d65d5b",
-      "metadata": {
-        "game": "Duke Nukem 3D",
-        "id": "duke3d",
-        "world_version": "0.0.1a0",
-        "tag_version": "0.0.1a0",
-        "created_at": "2023-12-04T19:31:15Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/LLCoolDave/Duke3DAP/releases/download/0.0.3-alpha/duke3d.apworld",
-      "size": 98408,
-      "hash_sha256": "96fa5cfbb84c4aac92ab2adb7191cf77a237c27616a16502a36653b84564031b",
-      "metadata": {
-        "game": "Duke Nukem 3D",
-        "id": "duke3d",
-        "world_version": "0.0.3",
-        "tag_version": "0.0.3",
-        "created_at": "2023-12-09T12:18:14Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/LLCoolDave/Duke3DAP/releases/download/0.0.4/duke3d.apworld",
-      "size": 113104,
-      "hash_sha256": "aa355c0fcc93a4d8054bfc6696c32a500a7ff4e33b2faa7e25c312cb0ef3fcb3",
-      "metadata": {
-        "game": "Duke Nukem 3D",
-        "id": "duke3d",
-        "world_version": "0.0.4",
-        "tag_version": "0.0.4",
-        "created_at": "2024-03-28T20:21:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/LLCoolDave/Duke3DAP/releases/download/0.0.5/duke3d.apworld",
-      "size": 113226,
-      "hash_sha256": "43fc62d9c376b08c9aa88569d39fb0eb1e713bb902b00ea88b05259afe9b5e4c",
-      "metadata": {
-        "game": "Duke Nukem 3D",
-        "id": "duke3d",
-        "world_version": "0.0.5",
-        "tag_version": "0.0.5",
-        "created_at": "2024-04-14T14:14:55Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/LLCoolDave/Duke3DAP/releases/download/0.0.6/duke3d.apworld",
-      "size": 113282,
-      "hash_sha256": "d0d619a88a360ce04d8a26a203456b3bc1fbcad5df6a4e715dea1156b595c41e",
-      "metadata": {
-        "game": "Duke Nukem 3D",
-        "id": "duke3d",
-        "world_version": "0.0.6",
-        "tag_version": "0.0.6",
-        "created_at": "2024-11-19T14:45:39Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/LLCoolDave/Duke3DAP/releases/download/0.0.7/duke3d.apworld",
-      "size": 112545,
-      "hash_sha256": "0618a6184bbbcd8ef2efa0f2d52afae27aceed81570b123ab28f7a14e38429d1",
-      "metadata": {
-        "game": "Duke Nukem 3D",
-        "id": "duke3d",
-        "world_version": "0.0.7",
-        "tag_version": "0.0.7",
-        "created_at": "2025-01-08T21:06:16Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/LLCoolDave/Duke3DAP/releases/download/0.0.8/duke3d.apworld",
-      "size": 112491,
-      "hash_sha256": "8e4cf43e9eddc6337155ccc76204557a9fbd43bc6646e07d48d50b182f69424f",
-      "metadata": {
-        "game": "Duke Nukem 3D",
-        "id": "duke3d",
-        "world_version": "0.0.8",
-        "tag_version": "0.0.8",
-        "created_at": "2025-02-02T20:05:09Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/agilbert1412/Clawrchipelago/releases/download/1.0.0/dungeon_clawler_1.0.0.apworld",
       "size": 25537,
       "hash_sha256": "06750fbac570c48a19dd82d7572c0801a3d44d60649517d739c4bf34037f2415",
@@ -20207,100 +19846,6 @@
         "tag_version": "4.4.0",
         "created_at": "2026-04-29T20:29:41Z",
         "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.1/enderlilies.apworld",
-      "size": 61133,
-      "hash_sha256": "6045c672cfca36b0a4227f58f9dbbfc1f07e59aadc6c866c437d8ce715803098",
-      "metadata": {
-        "game": "Ender Lilies",
-        "id": "enderlilies",
-        "world_version": "0.1",
-        "tag_version": "0.1",
-        "created_at": "2023-10-16T19:35:39Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.4/enderlilies.apworld",
-      "size": 71668,
-      "hash_sha256": "f70f34c7e06162e3fbdfe60ef0afce49f9de484b3c7d6bdd1d5258deeac02367",
-      "metadata": {
-        "game": "Ender Lilies",
-        "id": "enderlilies",
-        "world_version": "0.4",
-        "tag_version": "0.4",
-        "created_at": "2023-10-25T09:26:06Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.4b/enderlilies.apworld",
-      "size": 68536,
-      "hash_sha256": "2a181c19e7360815919d50b206b51debd6f4fa581d7ffced224ff74036aaf352",
-      "metadata": {
-        "game": "Ender Lilies",
-        "id": "enderlilies",
-        "world_version": "0.4b0",
-        "tag_version": "0.4b0",
-        "created_at": "2023-10-29T19:42:39Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.5/enderlilies.apworld",
-      "size": 54926,
-      "hash_sha256": "e59af548f2852b2cfec7ed49a88a54bec02a6b02cdbbf7adaad7d8a9a4fd9b3e",
-      "metadata": {
-        "game": "Ender Lilies",
-        "id": "enderlilies",
-        "world_version": "0.5",
-        "tag_version": "0.5",
-        "created_at": "2023-11-02T13:35:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.6/enderlilies.apworld",
-      "size": 66717,
-      "hash_sha256": "d8f6e1257bf928364e832deaadd9145881c405e0f5d6feb97453db2ab74b61cf",
-      "metadata": {
-        "game": "Ender Lilies",
-        "id": "enderlilies",
-        "world_version": "0.6",
-        "tag_version": "0.6",
-        "created_at": "2023-11-11T20:18:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.7/enderlilies.apworld",
-      "size": 117617,
-      "hash_sha256": "fdb9508c98b5bca7abefa427c31569bcb4225116eddaa3c43eaeca0a1a4c602c",
-      "metadata": {
-        "game": "Ender Lilies",
-        "id": "enderlilies",
-        "world_version": "0.7",
-        "tag_version": "0.7",
-        "created_at": "2024-08-09T17:01:48Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.8/enderlilies.apworld",
-      "size": 87347,
-      "hash_sha256": "58271963b8ef318a934a27bec3f11cb34217614e2414a1596dd3a116027b6480",
-      "metadata": {
-        "game": "Ender Lilies",
-        "id": "enderlilies",
-        "world_version": "0.8",
-        "tag_version": "0.8",
-        "created_at": "2024-12-27T22:43:42Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -22976,150 +22521,6 @@
         "tag_version": "0.0.9",
         "created_at": "2025-01-30T18:31:10Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v.75.1/ffvcd.apworld",
-      "size": 60839160,
-      "hash_sha256": "9dac6a6f898f96e331cd11b21c09f505ba8256cf477eaee7e33ae33a6859a823",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "75.1",
-        "tag_version": "75.1",
-        "created_at": "2024-06-24T14:47:47Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v.82/ffvcd.apworld",
-      "size": 1877012,
-      "hash_sha256": "1557c81ea7892187559919ea6a5af874134af624f06edfaf88d84840b308e421",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "82",
-        "tag_version": "82",
-        "created_at": "2024-07-15T16:15:42Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v.82.4/ffvcd.apworld",
-      "size": 1877249,
-      "hash_sha256": "147074d0d54807c7f4c66da7beab75c5bdc4a1643d5e3883742eb6f6d375919d",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "82.4",
-        "tag_version": "82.4",
-        "created_at": "2024-07-21T19:50:39Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v.82.5/ffvcd.apworld",
-      "size": 1877258,
-      "hash_sha256": "172319664a7643f347acbadac48cd09e29561b59cd9162f90b73af3b7254ca29",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "82.5",
-        "tag_version": "82.5",
-        "created_at": "2024-07-22T20:10:24Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v.82.6/ffvcd.apworld",
-      "size": 1865595,
-      "hash_sha256": "f8d1807631b4746e0172d72a1bd05467d630b9173f501d0092da47451e8cb795",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "82.6",
-        "tag_version": "82.6",
-        "created_at": "2025-07-29T21:35:13Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v.82.7/ffvcd.apworld",
-      "size": 1865589,
-      "hash_sha256": "26282a22f1c9d6d21e6d3db33c56d94f5c05c202c259bc9a583456a202784e8d",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "82.7",
-        "tag_version": "82.7",
-        "created_at": "2025-08-08T14:36:41Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v.83.0/ffvcd.apworld",
-      "size": 1537644,
-      "hash_sha256": "1206806733921731e810269f3b5b293993c90ad34fd936a804361b72db36bfb4",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "83.0",
-        "tag_version": "83.0",
-        "created_at": "2026-01-05T23:31:53Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v0.63t/ffvcd.apworld",
-      "size": 1751436,
-      "hash_sha256": "32cda94935a76ab7bbc5994e1d2d8035d85f6abad58247473cb4fcd02edfa2e9",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "0.63",
-        "tag_version": "0.63",
-        "created_at": "2024-05-21T14:27:08Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v0.63t2/ffvcd.apworld",
-      "size": 1752183,
-      "hash_sha256": "00b0c8ed512203a8ee4f44018493dc082f0c79830077ca70c407e8b9d1786972",
-      "metadata": {
-        "game": "Final Fantasy V Career Day",
-        "id": "ffvcd",
-        "world_version": "2",
-        "tag_version": "2",
-        "created_at": "2024-05-23T01:36:42Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
       }
     },
     {
@@ -28200,6 +27601,18 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2026-05-24T23:20:56Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/HbkArchipelago/releases/download/0.3.1/hi_fi_rush.apworld",
+      "size": 18736,
+      "hash_sha256": "ce563eb7100bdfcd891aace0b3afe5ab96c84fac014aed51da2bf363d916db8b",
+      "metadata": {
+        "game": "Hi-Fi RUSH",
+        "id": "hi_fi_rush",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-06-10T05:27:23Z"
       }
     },
     {
@@ -56464,6 +55877,19 @@
         "world_version": "5.4.5",
         "tag_version": "5.4.5",
         "created_at": "2026-05-24T16:11:53Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.6/pokemon_crystal.apworld",
+      "size": 651850,
+      "hash_sha256": "61383ab4dac4113ddb0837f3912dc3fef2749a346a3a9bc315a3ca425048e450",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.4.6",
+        "tag_version": "5.4.6",
+        "created_at": "2026-06-10T14:25:16Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -84953,10 +84379,6 @@
       "game": "Donkey Kong Country",
       "description": "monke"
     },
-    "dkc2": {
-      "game": "Donkey Kong Country 2",
-      "description": "Donkey Kong Country 2 is an action platforming game. \nPlay as Diddy Kong and his girlfriend Dixie as they go to Crocodile Isle \nto rescue Donkey Kong from the clutches of Kaptain K. Rool."
-    },
     "dlcquest": {
       "game": "DLCQuest",
       "description": "DLCQuest is a metroid ish game where everything is an in-game dlc."
@@ -85001,10 +84423,6 @@
       "game": "Dark Souls Remastered",
       "description": "Dark Souls is a game where you die."
     },
-    "duke3d": {
-      "game": "Duke Nukem 3D",
-      "description": "Duke Nukem 3D Randomizer"
-    },
     "dungeon_clawler": {
       "game": "Dungeon Clawler",
       "description": "Dungeon Clawler mixes deck building with a dash of rogue-like mechanics and most importantly: a claw machine."
@@ -85016,10 +84434,6 @@
     "earthbound": {
       "game": "EarthBound",
       "description": "EarthBound is a contemporary-themed JRPG. Take four psychically-endowed children\nacross the world in search of 8 Melodies to defeat Giygas, the cosmic evil."
-    },
-    "enderlilies": {
-      "game": "Ender Lilies",
-      "description": "Ender Lilies: QUIETUS OF THE KNIGHTS"
     },
     "enter_the_gungeon": {
       "game": "Enter The Gungeon",
@@ -85073,10 +84487,6 @@
     "ffta2": {
       "game": "Final Fantasy Tactics A2",
       "description": "Final Fantasy Tactics A2 is a game"
-    },
-    "ffvcd": {
-      "game": "Final Fantasy V Career Day",
-      "description": "Final Fantasy V: Career Day"
     },
     "ffxiitm": {
       "game": "Final Fantasy XII Trial Mode",
