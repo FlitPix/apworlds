@@ -525,6 +525,19 @@
       "title": "Archipelago EarthBound v4.4",
       "version_simple": "4.4.0",
       "world_version": "4.4.0"
+    },
+    "earthboundap4.4r2": {
+      "created_at": "2026-04-29T20:29:41Z",
+      "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.4/earthbound.apworld",
+      "has_manifest": true,
+      "hash_sha256": "af72e295644f1cf28cc1f476bc87e32ca93952216be36af82b7f6761cd78307e",
+      "minimum_ap_version": "0.6.3",
+      "size": 367316,
+      "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
+      "tag": "earthboundap4.4r2",
+      "title": "Archipelago EarthBound v4.4",
+      "version_simple": "4.4.0",
+      "world_version": "4.4.0"
     }
   }
 }
