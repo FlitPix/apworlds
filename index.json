@@ -1559,6 +1559,19 @@
       }
     },
     {
+      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.6.3/anodyne.apworld",
+      "size": 44197,
+      "hash_sha256": "0fd1acb81853ae4f27afeed6afccea7f48e74771d21d56b90713cb4377f2ca40",
+      "metadata": {
+        "game": "Anodyne",
+        "id": "anodyne",
+        "world_version": "0.6.3",
+        "tag_version": "0.6.3",
+        "created_at": "2026-06-11T14:46:26Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.1.1/another_crab.apworld",
       "size": 47483,
       "hash_sha256": "621bcddee5d35007b0c5ef6d27fe621010d63118ab99ef90c125692b86494ac9",
@@ -48337,19 +48350,6 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.5/nine_sols.apworld",
-      "size": 2585159,
-      "hash_sha256": "0ba8ad13d02228068b18f1065663d228801c58ce0797e79bcb2e8f808e93465d",
-      "metadata": {
-        "game": "Nine Sols",
-        "id": "nine_sols",
-        "world_version": "0.5.5",
-        "tag_version": "0.5.5",
-        "created_at": "2026-06-11T00:24:45Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
       "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.4/nine_sols.apworld",
       "size": 2585157,
       "hash_sha256": "c2894508c6bef04d5c80ccc228c8454cdebfb41ed3e6ba09cfd21391759cd6e4",
@@ -48359,6 +48359,19 @@
         "world_version": "0.5.4",
         "tag_version": "0.5.4",
         "created_at": "2026-06-10T21:46:55Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.5/nine_sols.apworld",
+      "size": 2585159,
+      "hash_sha256": "0ba8ad13d02228068b18f1065663d228801c58ce0797e79bcb2e8f808e93465d",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.5.5",
+        "tag_version": "0.5.5",
+        "created_at": "2026-06-11T00:24:45Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -64901,6 +64914,19 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.8/shadow_the_hedgehog.apworld",
+      "size": 238347,
+      "hash_sha256": "26ad642a796ba5951e25fbfe3dba55b34fbf9fa856ac3361741fc719172d485d",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.4.8",
+        "tag_version": "0.4.8",
+        "created_at": "2026-06-11T11:22:09Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/jjjj12212/Archipelago-Shadowgate64/releases/download/V0.1/shadowgate64.apworld",
       "size": 29907,
       "hash_sha256": "b05154eae3bbc324df9e01a1e1211ff902191ebcb5b3d493a41ae33c187e7546",
@@ -69105,6 +69131,18 @@
         "world_version": "0.4.5",
         "tag_version": "0.4.5",
         "created_at": "2026-01-17T14:58:44Z"
+      }
+    },
+    {
+      "world": "https://github.com/Totox00/Archipelago-sotm/releases/download/v0.4.6/sotm.apworld",
+      "size": 672824,
+      "hash_sha256": "896627f8ad9c7bf42fc43f86c9863e34c6bbb0177e7bececff25c72f0b657adc",
+      "metadata": {
+        "game": "Sentinels of the Multiverse",
+        "id": "sotm",
+        "world_version": "0.4.6",
+        "tag_version": "0.4.6",
+        "created_at": "2026-06-11T10:13:17Z"
       }
     },
     {

@@ -165,6 +165,19 @@
       "version_simple": "0.4.7",
       "world_version": "0.4.7"
     },
+    "shadow-0.4.8": {
+      "created_at": "2026-06-11T11:22:09Z",
+      "download_url": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.8/shadow_the_hedgehog.apworld",
+      "has_manifest": true,
+      "hash_sha256": "26ad642a796ba5951e25fbfe3dba55b34fbf9fa856ac3361741fc719172d485d",
+      "minimum_ap_version": "0.6.2",
+      "size": 238347,
+      "source_url": "https://api.github.com/repos/choatix/Archipelago",
+      "tag": "shadow-0.4.8",
+      "title": "Shadow Archipelago 0.4.8",
+      "version_simple": "0.4.8",
+      "world_version": "0.4.8"
+    },
     "shadow0.3.0": {
       "created_at": "2025-11-23T19:55:13Z",
       "download_url": "https://github.com/choatix/Archipelago/releases/download/shadow0.3.0/shadow_the_hedgehog.apworld",
