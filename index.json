@@ -869,6 +869,22 @@
       }
     },
     {
+      "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.6-M2/am2r.apworld",
+      "size": 35176,
+      "hash_sha256": "fa8ca46b55289ae1f91e4fc3992ba90fb581321a05766ef8565c46c3676c0587",
+      "metadata": {
+        "game": "AM2R",
+        "id": "am2r",
+        "world_version": "1.4.6",
+        "tag_version": "1.4.6",
+        "created_at": "2026-06-12T06:50:52Z",
+        "minimum_ap_version": "0.5.0",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.1/animal_well.apworld",
       "size": 79746,
       "hash_sha256": "cecd8479d4970bfc56cde54d465e859cfd9706ba9329e748f8953f17ee6728f7",
@@ -6385,6 +6401,22 @@
         "tag_version": "0.6.0",
         "created_at": "2026-05-20T01:06:42Z",
         "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.7.0/bfm.apworld",
+      "size": 2301526,
+      "hash_sha256": "a429f88403872d9cf3f838134486d532ce898ae86ec5b4d6b9ac9d68a55db156",
+      "metadata": {
+        "game": "Brave Fencer Musashi",
+        "id": "bfm",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-06-12T04:23:13Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "tracker_included"
         ]
@@ -23604,6 +23636,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.29.0/ffxiv.apworld",
+      "size": 140958,
+      "hash_sha256": "b87c1da588d7632e18aedd1640e52d79da5b17cc61a5f4080b63dc58e12f098a",
+      "metadata": {
+        "game": "Final Fantasy XIV",
+        "id": "ffxiv",
+        "world_version": "0.29.0",
+        "tag_version": "0.29.0",
+        "created_at": "2026-06-04T03:55:40Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/0.1.0/flipwitch.apworld",
       "size": 65995,
       "hash_sha256": null,
@@ -25272,6 +25317,19 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2025-12-17T23:06:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/0.5.3-beta/garfkart.apworld",
+      "size": 19116,
+      "hash_sha256": "59558f916eecc361b9aff7101680181ddc698fe221f455b969027db5c3bf2b98",
+      "metadata": {
+        "game": "Garfield Kart - Furious Racing",
+        "id": "garfkart",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-06-10T18:35:48Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -46330,6 +46388,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v1.2.1/mmx2.apworld",
+      "size": 58013,
+      "hash_sha256": "ccde2d29bef739ce68eefcfe71b6207d431945d03ac05c5c1168027084eef157",
+      "metadata": {
+        "game": "Mega Man X2",
+        "id": "mmx2",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-06-12T05:20:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx3-v0.2.5/mmx3.apworld",
       "size": 36956,
       "hash_sha256": "b115e391a8194b899717e4cd1332eab9cf5f69f00cc5f3651c83a50e84ab14ad",
@@ -46485,6 +46556,19 @@
         "tag_version": "1.5.1",
         "created_at": "2025-08-27T16:56:42Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx3-v1.5.2/mmx3.apworld",
+      "size": 69572,
+      "hash_sha256": "3a4f1905cd17772f7f8f0788624435416a1be85e991d6a0327b591221701f2fb",
+      "metadata": {
+        "game": "Mega Man X3",
+        "id": "mmx3",
+        "world_version": "1.5.2",
+        "tag_version": "1.5.2",
+        "created_at": "2026-06-12T05:21:56Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -59675,6 +59759,19 @@
       }
     },
     {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.5.2/rabi_ribi.apworld",
+      "size": 231725,
+      "hash_sha256": "3c69fba7bdd0fd36e90a05ee5b7156a83781ac53207cf740014875fb37189a9c",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.5.2",
+        "tag_version": "1.5.2",
+        "created_at": "2026-06-12T12:04:28Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Panda291/Archipelago/releases/download/v0.1.0/rac1.apworld",
       "size": 31448,
       "hash_sha256": "ea1f76fe913e76ab219c8d8853ef4dbd73b331ed283480828f056aa1823e6c71",
@@ -62951,6 +63048,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.13.0/rotn.apworld",
+      "size": 16988,
+      "hash_sha256": "be47135d835d93660599059a2add0d5e5e9a3006066de931d13120e98ebfafb2",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-06-12T01:41:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.2/rotn.apworld",
       "size": 23898,
       "hash_sha256": "13d37ba93b971cdf8d47f7673725577e6640408c9a7cef6b420d564c5258e402",
@@ -63179,19 +63289,6 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.13.0/rotn.apworld",
-      "size": 16988,
-      "hash_sha256": "be47135d835d93660599059a2add0d5e5e9a3006066de931d13120e98ebfafb2",
-      "metadata": {
-        "game": "Rift of the Necrodancer",
-        "id": "rotn",
-        "world_version": "0.13.0",
-        "tag_version": "0.13.0",
-        "created_at": "2026-06-12T01:41:46Z",
         "minimum_ap_version": "0.6.3"
       }
     },

@@ -43,6 +43,19 @@
       "version_simple": "0.5.2",
       "world_version": "0.5.2"
     },
+    "0.5.3-beta": {
+      "created_at": "2026-06-10T18:35:48Z",
+      "download_url": "https://github.com/FeluciaPS/Archipelago/releases/download/0.5.3-beta/garfkart.apworld",
+      "has_manifest": true,
+      "hash_sha256": "59558f916eecc361b9aff7101680181ddc698fe221f455b969027db5c3bf2b98",
+      "minimum_ap_version": "0.6.7",
+      "size": 19116,
+      "source_url": "https://api.github.com/repos/FeluciaPS/Archipelago",
+      "tag": "0.5.3-beta",
+      "title": "Garfield Kart - Furious Racing v0.5.3",
+      "version_simple": "0.5.3",
+      "world_version": "0.5.3"
+    },
     "v0.1-alpha": {
       "created_at": "2025-11-04T04:06:41Z",
       "download_url": "https://github.com/FeluciaPS/Archipelago/releases/download/v0.1-alpha/garfkart.apworld",

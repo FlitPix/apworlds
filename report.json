@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
-  "total_packages": 523,
-  "total_versions": 6228,
+  "total_packages": 525,
+  "total_versions": 6235,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -297,7 +297,7 @@
     "mm_recomp": false,
     "mmbn6": true,
     "mmx": true,
-    "mmx2": false,
+    "mmx2": true,
     "mmx3": true,
     "mmx4": false,
     "mmzero3": false,
