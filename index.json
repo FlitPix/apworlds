@@ -63183,6 +63183,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.13.0/rotn.apworld",
+      "size": 16988,
+      "hash_sha256": "be47135d835d93660599059a2add0d5e5e9a3006066de931d13120e98ebfafb2",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-06-12T01:41:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/dgrossmann144/Archipelago/releases/download/AlphaRelease/rusted_moss.apworld",
       "size": 46349,
       "hash_sha256": "185e14db1e838b42e5db16bbc95891c6648ab99d04b0b4dc5fcf91f5394b38bc",
@@ -64882,6 +64895,19 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.8/shadow_the_hedgehog.apworld",
+      "size": 238347,
+      "hash_sha256": "26ad642a796ba5951e25fbfe3dba55b34fbf9fa856ac3361741fc719172d485d",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.4.8",
+        "tag_version": "0.4.8",
+        "created_at": "2026-06-11T11:22:09Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/choatix/Archipelago/releases/download/shadow0.3.0/shadow_the_hedgehog.apworld",
       "size": 750070,
       "hash_sha256": "83d34e78e002b50bef8d897ac60d892f91f399f1be31bbca15a3b268e6196760",
@@ -64911,19 +64937,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.8/shadow_the_hedgehog.apworld",
-      "size": 238347,
-      "hash_sha256": "26ad642a796ba5951e25fbfe3dba55b34fbf9fa856ac3361741fc719172d485d",
-      "metadata": {
-        "game": "Shadow The Hedgehog",
-        "id": "shadow_the_hedgehog",
-        "world_version": "0.4.8",
-        "tag_version": "0.4.8",
-        "created_at": "2026-06-11T11:22:09Z",
-        "minimum_ap_version": "0.6.2"
       }
     },
     {
