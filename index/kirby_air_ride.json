@@ -135,6 +135,18 @@
       "title": "v0.6.0",
       "version_simple": "0.6.0",
       "world_version": "0.6.0"
+    },
+    "v1.0.0-TEST": {
+      "created_at": "2026-06-12T16:16:31Z",
+      "download_url": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.0.0-TEST/kirby_air_ride.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a38e1ccec2440f00dcb6347fd68b98d6979f09c9e8d273aeea000ce97b3cf1e2",
+      "size": 168257,
+      "source_url": "https://api.github.com/repos/DeDeDeK/KARchipelago",
+      "tag": "v1.0.0-TEST",
+      "title": "v1.0.0-TEST",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
     }
   }
 }

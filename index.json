@@ -11381,6 +11381,22 @@
       }
     },
     {
+      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.2.1/clair_obscur.apworld",
+      "size": 60425,
+      "hash_sha256": "da27d45f1a97cfd6b323ffb9a18dd92ca42a842924ade9a47ffdf606f09a504b",
+      "metadata": {
+        "game": "Clair Obscur Expedition 33",
+        "id": "clair_obscur",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-06-10T12:59:44Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nullctipus/ArchipelagoClusterTruck/releases/download/1.0.0/cluster_truck.apworld",
       "size": 4505,
       "hash_sha256": "f6197a4ad6fd61bf9e46df1ebcf2ef72fe83ca23ff6ccd864d508f81ed05eea0",
@@ -25151,6 +25167,19 @@
       }
     },
     {
+      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/0.5.3-beta/garfkart.apworld",
+      "size": 19116,
+      "hash_sha256": "59558f916eecc361b9aff7101680181ddc698fe221f455b969027db5c3bf2b98",
+      "metadata": {
+        "game": "Garfield Kart - Furious Racing",
+        "id": "garfkart",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-06-10T18:35:48Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/FeluciaPS/Archipelago/releases/download/v0.1-alpha/garfkart.apworld",
       "size": 14276,
       "hash_sha256": "cb0225bc0439a39331a7ac84dfa69f62dd419626c633bfd66da8bf2e86e538b9",
@@ -25317,19 +25346,6 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2025-12-17T23:06:49Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/0.5.3-beta/garfkart.apworld",
-      "size": 19116,
-      "hash_sha256": "59558f916eecc361b9aff7101680181ddc698fe221f455b969027db5c3bf2b98",
-      "metadata": {
-        "game": "Garfield Kart - Furious Racing",
-        "id": "garfkart",
-        "world_version": "0.5.3",
-        "tag_version": "0.5.3",
-        "created_at": "2026-06-10T18:35:48Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -26457,6 +26473,19 @@
         "world_version": "1.5.7",
         "tag_version": "1.5.7",
         "created_at": "2026-06-09T11:19:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.8/grinch.apworld",
+      "size": 51369,
+      "hash_sha256": "1967d4e41068f86986b9cd42888033000c3a1bcad8dd947fdd3299851e8edc57",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.5.8",
+        "tag_version": "1.5.8",
+        "created_at": "2026-06-12T21:56:41Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -31900,6 +31929,18 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2025-12-22T18:16:23Z"
+      }
+    },
+    {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.0.0-TEST/kirby_air_ride.apworld",
+      "size": 168257,
+      "hash_sha256": "a38e1ccec2440f00dcb6347fd68b98d6979f09c9e8d273aeea000ce97b3cf1e2",
+      "metadata": {
+        "game": "Kirby Air Ride",
+        "id": "kirby_air_ride",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-06-12T16:16:31Z"
       }
     },
     {
@@ -46572,6 +46613,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx3-v1.5.2/mmx3.apworld",
+      "size": 69558,
+      "hash_sha256": "76f16c88deca16e26f498541bf345aab7961b9e1a4d95e1dc178026546486bce",
+      "metadata": {
+        "game": "Mega Man X3",
+        "id": "mmx3",
+        "world_version": "1.5.2",
+        "tag_version": "1.5.2",
+        "created_at": "2026-06-12T05:21:56Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/KinTheInfinite/Archipelago-MMX4/releases/download/v1.0.0/mmx4.apworld",
       "size": 395994,
       "hash_sha256": "d45a2149690ccca53b4265b62d19c36232feac53f3d6973a5814a0eb4c31e282",
@@ -59454,6 +59508,19 @@
       }
     },
     {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.5.2/rabi_ribi.apworld",
+      "size": 231725,
+      "hash_sha256": "3c69fba7bdd0fd36e90a05ee5b7156a83781ac53207cf740014875fb37189a9c",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.5.2",
+        "tag_version": "1.5.2",
+        "created_at": "2026-06-12T12:04:28Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/alpha/rabi_ribi.apworld",
       "size": 692774,
       "hash_sha256": "95b9d952879665a5290657e351fe10ed249412872e874eac2f12935ba833722e",
@@ -59756,19 +59823,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.5.2/rabi_ribi.apworld",
-      "size": 231725,
-      "hash_sha256": "3c69fba7bdd0fd36e90a05ee5b7156a83781ac53207cf740014875fb37189a9c",
-      "metadata": {
-        "game": "Rabi-Ribi",
-        "id": "rabi_ribi",
-        "world_version": "1.5.2",
-        "tag_version": "1.5.2",
-        "created_at": "2026-06-12T12:04:28Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
