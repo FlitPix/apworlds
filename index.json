@@ -21264,6 +21264,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.2/factorio_saws.apworld",
+      "size": 891985,
+      "hash_sha256": "d55ce70f17895b68e921909b8ecb19b537f9f90bf21ebeb4495142fbf37b687b",
+      "metadata": {
+        "game": "Factorio - Space Age Without Space",
+        "id": "factorio_saws",
+        "world_version": "0.9.2",
+        "tag_version": "0.9.2",
+        "created_at": "2026-06-13T06:41:14Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.0/fe8.apworld",
       "size": 167155,
       "hash_sha256": "868ec07f4dfa231d385458a07892587188b600b52a812c3b662801c8a6a9488d",
@@ -78245,6 +78258,19 @@
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.4-alpha/tloz_ph.apworld",
+      "size": 2588204,
+      "hash_sha256": "078b814e3d01213496bf16c0f8ba4539c2edcf08d2e5210a837e44701419cc31",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.4",
+        "tag_version": "0.9.4",
+        "created_at": "2026-06-13T11:20:18Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
