@@ -684,6 +684,18 @@
       "title": "ArchipelagoULTRAKILL 3.5.2",
       "version_simple": "3.5.2",
       "world_version": "3.5.2"
+    },
+    "3.5.3": {
+      "created_at": "2026-06-13T17:51:15Z",
+      "download_url": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.3/ultrakill.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e33cd3bb3aa8f1b6df3c96c44d17357f7b2b08b41b21c2cc96b68e992ff706d7",
+      "size": 48478,
+      "source_url": "https://api.github.com/repos/TRPG0/ArchipelagoULTRAKILL",
+      "tag": "3.5.3",
+      "title": "ArchipelagoULTRAKILL 3.5.3",
+      "version_simple": "3.5.3",
+      "world_version": "3.5.3"
     }
   }
 }

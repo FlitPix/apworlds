@@ -31957,6 +31957,18 @@
       }
     },
     {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.0.1-TEST/kirby_air_ride.apworld",
+      "size": 170948,
+      "hash_sha256": "9b4ce3d3c0b8813e77fce117bcbcacd93f39b369c1ef7f9d1568b21abc8c61fd",
+      "metadata": {
+        "game": "Kirby Air Ride",
+        "id": "kirby_air_ride",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-06-13T17:35:37Z"
+      }
+    },
+    {
       "world": "https://github.com/dannybonz/k-on_archipelago/releases/download/v1.0.0/kon.apworld",
       "size": 26776,
       "hash_sha256": "138eb6b331fef8bf6644d59f919d858c1906b738b3530e70194304277c67b2f8",
@@ -48966,6 +48978,22 @@
       }
     },
     {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.5.0/oblivion.apworld",
+      "size": 216528,
+      "hash_sha256": "6f9ffc0b88bea14e136e0db10adebc42194516d59c288d54446b479b864cbb2f",
+      "metadata": {
+        "game": "Oblivion Remastered",
+        "id": "oblivion",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-13T18:50:57Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/wkcheezy/ObraDinnArchipelagoWorld/releases/download/v0.0.1-alpha/obra_dinn.apworld",
       "size": 17760,
       "hash_sha256": "dcea37f9871cb68999be976a28045d3bad25b6b714cb3899d2f4442cd7ced746",
@@ -59836,6 +59864,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.5.3/rabi_ribi.apworld",
+      "size": 231751,
+      "hash_sha256": "51e3266c651e85dda7f40177c3bd67b8cc8f86ce27cd11b649f334600dc76b8c",
+      "metadata": {
+        "game": "Rabi-Ribi",
+        "id": "rabi_ribi",
+        "world_version": "1.5.3",
+        "tag_version": "1.5.3",
+        "created_at": "2026-06-13T17:42:04Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -77827,6 +77868,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.4-alpha/tloz_ph.apworld",
+      "size": 2588204,
+      "hash_sha256": "078b814e3d01213496bf16c0f8ba4539c2edcf08d2e5210a837e44701419cc31",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.4",
+        "tag_version": "0.9.4",
+        "created_at": "2026-06-13T11:20:18Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -78258,19 +78312,6 @@
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.4-alpha/tloz_ph.apworld",
-      "size": 2588204,
-      "hash_sha256": "078b814e3d01213496bf16c0f8ba4539c2edcf08d2e5210a837e44701419cc31",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.9.4",
-        "tag_version": "0.9.4",
-        "created_at": "2026-06-13T11:20:18Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -82014,6 +82055,18 @@
       }
     },
     {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.3/ultrakill.apworld",
+      "size": 48478,
+      "hash_sha256": "e33cd3bb3aa8f1b6df3c96c44d17357f7b2b08b41b21c2cc96b68e992ff706d7",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.5.3",
+        "tag_version": "3.5.3",
+        "created_at": "2026-06-13T17:51:15Z"
+      }
+    },
+    {
       "world": "https://github.com/soaringjupiter/UT99-Archipelago/releases/download/v0.0.1/ut99.apworld",
       "size": 21714,
       "hash_sha256": "01278bc88b369098538e80891c4708eea69cef8ae94a83c4b00a06bcff7efbb5",
@@ -83448,6 +83501,19 @@
         "tag_version": "3.3.3",
         "created_at": "2026-03-29T15:38:39Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/lilDavid/Archipelago-Wario-Land-4/releases/download/3.4.0/wl4.apworld",
+      "size": 64600,
+      "hash_sha256": "d1df19c4dbdd6b30f52fd028063753e4ad3033640057eab7fd12274b36c17d97",
+      "metadata": {
+        "game": "Wario Land 4",
+        "id": "wl4",
+        "world_version": "3.4.0",
+        "tag_version": "3.4.0",
+        "created_at": "2026-06-13T17:13:01Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
