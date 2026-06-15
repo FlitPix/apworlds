@@ -640,6 +640,20 @@
       "title": "v1.2.2 pre-release 2",
       "version_simple": "1.2.1",
       "world_version": "1.2.1"
+    },
+    "v1.2.2-pre-release-3": {
+      "created_at": "2026-06-14T23:31:19Z",
+      "download_url": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.2-pre-release-3/sadx.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a1f408ab3181a0f83ac96a0bc7444062f31a0a480110855dbffd2dc2ceee3280",
+      "minimum_ap_version": "0.6.3",
+      "prerelease": true,
+      "size": 3156790,
+      "source_url": "https://api.github.com/repos/ClassicSpeed/sadx-classic-randomizer",
+      "tag": "v1.2.2-pre-release-3",
+      "title": "v1.2.2 pre-release 3",
+      "version_simple": "1.2.1",
+      "world_version": "1.2.1"
     }
   }
 }
