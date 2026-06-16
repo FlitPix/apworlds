@@ -93,6 +93,19 @@
       "title": "v0.5.0",
       "version_simple": "0.5.0",
       "world_version": "0.5.0"
+    },
+    "v0.5.0r2": {
+      "created_at": "2026-06-13T18:50:57Z",
+      "download_url": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.5.0/oblivion.apworld",
+      "has_manifest": true,
+      "hash_sha256": "130f502f6292f73199947c828627e0a119e6a80e018218ae7b2422c930ae110e",
+      "minimum_ap_version": "0.6.3",
+      "size": 217531,
+      "source_url": "https://api.github.com/repos/POD-io/Oblivion-ArchipelagoWorld",
+      "tag": "v0.5.0r2",
+      "title": "v0.5.0",
+      "version_simple": "0.5.0",
+      "world_version": "0.5.0"
     }
   }
 }
