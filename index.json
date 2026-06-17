@@ -34210,6 +34210,22 @@
       }
     },
     {
+      "world": "https://github.com/danielgruethling/Archipelago/releases/download/0.3.1/little_witch_nobeta.apworld",
+      "size": 29613,
+      "hash_sha256": "abb5a48da7c79baef9fb1c762ca5d5fa1e49e50518575be49e6be340eae705fa",
+      "metadata": {
+        "game": "Little Witch Nobeta",
+        "id": "little_witch_nobeta",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-02-22T20:22:22Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kli333/LobCorp-AP/releases/download/1.3.1.0/lobotomycorporation.apworld",
       "size": 82055,
       "hash_sha256": "6d2c7fa3da0a095cfc601ac2b6098ae977bd170bbd1db927f7ec7fb9e9ec160a",
@@ -34647,6 +34663,19 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2024-12-17T12:59:07Z"
+      }
+    },
+    {
+      "world": "https://github.com/AutomaticFrenzy/Archipelago/releases/download/v0.2.5/loonyland.apworld",
+      "size": 70831,
+      "hash_sha256": "51ea1d6959ffa81336a08d2c0644d4e96ee8b3a3fbb1425db77df05097b93664",
+      "metadata": {
+        "game": "Loonyland",
+        "id": "loonyland",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-06-14T15:53:29Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -39388,6 +39417,19 @@
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
         "created_at": "2025-06-24T21:40:01Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.3.3/manual_mariokartworld_greengamefire.apworld",
+      "size": 62085,
+      "hash_sha256": "a94b8426df757d188c5929deaa0cc0c2368af0e607c1862737545295fd07a5e0",
+      "metadata": {
+        "game": "Manual_MarioKartWorld_Greengamefire",
+        "id": "manual_mariokartworld_greengamefire",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2025-06-25T13:47:12Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -68217,6 +68259,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.9/sm64hacks.apworld",
+      "size": 296438,
+      "hash_sha256": "b2007b3dfbe4cff2f2477eb1384a47a20fa897f84607b7770f4042308a1d5163",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.7",
+        "tag_version": "1.1.7",
+        "created_at": "2026-06-16T23:40:57Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.1/smrpg.apworld",
       "size": 1396945,
       "hash_sha256": "0e09816e2c5143d99b775c263a2ab358aaddff32f681214123db7ab27ec3d189",
@@ -80285,6 +80343,19 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2026-04-21T08:18:22Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.10.2/ttyd.apworld",
+      "size": 1576848,
+      "hash_sha256": "8ecaa3c96b5be7a779880a9ed8c0336ec86174134e47541657b563f9e4ace2ae",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.10.2",
+        "tag_version": "0.10.2",
+        "created_at": "2026-06-14T20:49:34Z",
         "minimum_ap_version": "0.6.3"
       }
     },

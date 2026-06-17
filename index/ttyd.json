@@ -96,6 +96,19 @@
       "version_simple": "0.10.2",
       "world_version": "0.10.2"
     },
+    "v0.10.2r2": {
+      "created_at": "2026-06-14T20:49:34Z",
+      "download_url": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.10.2/ttyd.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8ecaa3c96b5be7a779880a9ed8c0336ec86174134e47541657b563f9e4ace2ae",
+      "minimum_ap_version": "0.6.3",
+      "size": 1576848,
+      "source_url": "https://api.github.com/repos/jamesbrq/ArchipelagoTTYD",
+      "tag": "v0.10.2r2",
+      "title": "TTYD AP v0.10.2",
+      "version_simple": "0.10.2",
+      "world_version": "0.10.2"
+    },
     "v0.2.0": {
       "created_at": "2025-04-20T21:38:48Z",
       "download_url": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.2.0/ttyd.apworld",
