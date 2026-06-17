@@ -196,6 +196,18 @@
       "version_simple": "0.3.1",
       "world_version": "0.3.1"
     },
+    "v0.3.2": {
+      "created_at": "2026-06-17T07:20:57Z",
+      "download_url": "https://github.com/chesslogic/chessv/releases/download/v0.3.2/checksmate.apworld",
+      "has_manifest": false,
+      "hash_sha256": "6c0f81ad139c71d3bf98ba4c521741b238b6b751920c38579dd6f37beaf2867d",
+      "size": 243280,
+      "source_url": "https://api.github.com/repos/chesslogic/chessv",
+      "tag": "v0.3.2",
+      "title": "v0.3.2",
+      "version_simple": "0.3.2",
+      "world_version": "0.3.2"
+    },
     "v2023.11.06": {
       "created_at": "2023-11-06T01:23:11Z",
       "download_url": "https://github.com/chesslogic/chessv/releases/download/v2023.11.06/checksmate.apworld",

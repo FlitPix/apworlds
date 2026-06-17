@@ -10841,6 +10841,19 @@
       }
     },
     {
+      "world": "https://github.com/chesslogic/chessv/releases/download/v0.3.2/checksmate.apworld",
+      "size": 243280,
+      "hash_sha256": "6c0f81ad139c71d3bf98ba4c521741b238b6b751920c38579dd6f37beaf2867d",
+      "metadata": {
+        "game": "ChecksMate",
+        "id": "checksmate",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-06-17T07:20:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ObsidianMakerDevelopment/christmasdeliveryapworld/releases/download/1.0.0/christmasdeliveryapworld-main.apworld",
       "size": 11619,
       "hash_sha256": "dc93faddec1b75c52b50cedf41254d50760ebdf77441174f438d382b0e3776ab",
@@ -34654,18 +34667,6 @@
       }
     },
     {
-      "world": "https://github.com/AutomaticFrenzy/Archipelago/releases/download/v1.01/loonyland.apworld",
-      "size": 60168,
-      "hash_sha256": "8f8161a737f76d8f753460bca4a82e7aec1ad7b80b07e6f068d3709f57debd06",
-      "metadata": {
-        "game": "Loonyland",
-        "id": "loonyland",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2024-12-17T12:59:07Z"
-      }
-    },
-    {
       "world": "https://github.com/AutomaticFrenzy/Archipelago/releases/download/v0.2.5/loonyland.apworld",
       "size": 70831,
       "hash_sha256": "51ea1d6959ffa81336a08d2c0644d4e96ee8b3a3fbb1425db77df05097b93664",
@@ -34676,6 +34677,18 @@
         "tag_version": "0.2.5",
         "created_at": "2026-06-14T15:53:29Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/AutomaticFrenzy/Archipelago/releases/download/v1.01/loonyland.apworld",
+      "size": 60168,
+      "hash_sha256": "8f8161a737f76d8f753460bca4a82e7aec1ad7b80b07e6f068d3709f57debd06",
+      "metadata": {
+        "game": "Loonyland",
+        "id": "loonyland",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2024-12-17T12:59:07Z"
       }
     },
     {
@@ -80088,6 +80101,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.10.2/ttyd.apworld",
+      "size": 1576848,
+      "hash_sha256": "8ecaa3c96b5be7a779880a9ed8c0336ec86174134e47541657b563f9e4ace2ae",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.10.2",
+        "tag_version": "0.10.2",
+        "created_at": "2026-06-14T20:49:34Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.2.0/ttyd.apworld",
       "size": 119481,
       "hash_sha256": "a4a89e9815505555c987ac7199b63fc3483247bc567b59d13b74d8492cb9fdae",
@@ -80343,19 +80369,6 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2026-04-21T08:18:22Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.10.2/ttyd.apworld",
-      "size": 1576848,
-      "hash_sha256": "8ecaa3c96b5be7a779880a9ed8c0336ec86174134e47541657b563f9e4ace2ae",
-      "metadata": {
-        "game": "Paper Mario The Thousand Year Door",
-        "id": "ttyd",
-        "world_version": "0.10.2",
-        "tag_version": "0.10.2",
-        "created_at": "2026-06-14T20:49:34Z",
         "minimum_ap_version": "0.6.3"
       }
     },
