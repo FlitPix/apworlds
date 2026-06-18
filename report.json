@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 526,
-  "total_versions": 6268,
+  "total_versions": 6271,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -135,7 +135,7 @@
     "gzdoom": true,
     "hacknet": false,
     "hades": false,
-    "hammerwatch": false,
+    "hammerwatch": true,
     "haste": true,
     "hcniko": true,
     "heretic": false,
@@ -418,7 +418,7 @@
     "stacklands": true,
     "star_fox_64": false,
     "stardew_valley": true,
-    "stick_ranger": false,
+    "stick_ranger": true,
     "superjunkoid": false,
     "supraland": true,
     "swr": true,

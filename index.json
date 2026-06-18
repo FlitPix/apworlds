@@ -27830,6 +27830,19 @@
       }
     },
     {
+      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.1.1/hammerwatch.apworld",
+      "size": 3528787,
+      "hash_sha256": "a5a9b512f2ccde79bd542e104ac9ecbf5a9214f63e636217a92acbfa13a23f2c",
+      "metadata": {
+        "game": "Hammerwatch",
+        "id": "hammerwatch",
+        "world_version": "4.1.1",
+        "tag_version": "4.1.1",
+        "created_at": "2026-06-17T19:10:30Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/WritingHusky/haste_apworld/releases/download/v0.3.1/haste.apworld",
       "size": 26302,
       "hash_sha256": "71d3b4c09274ff16c640bde0ae1ad1bc7fea76c14447409885e94e9fd2e19840",
@@ -55337,6 +55350,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.31/pokemon_bw.apworld",
+      "size": 1100403,
+      "hash_sha256": "020d3ff53450b4ddf26cabb6bb39a93170d52324b2f304e14c9a429a6a91c83c",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.31",
+        "tag_version": "0.3.31",
+        "created_at": "2026-06-17T23:58:28Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/AliceMousie/Archipelago/releases/download/0.1/pokemon_crystal.apworld",
       "size": 152500,
       "hash_sha256": "d31c76e065d7de7245b3d41444388c73d5aaed3edcebb795b8d9d0fda4ef4350",
@@ -74126,6 +74152,18 @@
         "tag_version": "1.5.0",
         "created_at": "2025-06-08T15:03:25Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.5.0/stick_ranger.apworld",
+      "size": 23087,
+      "hash_sha256": "b1636987f41c35fc53862c2d95403ce8f6fe9d2838cf84f5510dac022253462d",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.5.0.post2",
+        "tag_version": "1.5.0.post2",
+        "created_at": "2025-06-08T15:03:25Z"
       }
     },
     {
