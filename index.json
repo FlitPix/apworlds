@@ -22532,6 +22532,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.0/ff1pr.apworld",
+      "size": 28126,
+      "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-06-19T12:08:13Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Rosalie-A/Archipelago/releases/download/FFIV-0.1/ff4fe.apworld",
       "size": 8830168,
       "hash_sha256": "496401bbc1f82f9500347bc60d2178880a53104bab69e3f3064f2c09f98a30ee",
@@ -55386,6 +55399,19 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.32/pokemon_bw.apworld",
+      "size": 1107603,
+      "hash_sha256": "970de76b74b20c64b44a19c8bf26ca72b1c30d4b79beefaa4b0a07fd56c5f873",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.32",
+        "tag_version": "0.3.32",
+        "created_at": "2026-06-19T14:47:48Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
