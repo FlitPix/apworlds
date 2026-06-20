@@ -10945,6 +10945,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.0/civv.apworld",
+      "size": 455097,
+      "hash_sha256": "444445cb7345c5790f6170198f11d1e2047d88ef647d8ccb00010e26254fedea",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-06-19T16:23:56Z"
+      }
+    },
+    {
       "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.2.0/civv.apworld",
       "size": 15110,
       "hash_sha256": "fb0359160c13aa0863b421c1502f700c7c2b94e4329a1b521f834796074a47ed",
@@ -11254,18 +11266,6 @@
         "world_version": "0.9.8",
         "tag_version": "0.9.8",
         "created_at": "2026-02-06T20:46:56Z"
-      }
-    },
-    {
-      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.0/civv.apworld",
-      "size": 455097,
-      "hash_sha256": "444445cb7345c5790f6170198f11d1e2047d88ef647d8ccb00010e26254fedea",
-      "metadata": {
-        "game": "Civilization V",
-        "id": "civv",
-        "world_version": "0.10.0",
-        "tag_version": "0.10.0",
-        "created_at": "2026-06-19T16:23:56Z"
       }
     },
     {
@@ -13982,6 +13982,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03e/cuphead.apworld",
+      "size": 113127,
+      "hash_sha256": "e862d046746d88fb57eafe8ed05a248797b715b4cc2cb5bddc79ddf67e76fbe0",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.16909567",
+        "tag_version": "0.2.16909567",
+        "created_at": "2026-06-18T02:24:56Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -14111,19 +14124,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03e/cuphead.apworld",
-      "size": 113127,
-      "hash_sha256": "e862d046746d88fb57eafe8ed05a248797b715b4cc2cb5bddc79ddf67e76fbe0",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.16909567",
-        "tag_version": "0.2.16909567",
-        "created_at": "2026-06-18T02:24:56Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -34329,6 +34329,22 @@
       }
     },
     {
+      "world": "https://github.com/danielgruethling/Archipelago/releases/download/0.3.2/little_witch_nobeta.apworld",
+      "size": 29615,
+      "hash_sha256": "730b89744e8b6dd2c493e2df2821fffc1fb024a8e09954eeb5a63ab4f2399a41",
+      "metadata": {
+        "game": "Little Witch Nobeta",
+        "id": "little_witch_nobeta",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-02-22T20:22:22Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kli333/LobCorp-AP/releases/download/1.3.1.0/lobotomycorporation.apworld",
       "size": 82055,
       "hash_sha256": "6d2c7fa3da0a095cfc601ac2b6098ae977bd170bbd1db927f7ec7fb9e9ec160a",
@@ -52290,6 +52306,19 @@
         "world_version": "1.4.0",
         "tag_version": "1.4.0",
         "created_at": "2026-06-04T14:13:17Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.4.1/parkitect.apworld",
+      "size": 148969,
+      "hash_sha256": "4f4ddd647387e1150a42d8e388a1f2a5363b87b16f2d8a3e7182bbd2c653e2f6",
+      "metadata": {
+        "game": "Parkitect",
+        "id": "parkitect",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-06-20T11:55:30Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -85473,22 +85502,6 @@
       }
     },
     {
-      "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.2.0/zork_grand_inquisitor.apworld",
-      "size": 1143021,
-      "hash_sha256": "1eb2589169ee01f60ed3c0e2119367a07d6bcdb26c2d1a7ba07bce5ab58396f5",
-      "metadata": {
-        "game": "Zork Grand Inquisitor",
-        "id": "zork_grand_inquisitor",
-        "world_version": "2.2.0",
-        "tag_version": "2.2.0",
-        "created_at": "2026-06-20T02:50:48Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "tracker_included"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.1.2/zork_grand_inquisitor.apworld",
       "size": 1142769,
       "hash_sha256": "4710963eff1f5264f2c6e95e958f01cbecbf5cb209e1196e7110e93300e1d9b6",
@@ -85498,6 +85511,22 @@
         "world_version": "2.1.2",
         "tag_version": "2.1.2",
         "created_at": "2026-06-20T02:27:50Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.2.0/zork_grand_inquisitor.apworld",
+      "size": 1143021,
+      "hash_sha256": "1eb2589169ee01f60ed3c0e2119367a07d6bcdb26c2d1a7ba07bce5ab58396f5",
+      "metadata": {
+        "game": "Zork Grand Inquisitor",
+        "id": "zork_grand_inquisitor",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2026-06-20T02:50:48Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "tracker_included"
