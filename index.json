@@ -11257,6 +11257,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.0/civv.apworld",
+      "size": 455097,
+      "hash_sha256": "444445cb7345c5790f6170198f11d1e2047d88ef647d8ccb00010e26254fedea",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-06-19T16:23:56Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/ckd-v0.0.1/ckd.apworld",
       "size": 217567,
       "hash_sha256": "53671f3f057ead0462a4f5b570d96c0014858ae78fbb573471b83bcc6ec06943",
@@ -14102,6 +14114,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03e/cuphead.apworld",
+      "size": 113127,
+      "hash_sha256": "e862d046746d88fb57eafe8ed05a248797b715b4cc2cb5bddc79ddf67e76fbe0",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.16909567",
+        "tag_version": "0.2.16909567",
+        "created_at": "2026-06-18T02:24:56Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Metaruler/ArchipelagoCR/releases/download/V0.1.0/custom_robo.apworld",
       "size": 78766,
       "hash_sha256": "17a69e47a7e245944530e60ddee0ba8a23585bfe02272ef376fb97ee64c8dc31",
@@ -15100,6 +15125,19 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-06-18T16:48:43Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.7/dc1.apworld",
+      "size": 93026,
+      "hash_sha256": "e89139d7ccda86867c2eb64ab36420993d0c67f929e32e326e20a0694b3fac7f",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-19T19:44:28Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -55256,6 +55294,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.32/pokemon_bw.apworld",
+      "size": 1107603,
+      "hash_sha256": "970de76b74b20c64b44a19c8bf26ca72b1c30d4b79beefaa4b0a07fd56c5f873",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.32",
+        "tag_version": "0.3.32",
+        "created_at": "2026-06-19T14:47:48Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.4/pokemon_bw.apworld",
       "size": 1991422,
       "hash_sha256": "4582ab9f71f788971d548d6e1253652a248a6fc1897fa752d6604d3779421eb2",
@@ -55399,19 +55450,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.32/pokemon_bw.apworld",
-      "size": 1107603,
-      "hash_sha256": "970de76b74b20c64b44a19c8bf26ca72b1c30d4b79beefaa4b0a07fd56c5f873",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.32",
-        "tag_version": "0.3.32",
-        "created_at": "2026-06-19T14:47:48Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -80528,6 +80566,19 @@
       }
     },
     {
+      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/5.0.0/tunic.apworld",
+      "size": 154118,
+      "hash_sha256": "fa7e20265e22dc5da1c020ea37fd415613a15d2a0657385a5047a474ca0079f6",
+      "metadata": {
+        "game": "TUNIC",
+        "id": "tunic",
+        "world_version": "5.0.0",
+        "tag_version": "5.0.0",
+        "created_at": "2026-06-19T15:57:36Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/pointfivetee/TurnipBoyRandomizer/releases/download/v0.1.0/turnipboy.apworld",
       "size": 37646,
       "hash_sha256": "e909ea356886fb40aeb4888a5c7354e055e83bfd2bf9743e96148a54c0bb18c7",
@@ -85415,6 +85466,38 @@
         "world_version": "2.1.1",
         "tag_version": "2.1.1",
         "created_at": "2026-04-03T16:01:19Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.2.0/zork_grand_inquisitor.apworld",
+      "size": 1143021,
+      "hash_sha256": "1eb2589169ee01f60ed3c0e2119367a07d6bcdb26c2d1a7ba07bce5ab58396f5",
+      "metadata": {
+        "game": "Zork Grand Inquisitor",
+        "id": "zork_grand_inquisitor",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2026-06-20T02:50:48Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.1.2/zork_grand_inquisitor.apworld",
+      "size": 1142769,
+      "hash_sha256": "4710963eff1f5264f2c6e95e958f01cbecbf5cb209e1196e7110e93300e1d9b6",
+      "metadata": {
+        "game": "Zork Grand Inquisitor",
+        "id": "zork_grand_inquisitor",
+        "world_version": "2.1.2",
+        "tag_version": "2.1.2",
+        "created_at": "2026-06-20T02:27:50Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "tracker_included"

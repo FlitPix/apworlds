@@ -66,6 +66,19 @@
       "title": "Tunic Randomizer 4.2.7",
       "version_simple": "4.2.7",
       "world_version": "4.2.7"
+    },
+    "5.0.0": {
+      "created_at": "2026-06-19T15:57:36Z",
+      "download_url": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/5.0.0/tunic.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fa7e20265e22dc5da1c020ea37fd415613a15d2a0657385a5047a474ca0079f6",
+      "minimum_ap_version": "0.6.7",
+      "size": 154118,
+      "source_url": "https://api.github.com/repos/silent-destroyer/tunic-randomizer",
+      "tag": "5.0.0",
+      "title": "TUNIC Randomizer 5.0.0",
+      "version_simple": "5.0.0",
+      "world_version": "5.0.0"
     }
   }
 }

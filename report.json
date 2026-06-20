@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 526,
-  "total_versions": 6275,
+  "total_versions": 6281,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -441,7 +441,7 @@
     "tracker": true,
     "trackmania": true,
     "ttyd": true,
-    "tunic": false,
+    "tunic": true,
     "turnipboy": false,
     "twistycube": true,
     "tww3": false,
