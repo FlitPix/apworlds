@@ -591,6 +591,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.1/albw.apworld",
+      "size": 17433807,
+      "hash_sha256": "51f82a6afaaaeebd152cc71937f3d0ddb167185b984c00c5cc3bd421f859c86d",
+      "metadata": {
+        "game": "A Link Between Worlds",
+        "id": "albw",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-06-21T01:24:19Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.0/am2r.apworld",
       "size": 33004,
       "hash_sha256": "8d10309d941f39d8223bedb6cecc636bc509ec5f4815b05341538b703e745c69",
@@ -55479,6 +55492,19 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.33/pokemon_bw.apworld",
+      "size": 1127273,
+      "hash_sha256": "e8d10368bfee372385228fe811789da4577c27b6825341e9c05dfb6f7dc4eb7d",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.33",
+        "tag_version": "0.3.33",
+        "created_at": "2026-06-20T18:02:27Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
