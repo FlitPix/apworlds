@@ -52897,6 +52897,19 @@
       }
     },
     {
+      "world": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.0/phoa.apworld",
+      "size": 23435,
+      "hash_sha256": "73f4aaa9f260e396dac6dc8ab2e8bf3f817dc2f63bb1c7b0cb6eff5b01344a58",
+      "metadata": {
+        "game": "Phoenotopia: Awakening",
+        "id": "phoa",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-06-20T21:30:58Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Poke714/Archipelago/releases/download/v0.1.0/pikmin.apworld",
       "size": 8984,
       "hash_sha256": "8a909e0b4dd392051298bb996b6a5831a9178d525ed0c0f5912fb9bff4d90cda",
@@ -55474,6 +55487,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.34/pokemon_bw.apworld",
+      "size": 1128329,
+      "hash_sha256": "c3de5f2a6d98be8443488aa3463a294aeb0250811d0084c65d36d0909a3393f6",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.34",
+        "tag_version": "0.3.34",
+        "created_at": "2026-06-21T16:04:16Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.4/pokemon_bw.apworld",
       "size": 1991422,
       "hash_sha256": "4582ab9f71f788971d548d6e1253652a248a6fc1897fa752d6604d3779421eb2",
@@ -55617,19 +55643,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.34/pokemon_bw.apworld",
-      "size": 1128329,
-      "hash_sha256": "c3de5f2a6d98be8443488aa3463a294aeb0250811d0084c65d36d0909a3393f6",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.34",
-        "tag_version": "0.3.34",
-        "created_at": "2026-06-21T16:04:16Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
