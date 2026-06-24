@@ -11312,6 +11312,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.2/civv.apworld",
+      "size": 455336,
+      "hash_sha256": "2a26b36e30a44be5877f3e265a7dc15b9e0704686b3ea4f967de383ea9f17338",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.2",
+        "tag_version": "0.10.2",
+        "created_at": "2026-06-23T16:57:34Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/ckd-v0.0.1/ckd.apworld",
       "size": 217567,
       "hash_sha256": "53671f3f057ead0462a4f5b570d96c0014858ae78fbb573471b83bcc6ec06943",
@@ -15181,6 +15193,19 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-06-19T19:44:28Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.8/dc1.apworld",
+      "size": 93026,
+      "hash_sha256": "e89139d7ccda86867c2eb64ab36420993d0c67f929e32e326e20a0694b3fac7f",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-23T19:19:23Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -27985,6 +28010,19 @@
         "world_version": "4.1.1",
         "tag_version": "4.1.1",
         "created_at": "2026-06-17T19:10:30Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.1.2/hammerwatch.apworld",
+      "size": 3528788,
+      "hash_sha256": "309f50f3ca0817127d1a8c43f370fe57c10fd5e79678f2817e90c8b2526c172b",
+      "metadata": {
+        "game": "Hammerwatch",
+        "id": "hammerwatch",
+        "world_version": "4.1.1",
+        "tag_version": "4.1.1",
+        "created_at": "2026-06-23T21:02:54Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -48865,6 +48903,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.6/nine_sols.apworld",
+      "size": 2586237,
+      "hash_sha256": "2be3b14006b2744a91f729bb03c9fd4805394a681fdb6ab861d3f80b38672708",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.5.6",
+        "tag_version": "0.5.6",
+        "created_at": "2026-06-23T16:21:29Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_0/no100f.apworld",
       "size": 216707,
       "hash_sha256": "c7a73db59222d8761aa6528118924eca25b97a3f3e6fde3dd3e74ba64d9abda0",
@@ -49817,6 +49868,19 @@
         "world_version": "1.3.0",
         "tag_version": "1.3.0",
         "created_at": "2026-06-15T17:28:28Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/HarbourMasters/Archipelago-SoH/releases/download/SoH_1.4.0/oot_soh.apworld",
+      "size": 217406,
+      "hash_sha256": "437c9138b1e765a52cc0d1e8dba8b494bd3bcb57b0f3b1efe0f5296b61123cb3",
+      "metadata": {
+        "game": "Ship of Harkinian",
+        "id": "oot_soh",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-06-23T18:22:42Z",
         "minimum_ap_version": "0.6.7"
       }
     },
