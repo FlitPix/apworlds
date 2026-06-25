@@ -34054,6 +34054,18 @@
       }
     },
     {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.12-beta/lethal_company.apworld",
+      "size": 455054,
+      "hash_sha256": "32a42513965bf6b483c172a51b238205c83fe7cee45b9f0004869dc68d04dfc9",
+      "metadata": {
+        "game": "Lethal Company",
+        "id": "lethal_company",
+        "world_version": "0.7.12",
+        "tag_version": "0.7.12",
+        "created_at": "2026-06-25T00:34:09Z"
+      }
+    },
+    {
       "world": "https://github.com/Xtruh/LiesOfAP/releases/download/0.1.0/liesofp.apworld",
       "size": 200858,
       "hash_sha256": "a5cde334a36fccaa7d1dba48d71930ea8c8254a6201af56f13a969eefa200040",
@@ -49894,6 +49906,19 @@
         "world_version": "1.4.0",
         "tag_version": "1.4.0",
         "created_at": "2026-06-23T18:22:42Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/HarbourMasters/Archipelago-SoH/releases/download/SoH_1.4.1/oot_soh.apworld",
+      "size": 217419,
+      "hash_sha256": "f19d224909597386c090917105412453a978ff328b773600c19d0c5b62dd4df6",
+      "metadata": {
+        "game": "Ship of Harkinian",
+        "id": "oot_soh",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-06-24T12:53:05Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -67141,6 +67166,18 @@
         "tag_version": "1.5.1",
         "created_at": "2025-01-25T02:41:47Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.0/sims4.apworld",
+      "size": 250108,
+      "hash_sha256": "9d89efe42882527c2a5d164be89da23157f71f6568fa713d6679ed2dda2d6872",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-06-25T02:16:08Z"
       }
     },
     {
