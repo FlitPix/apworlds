@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 527,
-  "total_versions": 6306,
+  "total_versions": 6310,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -356,7 +356,7 @@
     "psychonauts": true,
     "quake": false,
     "rabi_ribi": true,
-    "rac1": false,
+    "rac1": true,
     "rac2": false,
     "rac3": true,
     "rain_world": true,

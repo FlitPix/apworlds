@@ -8385,6 +8385,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-86/borderlands2.apworld",
+      "size": 60126,
+      "hash_sha256": "d076c0ad3f3ad3ac3122263927eadb97b9a12a155376d7bfc5187a388df92d83",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "86",
+        "tag_version": "86",
+        "created_at": "2026-06-25T21:03:16Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -10137,6 +10153,19 @@
         "world_version": "0.9.3",
         "tag_version": "0.9.3",
         "created_at": "2026-04-27T03:07:23Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.11.0/casualtiesunknown.apworld",
+      "size": 97914,
+      "hash_sha256": "fe171a5475bf226ac9ab9c7cf40961685c393d25d374a1f4462fa7cb5f007be7",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-06-26T01:06:54Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -60543,6 +60572,21 @@
       }
     },
     {
+      "world": "https://github.com/Panda291/Archipelago/releases/download/v0.2.1b/rac1.apworld",
+      "size": 45367,
+      "hash_sha256": "590c78c745db101edb15856cb6410647a7e11932c5a02bdc2f7193a77cd61a02",
+      "metadata": {
+        "game": "Ratchet & Clank",
+        "id": "rac1",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-06-25T18:17:36Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/evilwb/APRac2/releases/download/v0.4.1/rac2.apworld",
       "size": 52264,
       "hash_sha256": "a3a0d9e7ecbf9baf4ee1f58a42be9f0ef5048d3c1c182bfcb9379c41af4d9132",
@@ -64008,6 +64052,19 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.14.0/rotn.apworld",
+      "size": 17058,
+      "hash_sha256": "8fe75d9e30f7358c6fab99596d81143e487ed590e4d387357d805399e1589fcc",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.14.0",
+        "tag_version": "0.14.0",
+        "created_at": "2026-06-12T01:41:46Z",
         "minimum_ap_version": "0.6.3"
       }
     },
