@@ -256,6 +256,19 @@
       "title": "v1.5.33",
       "version_simple": "1.5.33",
       "world_version": "1.5.33"
+    },
+    "v1.5.34": {
+      "created_at": "2026-06-26T10:02:02Z",
+      "download_url": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.34/musedash.apworld",
+      "has_manifest": true,
+      "hash_sha256": "657a0f17ef3488f58bad252a7e3226b78765c1546e9b8a2ac3ddea3acf0f43ae",
+      "minimum_ap_version": "0.6.3",
+      "size": 36787,
+      "source_url": "https://api.github.com/repos/DeamonHunter/ArchipelagoMuseDash",
+      "tag": "v1.5.34",
+      "title": "v1.5.34",
+      "version_simple": "1.5.34",
+      "world_version": "1.5.34"
     }
   }
 }
