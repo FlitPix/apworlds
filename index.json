@@ -2258,6 +2258,19 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.6/ape_escape_3.apworld",
+      "size": 144758,
+      "hash_sha256": "77ddc16a21525bdfcd059e13414fc3baa6c7fa4b4a2367d5ac89e37d2ba8d4b3",
+      "metadata": {
+        "game": "Ape Escape 3",
+        "id": "ape_escape_3",
+        "world_version": "2.0.6",
+        "tag_version": "2.0.6",
+        "created_at": "2026-06-27T10:29:01Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.3.0/apeescape.apworld",
       "size": 181274,
       "hash_sha256": "9ccc189c239d744a190f6e8eb6ca34c74d37490cde0723159d931dc6828da145",
@@ -11363,6 +11376,18 @@
         "world_version": "0.9.8",
         "tag_version": "0.9.8",
         "created_at": "2026-02-06T20:46:56Z"
+      }
+    },
+    {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.3/civv.apworld",
+      "size": 455510,
+      "hash_sha256": "5c771887aca9768d6613ce9af93543d4330671ded4228dd31491f4f032d05ca3",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.3",
+        "tag_version": "0.10.3",
+        "created_at": "2026-06-27T12:41:02Z"
       }
     },
     {
@@ -36918,6 +36943,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari106/madou.apworld",
+      "size": 44812,
+      "hash_sha256": "697300f04e60dbf94a40ada02a8cabf8ca8043baa14425ba54d4edb8130a94c8",
+      "metadata": {
+        "game": "Madou Monogatari Hanamaru Daiyouchienji",
+        "id": "madou",
+        "world_version": "106",
+        "tag_version": "106",
+        "created_at": "2026-06-27T10:39:48Z"
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Manuals/releases/download/AOD-1.0/manual_adventuresofdreamland_bennydreamly.apworld",
       "size": 59203,
       "hash_sha256": "66a4b2479c353da369fcc1b1e4e134eb7bba2504fb331c7378e1ddc6e54b1bbd",
@@ -53080,6 +53117,19 @@
       }
     },
     {
+      "world": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.1/phoa.apworld",
+      "size": 23435,
+      "hash_sha256": "a103e0be54f94bc23670254b581bfd16554e508cb730feb500f78a3bae4dc6e8",
+      "metadata": {
+        "game": "Phoenotopia: Awakening",
+        "id": "phoa",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-06-27T09:21:03Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Poke714/Archipelago/releases/download/v0.1.0/pikmin.apworld",
       "size": 8984,
       "hash_sha256": "8a909e0b4dd392051298bb996b6a5831a9178d525ed0c0f5912fb9bff4d90cda",
@@ -64885,6 +64935,19 @@
       }
     },
     {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.2/sadx.apworld",
+      "size": 3156790,
+      "hash_sha256": "4436a03f8fc309d5d9cb10212b22654700cf0a351eac7cc0c956e25539ce0383",
+      "metadata": {
+        "game": "Sonic Adventure DX",
+        "id": "sadx",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-06-24T03:58:14Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.2-pre-release-1/sadx.apworld",
       "size": 3156362,
       "hash_sha256": "482f655dedf2ef1d366a6973b3b8d989a74f151cab3556989bc63f1f668f2e13",
@@ -64930,19 +64993,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.2/sadx.apworld",
-      "size": 3156790,
-      "hash_sha256": "4436a03f8fc309d5d9cb10212b22654700cf0a351eac7cc0c956e25539ce0383",
-      "metadata": {
-        "game": "Sonic Adventure DX",
-        "id": "sadx",
-        "world_version": "1.2.2",
-        "tag_version": "1.2.2",
-        "created_at": "2026-06-24T03:58:14Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
