@@ -26805,6 +26805,22 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR1/grinch.apworld",
+      "size": 52743,
+      "hash_sha256": "e21135e681d5ce3a5af50bac0ebc2ded50ff2c8fc09999959e8f350f56f48883",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-06-28T04:11:19Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/cjmang/Archipelago/releases/download/0.1.0-alpha/gstla.apworld",
       "size": 423011,
       "hash_sha256": "bf202c029df370f29525cd0aa7645e6a6408955f5a42c853dfa62e83bffe45f1",
@@ -58795,6 +58811,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.3/pokepark.apworld",
+      "size": 79644,
+      "hash_sha256": "c8308dbae6c265a158244345ad44a07e204ad8b21f6c1e23aa14c4910caa0837",
+      "metadata": {
+        "game": "PokePark",
+        "id": "pokepark",
+        "world_version": "1.2.3",
+        "tag_version": "1.2.3",
+        "created_at": "2026-06-28T11:52:58Z"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1/powerwashsimulator.apworld",
       "size": 11917,
       "hash_sha256": "c88117dc5d4eddea733e8f152b3ab1258b881e80a27e71d1363a770b06cace88",
@@ -79447,6 +79475,19 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.8-alpha/tloz_st.apworld",
+      "size": 363909,
+      "hash_sha256": "dd909e0c00323e4d712e11bc819ecc729ff35dc179a06a8b0e8a8206750d9eaa",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.8",
+        "tag_version": "0.7.8",
+        "created_at": "2026-06-28T09:38:06Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {

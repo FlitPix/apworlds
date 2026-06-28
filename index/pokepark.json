@@ -234,6 +234,18 @@
       "title": "1.2.2",
       "version_simple": "1.2.2",
       "world_version": "1.2.2"
+    },
+    "1.2.3": {
+      "created_at": "2026-06-28T11:52:58Z",
+      "download_url": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.3/pokepark.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c8308dbae6c265a158244345ad44a07e204ad8b21f6c1e23aa14c4910caa0837",
+      "size": 79644,
+      "source_url": "https://api.github.com/repos/Mekurushi/Archipelago_Pokepark",
+      "tag": "1.2.3",
+      "title": "1.2.3",
+      "version_simple": "1.2.3",
+      "world_version": "1.2.3"
     }
   }
 }
