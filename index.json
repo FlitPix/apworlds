@@ -11391,6 +11391,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.4/civv.apworld",
+      "size": 455860,
+      "hash_sha256": "e0898a30345a19799567ae9a92e1ea88e65cf6c6c10bea929c9280a7e5130e6d",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.4",
+        "tag_version": "0.10.4",
+        "created_at": "2026-06-28T21:08:52Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/ckd-v0.0.1/ckd.apworld",
       "size": 217567,
       "hash_sha256": "53671f3f057ead0462a4f5b570d96c0014858ae78fbb573471b83bcc6ec06943",
@@ -49533,6 +49545,22 @@
       }
     },
     {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.5.0/oblivion.apworld",
+      "size": 217483,
+      "hash_sha256": "bad105070154ce35a03bc802ef526907f2583cc832518fdc13cdbe344ee3e1cc",
+      "metadata": {
+        "game": "Oblivion Remastered",
+        "id": "oblivion",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-13T18:50:57Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/wkcheezy/ObraDinnArchipelagoWorld/releases/download/v0.0.1-alpha/obra_dinn.apworld",
       "size": 17760,
       "hash_sha256": "dcea37f9871cb68999be976a28045d3bad25b6b714cb3899d2f4442cd7ced746",
@@ -53136,6 +53164,19 @@
       "world": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.1/phoa.apworld",
       "size": 23435,
       "hash_sha256": "a103e0be54f94bc23670254b581bfd16554e508cb730feb500f78a3bae4dc6e8",
+      "metadata": {
+        "game": "Phoenotopia: Awakening",
+        "id": "phoa",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-06-27T09:21:03Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.1/phoa.apworld",
+      "size": 23417,
+      "hash_sha256": "8793da8a4026548f0b8c84155ccbde1cee957ae71ce3a5be92962f07f153059c",
       "metadata": {
         "game": "Phoenotopia: Awakening",
         "id": "phoa",
@@ -76237,6 +76278,19 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.6.0/tevi.apworld",
+      "size": 84131,
+      "hash_sha256": "39978577a93ca936c75d85c829f2fbde4f804303634da9dd077c8f646b1cac0e",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "0.7.3",
+        "tag_version": "0.7.3",
+        "created_at": "2026-06-28T15:31:46Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Nepley/eosd-apworld/releases/download/v1.0.0/th06.apworld",
       "size": 36935,
       "hash_sha256": "f8933f1f567291737d842690df98952e62bfbfc11ff39af4d0cbdbcf1151bb0b",
@@ -79324,6 +79378,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.8-alpha/tloz_st.apworld",
+      "size": 363909,
+      "hash_sha256": "dd909e0c00323e4d712e11bc819ecc729ff35dc179a06a8b0e8a8206750d9eaa",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.8",
+        "tag_version": "0.7.8",
+        "created_at": "2026-06-28T09:38:06Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -79475,19 +79542,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.8-alpha/tloz_st.apworld",
-      "size": 363909,
-      "hash_sha256": "dd909e0c00323e4d712e11bc819ecc729ff35dc179a06a8b0e8a8206750d9eaa",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.7.8",
-        "tag_version": "0.7.8",
-        "created_at": "2026-06-28T09:38:06Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
