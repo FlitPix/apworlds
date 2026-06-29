@@ -11079,6 +11079,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.4/civv.apworld",
+      "size": 455860,
+      "hash_sha256": "e0898a30345a19799567ae9a92e1ea88e65cf6c6c10bea929c9280a7e5130e6d",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.4",
+        "tag_version": "0.10.4",
+        "created_at": "2026-06-28T21:08:52Z"
+      }
+    },
+    {
       "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.2.0/civv.apworld",
       "size": 15110,
       "hash_sha256": "fb0359160c13aa0863b421c1502f700c7c2b94e4329a1b521f834796074a47ed",
@@ -11388,18 +11400,6 @@
         "world_version": "0.9.8",
         "tag_version": "0.9.8",
         "created_at": "2026-02-06T20:46:56Z"
-      }
-    },
-    {
-      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.4/civv.apworld",
-      "size": 455860,
-      "hash_sha256": "e0898a30345a19799567ae9a92e1ea88e65cf6c6c10bea929c9280a7e5130e6d",
-      "metadata": {
-        "game": "Civilization V",
-        "id": "civv",
-        "world_version": "0.10.4",
-        "tag_version": "0.10.4",
-        "created_at": "2026-06-28T21:08:52Z"
       }
     },
     {
