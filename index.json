@@ -42244,6 +42244,19 @@
       }
     },
     {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-5.0.0/manual_taylorswiftdiscography_bennydreamly.apworld",
+      "size": 61130,
+      "hash_sha256": "b09f3a7d583405c9aefba37df962ba35b4ab343dcc58c8107242ec602efd09ae",
+      "metadata": {
+        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
+        "id": "manual_taylorswiftdiscography_bennydreamly",
+        "world_version": "5.0.0",
+        "tag_version": "5.0.0",
+        "created_at": "2025-12-11T16:39:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/TF2_0.0.1/manual_teamfortress2_axxroy.apworld",
       "size": 41493,
       "hash_sha256": "eb9104abaf5769387c037c46db5ea782e3c19a150ba5b53709ff50fa014cdebb",
