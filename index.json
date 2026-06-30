@@ -10718,6 +10718,19 @@
       }
     },
     {
+      "world": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.1.1/celeste_open_world.apworld",
+      "size": 231269,
+      "hash_sha256": "ce40e6e050baa8ac0dde624410cceeefa16f4ff8efd2cd5895a5488fa4073c14",
+      "metadata": {
+        "game": "Celeste (Open World)",
+        "id": "celeste_open_world",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-06-29T22:00:33Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Samupo/ChainedEchoesAPWorld/releases/download/v1.0.0/chainedechoes.apworld",
       "size": 19300,
       "hash_sha256": "8cdad99acd9d3c7d5a09281a9454144286faeee7a0e328f30a58c6be9b49183a",
@@ -22769,6 +22782,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.2/ff1pr.apworld",
+      "size": 28126,
+      "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-06-29T23:39:11Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Rosalie-A/Archipelago/releases/download/FFIV-0.1/ff4fe.apworld",
       "size": 8830168,
       "hash_sha256": "496401bbc1f82f9500347bc60d2178880a53104bab69e3f3064f2c09f98a30ee",
@@ -26826,6 +26852,22 @@
         "world_version": "1.6.0",
         "tag_version": "1.6.0",
         "created_at": "2026-06-28T04:11:19Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR2/grinch.apworld",
+      "size": 55841,
+      "hash_sha256": "414ec111626e470d40ad2119a9723651f1021adc1a991c54f6cbcf3da65a17ee",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-06-30T00:31:40Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
