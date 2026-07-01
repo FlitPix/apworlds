@@ -54397,6 +54397,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.6/plateup.apworld",
+      "size": 127262,
+      "hash_sha256": "88ec0ef86fe5f6f552382c20e9c3a3ab303447cd6e08da2b8fc37e2ef29a701b",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.6.6",
+        "tag_version": "0.2.6.6",
+        "created_at": "2026-05-19T09:09:02Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
       "size": 15365,
       "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
@@ -54407,18 +54419,6 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.6/plateup.apworld",
-      "size": 127262,
-      "hash_sha256": "88ec0ef86fe5f6f552382c20e9c3a3ab303447cd6e08da2b8fc37e2ef29a701b",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.2.6.6",
-        "tag_version": "0.2.6.6",
-        "created_at": "2026-05-19T09:09:02Z"
       }
     },
     {
@@ -55860,6 +55860,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.35/pokemon_bw.apworld",
+      "size": 1128979,
+      "hash_sha256": "c5226979ee09f6e734a79cc2eb36f3fbc216dda7e3bcd0b1fc10c076efa20629",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.35",
+        "tag_version": "0.3.35",
+        "created_at": "2026-06-30T22:42:18Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.4/pokemon_bw.apworld",
       "size": 1991422,
       "hash_sha256": "4582ab9f71f788971d548d6e1253652a248a6fc1897fa752d6604d3779421eb2",
@@ -56003,19 +56016,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.35/pokemon_bw.apworld",
-      "size": 1128979,
-      "hash_sha256": "c5226979ee09f6e734a79cc2eb36f3fbc216dda7e3bcd0b1fc10c076efa20629",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.35",
-        "tag_version": "0.3.35",
-        "created_at": "2026-06-30T22:42:18Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
