@@ -87,6 +87,18 @@
       "title": "Rusted Moss Archipelago Alpha v0.1.6",
       "version_simple": "0.1.6",
       "world_version": "0.1.6"
+    },
+    "v0.1.7-alpha": {
+      "created_at": "2026-07-02T03:12:34Z",
+      "download_url": "https://github.com/dgrossmann144/Archipelago/releases/download/v0.1.7-alpha/rusted_moss.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ff34f08c86991934d9568bddc18e05ffe2a2e5f49ceb60719db9e65ff40ddddb",
+      "size": 96544,
+      "source_url": "https://api.github.com/repos/dgrossmann144/Archipelago",
+      "tag": "v0.1.7-alpha",
+      "title": "Rusted Moss Archipelago Alpha v0.1.7",
+      "version_simple": "0.1.7",
+      "world_version": "0.1.7a0"
     }
   }
 }

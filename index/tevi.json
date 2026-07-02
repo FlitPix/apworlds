@@ -62,6 +62,19 @@
       "version_simple": "1.4.4",
       "world_version": "1.4.4"
     },
+    "V1.6.1": {
+      "created_at": "2026-07-01T18:38:52Z",
+      "download_url": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/V1.6.1/tevi.apworld",
+      "has_manifest": true,
+      "hash_sha256": "39978577a93ca936c75d85c829f2fbde4f804303634da9dd077c8f646b1cac0e",
+      "minimum_ap_version": "0.6.4",
+      "size": 84131,
+      "source_url": "https://api.github.com/repos/BlackSoulKnight/Tevi_Randomizer",
+      "tag": "V1.6.1",
+      "title": "Version 1.6.1 (AP 0.7.3)",
+      "version_simple": "0.7.3",
+      "world_version": "0.7.3"
+    },
     "v1.2.1": {
       "created_at": "2025-02-23T08:13:25Z",
       "download_url": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.2.1/tevi.apworld",
