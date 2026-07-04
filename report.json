@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 531,
-  "total_versions": 6348,
+  "total_versions": 6351,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -281,7 +281,7 @@
     "medievil": true,
     "medievil2": true,
     "megamix": true,
-    "melee": false,
+    "melee": true,
     "messenger": true,
     "metrocubevania": false,
     "metroidfusion": true,

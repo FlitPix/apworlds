@@ -11120,6 +11120,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.5/civv.apworld",
+      "size": 455914,
+      "hash_sha256": "222ada376e9c4b171ddad7932cd13d8952a5af1879c3e20d1e136d1dd9171145",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.5",
+        "tag_version": "0.10.5",
+        "created_at": "2026-07-03T16:05:41Z"
+      }
+    },
+    {
       "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.2.0/civv.apworld",
       "size": 15110,
       "hash_sha256": "fb0359160c13aa0863b421c1502f700c7c2b94e4329a1b521f834796074a47ed",
@@ -11429,18 +11441,6 @@
         "world_version": "0.9.8",
         "tag_version": "0.9.8",
         "created_at": "2026-02-06T20:46:56Z"
-      }
-    },
-    {
-      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.5/civv.apworld",
-      "size": 455914,
-      "hash_sha256": "222ada376e9c4b171ddad7932cd13d8952a5af1879c3e20d1e136d1dd9171145",
-      "metadata": {
-        "game": "Civilization V",
-        "id": "civv",
-        "world_version": "0.10.5",
-        "tag_version": "0.10.5",
-        "created_at": "2026-07-03T16:05:41Z"
       }
     },
     {
@@ -20618,6 +20618,19 @@
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.4/earthbound.apworld",
       "size": 367316,
       "hash_sha256": "af72e295644f1cf28cc1f476bc87e32ca93952216be36af82b7f6761cd78307e",
+      "metadata": {
+        "game": "EarthBound",
+        "id": "earthbound",
+        "world_version": "4.4.0",
+        "tag_version": "4.4.0",
+        "created_at": "2026-04-29T20:29:41Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.4/earthbound.apworld",
+      "size": 367317,
+      "hash_sha256": "456048944e0c6f0a20aee7807f9a70ed6d4448aa22a1ad068507195e1a986d97",
       "metadata": {
         "game": "EarthBound",
         "id": "earthbound",
@@ -40657,6 +40670,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.2/manual_onemorenight_wolfboi008.apworld",
+      "size": 74164,
+      "hash_sha256": "15385f5d78a866e5869eeab976fc9caca8786f98e0332d7cd925200aa312c2a4",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.2",
+        "tag_version": "2.3.2",
+        "created_at": "2026-04-21T22:40:19Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -40798,19 +40824,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.2/manual_onemorenight_wolfboi008.apworld",
-      "size": 74164,
-      "hash_sha256": "15385f5d78a866e5869eeab976fc9caca8786f98e0332d7cd925200aa312c2a4",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.3.2",
-        "tag_version": "2.3.2",
-        "created_at": "2026-04-21T22:40:19Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -45103,6 +45116,19 @@
         "tag_version": "1.1",
         "created_at": "2025-08-19T14:26:12Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap2.0/melee.apworld",
+      "size": 69925,
+      "hash_sha256": "bc1fb3f52f1d74ba632e1de544bbda18f9449fada4cdfcbc9de69c3b41448d55",
+      "metadata": {
+        "game": "Super Smash Bros. Melee",
+        "id": "melee",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-06-07T16:21:30Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -55968,6 +55994,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.36/pokemon_bw.apworld",
+      "size": 1129357,
+      "hash_sha256": "fa07c21e576b97f4c7923eb67c07230c55fdd36776f57d8b88d0f7d84bfb0542",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.36",
+        "tag_version": "0.3.36",
+        "created_at": "2026-07-03T23:58:31Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.4/pokemon_bw.apworld",
       "size": 1991422,
       "hash_sha256": "4582ab9f71f788971d548d6e1253652a248a6fc1897fa752d6604d3779421eb2",
@@ -56111,19 +56150,6 @@
         "created_at": "2025-10-08T22:51:58Z",
         "minimum_ap_version": "0.6.3",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.36/pokemon_bw.apworld",
-      "size": 1129357,
-      "hash_sha256": "fa07c21e576b97f4c7923eb67c07230c55fdd36776f57d8b88d0f7d84bfb0542",
-      "metadata": {
-        "game": "Pokemon Black and White",
-        "id": "pokemon_bw",
-        "world_version": "0.3.36",
-        "tag_version": "0.3.36",
-        "created_at": "2026-07-03T23:58:31Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -80912,6 +80938,19 @@
         "created_at": "2025-06-20T22:35:33Z",
         "minimum_ap_version": "0.6.2",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.33/tracker.apworld",
+      "size": 166930,
+      "hash_sha256": "55f01bdb69005dfd3d87b920f4bd9686066b7f8a284c0b8fee66e41b50b362b2",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.33",
+        "tag_version": "0.2.33",
+        "created_at": "2026-07-04T03:42:21Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
