@@ -160,6 +160,19 @@
       "title": "Soh Archipelago 1.4.1",
       "version_simple": "1.4.1",
       "world_version": "1.4.1"
+    },
+    "Soh_1.4.2": {
+      "created_at": "2026-07-02T20:06:44Z",
+      "download_url": "https://github.com/HarbourMasters/Archipelago-SoH/releases/download/Soh_1.4.2/oot_soh.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b2600ef61c5ddee869e51e472d2eb374842fb5532fd38d218335f166952b70bb",
+      "minimum_ap_version": "0.6.7",
+      "size": 217476,
+      "source_url": "https://api.github.com/repos/HarbourMasters/Archipelago-SoH",
+      "tag": "Soh_1.4.2",
+      "title": "Soh Archipelago 1.4.2",
+      "version_simple": "1.4.1",
+      "world_version": "1.4.1"
     }
   }
 }

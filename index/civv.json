@@ -88,6 +88,18 @@
       "version_simple": "0.10.4",
       "world_version": "0.10.4"
     },
+    "v0.10.5": {
+      "created_at": "2026-07-03T16:05:41Z",
+      "download_url": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.5/civv.apworld",
+      "has_manifest": true,
+      "hash_sha256": "222ada376e9c4b171ddad7932cd13d8952a5af1879c3e20d1e136d1dd9171145",
+      "size": 455914,
+      "source_url": "https://api.github.com/repos/1313e/Civ-V-AP-World",
+      "tag": "v0.10.5",
+      "title": "APWorld v0.10.5",
+      "version_simple": "0.10.5",
+      "world_version": "0.10.5"
+    },
     "v0.2.0": {
       "created_at": "2025-07-14T15:47:43Z",
       "download_url": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.2.0/civv.apworld",
