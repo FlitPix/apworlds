@@ -10747,6 +10747,19 @@
       }
     },
     {
+      "world": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.1.2/celeste_open_world.apworld",
+      "size": 231431,
+      "hash_sha256": "ebd71d419db0037c7b07f710f1d51ea4ade646b655c4e6ad228fe71a7a9fbc49",
+      "metadata": {
+        "game": "Celeste (Open World)",
+        "id": "celeste_open_world",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
+        "created_at": "2026-07-05T02:03:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Samupo/ChainedEchoesAPWorld/releases/download/v1.0.0/chainedechoes.apworld",
       "size": 19300,
       "hash_sha256": "8cdad99acd9d3c7d5a09281a9454144286faeee7a0e328f30a58c6be9b49183a",
@@ -45132,6 +45145,19 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap2.0/melee.apworld",
+      "size": 69919,
+      "hash_sha256": "f44e765f05e5bd7924d150c0d145e91e1f8e054063bdc321880409a0ab58e8db",
+      "metadata": {
+        "game": "Super Smash Bros. Melee",
+        "id": "melee",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-06-07T16:21:30Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.0-RC3-messenger-ut/messenger.apworld",
       "size": 599563,
       "hash_sha256": "1c1fc212b383e9f0a32363078aae70525974d7c048e0df11bacff3ef7cf95788",
@@ -49237,6 +49263,19 @@
         "world_version": "0.5.7",
         "tag_version": "0.5.7",
         "created_at": "2026-07-02T15:37:47Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.0/nine_sols.apworld",
+      "size": 3644379,
+      "hash_sha256": "1ece9bbd2378d106aa159b2a1bbdcd5fc262e92d4ef1d1cbe492c6da20427af1",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-07-04T16:03:25Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -61714,6 +61753,19 @@
       }
     },
     {
+      "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.6.0/rain_world.apworld",
+      "size": 179493,
+      "hash_sha256": "34fa901a473a5e6e2a5e9930b78c60b5e29af0822d326cfbdb37c9fae097f6e9",
+      "metadata": {
+        "game": "Rain World",
+        "id": "rain_world",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-04T21:14:28Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.0.1/refunct.apworld",
       "size": 4260,
       "hash_sha256": "2c64d10fd3e65742c4311ce47ccd66fd64d0df2f629ea1f4bd3480abca91c9da",
@@ -62238,6 +62290,19 @@
         "world_version": "1.2.2",
         "tag_version": "1.2.2",
         "created_at": "2026-06-06T21:34:11Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.2.2a/refunct.apworld",
+      "size": 20524,
+      "hash_sha256": "507d47b055af41c309d9cb6d19f8ced3d9f168e643b07a1fd914cfb594ce584a",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-07-04T20:16:13Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -80725,6 +80790,19 @@
       }
     },
     {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.33/tracker.apworld",
+      "size": 166930,
+      "hash_sha256": "55f01bdb69005dfd3d87b920f4bd9686066b7f8a284c0b8fee66e41b50b362b2",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.2.33",
+        "tag_version": "0.2.33",
+        "created_at": "2026-07-04T03:42:21Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.3MD/tracker.apworld",
       "size": 42527,
       "hash_sha256": "ef41f57fa7d99c3f7aa4589b89833bb83520ec08dc0b29a297a597f9ea9fe4fc",
@@ -80941,15 +81019,15 @@
       }
     },
     {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.33/tracker.apworld",
-      "size": 166930,
-      "hash_sha256": "55f01bdb69005dfd3d87b920f4bd9686066b7f8a284c0b8fee66e41b50b362b2",
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.34/tracker.apworld",
+      "size": 168490,
+      "hash_sha256": "1c5acca6c23c2d034236a737feb3ffe39a915d36db587e650c4a9a8b8b41ff53",
       "metadata": {
         "game": "Universal Tracker",
         "id": "tracker",
-        "world_version": "0.2.33",
-        "tag_version": "0.2.33",
-        "created_at": "2026-07-04T03:42:21Z",
+        "world_version": "0.2.34",
+        "tag_version": "0.2.34",
+        "created_at": "2026-07-04T20:11:15Z",
         "minimum_ap_version": "0.6.2"
       }
     },

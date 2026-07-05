@@ -173,6 +173,19 @@
       "title": "v1.5.2",
       "version_simple": "1.5.2",
       "world_version": "1.5.2"
+    },
+    "v1.6.0": {
+      "created_at": "2026-07-04T21:14:28Z",
+      "download_url": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.6.0/rain_world.apworld",
+      "has_manifest": true,
+      "hash_sha256": "34fa901a473a5e6e2a5e9930b78c60b5e29af0822d326cfbdb37c9fae097f6e9",
+      "minimum_ap_version": "0.6.7",
+      "size": 179493,
+      "source_url": "https://api.github.com/repos/alphappy/ArchipelagoRW",
+      "tag": "v1.6.0",
+      "title": "v1.6.0",
+      "version_simple": "1.6.0",
+      "world_version": "1.6.0"
     }
   }
 }
