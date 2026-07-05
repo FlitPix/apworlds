@@ -258,6 +258,19 @@
       "title": "v0.4.7",
       "version_simple": "0.4.6",
       "world_version": "0.4.6"
+    },
+    "v0.4.8": {
+      "created_at": "2026-07-05T08:17:36Z",
+      "download_url": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.8/everhood_2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "0f9c4250fc62e9248224741a1b5534249cca549edbbcb27fdbe917629c87eecb",
+      "minimum_ap_version": "0.6.7",
+      "size": 20484,
+      "source_url": "https://api.github.com/repos/DeamonHunter/ArchipelagoEverhood2",
+      "tag": "v0.4.8",
+      "title": "v0.4.8",
+      "version_simple": "0.4.8",
+      "world_version": "0.4.8"
     }
   }
 }
