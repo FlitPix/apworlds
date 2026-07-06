@@ -75140,7 +75140,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.9/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.7/stardew_valley.apworld",
       "size": 562595,
       "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
       "metadata": {
@@ -75148,7 +75148,7 @@
         "id": "stardew_valley",
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
-        "created_at": "2026-07-05T22:21:09Z",
+        "created_at": "2026-07-05T17:05:18Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -75172,7 +75172,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.7/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.9/stardew_valley.apworld",
       "size": 562595,
       "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
       "metadata": {
@@ -75180,7 +75180,23 @@
         "id": "stardew_valley",
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
-        "created_at": "2026-07-05T17:05:18Z",
+        "created_at": "2026-07-05T22:21:09Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.10/stardew_valley.apworld",
+      "size": 562595,
+      "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.0",
+        "tag_version": "8.0.0",
+        "created_at": "2026-07-06T03:47:10Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -84332,6 +84348,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.10/waffles.apworld",
+      "size": 265252,
+      "hash_sha256": "f0e1177187ca8be905e2dd0041f449eb00c131448cba590451578b66bf5a9829",
+      "metadata": {
+        "game": "SMW: Spicy Mycena Waffles",
+        "id": "waffles",
+        "world_version": "1.3.10",
+        "tag_version": "1.3.10",
+        "created_at": "2026-07-06T02:19:34Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.2/waffles.apworld",
       "size": 265571,
       "hash_sha256": "3b2fd9e7c52674dc6e0e531643dc8d3176a2d2ba1ac898119ebe3c581f70f95b",
@@ -84432,19 +84461,6 @@
         "world_version": "1.3.9",
         "tag_version": "1.3.9",
         "created_at": "2026-05-25T01:59:46Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.10/waffles.apworld",
-      "size": 265252,
-      "hash_sha256": "f0e1177187ca8be905e2dd0041f449eb00c131448cba590451578b66bf5a9829",
-      "metadata": {
-        "game": "SMW: Spicy Mycena Waffles",
-        "id": "waffles",
-        "world_version": "1.3.10",
-        "tag_version": "1.3.10",
-        "created_at": "2026-07-06T02:19:34Z",
         "minimum_ap_version": "0.6.7"
       }
     },
