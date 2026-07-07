@@ -207,6 +207,30 @@
       "title": "v0.3.4-alpha",
       "version_simple": "0.3.4",
       "world_version": "0.3.4a0"
+    },
+    "v0.3.5-alpha": {
+      "created_at": "2026-07-06T20:01:34Z",
+      "download_url": "https://github.com/hoppel16/ArchipelagoBranchSly1/releases/download/v0.3.5-alpha/sly1.apworld",
+      "has_manifest": true,
+      "hash_sha256": "363fd8e038af6a4477953f5e42267284c88ae457a14fa7ce7cc9d9eeb422a771",
+      "size": 34987,
+      "source_url": "https://api.github.com/repos/hoppel16/ArchipelagoBranchSly1",
+      "tag": "v0.3.5-alpha",
+      "title": "v0.3.5-alpha",
+      "version_simple": "0.4.1",
+      "world_version": "0.4.1"
+    },
+    "v0.3.5-alpha-hotfix1": {
+      "created_at": "2026-07-06T20:01:34Z",
+      "download_url": "https://github.com/hoppel16/ArchipelagoBranchSly1/releases/download/v0.3.5-alpha-hotfix1/sly1.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d2e0ff2a43aee1ea0a0e020dcefb68fbce02557460c91ea374474c5900fa3162",
+      "size": 34988,
+      "source_url": "https://api.github.com/repos/hoppel16/ArchipelagoBranchSly1",
+      "tag": "v0.3.5-alpha-hotfix1",
+      "title": "v0.3.5-alpha-hotfix1",
+      "version_simple": "0.3.5",
+      "world_version": "0.3.5"
     }
   }
 }

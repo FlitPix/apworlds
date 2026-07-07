@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 531,
-  "total_versions": 6369,
+  "total_versions": 6374,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -134,7 +134,7 @@
     "guardianlegend": true,
     "gzdoom": true,
     "hacknet": false,
-    "hades": false,
+    "hades": true,
     "hammerwatch": true,
     "haste": true,
     "hcniko": true,

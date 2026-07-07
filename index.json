@@ -26974,6 +26974,22 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR5/grinch.apworld",
+      "size": 55860,
+      "hash_sha256": "701ac787a9b9ddcf4f875dc30ba507c7e644edb8f53f508f31458e416c69c5b4",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-07T02:02:32Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/cjmang/Archipelago/releases/download/0.1.0-alpha/gstla.apworld",
       "size": 423011,
       "hash_sha256": "bf202c029df370f29525cd0aa7645e6a6408955f5a42c853dfa62e83bffe45f1",
@@ -28063,6 +28079,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.16.0/hades.apworld",
+      "size": 180785,
+      "hash_sha256": "3ea72711067fa359e0e263b5b82bc766655ea9da4f03bda7b4aa7656132456e1",
+      "metadata": {
+        "game": "Hades",
+        "id": "hades",
+        "world_version": "0.15.1",
+        "tag_version": "0.15.1",
+        "created_at": "2026-07-06T15:44:47Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -68418,6 +68447,30 @@
       }
     },
     {
+      "world": "https://github.com/hoppel16/ArchipelagoBranchSly1/releases/download/v0.3.5-alpha-hotfix1/sly1.apworld",
+      "size": 34988,
+      "hash_sha256": "d2e0ff2a43aee1ea0a0e020dcefb68fbce02557460c91ea374474c5900fa3162",
+      "metadata": {
+        "game": "Sly Cooper and the Thievius Raccoonus",
+        "id": "sly1",
+        "world_version": "0.3.5",
+        "tag_version": "0.3.5",
+        "created_at": "2026-07-06T20:01:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/hoppel16/ArchipelagoBranchSly1/releases/download/v0.3.5-alpha/sly1.apworld",
+      "size": 34987,
+      "hash_sha256": "363fd8e038af6a4477953f5e42267284c88ae457a14fa7ce7cc9d9eeb422a771",
+      "metadata": {
+        "game": "Sly Cooper and the Thievius Raccoonus",
+        "id": "sly1",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-07-06T20:01:34Z"
+      }
+    },
+    {
       "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.1.0/sly2.apworld",
       "size": 251249,
       "hash_sha256": "15ee9c520dca573dfca555ec702994c74b24dd30bc4f1a49e2a34f92d9c1ec23",
@@ -75076,6 +75129,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.10/stardew_valley.apworld",
+      "size": 562595,
+      "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.0",
+        "tag_version": "8.0.0",
+        "created_at": "2026-07-06T03:47:10Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.2/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -75188,7 +75257,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.10/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.11/stardew_valley.apworld",
       "size": 562595,
       "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
       "metadata": {
@@ -75196,7 +75265,7 @@
         "id": "stardew_valley",
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
-        "created_at": "2026-07-06T03:47:10Z",
+        "created_at": "2026-07-06T16:30:21Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
