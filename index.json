@@ -28095,6 +28095,19 @@
       }
     },
     {
+      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.16.1/hades.apworld",
+      "size": 181712,
+      "hash_sha256": "ea4aee2b68ac35010a7a6ed8bca02aa4ff5c47acfbb6b0664088e772099f2fbd",
+      "metadata": {
+        "game": "Hades",
+        "id": "hades",
+        "world_version": "0.16.1",
+        "tag_version": "0.16.1",
+        "created_at": "2026-07-07T19:10:07Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v0.7/hammerwatch.apworld",
       "size": 195650,
       "hash_sha256": "7581aaf8180511f250de7f00fe1eb4c51f7c15224c224b6ebf9b00444f187481",
@@ -39979,6 +39992,19 @@
       }
     },
     {
+      "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.4.0/manual_mariokartworld_greengamefire.apworld",
+      "size": 62285,
+      "hash_sha256": "0b22f3b1684d352de4ddf3ffea516f13408b509355026c8129319035f86dc8af",
+      "metadata": {
+        "game": "Manual_MarioKartWorld_Greengamefire",
+        "id": "manual_mariokartworld_greengamefire",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-06-25T13:47:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Samitian/Marvel-Legendary-ManualAP/releases/download/v0.2.0/manual_marvellegendary_samitian.apworld",
       "size": 44385,
       "hash_sha256": "4caadb53cfdf7914217116a1a8a7c610d077f89454dee2e685d6f21ccff6adf1",
@@ -45109,6 +45135,19 @@
       }
     },
     {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.1B/megamix.apworld",
+      "size": 40055,
+      "hash_sha256": "90e2dd62cb8ed686c1841d59c5c352dc871d6da357b238148bd8b54701f09d21",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.5.1",
+        "tag_version": "1.5.1",
+        "created_at": "2026-07-07T17:03:06Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap1.0/melee.apworld",
       "size": 237142,
       "hash_sha256": "6243785e8c8996eff934d65853862f81fb7c820fc086a2363f8f3440debd218a",
@@ -49802,6 +49841,22 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-06-13T18:50:57Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.5.1/oblivion.apworld",
+      "size": 218030,
+      "hash_sha256": "9baf1ce988683c6eb355d9db1c70b30435030d8cc70c029f6035a16f0bcace75",
+      "metadata": {
+        "game": "Oblivion Remastered",
+        "id": "oblivion",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-07-08T01:03:44Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "after_dark"
@@ -75161,6 +75216,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.12/stardew_valley.apworld",
+      "size": 562595,
+      "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.0",
+        "tag_version": "8.0.0",
+        "created_at": "2026-07-07T04:30:32Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.2/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -75266,22 +75337,6 @@
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.12/stardew_valley.apworld",
-      "size": 562595,
-      "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.0.0",
-        "tag_version": "8.0.0",
-        "created_at": "2026-07-07T04:30:32Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -75847,6 +75902,19 @@
       "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.4.0/tboir.apworld",
       "size": 421101,
       "hash_sha256": "998d158e698657eeccf06e7bbe78c23031c0cbfe4a3faf11c7f2be9016dfd567",
+      "metadata": {
+        "game": "The Binding of Isaac Repentance",
+        "id": "tboir",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-05T19:33:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.4.0/tboir.apworld",
+      "size": 421214,
+      "hash_sha256": "a4d487ac2cef9356fc9326555767495c0b07f83b4f01aba354c43e586f47a5df",
       "metadata": {
         "game": "The Binding of Isaac Repentance",
         "id": "tboir",
