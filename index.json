@@ -18120,6 +18120,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.4/dkc2.apworld",
+      "size": 143025,
+      "hash_sha256": "d25e7066f0292568d7c800b9418e082a574b35410533c82d2ee7ae84c61ef5f0",
+      "metadata": {
+        "game": "Donkey Kong Country 2",
+        "id": "dkc2",
+        "world_version": "3.1.4",
+        "tag_version": "3.1.4",
+        "created_at": "2026-07-08T06:18:34Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/AshIndigo/Archipelago/releases/download/v0.4.0/dmc3.apworld",
       "size": 26053,
       "hash_sha256": "5c820d7e64f2afa9c2f840bd83236c70dae335a9984c695025648c9631f7ec85",
@@ -27881,6 +27894,19 @@
       }
     },
     {
+      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.16.1/hades.apworld",
+      "size": 181712,
+      "hash_sha256": "ea4aee2b68ac35010a7a6ed8bca02aa4ff5c47acfbb6b0664088e772099f2fbd",
+      "metadata": {
+        "game": "Hades",
+        "id": "hades",
+        "world_version": "0.16.1",
+        "tag_version": "0.16.1",
+        "created_at": "2026-07-07T19:10:07Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.3.1/hades.apworld",
       "size": 44750,
       "hash_sha256": "21695c20bd6f647a1afeb8574ff79f5210b12f8c13a47387e52080a0a6ba76ec",
@@ -28092,19 +28118,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.16.1/hades.apworld",
-      "size": 181712,
-      "hash_sha256": "ea4aee2b68ac35010a7a6ed8bca02aa4ff5c47acfbb6b0664088e772099f2fbd",
-      "metadata": {
-        "game": "Hades",
-        "id": "hades",
-        "world_version": "0.16.1",
-        "tag_version": "0.16.1",
-        "created_at": "2026-07-07T19:10:07Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -33546,6 +33559,19 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.3/ladx_beta.apworld",
+      "size": 371225,
+      "hash_sha256": "1a978de1896a8b8d34ee8a70b0ce2b341d0654831544500198f932980ef62cb2",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.4.3",
+        "tag_version": "13.4.3",
+        "created_at": "2026-07-08T04:24:08Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -45122,19 +45148,6 @@
       }
     },
     {
-      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
-      "size": 470162,
-      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
-      "metadata": {
-        "game": "Hatsune Miku Project Diva Mega Mix+",
-        "id": "megamix",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2024-07-03T21:21:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.1B/megamix.apworld",
       "size": 40055,
       "hash_sha256": "90e2dd62cb8ed686c1841d59c5c352dc871d6da357b238148bd8b54701f09d21",
@@ -45145,6 +45158,19 @@
         "tag_version": "1.5.1",
         "created_at": "2026-07-07T17:03:06Z",
         "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
+      "size": 470162,
+      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2024-07-03T21:21:03Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
