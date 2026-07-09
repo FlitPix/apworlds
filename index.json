@@ -33188,6 +33188,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.3/ladx_beta.apworld",
+      "size": 371225,
+      "hash_sha256": "1a978de1896a8b8d34ee8a70b0ce2b341d0654831544500198f932980ef62cb2",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.4.3",
+        "tag_version": "13.4.3",
+        "created_at": "2026-07-08T04:24:08Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -33559,19 +33572,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.3/ladx_beta.apworld",
-      "size": 371225,
-      "hash_sha256": "1a978de1896a8b8d34ee8a70b0ce2b341d0654831544500198f932980ef62cb2",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.4.3",
-        "tag_version": "13.4.3",
-        "created_at": "2026-07-08T04:24:08Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -75370,6 +75370,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.13/stardew_valley.apworld",
+      "size": 564068,
+      "hash_sha256": "8285c112a2453b90d52389a7548d522dde59ffbd1f50f7664999b625d33a0c24",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.13",
+        "tag_version": "8.0.13",
+        "created_at": "2026-07-08T14:30:32Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -75948,6 +75964,19 @@
         "tag_version": "0.3.0",
         "created_at": "2026-07-05T19:33:24Z",
         "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.4.1/tboir.apworld",
+      "size": 421259,
+      "hash_sha256": "310f25eb182dd596ae58c55f6736692d901740af930ad7b95bd074bdd81f04f5",
+      "metadata": {
+        "game": "The Binding of Isaac Repentance",
+        "id": "tboir",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-07-08T21:06:18Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
