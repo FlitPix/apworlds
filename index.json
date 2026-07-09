@@ -14315,6 +14315,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03f/cuphead.apworld",
+      "size": 113131,
+      "hash_sha256": "beec9a2e528bb0cf9aca5c0f3df4986e2dbdba6dc46428f6346a7bb2bd92b5cd",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.16909823",
+        "tag_version": "0.2.16909823",
+        "created_at": "2026-07-09T05:18:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Metaruler/ArchipelagoCR/releases/download/V0.1.0/custom_robo.apworld",
       "size": 78766,
       "hash_sha256": "17a69e47a7e245944530e60ddee0ba8a23585bfe02272ef376fb97ee64c8dc31",
@@ -75258,6 +75271,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.13/stardew_valley.apworld",
+      "size": 564068,
+      "hash_sha256": "8285c112a2453b90d52389a7548d522dde59ffbd1f50f7664999b625d33a0c24",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.13",
+        "tag_version": "8.0.13",
+        "created_at": "2026-07-08T14:30:32Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.2/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -75363,22 +75392,6 @@
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.13/stardew_valley.apworld",
-      "size": 564068,
-      "hash_sha256": "8285c112a2453b90d52389a7548d522dde59ffbd1f50f7664999b625d33a0c24",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.0.13",
-        "tag_version": "8.0.13",
-        "created_at": "2026-07-08T14:30:32Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
