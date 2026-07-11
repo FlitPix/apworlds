@@ -42476,6 +42476,19 @@
       }
     },
     {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-6.0.1/manual_taylorswiftdiscography_bennydreamly.apworld",
+      "size": 61385,
+      "hash_sha256": "d94c95e89b9f671f2622bce33ef3a9c96fb9d5478867a85d5e9147d5ead1d5c3",
+      "metadata": {
+        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
+        "id": "manual_taylorswiftdiscography_bennydreamly",
+        "world_version": "6.0.1",
+        "tag_version": "6.0.1",
+        "created_at": "2026-07-10T22:53:33Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/TF2_0.0.1/manual_teamfortress2_axxroy.apworld",
       "size": 41493,
       "hash_sha256": "eb9104abaf5769387c037c46db5ea782e3c19a150ba5b53709ff50fa014cdebb",
@@ -75457,6 +75470,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.16/stardew_valley.apworld",
+      "size": 564068,
+      "hash_sha256": "8285c112a2453b90d52389a7548d522dde59ffbd1f50f7664999b625d33a0c24",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.13",
+        "tag_version": "8.0.13",
+        "created_at": "2026-07-11T01:52:22Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -76048,6 +76077,19 @@
         "tag_version": "0.4.1",
         "created_at": "2026-07-08T21:06:18Z",
         "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.4.2/tboir.apworld",
+      "size": 421274,
+      "hash_sha256": "a3f4aed79ecb6b3e5414331f2617181ad6a59a819ef0687d89d691f3b8caeae6",
+      "metadata": {
+        "game": "The Binding of Isaac Repentance",
+        "id": "tboir",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-07-10T16:11:08Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
