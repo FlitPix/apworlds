@@ -526,6 +526,20 @@
       "title": "The Grinch (PS1) - v1.6.0 - Pre Release 5",
       "version_simple": "1.6.0",
       "world_version": "1.6.0"
+    },
+    "v1.6.0-PR6": {
+      "created_at": "2026-07-10T20:26:03Z",
+      "download_url": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR6/grinch.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d0b8b7a92138d359d89b7c60a96b13725f01b7311044629d5d6cfc72fb906f9d",
+      "minimum_ap_version": "0.6.7",
+      "prerelease": true,
+      "size": 56022,
+      "source_url": "https://api.github.com/repos/MarioSpore/Grinch-AP",
+      "tag": "v1.6.0-PR6",
+      "title": "The Grinch (PS1) - v1.6.0 - Pre Release 6",
+      "version_simple": "1.6.0",
+      "world_version": "1.6.0"
     }
   }
 }
