@@ -121,6 +121,19 @@
       "title": "v0.3.2",
       "version_simple": "0.3.0",
       "world_version": "0.3.0"
+    },
+    "v0.3.3": {
+      "created_at": "2026-07-11T22:26:40Z",
+      "download_url": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.3/phoa.apworld",
+      "has_manifest": true,
+      "hash_sha256": "f4f437518a36abe8db6ad091a07a020dd576773ff0fc92565d31d0f73b99ec2e",
+      "minimum_ap_version": "0.6.6",
+      "size": 23529,
+      "source_url": "https://api.github.com/repos/Amphyros/Phoenotopia-Awakening-AP-client",
+      "tag": "v0.3.3",
+      "title": "v0.3.3",
+      "version_simple": "0.3.0",
+      "world_version": "0.3.0"
     }
   }
 }
