@@ -24101,6 +24101,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.30.0/ffxiv.apworld",
+      "size": 163641,
+      "hash_sha256": "3b5fe703630694c89339b611e57d8504a8f8f0abca09bbf76e74587a20f61f07",
+      "metadata": {
+        "game": "Final Fantasy XIV",
+        "id": "ffxiv",
+        "world_version": "0.30.0",
+        "tag_version": "0.30.0",
+        "created_at": "2026-07-13T06:57:38Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/0.1.0/flipwitch.apworld",
       "size": 65995,
       "hash_sha256": null,
@@ -25782,6 +25795,19 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2025-12-17T23:06:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/1.0.0/garfkart.apworld",
+      "size": 23050,
+      "hash_sha256": "80dd7ccdf663cd07a411d4b79a91a40910f61015bc216df06ca3b6b21ed26ea1",
+      "metadata": {
+        "game": "Garfield Kart - Furious Racing",
+        "id": "garfkart",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-07-13T03:20:42Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -35521,6 +35547,23 @@
         "world_version": "1.0.0.post2",
         "tag_version": "1.0.0.post2",
         "created_at": "2026-05-13T18:32:31Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-zeta/lor.apworld",
+      "size": 26987,
+      "hash_sha256": "72423d9c258c7d569097613841825b913d9fc58b09213c9bffe8a0a8b7931e46",
+      "metadata": {
+        "game": "Library of Ruina",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-07-13T11:30:59Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
@@ -75447,6 +75490,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.17/stardew_valley.apworld",
+      "size": 564068,
+      "hash_sha256": "8285c112a2453b90d52389a7548d522dde59ffbd1f50f7664999b625d33a0c24",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.13",
+        "tag_version": "8.0.13",
+        "created_at": "2026-07-12T17:46:17Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.2/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -75552,22 +75611,6 @@
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.17/stardew_valley.apworld",
-      "size": 564068,
-      "hash_sha256": "8285c112a2453b90d52389a7548d522dde59ffbd1f50f7664999b625d33a0c24",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.0.13",
-        "tag_version": "8.0.13",
-        "created_at": "2026-07-12T17:46:17Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
