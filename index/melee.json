@@ -78,6 +78,19 @@
       "version_simple": "2.0.0",
       "world_version": "2.0.0"
     },
+    "meleeap2.0.1": {
+      "created_at": "2026-06-20T15:36:18Z",
+      "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap2.0.1/melee.apworld",
+      "has_manifest": true,
+      "hash_sha256": "2bfd48e806854ce7e916589566ab5076afe9aba4c25ccb014ca579c20e579082",
+      "minimum_ap_version": "0.6.7",
+      "size": 69948,
+      "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
+      "tag": "meleeap2.0.1",
+      "title": "Archipelago Melee v2.0.1",
+      "version_simple": "2.0.1",
+      "world_version": "2.0.1"
+    },
     "meleeap2.0r2": {
       "created_at": "2026-06-07T16:21:30Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap2.0/melee.apworld",
