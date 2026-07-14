@@ -11457,6 +11457,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.6/civv.apworld",
+      "size": 455806,
+      "hash_sha256": "8aa9686c9bcb5c850c272a7b85668124cbd1ed66516fba66a4f6694a90a65a91",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.6",
+        "tag_version": "0.10.6",
+        "created_at": "2026-07-13T15:34:42Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/ckd-v0.0.1/ckd.apworld",
       "size": 217567,
       "hash_sha256": "53671f3f057ead0462a4f5b570d96c0014858ae78fbb573471b83bcc6ec06943",
@@ -25629,6 +25641,19 @@
       }
     },
     {
+      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/1.0.0/garfkart.apworld",
+      "size": 23050,
+      "hash_sha256": "80dd7ccdf663cd07a411d4b79a91a40910f61015bc216df06ca3b6b21ed26ea1",
+      "metadata": {
+        "game": "Garfield Kart - Furious Racing",
+        "id": "garfkart",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-07-13T03:20:42Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/FeluciaPS/Archipelago/releases/download/v0.1-alpha/garfkart.apworld",
       "size": 14276,
       "hash_sha256": "cb0225bc0439a39331a7ac84dfa69f62dd419626c633bfd66da8bf2e86e538b9",
@@ -25795,19 +25820,6 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2025-12-17T23:06:49Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/1.0.0/garfkart.apworld",
-      "size": 23050,
-      "hash_sha256": "80dd7ccdf663cd07a411d4b79a91a40910f61015bc216df06ca3b6b21ed26ea1",
-      "metadata": {
-        "game": "Garfield Kart - Furious Racing",
-        "id": "garfkart",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-07-13T03:20:42Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -40524,6 +40536,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/2026.07.13/manual_northgard_chakraa.apworld",
+      "size": 58948,
+      "hash_sha256": "3ff292bbc4468c1d4ee6f0815ef114a2758dd7c549e0267423a5542705d309c8",
+      "metadata": {
+        "game": "Manual_Northgard_Chakraa",
+        "id": "manual_northgard_chakraa",
+        "world_version": "2026.7.13",
+        "tag_version": "2026.7.13",
+        "created_at": "2026-07-13T21:01:20Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/1.0.0/manual_onemorenight_wolfboi008.apworld",
       "size": 46308,
       "hash_sha256": "24206ca26391de68b1fb5a628f14574a4e69f09a4785413a6346c5444b67fc6b",
@@ -49513,6 +49538,19 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-07-04T16:03:25Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.1/nine_sols.apworld",
+      "size": 3635657,
+      "hash_sha256": "551830d4c6622c2a04b715aa4df2469252e3a2249ca46a48edb15fb9feac66ac",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-07-13T22:24:26Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -75618,6 +75656,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.18/stardew_valley.apworld",
+      "size": 564094,
+      "hash_sha256": "1264f2c428d844202eb07aa040d0e29a86276a3062735e488e3746f5b71c8f90",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.18",
+        "tag_version": "8.0.18",
+        "created_at": "2026-07-13T22:57:36Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -76238,6 +76292,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.4.3/tboir.apworld",
+      "size": 429427,
+      "hash_sha256": "cc3a539ad57aaf3dc669135fd9cfbfa7aceac9f1635cfab48b0e8883f3057011",
+      "metadata": {
+        "game": "The Binding of Isaac Repentance",
+        "id": "tboir",
+        "world_version": "0.4.3",
+        "tag_version": "0.4.3",
+        "created_at": "2026-07-13T23:17:37Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
