@@ -41,6 +41,18 @@
       "title": "DKC2 Trivia support!",
       "version_simple": "0.0.2",
       "world_version": "0.0.2"
+    },
+    "0.0.3": {
+      "created_at": "2026-07-16T16:48:42Z",
+      "download_url": "https://github.com/TheRealSolidusSnake/Mario-Is-Missing/releases/download/0.0.3/mariomissing.apworld",
+      "has_manifest": false,
+      "hash_sha256": "917a96fb740503d2bb9a6ed75141ec38cac35cb96d0b89ff0246002d7fae03fa",
+      "size": 47801,
+      "source_url": "https://api.github.com/repos/TheRealSolidusSnake/Mario-Is-Missing",
+      "tag": "0.0.3",
+      "title": "Now with less manual patching!",
+      "version_simple": "0.0.3",
+      "world_version": "0.0.3"
     }
   }
 }

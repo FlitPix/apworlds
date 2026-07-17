@@ -22929,6 +22929,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.3/ff1pr.apworld",
+      "size": 28126,
+      "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-07-16T14:32:33Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Rosalie-A/Archipelago/releases/download/FFIV-0.1/ff4fe.apworld",
       "size": 8830168,
       "hash_sha256": "496401bbc1f82f9500347bc60d2178880a53104bab69e3f3064f2c09f98a30ee",
@@ -43972,6 +43985,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/TheRealSolidusSnake/Mario-Is-Missing/releases/download/0.0.3/mariomissing.apworld",
+      "size": 47801,
+      "hash_sha256": "917a96fb740503d2bb9a6ed75141ec38cac35cb96d0b89ff0246002d7fae03fa",
+      "metadata": {
+        "game": "Mario is Missing",
+        "id": "mariomissing",
+        "world_version": "0.0.3",
+        "tag_version": "0.0.3",
+        "created_at": "2026-07-16T16:48:42Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -69896,6 +69922,18 @@
       }
     },
     {
+      "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.9/smrpg.apworld",
+      "size": 1142057,
+      "hash_sha256": "5f5d5112714b8d10ce51afba9f3ed01986a366a0b0730260834c7f57bacc6478",
+      "metadata": {
+        "game": "Super Mario RPG Legend of the Seven Stars",
+        "id": "smrpg",
+        "world_version": "0.0.9",
+        "tag_version": "0.0.9",
+        "created_at": "2025-11-04T17:49:01Z"
+      }
+    },
+    {
       "world": "https://github.com/Joshark/archipelago-sms/releases/download/0.5.0/sms.apworld",
       "size": 32504,
       "hash_sha256": "6805a2915389306bd409d58e48d5a6711bf9472e26b5d4d95ecdcf9cb2e1fee7",
@@ -75777,6 +75815,22 @@
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.20/stardew_valley.apworld",
+      "size": 564094,
+      "hash_sha256": "1264f2c428d844202eb07aa040d0e29a86276a3062735e488e3746f5b71c8f90",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.18",
+        "tag_version": "8.0.18",
+        "created_at": "2026-07-17T00:18:08Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -86987,6 +87041,18 @@
         "tag_version": "0.3.4",
         "created_at": "2026-06-10T04:01:04Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/JustinMarshall98/Archipelago---YuGiOh-Dungeon-Dice-Monsters-GBA-/releases/download/v0.3.4/yugiohddm.apworld",
+      "size": 30526,
+      "hash_sha256": "511bd4a9a215dc7ffb928ea920e1fbac6ffeb4e0f9f6da9c99cf639d8bbbed6b",
+      "metadata": {
+        "game": "Yu-Gi-Oh! Dungeon Dice Monsters",
+        "id": "yugiohddm",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-06-10T04:01:04Z"
       }
     },
     {
