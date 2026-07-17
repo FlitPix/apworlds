@@ -69883,6 +69883,18 @@
       }
     },
     {
+      "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.9/smrpg.apworld",
+      "size": 1142057,
+      "hash_sha256": "5f5d5112714b8d10ce51afba9f3ed01986a366a0b0730260834c7f57bacc6478",
+      "metadata": {
+        "game": "Super Mario RPG Legend of the Seven Stars",
+        "id": "smrpg",
+        "world_version": "0.0.9",
+        "tag_version": "0.0.9",
+        "created_at": "2025-11-04T17:49:01Z"
+      }
+    },
+    {
       "world": "https://github.com/Rosalie-A/Archipelago/releases/download/SMRPG-0.1/smrpg.apworld",
       "size": 1473604,
       "hash_sha256": "8b5ed6f8c59473ca37383f0841b3a361cc513021b5ac8e75d452cf937da90bf1",
@@ -69919,18 +69931,6 @@
         "tag_version": "0.3",
         "created_at": "2022-09-20T19:33:58Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.9/smrpg.apworld",
-      "size": 1142057,
-      "hash_sha256": "5f5d5112714b8d10ce51afba9f3ed01986a366a0b0730260834c7f57bacc6478",
-      "metadata": {
-        "game": "Super Mario RPG Legend of the Seven Stars",
-        "id": "smrpg",
-        "world_version": "0.0.9",
-        "tag_version": "0.0.9",
-        "created_at": "2025-11-04T17:49:01Z"
       }
     },
     {
@@ -75726,6 +75726,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.20/stardew_valley.apworld",
+      "size": 564094,
+      "hash_sha256": "1264f2c428d844202eb07aa040d0e29a86276a3062735e488e3746f5b71c8f90",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.18",
+        "tag_version": "8.0.18",
+        "created_at": "2026-07-17T00:18:08Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.3/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -75815,22 +75831,6 @@
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.20/stardew_valley.apworld",
-      "size": 564094,
-      "hash_sha256": "1264f2c428d844202eb07aa040d0e29a86276a3062735e488e3746f5b71c8f90",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.0.18",
-        "tag_version": "8.0.18",
-        "created_at": "2026-07-17T00:18:08Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -86792,6 +86792,19 @@
         "world_version": "0.1.14",
         "tag_version": "0.1.14",
         "created_at": "2026-07-03T13:16:39Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.0/xenobladex.apworld",
+      "size": 261304,
+      "hash_sha256": "27d0dd7cd596a140d24c5bc31867900071a330d19b18f6a22b3ffd3e24353a3d",
+      "metadata": {
+        "game": "Xenoblade X",
+        "id": "xenobladex",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-07-17T02:20:14Z",
         "minimum_ap_version": "0.6.1"
       }
     },
