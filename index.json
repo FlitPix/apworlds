@@ -21960,6 +21960,21 @@
       }
     },
     {
+      "world": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.5.0-rc1/fe8.apworld",
+      "size": 70113,
+      "hash_sha256": "316e2746c0f9b03f627bdfe7c9fe292bb04d535a5a54b18f822a31847ec333a2",
+      "metadata": {
+        "game": "Fire Emblem Sacred Stones",
+        "id": "fe8",
+        "world_version": "0.5.0rc1",
+        "tag_version": "0.5.0rc1",
+        "created_at": "2026-07-14T15:03:12Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.1.0/fez.apworld",
       "size": 10494,
       "hash_sha256": "4575fc4f58a301a56cc3958610dd82f99452b97c1d97b06d91095f1b878775f3",
@@ -75861,6 +75876,22 @@
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
         "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.21/stardew_valley.apworld",
+      "size": 564128,
+      "hash_sha256": "f50bb01681b8831fd2bdf84413a96077efe02f898484706ac8d4a387e927c020",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.21",
+        "tag_version": "8.0.21",
+        "created_at": "2026-07-18T04:47:20Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]

@@ -214,6 +214,19 @@
       "title": "FE8 Alpha 0.4.0 rc2 (UNSTABLE)",
       "version_simple": "0.4.0",
       "world_version": "0.4.0"
+    },
+    "fe8-alpha-0.5.0-rc1": {
+      "created_at": "2026-07-14T15:03:12Z",
+      "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.5.0-rc1/fe8.apworld",
+      "has_manifest": true,
+      "hash_sha256": "316e2746c0f9b03f627bdfe7c9fe292bb04d535a5a54b18f822a31847ec333a2",
+      "prerelease": true,
+      "size": 70113,
+      "source_url": "https://api.github.com/repos/CT075/Archipelago",
+      "tag": "fe8-alpha-0.5.0-rc1",
+      "title": "fe8 alpha 0.5.0 (RC1)",
+      "version_simple": "0.5.0",
+      "world_version": "0.5.0rc1"
     }
   }
 }
