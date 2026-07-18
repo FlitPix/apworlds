@@ -1825,6 +1825,22 @@
       }
     },
     {
+      "world": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.5.1/another_crab.apworld",
+      "size": 147399,
+      "hash_sha256": "3de415937fd656560dc63df40bf07725a0c21e6325ca294fbe24b3aa7b4300ca",
+      "metadata": {
+        "game": "Another Crab's Treasure",
+        "id": "another_crab",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-07-17T22:12:39Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/1.0.00/ape_escape_3.apworld",
       "size": 98216,
       "hash_sha256": "97021a97707e1a1db457d2645705f62f016ba252d32b9751ecdda7677cebcd20",
@@ -55490,6 +55506,19 @@
         "world_version": "0.2.2",
         "tag_version": "0.2.2",
         "created_at": "2025-12-22T18:21:17Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Mitchell1711/Archipelago/releases/download/v0.3.0/pocket_dungeon.apworld",
+      "size": 26611,
+      "hash_sha256": "e50901330d3cb27ebca1075139efdd0987841ad792e267076de842e694888baf",
+      "metadata": {
+        "game": "Shovel Knight Pocket Dungeon",
+        "id": "pocket_dungeon",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-16T20:11:35Z",
         "minimum_ap_version": "0.6.3"
       }
     },
