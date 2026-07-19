@@ -1841,6 +1841,22 @@
       }
     },
     {
+      "world": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.5.2/another_crab.apworld",
+      "size": 147399,
+      "hash_sha256": "3de415937fd656560dc63df40bf07725a0c21e6325ca294fbe24b3aa7b4300ca",
+      "metadata": {
+        "game": "Another Crab's Treasure",
+        "id": "another_crab",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-07-19T01:00:42Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/1.0.00/ape_escape_3.apworld",
       "size": 98216,
       "hash_sha256": "97021a97707e1a1db457d2645705f62f016ba252d32b9751ecdda7677cebcd20",
@@ -14385,6 +14401,32 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h/cuphead.apworld",
+      "size": 113171,
+      "hash_sha256": "dcfcd57c771bb68902445dd7003a45f9a16633135026553d6516b1bd95ffb039",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.16910335",
+        "tag_version": "0.2.16910335",
+        "created_at": "2026-07-19T01:40:44Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03g/cuphead.apworld",
+      "size": 113147,
+      "hash_sha256": "194033cb99296d8b602b9bb1b245dd855b1911fa1bd3fb84140b49b8e562f456",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.16910079",
+        "tag_version": "0.2.16910079",
+        "created_at": "2026-07-18T20:02:30Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Metaruler/ArchipelagoCR/releases/download/V0.1.0/custom_robo.apworld",
       "size": 78766,
       "hash_sha256": "17a69e47a7e245944530e60ddee0ba8a23585bfe02272ef376fb97ee64c8dc31",
@@ -21715,6 +21757,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.3/factorio_saws.apworld",
+      "size": 892273,
+      "hash_sha256": "dc19fe44836b4dadb1e76db25374a51e62a5ba6934604e4e8e8eb13bf64e0e32",
+      "metadata": {
+        "game": "Factorio - Space Age Without Space",
+        "id": "factorio_saws",
+        "world_version": "0.9.3",
+        "tag_version": "0.9.3",
+        "created_at": "2026-07-18T23:59:01Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.0/fe8.apworld",
       "size": 167155,
       "hash_sha256": "868ec07f4dfa231d385458a07892587188b600b52a812c3b662801c8a6a9488d",
@@ -21968,6 +22023,21 @@
         "id": "fe8",
         "world_version": "0.5.0rc1",
         "tag_version": "0.5.0rc1",
+        "created_at": "2026-07-14T15:03:12Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.5.0-rc1/fe8.apworld",
+      "size": 74743,
+      "hash_sha256": "c07f4433dde1995b050215706fc324f40dded8067ac03fe633e15e6dd152c50f",
+      "metadata": {
+        "game": "Fire Emblem Sacred Stones",
+        "id": "fe8",
+        "world_version": "0.5.0.post2",
+        "tag_version": "0.5.0.post2",
         "created_at": "2026-07-14T15:03:12Z",
         "flags": [
           "prerelease"
@@ -75786,6 +75856,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.21/stardew_valley.apworld",
+      "size": 564128,
+      "hash_sha256": "f50bb01681b8831fd2bdf84413a96077efe02f898484706ac8d4a387e927c020",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.21",
+        "tag_version": "8.0.21",
+        "created_at": "2026-07-18T04:47:20Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.3/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -75876,22 +75962,6 @@
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
         "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.21/stardew_valley.apworld",
-      "size": 564128,
-      "hash_sha256": "f50bb01681b8831fd2bdf84413a96077efe02f898484706ac8d4a387e927c020",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.0.21",
-        "tag_version": "8.0.21",
-        "created_at": "2026-07-18T04:47:20Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
@@ -82510,6 +82580,19 @@
         "world_version": "5.0.0",
         "tag_version": "5.0.0",
         "created_at": "2026-06-19T15:57:36Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/5.0.1/tunic.apworld",
+      "size": 154358,
+      "hash_sha256": "7f45a5c8ee2eeecd2f8d3f922f8d097e940836dacb8f472f59df351f03184943",
+      "metadata": {
+        "game": "TUNIC",
+        "id": "tunic",
+        "world_version": "5.0.1",
+        "tag_version": "5.0.1",
+        "created_at": "2026-07-19T01:04:28Z",
         "minimum_ap_version": "0.6.7"
       }
     },

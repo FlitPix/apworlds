@@ -197,6 +197,19 @@
       "title": "Another Crabs Treasure v0.5.1 Update",
       "version_simple": "0.5.1",
       "world_version": "0.5.1"
+    },
+    "0.5.2": {
+      "created_at": "2026-07-19T01:00:42Z",
+      "download_url": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.5.2/another_crab.apworld",
+      "has_manifest": false,
+      "hash_sha256": "3de415937fd656560dc63df40bf07725a0c21e6325ca294fbe24b3aa7b4300ca",
+      "prerelease": true,
+      "size": 147399,
+      "source_url": "https://api.github.com/repos/Automagic00/ACT-AP-Client-Plugin",
+      "tag": "0.5.2",
+      "title": "Another Crabs Treasure v0.5.2 Update",
+      "version_simple": "0.5.2",
+      "world_version": "0.5.2"
     }
   }
 }
