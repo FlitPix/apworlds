@@ -13275,6 +13275,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.4/crosscode.apworld",
+      "size": 147163,
+      "hash_sha256": "562c8d5bb33d6bee72e6e3d08f09e5246d72b618488ce00434b049fcc649f238",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.9.4",
+        "tag_version": "0.9.4",
+        "created_at": "2026-07-19T02:22:44Z"
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.10.0/crystal_project.apworld",
       "size": 121628,
       "hash_sha256": "c08233dcd23ea893a51c6bebe64dd39bdc39962f145515725e0f16329a6ce393",
@@ -14269,6 +14281,32 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03g/cuphead.apworld",
+      "size": 113147,
+      "hash_sha256": "194033cb99296d8b602b9bb1b245dd855b1911fa1bd3fb84140b49b8e562f456",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.16910079",
+        "tag_version": "0.2.16910079",
+        "created_at": "2026-07-18T20:02:30Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h/cuphead.apworld",
+      "size": 113171,
+      "hash_sha256": "dcfcd57c771bb68902445dd7003a45f9a16633135026553d6516b1bd95ffb039",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.16910335",
+        "tag_version": "0.2.16910335",
+        "created_at": "2026-07-19T01:40:44Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -14398,32 +14436,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h/cuphead.apworld",
-      "size": 113171,
-      "hash_sha256": "dcfcd57c771bb68902445dd7003a45f9a16633135026553d6516b1bd95ffb039",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.16910335",
-        "tag_version": "0.2.16910335",
-        "created_at": "2026-07-19T01:40:44Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03g/cuphead.apworld",
-      "size": 113147,
-      "hash_sha256": "194033cb99296d8b602b9bb1b245dd855b1911fa1bd3fb84140b49b8e562f456",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.16910079",
-        "tag_version": "0.2.16910079",
-        "created_at": "2026-07-18T20:02:30Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -72768,6 +72780,18 @@
         "world_version": "2.0.1",
         "tag_version": "2.0.1",
         "created_at": "2026-06-22T07:10:32Z"
+      }
+    },
+    {
+      "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V2.1.0/spiritvalley.apworld",
+      "size": 61162,
+      "hash_sha256": "d4acb7a06b304ec988217af675945d5b4b885e113b9038a29e57e5fc8b47fbb0",
+      "metadata": {
+        "game": "Spirit Valley",
+        "id": "spiritvalley",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-07-19T04:23:21Z"
       }
     },
     {
