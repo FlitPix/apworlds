@@ -27273,6 +27273,22 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR9/grinch.apworld",
+      "size": 58634,
+      "hash_sha256": "09ad2253fd1a34fe9f9a3ea1c481681b59c970682cf40e8c0137b04d88ff01b1",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-20T03:50:30Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/cjmang/Archipelago/releases/download/0.1.0-alpha/gstla.apworld",
       "size": 423011,
       "hash_sha256": "bf202c029df370f29525cd0aa7645e6a6408955f5a42c853dfa62e83bffe45f1",
@@ -82568,6 +82584,19 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2026-04-21T08:18:22Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.11.0/ttyd.apworld",
+      "size": 1542163,
+      "hash_sha256": "75bad7ad76dbcae5ed14fdb531c49b37d30fc2f97feafd5c3afdbdea5dd8f6fc",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-06-21T08:32:56Z",
         "minimum_ap_version": "0.6.3"
       }
     },
