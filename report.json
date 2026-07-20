@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 533,
-  "total_versions": 6433,
+  "total_versions": 6437,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -169,7 +169,7 @@
     "kirby_air_ride": true,
     "kon": true,
     "kss": true,
-    "ktane": false,
+    "ktane": true,
     "ladx": false,
     "ladx_beta": true,
     "lego_batman_1": true,

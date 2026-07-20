@@ -23812,6 +23812,22 @@
       }
     },
     {
+      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v83.1/ffvcd.apworld",
+      "size": 1537786,
+      "hash_sha256": "cc1c9c8c8a6dcd44cc5906716252fd256c9e8e4c3e8c23688982e864d369aa93",
+      "metadata": {
+        "game": "Final Fantasy V Career Day",
+        "id": "ffvcd",
+        "world_version": "83.1",
+        "tag_version": "83.1",
+        "created_at": "2026-07-19T18:06:40Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/gaithernOrg/FFXIITMAPArchipelago/releases/download/0.0.1/ffxiitm.apworld",
       "size": 42764,
       "hash_sha256": "5aa0b99e80ddab3ebb3d55e49cf39c6c06847409606b4b94d7cbeb0445892906",
@@ -33199,6 +33215,19 @@
         "tag_version": "0.2.0",
         "created_at": "2025-08-18T03:21:25Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0/ktane.apworld",
+      "size": 20949,
+      "hash_sha256": "73bea926be43f9498d90de09922e914a0cce0628f25da89312937578486ae25a",
+      "metadata": {
+        "game": "Keep Talking and Nobody Explodes",
+        "id": "ktane",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-18T09:37:42Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -82048,6 +82077,19 @@
       }
     },
     {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.1/tracker.apworld",
+      "size": 169102,
+      "hash_sha256": "5e8dce9dfde337b7ae0bd7ca41e30be8979a9bf1cdeb61d8f84fd5083f935121",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-07-19T23:55:48Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/SerialBoxes/ArchipelagoTrackmania/releases/download/v1.0.0/trackmania.apworld",
       "size": 41509,
       "hash_sha256": "1479a27f0e1d6f1467608782c2b66ed055d1c774854af06c9d83813cea76fbd5",
@@ -84690,6 +84732,19 @@
         "id": "vampire_survivors",
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
+        "created_at": "2026-04-11T20:23:12Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.4/vampire_survivors.apworld",
+      "size": 28781,
+      "hash_sha256": "0cfef25105982ccef1b23a3c56387083fd7c99d6012ca8c7231802fa4bbb5dcb",
+      "metadata": {
+        "game": "Vampire Survivors",
+        "id": "vampire_survivors",
+        "world_version": "0.3.5",
+        "tag_version": "0.3.5",
         "created_at": "2026-04-11T20:23:12Z",
         "minimum_ap_version": "0.6.5"
       }
