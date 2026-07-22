@@ -12453,6 +12453,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.7.0/cotnd.apworld",
+      "size": 21947148,
+      "hash_sha256": "6b84f39149868112c9e54205b8a7b2217b8f2979daebe91e0b051c7f9d2cb90b",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-07-22T00:40:37Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -27289,6 +27302,35 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0/grinch.apworld",
+      "size": 58582,
+      "hash_sha256": "73b24836d72b015bb26b62850d05919c06d9153124501f9e362256be62d07835",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-22T01:54:25Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR10/grinch.apworld",
+      "size": 58584,
+      "hash_sha256": "ac4cf31a9cf4cda2e491a9ed2743c01f6008edd7e9060aa890a407570b678ea1",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-21T21:40:43Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/cjmang/Archipelago/releases/download/0.1.0-alpha/gstla.apworld",
       "size": 423011,
       "hash_sha256": "bf202c029df370f29525cd0aa7645e6a6408955f5a42c853dfa62e83bffe45f1",
@@ -36599,6 +36641,19 @@
       }
     },
     {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.6.3/luigismansion.apworld",
+      "size": 232431,
+      "hash_sha256": "bdd9e7915cf43a37d1cbea21b4d1105bff5e437f699ac5dfa251883f24e284c5",
+      "metadata": {
+        "game": "Luigi's Mansion",
+        "id": "luigismansion",
+        "world_version": "0.6.3",
+        "tag_version": "0.6.3",
+        "created_at": "2026-07-21T05:29:43Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/BootsinSoots/Archipelago/releases/download/v0.3.0/luigismansion.apworld",
       "size": 288955,
       "hash_sha256": "dc68ef8e745384db02e3406b4bd78d2aab16c0d0c85e136c552cabf45d97bf8d",
@@ -36612,15 +36667,15 @@
       }
     },
     {
-      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.6.3/luigismansion.apworld",
-      "size": 232431,
-      "hash_sha256": "bdd9e7915cf43a37d1cbea21b4d1105bff5e437f699ac5dfa251883f24e284c5",
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.6.4/luigismansion.apworld",
+      "size": 232447,
+      "hash_sha256": "92d3dddfb971ffa3e99391df8b182625332bfcf3d391c4bbdca321c2fa3573c8",
       "metadata": {
         "game": "Luigi's Mansion",
         "id": "luigismansion",
-        "world_version": "0.6.3",
-        "tag_version": "0.6.3",
-        "created_at": "2026-07-21T05:29:43Z",
+        "world_version": "0.6.4",
+        "tag_version": "0.6.4",
+        "created_at": "2026-07-21T15:30:06Z",
         "minimum_ap_version": "0.6.6"
       }
     },
@@ -76095,6 +76150,22 @@
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
         "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.22/stardew_valley.apworld",
+      "size": 564128,
+      "hash_sha256": "f50bb01681b8831fd2bdf84413a96077efe02f898484706ac8d4a387e927c020",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.21",
+        "tag_version": "8.0.21",
+        "created_at": "2026-07-21T17:07:42Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]

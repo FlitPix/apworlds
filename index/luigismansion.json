@@ -640,6 +640,19 @@
       "version_simple": "0.6.3",
       "world_version": "0.6.3"
     },
+    "V0.6.4": {
+      "created_at": "2026-07-21T15:30:06Z",
+      "download_url": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.6.4/luigismansion.apworld",
+      "has_manifest": true,
+      "hash_sha256": "92d3dddfb971ffa3e99391df8b182625332bfcf3d391c4bbdca321c2fa3573c8",
+      "minimum_ap_version": "0.6.6",
+      "size": 232447,
+      "source_url": "https://api.github.com/repos/BootsinSoots/Archipelago",
+      "tag": "V0.6.4",
+      "title": "Luigis Mansion AP 0.6.4",
+      "version_simple": "0.6.4",
+      "world_version": "0.6.4"
+    },
     "v0.3.0": {
       "created_at": "2025-04-20T10:42:37Z",
       "download_url": "https://github.com/BootsinSoots/Archipelago/releases/download/v0.3.0/luigismansion.apworld",
