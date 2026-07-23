@@ -47766,6 +47766,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.0/mmx2.apworld",
+      "size": 56970,
+      "hash_sha256": "9d6ded1ea0b6b7f8136acd71cb3bc1bd2e1ff81612f0574f96fd31382928cfb5",
+      "metadata": {
+        "game": "Mega Man X2",
+        "id": "mmx2",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-07-22T15:36:18Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx3-v0.2.5/mmx3.apworld",
       "size": 36956,
       "hash_sha256": "b115e391a8194b899717e4cd1332eab9cf5f69f00cc5f3651c83a50e84ab14ad",
@@ -76185,6 +76198,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.23/stardew_valley.apworld",
+      "size": 564128,
+      "hash_sha256": "f50bb01681b8831fd2bdf84413a96077efe02f898484706ac8d4a387e927c020",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.21",
+        "tag_version": "8.0.21",
+        "created_at": "2026-07-22T19:34:02Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -87231,6 +87260,19 @@
         "tag_version": "0.2.0",
         "created_at": "2026-07-17T02:20:14Z",
         "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.1/xenobladex.apworld",
+      "size": 7273611,
+      "hash_sha256": "ead03654ac4ce57af7cab432fd81dda047aedaf8d5f4e714ebc9adc5a361929c",
+      "metadata": {
+        "game": "Xenoblade X",
+        "id": "xenobladex",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-07-23T00:44:30Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
