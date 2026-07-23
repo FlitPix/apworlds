@@ -100,6 +100,19 @@
       "title": "Version 0.3.0",
       "version_simple": "0.3.0",
       "world_version": "0.3.0"
+    },
+    "v0.3.0a": {
+      "created_at": "2026-07-23T07:03:32Z",
+      "download_url": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0a/ktane.apworld",
+      "has_manifest": true,
+      "hash_sha256": "4f0e746b24cfb0f1c4bc1ace834418bac7f9efa497d7f5f22666ff4bc3faed8f",
+      "minimum_ap_version": "0.6.7",
+      "size": 20659,
+      "source_url": "https://api.github.com/repos/GreenPower713/Archipelago",
+      "tag": "v0.3.0a",
+      "title": "Version 0.3.0a",
+      "version_simple": "0.3.0",
+      "world_version": "0.3.0"
     }
   }
 }

@@ -8488,6 +8488,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-88/borderlands2.apworld",
+      "size": 60234,
+      "hash_sha256": "0133ca5a401361346597ccc92e70a960051b0f2282008e250b62e31aa0796a70",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "88",
+        "tag_version": "88",
+        "created_at": "2026-07-23T06:24:30Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -33285,6 +33301,19 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2026-07-18T09:37:42Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0a/ktane.apworld",
+      "size": 20659,
+      "hash_sha256": "4f0e746b24cfb0f1c4bc1ace834418bac7f9efa497d7f5f22666ff4bc3faed8f",
+      "metadata": {
+        "game": "Keep Talking and Nobody Explodes",
+        "id": "ktane",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-23T07:03:32Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -76102,6 +76131,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.23/stardew_valley.apworld",
+      "size": 564128,
+      "hash_sha256": "f50bb01681b8831fd2bdf84413a96077efe02f898484706ac8d4a387e927c020",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.21",
+        "tag_version": "8.0.21",
+        "created_at": "2026-07-22T19:34:02Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.3/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -76192,22 +76237,6 @@
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
         "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.23/stardew_valley.apworld",
-      "size": 564128,
-      "hash_sha256": "f50bb01681b8831fd2bdf84413a96077efe02f898484706ac8d4a387e927c020",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.0.21",
-        "tag_version": "8.0.21",
-        "created_at": "2026-07-22T19:34:02Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
