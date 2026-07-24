@@ -8504,6 +8504,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-91/borderlands2.apworld",
+      "size": 60598,
+      "hash_sha256": "1c76dbe2ab8b8b9f7fb4fb638568166bfd117d82fac08a1fbe70494b1903a377",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "91",
+        "tag_version": "91",
+        "created_at": "2026-07-24T07:13:54Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -16174,6 +16190,22 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
+      "size": 43891,
+      "hash_sha256": "b6be29223331eb90dc4ac55bb8cd00890c399da770db3ba5bd1985140fde7008",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.0",
+        "tag_version": "0.19.0",
+        "created_at": "2026-07-23T21:11:46Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
       "size": 16029,
       "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
@@ -16197,22 +16229,6 @@
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
         "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
-      "size": 43891,
-      "hash_sha256": "b6be29223331eb90dc4ac55bb8cd00890c399da770db3ba5bd1985140fde7008",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.19.0",
-        "tag_version": "0.19.0",
-        "created_at": "2026-07-23T21:11:46Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -33324,6 +33340,19 @@
       "world": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0a/ktane.apworld",
       "size": 20659,
       "hash_sha256": "4f0e746b24cfb0f1c4bc1ace834418bac7f9efa497d7f5f22666ff4bc3faed8f",
+      "metadata": {
+        "game": "Keep Talking and Nobody Explodes",
+        "id": "ktane",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-23T07:03:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0b/ktane.apworld",
+      "size": 21327,
+      "hash_sha256": "71e040cc90ec19708173ace6fc137278afb0272de31f8380534202c8323ff691",
       "metadata": {
         "game": "Keep Talking and Nobody Explodes",
         "id": "ktane",
@@ -76176,6 +76205,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.24/stardew_valley.apworld",
+      "size": 564579,
+      "hash_sha256": "333af5eef7dad97cbe93073efd4576da1c375eedde963c6cde811432d2b9ecd8",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.24",
+        "tag_version": "8.0.24",
+        "created_at": "2026-07-24T01:44:46Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.3/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -76266,22 +76311,6 @@
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
         "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.24/stardew_valley.apworld",
-      "size": 564579,
-      "hash_sha256": "333af5eef7dad97cbe93073efd4576da1c375eedde963c6cde811432d2b9ecd8",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.0.24",
-        "tag_version": "8.0.24",
-        "created_at": "2026-07-24T01:44:46Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
