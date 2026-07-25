@@ -8520,6 +8520,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-92/borderlands2.apworld",
+      "size": 60868,
+      "hash_sha256": "c5385c6ed811bfb407310efdec8cfc8ba70bfb5aae505745794f8d0860698778",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "92",
+        "tag_version": "92",
+        "created_at": "2026-07-25T07:01:32Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -21612,6 +21628,18 @@
       }
     },
     {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.2.5/factorio_bobs.apworld",
+      "size": 1605154,
+      "hash_sha256": "358ebbe923eeb128aa909077bdd04c0fc23f7433fdaa138329779fb848e97e18",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "2.2.5",
+        "tag_version": "2.2.5",
+        "created_at": "2026-07-24T22:50:18Z"
+      }
+    },
+    {
       "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
       "size": 981844,
       "hash_sha256": "ce7caf8cceb9ac42c4ddf95b746584131947b667289822d40ad7b1d53aa54352",
@@ -21633,18 +21661,6 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2025-10-11T18:43:22Z"
-      }
-    },
-    {
-      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.2.5/factorio_bobs.apworld",
-      "size": 1605154,
-      "hash_sha256": "358ebbe923eeb128aa909077bdd04c0fc23f7433fdaa138329779fb848e97e18",
-      "metadata": {
-        "game": "Factorio Bob's",
-        "id": "factorio_bobs",
-        "world_version": "2.2.5",
-        "tag_version": "2.2.5",
-        "created_at": "2026-07-24T22:50:18Z"
       }
     },
     {
@@ -81325,6 +81341,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.9/tloz_st.apworld",
+      "size": 364002,
+      "hash_sha256": "4d8d8d8979440a71bdf5051d6d737b787d361db251db25ff5288e5b67d7207ad",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.7.9",
+        "tag_version": "0.7.9",
+        "created_at": "2026-06-28T09:38:06Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/eternalcode0/Archipelago/releases/download/v0.0.1/tmc.apworld",
       "size": 158858,
       "hash_sha256": "45b707eb600a9725cdada959479ad2890d7d4499be6dbc31b743184887c0ee9c",
@@ -85119,6 +85148,19 @@
         "world_version": "0.3.5",
         "tag_version": "0.3.5",
         "created_at": "2026-04-11T20:23:12Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.5/vampire_survivors.apworld",
+      "size": 28716,
+      "hash_sha256": "dec14f8cbd918a038e5f5098ac07d37f7b4398ff02d3b284c4f04836895e09d8",
+      "metadata": {
+        "game": "Vampire Survivors",
+        "id": "vampire_survivors",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-06-14T02:50:07Z",
         "minimum_ap_version": "0.6.5"
       }
     },
