@@ -8348,6 +8348,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-91/borderlands2.apworld",
+      "size": 60598,
+      "hash_sha256": "1c76dbe2ab8b8b9f7fb4fb638568166bfd117d82fac08a1fbe70494b1903a377",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "91",
+        "tag_version": "91",
+        "created_at": "2026-07-24T07:13:54Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8501,22 +8517,6 @@
         "tag_version": "0.5.4",
         "created_at": "2026-07-15T22:00:46Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-91/borderlands2.apworld",
-      "size": 60598,
-      "hash_sha256": "1c76dbe2ab8b8b9f7fb4fb638568166bfd117d82fac08a1fbe70494b1903a377",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "91",
-        "tag_version": "91",
-        "created_at": "2026-07-24T07:13:54Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -21636,6 +21636,18 @@
       }
     },
     {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.2.5/factorio_bobs.apworld",
+      "size": 1605154,
+      "hash_sha256": "358ebbe923eeb128aa909077bdd04c0fc23f7433fdaa138329779fb848e97e18",
+      "metadata": {
+        "game": "Factorio Bob's",
+        "id": "factorio_bobs",
+        "world_version": "2.2.5",
+        "tag_version": "2.2.5",
+        "created_at": "2026-07-24T22:50:18Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.0.7/factorio_saws.apworld",
       "size": 886659,
       "hash_sha256": "1182d96270996854cd49904e454ca5559f453cb6f3f99913e78228143b56bc5c",
@@ -27376,6 +27388,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.1/grinch.apworld",
+      "size": 58563,
+      "hash_sha256": "e5b95b9e918fa7293c83d18d3c71f8b662c1c7a0a78719743341706a31dfd798",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.6.1",
+        "tag_version": "1.6.1",
+        "created_at": "2026-07-24T21:30:35Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -56284,6 +56309,19 @@
         "world_version": "2.1.0",
         "tag_version": "2.1.0",
         "created_at": "2026-06-10T00:38:07Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/stubobis1/Archipelago/releases/download/2.2.0/poe.apworld",
+      "size": 164369,
+      "hash_sha256": "c3c38b55e8e4d0c0faa4d9c747abcbe1755f9c352dd391cb4c479135f77bdc69",
+      "metadata": {
+        "game": "Path of Exile",
+        "id": "poe",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2026-07-24T18:21:30Z",
         "minimum_ap_version": "0.6.3"
       }
     },

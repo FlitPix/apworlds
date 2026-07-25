@@ -395,6 +395,19 @@
       "title": "Path of Exile Archipelago 2.1.0",
       "version_simple": "2.1.0",
       "world_version": "2.1.0"
+    },
+    "2.2.0": {
+      "created_at": "2026-07-24T18:21:30Z",
+      "download_url": "https://github.com/stubobis1/Archipelago/releases/download/2.2.0/poe.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c3c38b55e8e4d0c0faa4d9c747abcbe1755f9c352dd391cb4c479135f77bdc69",
+      "minimum_ap_version": "0.6.3",
+      "size": 164369,
+      "source_url": "https://api.github.com/repos/stubobis1/Archipelago",
+      "tag": "2.2.0",
+      "title": "Path of exile Apworld 2.2.0 - Support for PoE 3.29!",
+      "version_simple": "2.2.0",
+      "world_version": "2.2.0"
     }
   }
 }

@@ -220,6 +220,18 @@
       "version_simple": "2.2.2",
       "world_version": "2.2.2"
     },
+    "V2.2.5": {
+      "created_at": "2026-07-24T22:50:18Z",
+      "download_url": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.2.5/factorio_bobs.apworld",
+      "has_manifest": true,
+      "hash_sha256": "358ebbe923eeb128aa909077bdd04c0fc23f7433fdaa138329779fb848e97e18",
+      "size": 1605154,
+      "source_url": "https://api.github.com/repos/Osiris32-and-a-half/BobFactorioAP",
+      "tag": "V2.2.5",
+      "title": "V2.2.5 traps and bugfixes",
+      "version_simple": "2.2.5",
+      "world_version": "2.2.5"
+    },
     "v1.0.0": {
       "created_at": "2025-10-11T00:38:03Z",
       "download_url": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/v1.0.0/factorio_bobs.apworld",
