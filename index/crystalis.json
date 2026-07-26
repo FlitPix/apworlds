@@ -1,8 +1,12 @@
 {
   "description": "October 1st, 1997: The END Day. Long after a savage war engulfs and destroys the world, Simea wakes from cryostasis\nto find himself in a strange, post-apocalyptic world. Explore the land and fight against the Goa Empire in this\n1990 NES action role-playing game.",
+  "flags": [
+    "supports_deathlink"
+  ],
   "game": "Crystalis",
   "github": "https://github.com/Ars-Ignis/Archipelago",
   "license": null,
+  "tracker": "https://github.com/Ars-Ignis/crystalis-randomizer-tracker/releases",
   "versions": {
     "v1.0.0": {
       "created_at": "2024-09-30T03:31:53Z",
@@ -125,6 +129,19 @@
       "title": "Crystalis APWorld v2.0.4",
       "version_simple": "2.0.4",
       "world_version": "2.0.4"
+    },
+    "v3.0.0-Crystalis": {
+      "created_at": "2026-07-22T04:15:21Z",
+      "download_url": "https://github.com/Ars-Ignis/Archipelago/releases/download/v3.0.0-Crystalis/crystalis.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d493f205c780663736184fc27552c815575aa5c05bc888a76cecb21529bf3363",
+      "minimum_ap_version": "0.6.0",
+      "size": 87161,
+      "source_url": "https://api.github.com/repos/Ars-Ignis/Archipelago",
+      "tag": "v3.0.0-Crystalis",
+      "title": "Crystalis APWorld v3.0.0",
+      "version_simple": "3.0.0",
+      "world_version": "3.0.0"
     }
   }
 }
