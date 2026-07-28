@@ -16328,6 +16328,22 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
+      "size": 43899,
+      "hash_sha256": "9e3e94bc2913a6b4ff3b3c60ca2d340234e3808d8d91e745937d9ae5905ba1f9",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.0",
+        "tag_version": "0.19.0",
+        "created_at": "2026-07-23T21:11:46Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
       "size": 16029,
       "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
@@ -16351,22 +16367,6 @@
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
         "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
-      "size": 43899,
-      "hash_sha256": "9e3e94bc2913a6b4ff3b3c60ca2d340234e3808d8d91e745937d9ae5905ba1f9",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.19.0",
-        "tag_version": "0.19.0",
-        "created_at": "2026-07-23T21:11:46Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -33564,6 +33564,19 @@
       }
     },
     {
+      "world": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0c/ktane.apworld",
+      "size": 21333,
+      "hash_sha256": "db46cfd845ecbcf6d8a783a66dd8f8dafe65c585e655bcec123077ec2017e4ca",
+      "metadata": {
+        "game": "Keep Talking and Nobody Explodes",
+        "id": "ktane",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-28T08:12:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v9.2/ladx.apworld",
       "size": 317360,
       "hash_sha256": "92f0a6ebe1efe1ceb6263aa766377de21e5f2aa23fced393b9310c7f7ec5829d",
@@ -45087,6 +45100,32 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.3.0/medievil.apworld",
+      "size": 33574,
+      "hash_sha256": "51f9b2249338f3e7d6582e3344215f60eb04856629d585a46ce9e48951aad9d0",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-28T12:22:30Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.12/medievil.apworld",
+      "size": 25452,
+      "hash_sha256": "151450ddc8191c974be6040c2ec967d95558d33b5522cbaf7518e046fb1f9124",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-07-28T10:12:50Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.1/medievil2.apworld",
       "size": 13553,
       "hash_sha256": "cefd4b5b02da1b467ee3e2508c5d9af5096f100f16f07d8dd1d5d92cfc72f6e6",
@@ -45444,6 +45483,18 @@
         "world_version": "0.2.0",
         "tag_version": "0.2.0",
         "created_at": "2026-04-04T22:19:09Z"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.2.1/medievil2.apworld",
+      "size": 18453,
+      "hash_sha256": "88fda5fc0156332e001e2ffb8513eae3e7e51a4ff5be50f53eed50f2dcdeed67",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-07-28T12:41:57Z"
       }
     },
     {
@@ -85429,6 +85480,18 @@
       }
     },
     {
+      "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.10.2/voidstranger.apworld",
+      "size": 20250,
+      "hash_sha256": "56c14efcb9bf86c2c707183061ffc76923e81b28727f86c1564ad8094b2e157a",
+      "metadata": {
+        "game": "Void Stranger",
+        "id": "voidstranger",
+        "world_version": "0.10.2",
+        "tag_version": "0.10.2",
+        "created_at": "2026-07-28T02:16:03Z"
+      }
+    },
+    {
       "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.8.4.9/voidstranger.apworld",
       "size": 14619,
       "hash_sha256": "9a6867ea442ea18161e4839ee1dd7dbfe48342c975e009f5364e0c7d51ddac5e",
@@ -85512,18 +85575,6 @@
         "world_version": "0.9.2.2",
         "tag_version": "0.9.2.2",
         "created_at": "2026-04-08T23:58:34Z"
-      }
-    },
-    {
-      "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.10.2/voidstranger.apworld",
-      "size": 20250,
-      "hash_sha256": "56c14efcb9bf86c2c707183061ffc76923e81b28727f86c1564ad8094b2e157a",
-      "metadata": {
-        "game": "Void Stranger",
-        "id": "voidstranger",
-        "world_version": "0.10.2",
-        "tag_version": "0.10.2",
-        "created_at": "2026-07-28T02:16:03Z"
       }
     },
     {
