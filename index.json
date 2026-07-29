@@ -12558,6 +12558,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.7.1/cotnd.apworld",
+      "size": 21948120,
+      "hash_sha256": "c087a1da1d3e00629ab6ddd70a4ef3c501558521ee73829ec9d9d48a8c6ee66d",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.7.1",
+        "tag_version": "0.7.1",
+        "created_at": "2026-07-28T18:36:25Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -44996,6 +45009,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.12/medievil.apworld",
+      "size": 25452,
+      "hash_sha256": "151450ddc8191c974be6040c2ec967d95558d33b5522cbaf7518e046fb1f9124",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-07-28T10:12:50Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.2/medievil.apworld",
       "size": 25771,
       "hash_sha256": "0f9455d528a840bdaa4ed8d2ee646c97c598f85bc7a696a5774c5b32e203fd35",
@@ -45110,19 +45136,6 @@
         "tag_version": "0.3.0",
         "created_at": "2026-07-28T12:22:30Z",
         "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.12/medievil.apworld",
-      "size": 25452,
-      "hash_sha256": "151450ddc8191c974be6040c2ec967d95558d33b5522cbaf7518e046fb1f9124",
-      "metadata": {
-        "game": "Medievil",
-        "id": "medievil",
-        "world_version": "0.2.8",
-        "tag_version": "0.2.8",
-        "created_at": "2026-07-28T10:12:50Z",
-        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -45495,6 +45508,19 @@
         "world_version": "0.2.1",
         "tag_version": "0.2.1",
         "created_at": "2026-07-28T12:41:57Z"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.2.2/medievil2.apworld",
+      "size": 25091,
+      "hash_sha256": "67f18f76e1ddf781c3adae07091c4aec80272fbf8265b57d701062782d0207da",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-07-28T16:43:16Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -72675,6 +72701,19 @@
         "world_version": "0.6.1",
         "tag_version": "0.6.1",
         "created_at": "2025-12-17T07:29:41Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/Tranquilite0/Archipelago-SoulBlazer/releases/download/v0.6.2/soulblazer.apworld",
+      "size": 98664,
+      "hash_sha256": "1a5696bb958cf09fe6a2dadea8b9fe1037b1d4e01b956a6d318c213ab5d92b01",
+      "metadata": {
+        "game": "Soul Blazer",
+        "id": "soulblazer",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2026-07-28T20:28:21Z",
         "minimum_ap_version": "0.6.0"
       }
     },

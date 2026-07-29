@@ -400,6 +400,19 @@
       "title": "Soul Blazer APWorld v0.6.1",
       "version_simple": "0.6.1",
       "world_version": "0.6.1"
+    },
+    "v0.6.2": {
+      "created_at": "2026-07-28T20:28:21Z",
+      "download_url": "https://github.com/Tranquilite0/Archipelago-SoulBlazer/releases/download/v0.6.2/soulblazer.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1a5696bb958cf09fe6a2dadea8b9fe1037b1d4e01b956a6d318c213ab5d92b01",
+      "minimum_ap_version": "0.6.0",
+      "size": 98664,
+      "source_url": "https://api.github.com/repos/Tranquilite0/Archipelago",
+      "tag": "v0.6.2",
+      "title": "Soul Blazer APWorld v0.6.2",
+      "version_simple": "0.6.2",
+      "world_version": "0.6.2"
     }
   }
 }
