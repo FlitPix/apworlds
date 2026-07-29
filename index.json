@@ -9037,6 +9037,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.15.1/brotato.apworld",
+      "size": 43701,
+      "hash_sha256": "f5a7683e61eec4680a74ba4490d405ee2933464f135555d042c3d33e4afef073",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-07-29T03:57:14Z"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/20250326-1/candybox2.apworld",
       "size": 12330,
       "hash_sha256": "e68a35ae48f13574b9c1c03c776ce6f518d6b36a0facabd04c04aca7fc6da892",
@@ -14616,6 +14628,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h.1/cuphead.apworld",
+      "size": 113200,
+      "hash_sha256": "fff3a5c93f8978daa4449c070681ae7f63a9ba03d46ae01fb70ea00badb8a3a3",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20020710",
+        "tag_version": "0.2.20020710",
+        "created_at": "2026-07-29T06:00:59Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -40757,6 +40782,19 @@
       }
     },
     {
+      "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.5.0/manual_mariokartworld_greengamefire.apworld",
+      "size": 81656,
+      "hash_sha256": "0a6d570f43de105f6bfde658b5b58e1a5b478c0d7e1cdbf42dcdf9fa85baf156",
+      "metadata": {
+        "game": "Manual_MarioKartWorld_Greengamefire",
+        "id": "manual_mariokartworld_greengamefire",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-07-29T05:18:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Samitian/Marvel-Legendary-ManualAP/releases/download/v0.2.0/manual_marvellegendary_samitian.apworld",
       "size": 44385,
       "hash_sha256": "4caadb53cfdf7914217116a1a8a7c610d077f89454dee2e685d6f21ccff6adf1",
@@ -45520,6 +45558,19 @@
         "world_version": "0.2.1",
         "tag_version": "0.2.1",
         "created_at": "2026-07-28T16:43:16Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.2.3/medievil2.apworld",
+      "size": 25094,
+      "hash_sha256": "5379622aec51beed04e32a9ba5ee4afe74b993537d992d41246772bf45ffa4db",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-07-29T10:42:54Z",
         "minimum_ap_version": "0.6.7"
       }
     },
