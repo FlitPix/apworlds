@@ -13417,6 +13417,30 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.6/crosscode.apworld",
+      "size": 147360,
+      "hash_sha256": "f19f19b95c676b422764b36f38ef39ebf7c1db76d5f390b702bb66882890508d",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.9.6",
+        "tag_version": "0.9.6",
+        "created_at": "2026-07-30T08:45:55Z"
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.5/crosscode.apworld",
+      "size": 147358,
+      "hash_sha256": "ca1023b0e6cb3f9d52a1ed4e63d07c6abb6880d70485ce566e0d973e5caef80e",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.9.5",
+        "tag_version": "0.9.5",
+        "created_at": "2026-07-30T06:20:57Z"
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.10.0/crystal_project.apworld",
       "size": 121628,
       "hash_sha256": "c08233dcd23ea893a51c6bebe64dd39bdc39962f145515725e0f16329a6ce393",
@@ -67581,6 +67605,19 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.9/shadow_the_hedgehog.apworld",
+      "size": 238876,
+      "hash_sha256": "334da5150d7634c2989636e92e5532b09d03314b0d6f855e5ce4e2a0b262fc6a",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.4.9",
+        "tag_version": "0.4.9",
+        "created_at": "2026-06-20T14:21:38Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/jjjj12212/Archipelago-Shadowgate64/releases/download/V0.1/shadowgate64.apworld",
       "size": 29907,
       "hash_sha256": "b05154eae3bbc324df9e01a1e1211ff902191ebcb5b3d493a41ae33c187e7546",
@@ -82843,6 +82880,19 @@
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
         "created_at": "2026-07-22T04:23:14Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.3/tracker.apworld",
+      "size": 171960,
+      "hash_sha256": "a909f96404b0009865d39b87cec8bb749446783577d77bd4fa14431cef0c2140",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-07-30T06:28:03Z",
         "minimum_ap_version": "0.6.2"
       }
     },
