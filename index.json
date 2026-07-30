@@ -8803,6 +8803,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.15.1/brotato.apworld",
+      "size": 43701,
+      "hash_sha256": "f5a7683e61eec4680a74ba4490d405ee2933464f135555d042c3d33e4afef073",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-07-29T03:57:14Z"
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.2.0/brotato.apworld",
       "size": 17355,
       "hash_sha256": "58eab0a0a6062cb23b55b8ef1f520510f1bfdd9904bd22e28415dfbfaa7a684c",
@@ -9034,18 +9046,6 @@
         "tag_version": "0.9.1",
         "created_at": "2025-07-18T01:16:55Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.15.1/brotato.apworld",
-      "size": 43701,
-      "hash_sha256": "f5a7683e61eec4680a74ba4490d405ee2933464f135555d042c3d33e4afef073",
-      "metadata": {
-        "game": "Brotato",
-        "id": "brotato",
-        "world_version": "0.15.0",
-        "tag_version": "0.15.0",
-        "created_at": "2026-07-29T03:57:14Z"
       }
     },
     {
@@ -14499,6 +14499,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h.1/cuphead.apworld",
+      "size": 113200,
+      "hash_sha256": "fff3a5c93f8978daa4449c070681ae7f63a9ba03d46ae01fb70ea00badb8a3a3",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20020710",
+        "tag_version": "0.2.20020710",
+        "created_at": "2026-07-29T06:00:59Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -14628,19 +14641,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h.1/cuphead.apworld",
-      "size": 113200,
-      "hash_sha256": "fff3a5c93f8978daa4449c070681ae7f63a9ba03d46ae01fb70ea00badb8a3a3",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.20020710",
-        "tag_version": "0.2.20020710",
-        "created_at": "2026-07-29T06:00:59Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -22039,6 +22039,19 @@
         "world_version": "0.9.3",
         "tag_version": "0.9.3",
         "created_at": "2026-07-18T23:59:01Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.4/factorio_saws.apworld",
+      "size": 892669,
+      "hash_sha256": "63985effa766110260c52b004020783c92f7fa3227bb4da52bde1be7c629d24e",
+      "metadata": {
+        "game": "Factorio - Space Age Without Space",
+        "id": "factorio_saws",
+        "world_version": "0.9.4",
+        "tag_version": "0.9.4",
+        "created_at": "2026-07-30T01:30:08Z",
         "minimum_ap_version": "0.6.0"
       }
     },
@@ -42774,6 +42787,19 @@
         "id": "manual_residentevil4_vincentssin",
         "world_version": "2.1.1",
         "tag_version": "2.1.1",
+        "created_at": "2026-05-03T18:27:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.1.2/manual_residentevil4_vincentssin.apworld",
+      "size": 92680,
+      "hash_sha256": "f2774eef24b165e54d08a0df8952e2cbddb2b8a3034c97d246c7c35ba129fbb9",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.1.2",
+        "tag_version": "2.1.2",
         "created_at": "2026-05-03T18:27:57Z",
         "maximum_ap_version": "0.6.99"
       }
