@@ -5,6 +5,19 @@
   "license": "MIT",
   "supported": true,
   "versions": {
+    "v1.4.53": {
+      "created_at": "2026-07-31T09:48:08Z",
+      "download_url": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.4.53/musedash.apworld",
+      "has_manifest": true,
+      "hash_sha256": "be753a4fe64562eed6d06abd4edfd4525b31f1a3e09f3a46b1dea4524608b5f0",
+      "minimum_ap_version": "0.6.3",
+      "size": 36973,
+      "source_url": "https://api.github.com/repos/DeamonHunter/ArchipelagoMuseDash",
+      "tag": "v1.4.53",
+      "title": "v1.5.35",
+      "version_simple": "1.5.35",
+      "world_version": "1.5.35"
+    },
     "v1.5.15": {
       "created_at": "2025-04-25T10:17:13Z",
       "download_url": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.15/musedash.apworld",

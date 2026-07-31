@@ -6905,6 +6905,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.6.2/bg3.apworld",
+      "size": 94797,
+      "hash_sha256": "fa444e0955d2d42fe797034a9141195abce68154c091e0911f30f337261a8474",
+      "metadata": {
+        "game": "Baldur's Gate 3",
+        "id": "bg3",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2026-07-31T04:34:24Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cynichill/APBingo/releases/download/0.1.0/Bingo.apworld",
       "size": 14220,
       "hash_sha256": "b2ce957dce41d6b3b45a24e0a276d15948284d02243c40f6692e1424764d0776",
@@ -14630,6 +14646,22 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h.5/cuphead.apworld",
+      "size": 113503,
+      "hash_sha256": "fbe6fc207ca281dc64d9dd6dc67b643b2669aaa52f2c376a33172d97c3974af3",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20020715",
+        "tag_version": "0.2.20020715",
+        "created_at": "2026-07-30T19:28:35Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -14782,22 +14814,6 @@
         "flags": [
           "supports_deathlink",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h.5/cuphead.apworld",
-      "size": 113503,
-      "hash_sha256": "fbe6fc207ca281dc64d9dd6dc67b643b2669aaa52f2c376a33172d97c3974af3",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.20020715",
-        "tag_version": "0.2.20020715",
-        "created_at": "2026-07-30T19:28:35Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "supports_deathlink"
         ]
       }
     },
@@ -28420,6 +28436,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/AutumnRivers/Archipelago-Hacknet/releases/download/hacknet-1.0.0/hacknet.apworld",
+      "size": 26880,
+      "hash_sha256": "c0ca66136d1218fcc536eab0401bc01ed3ad7ae22b95db0ef7e106e14fa7a3db",
+      "metadata": {
+        "game": "Hacknet",
+        "id": "hacknet",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-07-31T02:12:58Z"
       }
     },
     {
@@ -49718,6 +49746,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.4.53/musedash.apworld",
+      "size": 36973,
+      "hash_sha256": "be753a4fe64562eed6d06abd4edfd4525b31f1a3e09f3a46b1dea4524608b5f0",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.35",
+        "tag_version": "1.5.35",
+        "created_at": "2026-07-31T09:48:08Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.1.0/mzm.apworld",
       "size": 91647,
       "hash_sha256": "067deb39ba7da2fd745157c70afc40608d6a51f1d003648e34d2e0fb0804399c",
@@ -65734,6 +65775,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.15.0/rotn.apworld",
+      "size": 17094,
+      "hash_sha256": "caf9000747cf2ab468d230a2fb796b8f020dcb158c2397489e8a7be815c0f680",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-06-12T01:41:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.2/rotn.apworld",
       "size": 23898,
       "hash_sha256": "13d37ba93b971cdf8d47f7673725577e6640408c9a7cef6b420d564c5258e402",
@@ -65962,19 +66016,6 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.15.0/rotn.apworld",
-      "size": 17094,
-      "hash_sha256": "caf9000747cf2ab468d230a2fb796b8f020dcb158c2397489e8a7be815c0f680",
-      "metadata": {
-        "game": "Rift of the Necrodancer",
-        "id": "rotn",
-        "world_version": "0.15.0",
-        "tag_version": "0.15.0",
-        "created_at": "2026-06-12T01:41:46Z",
         "minimum_ap_version": "0.6.3"
       }
     },
