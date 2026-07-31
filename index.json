@@ -12583,6 +12583,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.7.2/cotnd.apworld",
+      "size": 21949404,
+      "hash_sha256": "0e0e7827ed3e94dab26001350e12405f8521513da06af7f879b74cbd64808feb",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.7.2",
+        "tag_version": "0.7.2",
+        "created_at": "2026-07-31T00:28:45Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -13417,18 +13430,6 @@
       }
     },
     {
-      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.6/crosscode.apworld",
-      "size": 147360,
-      "hash_sha256": "f19f19b95c676b422764b36f38ef39ebf7c1db76d5f390b702bb66882890508d",
-      "metadata": {
-        "game": "CrossCode",
-        "id": "crosscode",
-        "world_version": "0.9.6",
-        "tag_version": "0.9.6",
-        "created_at": "2026-07-30T08:45:55Z"
-      }
-    },
-    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.5/crosscode.apworld",
       "size": 147358,
       "hash_sha256": "ca1023b0e6cb3f9d52a1ed4e63d07c6abb6880d70485ce566e0d973e5caef80e",
@@ -13438,6 +13439,18 @@
         "world_version": "0.9.5",
         "tag_version": "0.9.5",
         "created_at": "2026-07-30T06:20:57Z"
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.6/crosscode.apworld",
+      "size": 147360,
+      "hash_sha256": "f19f19b95c676b422764b36f38ef39ebf7c1db76d5f390b702bb66882890508d",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.9.6",
+        "tag_version": "0.9.6",
+        "created_at": "2026-07-30T08:45:55Z"
       }
     },
     {
@@ -14161,6 +14174,7 @@
         "created_at": "2024-08-10T02:07:17Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
+          "supports_deathlink",
           "prerelease"
         ]
       }
@@ -14177,6 +14191,7 @@
         "created_at": "2025-03-08T22:22:39Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
+          "supports_deathlink",
           "prerelease"
         ]
       }
@@ -14193,6 +14208,7 @@
         "created_at": "2025-04-21T06:17:17Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
+          "supports_deathlink",
           "prerelease"
         ]
       }
@@ -14207,7 +14223,10 @@
         "world_version": "1a1",
         "tag_version": "1a1",
         "created_at": "2025-05-17T03:42:57Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14220,7 +14239,10 @@
         "world_version": "1b0",
         "tag_version": "1b0",
         "created_at": "2025-05-17T05:14:39Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14233,7 +14255,10 @@
         "world_version": "1rc0",
         "tag_version": "1rc0",
         "created_at": "2025-05-17T17:06:14Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14246,7 +14271,10 @@
         "world_version": "1",
         "tag_version": "1",
         "created_at": "2025-05-17T23:18:34Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14259,7 +14287,10 @@
         "world_version": "1",
         "tag_version": "1",
         "created_at": "2025-05-18T21:31:18Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14272,7 +14303,10 @@
         "world_version": "1",
         "tag_version": "1",
         "created_at": "2025-07-12T04:03:59Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14285,7 +14319,10 @@
         "world_version": "2a0",
         "tag_version": "2a0",
         "created_at": "2025-07-31T02:05:11Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14298,7 +14335,10 @@
         "world_version": "2b0",
         "tag_version": "2b0",
         "created_at": "2025-08-02T20:31:00Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14311,7 +14351,10 @@
         "world_version": "2rc0",
         "tag_version": "2rc0",
         "created_at": "2025-08-14T01:11:51Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14324,7 +14367,10 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-09-16T05:42:03Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14337,7 +14383,10 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-10-09T02:47:28Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14350,7 +14399,10 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-11-07T21:12:16Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14363,7 +14415,10 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-11-18T03:48:16Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14376,7 +14431,10 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-11-26T04:21:19Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14389,7 +14447,10 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-12-13T17:16:58Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14402,7 +14463,10 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-12-20T17:04:05Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14415,7 +14479,10 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2026-01-03T23:35:41Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14428,7 +14495,10 @@
         "world_version": "0.2.16908543",
         "tag_version": "0.2.16908543",
         "created_at": "2026-04-26T01:19:56Z",
-        "minimum_ap_version": "0.6.7"
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14441,7 +14511,10 @@
         "world_version": "0.2.16908799",
         "tag_version": "0.2.16908799",
         "created_at": "2026-04-29T19:14:52Z",
-        "minimum_ap_version": "0.6.7"
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14454,7 +14527,10 @@
         "world_version": "0.2.16909055",
         "tag_version": "0.2.16909055",
         "created_at": "2026-05-10T20:42:59Z",
-        "minimum_ap_version": "0.6.7"
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14467,7 +14543,10 @@
         "world_version": "0.2.16909311",
         "tag_version": "0.2.16909311",
         "created_at": "2026-05-10T21:35:47Z",
-        "minimum_ap_version": "0.6.7"
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14480,7 +14559,10 @@
         "world_version": "0.2.16909567",
         "tag_version": "0.2.16909567",
         "created_at": "2026-06-18T02:24:56Z",
-        "minimum_ap_version": "0.6.7"
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14493,7 +14575,10 @@
         "world_version": "0.2.16909823",
         "tag_version": "0.2.16909823",
         "created_at": "2026-07-09T05:18:49Z",
-        "minimum_ap_version": "0.6.7"
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14506,7 +14591,10 @@
         "world_version": "0.2.16910079",
         "tag_version": "0.2.16910079",
         "created_at": "2026-07-18T20:02:30Z",
-        "minimum_ap_version": "0.6.7"
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14519,7 +14607,10 @@
         "world_version": "0.2.16910335",
         "tag_version": "0.2.16910335",
         "created_at": "2026-07-19T01:40:44Z",
-        "minimum_ap_version": "0.6.7"
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14532,7 +14623,10 @@
         "world_version": "0.2.20020710",
         "tag_version": "0.2.20020710",
         "created_at": "2026-07-29T06:00:59Z",
-        "minimum_ap_version": "0.6.7"
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14544,7 +14638,10 @@
         "id": "cuphead",
         "world_version": "0.1",
         "tag_version": "0.1",
-        "created_at": "2024-08-27T16:53:29Z"
+        "created_at": "2024-08-27T16:53:29Z",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14559,6 +14656,7 @@
         "created_at": "2024-08-27T16:53:29Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
+          "supports_deathlink",
           "prerelease"
         ]
       }
@@ -14575,6 +14673,7 @@
         "created_at": "2025-03-08T22:22:39Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
+          "supports_deathlink",
           "prerelease"
         ]
       }
@@ -14588,7 +14687,10 @@
         "id": "cuphead",
         "world_version": "0.3a0",
         "tag_version": "0.3a0",
-        "created_at": "2025-04-01T22:38:37Z"
+        "created_at": "2025-04-01T22:38:37Z",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14600,7 +14702,10 @@
         "id": "cuphead",
         "world_version": "0.3b0",
         "tag_version": "0.3b0",
-        "created_at": "2025-04-02T22:47:51Z"
+        "created_at": "2025-04-02T22:47:51Z",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14612,7 +14717,10 @@
         "id": "cuphead",
         "world_version": "0.3rc0",
         "tag_version": "0.3rc0",
-        "created_at": "2025-04-03T19:49:56Z"
+        "created_at": "2025-04-03T19:49:56Z",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14624,7 +14732,10 @@
         "id": "cuphead",
         "world_version": "0.3",
         "tag_version": "0.3",
-        "created_at": "2025-04-05T08:50:01Z"
+        "created_at": "2025-04-05T08:50:01Z",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14636,7 +14747,10 @@
         "id": "cuphead",
         "world_version": "0.3",
         "tag_version": "0.3",
-        "created_at": "2025-04-10T19:39:11Z"
+        "created_at": "2025-04-10T19:39:11Z",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14648,7 +14762,10 @@
         "id": "cuphead",
         "world_version": "0.3",
         "tag_version": "0.3",
-        "created_at": "2025-04-12T06:46:50Z"
+        "created_at": "2025-04-12T06:46:50Z",
+        "flags": [
+          "supports_deathlink"
+        ]
       }
     },
     {
@@ -14663,7 +14780,24 @@
         "created_at": "2025-04-21T06:17:17Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
+          "supports_deathlink",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h.5/cuphead.apworld",
+      "size": 113503,
+      "hash_sha256": "fbe6fc207ca281dc64d9dd6dc67b643b2669aaa52f2c376a33172d97c3974af3",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20020715",
+        "tag_version": "0.2.20020715",
+        "created_at": "2026-07-30T19:28:35Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
         ]
       }
     },
@@ -52101,6 +52235,19 @@
       }
     },
     {
+      "world": "https://github.com/Satisha10/APwotw_release/releases/download/v0.6.1/ori_wotw.apworld",
+      "size": 205690,
+      "hash_sha256": "0e8dcc780416e121907cb87bdb2a371195918e1892e4aa380cbca1c1f10bd1c0",
+      "metadata": {
+        "game": "Ori and the Will of the Wisps",
+        "id": "ori_wotw",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-07-30T21:16:37Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/c-ostic/Archipelago/releases/download/v0.1.0-alpha/oribf.apworld",
       "size": 26369,
       "hash_sha256": "b03c4947f00c829f98369ddb29c54776c0fa1612c9b0c5d5ab7aa0506937e94f",
@@ -56285,6 +56432,19 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2026-07-16T20:11:35Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/Mitchell1711/Archipelago/releases/download/v0.3.1/pocket_dungeon.apworld",
+      "size": 26613,
+      "hash_sha256": "c34e4cf255508384549b271401e17a17f8b48630b691896e9ebf2cfe948539d3",
+      "metadata": {
+        "game": "Shovel Knight Pocket Dungeon",
+        "id": "pocket_dungeon",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-07-30T18:37:14Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -65806,6 +65966,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.15.0/rotn.apworld",
+      "size": 17094,
+      "hash_sha256": "caf9000747cf2ab468d230a2fb796b8f020dcb158c2397489e8a7be815c0f680",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-06-12T01:41:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/dgrossmann144/Archipelago/releases/download/AlphaRelease/rusted_moss.apworld",
       "size": 46349,
       "hash_sha256": "185e14db1e838b42e5db16bbc95891c6648ab99d04b0b4dc5fcf91f5394b38bc",
@@ -67573,6 +67746,19 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.9/shadow_the_hedgehog.apworld",
+      "size": 238876,
+      "hash_sha256": "334da5150d7634c2989636e92e5532b09d03314b0d6f855e5ce4e2a0b262fc6a",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.4.9",
+        "tag_version": "0.4.9",
+        "created_at": "2026-06-20T14:21:38Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/choatix/Archipelago/releases/download/shadow0.3.0/shadow_the_hedgehog.apworld",
       "size": 750070,
       "hash_sha256": "83d34e78e002b50bef8d897ac60d892f91f399f1be31bbca15a3b268e6196760",
@@ -67602,19 +67788,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.9/shadow_the_hedgehog.apworld",
-      "size": 238876,
-      "hash_sha256": "334da5150d7634c2989636e92e5532b09d03314b0d6f855e5ce4e2a0b262fc6a",
-      "metadata": {
-        "game": "Shadow The Hedgehog",
-        "id": "shadow_the_hedgehog",
-        "world_version": "0.4.9",
-        "tag_version": "0.4.9",
-        "created_at": "2026-06-20T14:21:38Z",
-        "minimum_ap_version": "0.6.2"
       }
     },
     {
@@ -87923,6 +88096,19 @@
         "world_version": "0.2.2",
         "tag_version": "0.2.2",
         "created_at": "2026-07-23T21:09:39Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.3/xenobladex.apworld",
+      "size": 7276243,
+      "hash_sha256": "11453e5f3f7de94c5b1b0b8bc4c786739747dc78751749c4f40c1aa482ff7363",
+      "metadata": {
+        "game": "Xenoblade X",
+        "id": "xenobladex",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-07-30T21:30:12Z",
         "minimum_ap_version": "0.6.7"
       }
     },

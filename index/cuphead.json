@@ -1,5 +1,8 @@
 {
   "description": "A classic run and gun action game heavily focused on boss battles",
+  "flags": [
+    "supports_deathlink"
+  ],
   "game": "Cuphead",
   "github": "https://github.com/JKLeckr/Archipelago-cuphead",
   "license": "BSD-2-Clause",
@@ -363,6 +366,19 @@
       "title": "APWorld alpha03h.1",
       "version_simple": "0.2.20020710",
       "world_version": "0.2.20020710"
+    },
+    "alpha03h.5": {
+      "created_at": "2026-07-30T19:28:35Z",
+      "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h.5/cuphead.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fbe6fc207ca281dc64d9dd6dc67b643b2669aaa52f2c376a33172d97c3974af3",
+      "minimum_ap_version": "0.6.7",
+      "size": 113503,
+      "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
+      "tag": "alpha03h.5",
+      "title": "APWorld alpha03h.5",
+      "version_simple": "0.2.20020715",
+      "world_version": "0.2.20020715"
     },
     "preview01": {
       "created_at": "2024-08-27T16:53:29Z",
