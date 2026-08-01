@@ -5933,6 +5933,19 @@
       }
     },
     {
+      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.13.0/banjo_tooie.apworld",
+      "size": 294636,
+      "hash_sha256": "a83a1bfcdd4546df313832b19ef297c1ea7bf1c9431ad1a67330ae524a8108e3",
+      "metadata": {
+        "game": "Banjo Tooie",
+        "id": "banjo_tooie",
+        "world_version": "4.13.0",
+        "tag_version": "4.13.0",
+        "created_at": "2026-08-01T02:14:38Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.0.1/bfm.apworld",
       "size": 17930,
       "hash_sha256": "2b2c3460505a81f81a9c8639e6d2ee182e00355409d150cf2544f9edce172a79",
@@ -8581,6 +8594,22 @@
         "tag_version": "0.5.4",
         "created_at": "2026-07-15T22:00:46Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-95/borderlands2.apworld",
+      "size": 63067,
+      "hash_sha256": "7ace9966ef0da8aa701026f8ce5af90374c54bc64b3df6a90df7f8036501a18c",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "95",
+        "tag_version": "95",
+        "created_at": "2026-07-31T21:03:07Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -28332,6 +28361,18 @@
       }
     },
     {
+      "world": "https://github.com/AutumnRivers/Archipelago-Hacknet/releases/download/hacknet-1.0.0/hacknet.apworld",
+      "size": 26880,
+      "hash_sha256": "c0ca66136d1218fcc536eab0401bc01ed3ad7ae22b95db0ef7e106e14fa7a3db",
+      "metadata": {
+        "game": "Hacknet",
+        "id": "hacknet",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-07-31T02:12:58Z"
+      }
+    },
+    {
       "world": "https://github.com/AutumnRivers/Archipelago-Hacknet/releases/download/hacknet-alpha-1/hacknet.apworld",
       "size": 61377,
       "hash_sha256": "998e2388a4259f0aaa27886ebb4aab928ebf5fa7b7506a86cc0d389919da888a",
@@ -28436,18 +28477,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/AutumnRivers/Archipelago-Hacknet/releases/download/hacknet-1.0.0/hacknet.apworld",
-      "size": 26880,
-      "hash_sha256": "c0ca66136d1218fcc536eab0401bc01ed3ad7ae22b95db0ef7e106e14fa7a3db",
-      "metadata": {
-        "game": "Hacknet",
-        "id": "hacknet",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-07-31T02:12:58Z"
       }
     },
     {
@@ -49473,6 +49502,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.4.53/musedash.apworld",
+      "size": 36973,
+      "hash_sha256": "be753a4fe64562eed6d06abd4edfd4525b31f1a3e09f3a46b1dea4524608b5f0",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.35",
+        "tag_version": "1.5.35",
+        "created_at": "2026-07-31T09:48:08Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.15/musedash.apworld",
       "size": 75101,
       "hash_sha256": "fc2858b1e4853f1d28777a9cb788a3aaae010035fb535eb5ba631ea4bc21e25d",
@@ -49742,19 +49784,6 @@
         "world_version": "1.5.34",
         "tag_version": "1.5.34",
         "created_at": "2026-06-26T10:02:02Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.4.53/musedash.apworld",
-      "size": 36973,
-      "hash_sha256": "be753a4fe64562eed6d06abd4edfd4525b31f1a3e09f3a46b1dea4524608b5f0",
-      "metadata": {
-        "game": "Muse Dash",
-        "id": "musedash",
-        "world_version": "1.5.35",
-        "tag_version": "1.5.35",
-        "created_at": "2026-07-31T09:48:08Z",
         "minimum_ap_version": "0.6.3"
       }
     },
