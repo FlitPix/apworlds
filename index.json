@@ -6934,6 +6934,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.6.3/bg3.apworld",
+      "size": 97293,
+      "hash_sha256": "d1c7a485387e17b184473c655fc62df3bfa0dc22a839c69ce266022e9034c218",
+      "metadata": {
+        "game": "Baldur's Gate 3",
+        "id": "bg3",
+        "world_version": "0.6.3",
+        "tag_version": "0.6.3",
+        "created_at": "2026-08-03T03:07:29Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cynichill/APBingo/releases/download/0.1.0/Bingo.apworld",
       "size": 14220,
       "hash_sha256": "b2ce957dce41d6b3b45a24e0a276d15948284d02243c40f6692e1424764d0776",
@@ -51454,6 +51470,19 @@
       }
     },
     {
+      "world": "https://github.com/ShadowKitty42/ONI-Archipelago/releases/download/v0.9.10/oni.apworld",
+      "size": 51531,
+      "hash_sha256": "c55278342fa35b1dcb411a60f841c11420c2b912c9fc7a23de7f357814728a6c",
+      "metadata": {
+        "game": "Oxygen Not Included",
+        "id": "oni",
+        "world_version": "7.0.0",
+        "tag_version": "7.0.0",
+        "created_at": "2025-12-07T21:04:14Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/ShadowKitty42/ONI-Archipelago/releases/download/v0.96/oni.apworld",
       "size": 48650,
       "hash_sha256": "39d4b1fbb133bca97464256e010c0b988c9d5637dcec24b5f04bb360e212e778",
@@ -51503,19 +51532,6 @@
         "tag_version": "0.9.post2",
         "created_at": "2025-04-06T06:03:57Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ShadowKitty42/ONI-Archipelago/releases/download/v0.9.10/oni.apworld",
-      "size": 51531,
-      "hash_sha256": "c55278342fa35b1dcb411a60f841c11420c2b912c9fc7a23de7f357814728a6c",
-      "metadata": {
-        "game": "Oxygen Not Included",
-        "id": "oni",
-        "world_version": "7.0.0",
-        "tag_version": "7.0.0",
-        "created_at": "2025-12-07T21:04:14Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
