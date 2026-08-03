@@ -103,6 +103,7 @@
     "0.5.0-pre-release": {
       "created_at": "2026-06-14T16:34:48Z",
       "download_url": "https://github.com/Bartz24/ArchipelagoLR/releases/download/0.5.0-pre-release/lrff13.apworld",
+      "failed_to_load": "No module named 'rule_builder'",
       "has_manifest": true,
       "hash_sha256": "095739ed7ba0e0c3f712a36d59c5c0401d8243907539b5691c8b4d967f31a279",
       "minimum_ap_version": "0.6.3",
