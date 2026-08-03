@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 536,
-  "total_versions": 6517,
+  "total_versions": 6519,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -316,7 +316,7 @@
     "obra_dinn": false,
     "okamihd": true,
     "old_launcher": true,
-    "oni": false,
+    "oni": true,
     "oot_soh": true,
     "ootbijmqwt": false,
     "openrct2": true,
