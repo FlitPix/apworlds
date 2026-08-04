@@ -303,6 +303,19 @@
       "version_simple": "0.5.5",
       "world_version": "0.5.5"
     },
+    "v0.5.6": {
+      "created_at": "2026-08-03T19:44:09Z",
+      "download_url": "https://github.com/Battlecats59/SS_APWorld/releases/download/v0.5.6/ss.apworld",
+      "has_manifest": true,
+      "hash_sha256": "5947dd8d9601b018de2c38515cc63a46b4402d0987dff4966106f39e3626a700",
+      "minimum_ap_version": "0.6.7",
+      "size": 580488,
+      "source_url": "https://api.github.com/repos/Battlecats59/SS_APWorld",
+      "tag": "v0.5.6",
+      "title": "v0.5.6",
+      "version_simple": "0.5.6",
+      "world_version": "0.5.6"
+    },
     "v0.5.6-pre1": {
       "created_at": "2026-05-25T19:26:42Z",
       "download_url": "https://github.com/Battlecats59/SS_APWorld/releases/download/v0.5.6-pre1/ss.apworld",
