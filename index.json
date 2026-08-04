@@ -16601,6 +16601,22 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
+      "size": 43908,
+      "hash_sha256": "2da6083651b0338f61fb2bc3857edd003d8c7bff932510376528a49a3b0b0435",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.0",
+        "tag_version": "0.19.0",
+        "created_at": "2026-07-23T21:11:46Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
       "size": 16029,
       "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
@@ -16624,22 +16640,6 @@
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
         "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
-      "size": 43908,
-      "hash_sha256": "2da6083651b0338f61fb2bc3857edd003d8c7bff932510376528a49a3b0b0435",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.19.0",
-        "tag_version": "0.19.0",
-        "created_at": "2026-07-23T21:11:46Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -54401,6 +54401,19 @@
       }
     },
     {
+      "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.6.0/parkitect.apworld",
+      "size": 304421,
+      "hash_sha256": "e7461f833e48ae093e3a69142b3be8f2eee46b080c6cc5e51f8b8acdc0a5f902",
+      "metadata": {
+        "game": "Parkitect",
+        "id": "parkitect",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-08-04T07:55:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ThePhar/ThePasswordGameArchipelago/releases/download/1.0/password.apworld",
       "size": 6381,
       "hash_sha256": "d9d1d8b2e4482eef4a8e7dc5c22af6c5fa54acf313365fd0816f0a63d35df97b",
@@ -75368,6 +75381,19 @@
       }
     },
     {
+      "world": "https://github.com/Battlecats59/SS_APWorld/releases/download/v0.5.6/ss.apworld",
+      "size": 580488,
+      "hash_sha256": "5947dd8d9601b018de2c38515cc63a46b4402d0987dff4966106f39e3626a700",
+      "metadata": {
+        "game": "Skyward Sword",
+        "id": "ss",
+        "world_version": "0.5.6",
+        "tag_version": "0.5.6",
+        "created_at": "2026-08-03T19:44:09Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Battlecats59/SS_APWorld/releases/download/v0.5.6-pre1/ss.apworld",
       "size": 207380,
       "hash_sha256": "4748ac153045e122d7eb48ac6f73420b1ca486774b1b9f18bc9f100503ab6ca0",
@@ -75381,19 +75407,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Battlecats59/SS_APWorld/releases/download/v0.5.6/ss.apworld",
-      "size": 580488,
-      "hash_sha256": "5947dd8d9601b018de2c38515cc63a46b4402d0987dff4966106f39e3626a700",
-      "metadata": {
-        "game": "Skyward Sword",
-        "id": "ss",
-        "world_version": "0.5.6",
-        "tag_version": "0.5.6",
-        "created_at": "2026-08-03T19:44:09Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
