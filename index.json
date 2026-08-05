@@ -33449,6 +33449,18 @@
       }
     },
     {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.1.0-TEST/kirby_air_ride.apworld",
+      "size": 120458,
+      "hash_sha256": "e448749394126bf9b8c6e57c2a0ee65ac6a35c1b2b47c57cd4fbc22f56a8c478",
+      "metadata": {
+        "game": "Kirby Air Ride",
+        "id": "kirby_air_ride",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-08-04T19:15:31Z"
+      }
+    },
+    {
       "world": "https://github.com/dannybonz/k-on_archipelago/releases/download/v1.0.0/kon.apworld",
       "size": 26776,
       "hash_sha256": "138eb6b331fef8bf6644d59f919d858c1906b738b3530e70194304277c67b2f8",
@@ -40462,6 +40474,19 @@
       }
     },
     {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/GA-5.0.0/manual_glassanimals_bennydreamly.apworld",
+      "size": 57404,
+      "hash_sha256": "fc5c54abc430b85a6ec069cd9f157f0b9982eb3875c1872f79295dd583411fd6",
+      "metadata": {
+        "game": "Manual_GlassAnimals_bennydreamly",
+        "id": "manual_glassanimals_bennydreamly",
+        "world_version": "5.0.0",
+        "tag_version": "5.0.0",
+        "created_at": "2025-11-14T23:54:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.0/manual_goldeneye007_vincentssin.apworld",
       "size": 50016,
       "hash_sha256": "b9fd6b09100a4e0cc8e2649712857bd98fbe749aadecc22e754e2bf14785ea5d",
@@ -43561,6 +43586,19 @@
         "world_version": "6.0.1",
         "tag_version": "6.0.1",
         "created_at": "2026-07-10T22:53:33Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-6.1.0/manual_taylorswiftdiscography_bennydreamly.apworld",
+      "size": 61394,
+      "hash_sha256": "d310f07bc887c3147c87e7912da3b70f25f3dacebb03b78cf8ad1d2169859788",
+      "metadata": {
+        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
+        "id": "manual_taylorswiftdiscography_bennydreamly",
+        "world_version": "6.1.0",
+        "tag_version": "6.1.0",
+        "created_at": "2026-08-04T18:24:35Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -83810,6 +83848,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.12.0/ttyd.apworld",
+      "size": 1561274,
+      "hash_sha256": "05f5cf6ca3a216940ec25e1ac0fbe0f9b75a733d8325ebcd82aba7177ec85fe7",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.12.0",
+        "tag_version": "0.12.0",
+        "created_at": "2026-06-21T08:32:56Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/4.2.3/tunic.apworld",
       "size": 556170,
       "hash_sha256": "2d37e58cd570f343d877a5dae0d86da9487e3918f1db411d2da1cf17bd2993f0",
@@ -85839,6 +85890,18 @@
         "world_version": "3.5.4",
         "tag_version": "3.5.4",
         "created_at": "2026-07-27T02:49:47Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.5/ultrakill.apworld",
+      "size": 50164,
+      "hash_sha256": "5cf97c5c00f1b7a958fb0cf286c6744c445edac9b0237c922e5773c7bc1577b2",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.5.5",
+        "tag_version": "3.5.5",
+        "created_at": "2026-08-05T02:16:42Z"
       }
     },
     {
