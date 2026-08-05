@@ -14186,6 +14186,22 @@
       }
     },
     {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v3.0.2-Crystalis/crystalis.apworld",
+      "size": 87334,
+      "hash_sha256": "4b55ee5ac6d1ffabef95d07c8e899669cd8410e597e937b884d92a872156f0d2",
+      "metadata": {
+        "game": "Crystalis",
+        "id": "crystalis",
+        "world_version": "3.0.2",
+        "tag_version": "3.0.2",
+        "created_at": "2026-08-05T02:55:03Z",
+        "minimum_ap_version": "0.6.0",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Anguirel86/Archipelago/releases/download/v0.0.2/ctjot.apworld",
       "size": 27494,
       "hash_sha256": "f6d52b0578a4bd2d91b6faeda08aa45b45bf878aac769767fabf03666d883bd3",
@@ -24799,6 +24815,19 @@
         "world_version": "0.30.1",
         "tag_version": "0.30.1",
         "created_at": "2026-07-27T13:37:06Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.30.2/ffxiv.apworld",
+      "size": 164944,
+      "hash_sha256": "ffd18a6fea1ff72c071258139f1d95cc8053d87703377ba43a71393da021f15a",
+      "metadata": {
+        "game": "Final Fantasy XIV",
+        "id": "ffxiv",
+        "world_version": "0.30.2",
+        "tag_version": "0.30.2",
+        "created_at": "2026-08-05T09:28:37Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -54452,6 +54481,19 @@
       }
     },
     {
+      "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.6.1/parkitect.apworld",
+      "size": 304421,
+      "hash_sha256": "e7461f833e48ae093e3a69142b3be8f2eee46b080c6cc5e51f8b8acdc0a5f902",
+      "metadata": {
+        "game": "Parkitect",
+        "id": "parkitect",
+        "world_version": "1.6.1",
+        "tag_version": "1.6.1",
+        "created_at": "2026-08-05T11:37:21Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ThePhar/ThePasswordGameArchipelago/releases/download/1.0/password.apworld",
       "size": 6381,
       "hash_sha256": "d9d1d8b2e4482eef4a8e7dc5c22af6c5fa54acf313365fd0816f0a63d35df97b",
@@ -57118,6 +57160,19 @@
         "world_version": "2.2.0",
         "tag_version": "2.2.0",
         "created_at": "2026-07-24T18:21:30Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/stubobis1/Archipelago/releases/download/2.2.1/poe.apworld",
+      "size": 164786,
+      "hash_sha256": "0a1cfd4452caf4a928a144f66a6248dcc6c1be5df9ce92a8bb1cfd0ac825ad01",
+      "metadata": {
+        "game": "Path of Exile",
+        "id": "poe",
+        "world_version": "2.2.1",
+        "tag_version": "2.2.1",
+        "created_at": "2026-08-05T08:04:51Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -77232,6 +77287,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.6/stardew_valley.apworld",
+      "size": 562595,
+      "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.0",
+        "tag_version": "8.0.0",
+        "created_at": "2026-07-04T16:49:23Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -83589,6 +83660,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.12.0/ttyd.apworld",
+      "size": 1561274,
+      "hash_sha256": "05f5cf6ca3a216940ec25e1ac0fbe0f9b75a733d8325ebcd82aba7177ec85fe7",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.12.0",
+        "tag_version": "0.12.0",
+        "created_at": "2026-06-21T08:32:56Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.2.0/ttyd.apworld",
       "size": 119481,
       "hash_sha256": "a4a89e9815505555c987ac7199b63fc3483247bc567b59d13b74d8492cb9fdae",
@@ -83844,19 +83928,6 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2026-04-21T08:18:22Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.12.0/ttyd.apworld",
-      "size": 1561274,
-      "hash_sha256": "05f5cf6ca3a216940ec25e1ac0fbe0f9b75a733d8325ebcd82aba7177ec85fe7",
-      "metadata": {
-        "game": "Paper Mario The Thousand Year Door",
-        "id": "ttyd",
-        "world_version": "0.12.0",
-        "tag_version": "0.12.0",
-        "created_at": "2026-06-21T08:32:56Z",
         "minimum_ap_version": "0.6.3"
       }
     },
