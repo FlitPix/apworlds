@@ -530,6 +530,20 @@
       "title": "Refunct for Archipelago v1.2.2a (mod only update)",
       "version_simple": "1.2.2",
       "world_version": "1.2.2"
+    },
+    "v1.3.0": {
+      "created_at": "2026-08-05T17:57:23Z",
+      "download_url": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.3.0/refunct.apworld",
+      "has_manifest": true,
+      "hash_sha256": "7c6d8fd097b6aec2e9488936ee9e811be73c22ca9e47a6ad9444106a05dc1907",
+      "minimum_ap_version": "0.6.4",
+      "prerelease": true,
+      "size": 20792,
+      "source_url": "https://api.github.com/repos/spinerak/refunct-tas-archipelago",
+      "tag": "v1.3.0",
+      "title": "[pre-lease] Refunct for Archipelago 1.3.0: Co-op and more!",
+      "version_simple": "1.3.0",
+      "world_version": "1.3.0"
     }
   }
 }
