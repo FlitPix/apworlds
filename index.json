@@ -8489,6 +8489,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-97/borderlands2.apworld",
+      "size": 63250,
+      "hash_sha256": "89fd2d7b2f2667aa8a660ffe5f5237459bb6f90a59058b9e3afefe4c0081ba6f",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "97",
+        "tag_version": "97",
+        "created_at": "2026-08-06T20:40:36Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8645,15 +8661,15 @@
       }
     },
     {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-97/borderlands2.apworld",
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-98/borderlands2.apworld",
       "size": 63250,
-      "hash_sha256": "89fd2d7b2f2667aa8a660ffe5f5237459bb6f90a59058b9e3afefe4c0081ba6f",
+      "hash_sha256": "e2c9f2e80f3372c9d905e45d39da6eaf604e6e2f764234f0b0536a86aee0fad8",
       "metadata": {
         "game": "Borderlands 2",
         "id": "borderlands2",
-        "world_version": "97",
-        "tag_version": "97",
-        "created_at": "2026-08-06T20:40:36Z",
+        "world_version": "98",
+        "tag_version": "98",
+        "created_at": "2026-08-07T06:32:30Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -13544,6 +13560,18 @@
         "world_version": "0.9.6",
         "tag_version": "0.9.6",
         "created_at": "2026-07-30T08:45:55Z"
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.7/crosscode.apworld",
+      "size": 147363,
+      "hash_sha256": "afebf94f8697906036954c819f0d4718364fc2d06c067befa9279429b69ec2d2",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.9.7",
+        "tag_version": "0.9.7",
+        "created_at": "2026-08-07T06:57:16Z"
       }
     },
     {
@@ -56315,6 +56343,18 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.0/plateup.apworld",
+      "size": 127418,
+      "hash_sha256": "70fcf7e178dfb17ba04cca3cb63ae3ddfbc619334ebd06c25bc116204fd3cf6a",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.7.0",
+        "tag_version": "0.2.7.0",
+        "created_at": "2026-08-07T04:59:43Z"
       }
     },
     {
