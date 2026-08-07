@@ -8473,6 +8473,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-96/borderlands2.apworld",
+      "size": 63225,
+      "hash_sha256": "3794769203359ef5dcc98a22399fdbc4b5e9a3be65d3454f44a811239c49a2f5",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "96",
+        "tag_version": "96",
+        "created_at": "2026-08-06T07:06:56Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8629,15 +8645,15 @@
       }
     },
     {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-96/borderlands2.apworld",
-      "size": 63225,
-      "hash_sha256": "3794769203359ef5dcc98a22399fdbc4b5e9a3be65d3454f44a811239c49a2f5",
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-97/borderlands2.apworld",
+      "size": 63250,
+      "hash_sha256": "89fd2d7b2f2667aa8a660ffe5f5237459bb6f90a59058b9e3afefe4c0081ba6f",
       "metadata": {
         "game": "Borderlands 2",
         "id": "borderlands2",
-        "world_version": "96",
-        "tag_version": "96",
-        "created_at": "2026-08-06T07:06:56Z",
+        "world_version": "97",
+        "tag_version": "97",
+        "created_at": "2026-08-06T20:40:36Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -33519,6 +33535,18 @@
       }
     },
     {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.1.1-TEST/kirby_air_ride.apworld",
+      "size": 120903,
+      "hash_sha256": "4e9ee3f879e6ea10301d6a881c9faeaf92a9d5f461e47c846f14f4c34242d04e",
+      "metadata": {
+        "game": "Kirby Air Ride",
+        "id": "kirby_air_ride",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-08-07T01:03:38Z"
+      }
+    },
+    {
       "world": "https://github.com/dannybonz/k-on_archipelago/releases/download/v1.0.0/kon.apworld",
       "size": 26776,
       "hash_sha256": "138eb6b331fef8bf6644d59f919d858c1906b738b3530e70194304277c67b2f8",
@@ -50787,6 +50815,19 @@
         "world_version": "0.6.1",
         "tag_version": "0.6.1",
         "created_at": "2026-07-13T22:24:26Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.2/nine_sols.apworld",
+      "size": 3635781,
+      "hash_sha256": "2104570b88aa25c94860d142f3e3dd6776b784cf99ddf59371fffd68186a3f91",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2026-08-06T20:20:22Z",
         "minimum_ap_version": "0.6.4"
       }
     },
