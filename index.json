@@ -8505,6 +8505,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-98/borderlands2.apworld",
+      "size": 63250,
+      "hash_sha256": "e2c9f2e80f3372c9d905e45d39da6eaf604e6e2f764234f0b0536a86aee0fad8",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "98",
+        "tag_version": "98",
+        "created_at": "2026-08-07T06:32:30Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8658,22 +8674,6 @@
         "tag_version": "0.5.4",
         "created_at": "2026-07-15T22:00:46Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-98/borderlands2.apworld",
-      "size": 63250,
-      "hash_sha256": "e2c9f2e80f3372c9d905e45d39da6eaf604e6e2f764234f0b0536a86aee0fad8",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "98",
-        "tag_version": "98",
-        "created_at": "2026-08-07T06:32:30Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -43717,6 +43717,19 @@
       }
     },
     {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-6.2.0/manual_taylorswiftdiscography_bennydreamly.apworld",
+      "size": 68649,
+      "hash_sha256": "2600925fcf82dd64c12a2cc2ee011a70eeae991c2fe3167ee3dc87e117ceca21",
+      "metadata": {
+        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
+        "id": "manual_taylorswiftdiscography_bennydreamly",
+        "world_version": "6.2.0",
+        "tag_version": "6.2.0",
+        "created_at": "2026-08-07T18:19:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/TF2_0.0.1/manual_teamfortress2_axxroy.apworld",
       "size": 41493,
       "hash_sha256": "eb9104abaf5769387c037c46db5ea782e3c19a150ba5b53709ff50fa014cdebb",
@@ -56333,6 +56346,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.0/plateup.apworld",
+      "size": 127418,
+      "hash_sha256": "70fcf7e178dfb17ba04cca3cb63ae3ddfbc619334ebd06c25bc116204fd3cf6a",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.7.0",
+        "tag_version": "0.2.7.0",
+        "created_at": "2026-08-07T04:59:43Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
       "size": 15365,
       "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
@@ -56343,18 +56368,6 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.0/plateup.apworld",
-      "size": 127418,
-      "hash_sha256": "70fcf7e178dfb17ba04cca3cb63ae3ddfbc619334ebd06c25bc116204fd3cf6a",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.2.7.0",
-        "tag_version": "0.2.7.0",
-        "created_at": "2026-08-07T04:59:43Z"
       }
     },
     {
@@ -64214,6 +64227,22 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.3.1/refunct.apworld",
+      "size": 20815,
+      "hash_sha256": "dfaef6a04e0e1dacd371a801923d2a7c9ffee9ba094aaa3c37ae0940e1e2e120",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.3.1",
+        "tag_version": "1.3.1",
+        "created_at": "2026-08-07T23:43:20Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -66438,6 +66467,19 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.16.0/rotn.apworld",
+      "size": 17300,
+      "hash_sha256": "5020ff273be82240fd7fe7576e619f8225b6b4291992cd95d1965ebabc3469dc",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-06-12T01:41:46Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -77467,6 +77509,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.26/stardew_valley.apworld",
+      "size": 565468,
+      "hash_sha256": "855b71ec6c1a3c25ef293b769e9f57cfb7f15b4acc1bc5389129afdb4b2eccdf",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.25",
+        "tag_version": "8.0.25",
+        "created_at": "2026-08-08T00:50:30Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -84105,6 +84163,19 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2026-04-21T08:18:22Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.12.1a/ttyd.apworld",
+      "size": 1567351,
+      "hash_sha256": "ad685501f5850941cd085d2295d7ac8a486ad2968091e4b5e13f87981ed2b07d",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.12.0",
+        "tag_version": "0.12.0",
+        "created_at": "2026-06-21T08:32:56Z",
         "minimum_ap_version": "0.6.3"
       }
     },
