@@ -26213,6 +26213,22 @@
       }
     },
     {
+      "world": "https://github.com/Knuxfan24/Freedom-Planet-2-Archipelago/releases/download/1.0.0/fp2.apworld",
+      "size": 1560531,
+      "hash_sha256": "bc13054e7b35d2c82a6ee7daf79c5cf2978d06c92aac4d1227234ff5cec3dd8b",
+      "metadata": {
+        "game": "Freedom Planet 2",
+        "id": "fp2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-07-19T18:08:03Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Rooby-Roo/FrogmonsterAPWorld/releases/download/v0.1.0/frogmonster.apworld",
       "size": 79872,
       "hash_sha256": "90259b04f5236280970a144718f111f523e0d5bd7c4600dd223c8216652d8443",
@@ -66239,6 +66255,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.16.0/rotn.apworld",
+      "size": 17300,
+      "hash_sha256": "5020ff273be82240fd7fe7576e619f8225b6b4291992cd95d1965ebabc3469dc",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-06-12T01:41:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.2/rotn.apworld",
       "size": 23898,
       "hash_sha256": "13d37ba93b971cdf8d47f7673725577e6640408c9a7cef6b420d564c5258e402",
@@ -66467,19 +66496,6 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.16.0/rotn.apworld",
-      "size": 17300,
-      "hash_sha256": "5020ff273be82240fd7fe7576e619f8225b6b4291992cd95d1965ebabc3469dc",
-      "metadata": {
-        "game": "Rift of the Necrodancer",
-        "id": "rotn",
-        "world_version": "0.15.0",
-        "tag_version": "0.15.0",
-        "created_at": "2026-06-12T01:41:46Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -77397,6 +77413,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.26/stardew_valley.apworld",
+      "size": 565468,
+      "hash_sha256": "855b71ec6c1a3c25ef293b769e9f57cfb7f15b4acc1bc5389129afdb4b2eccdf",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.0.25",
+        "tag_version": "8.0.25",
+        "created_at": "2026-08-08T00:50:30Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.3/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -77503,22 +77535,6 @@
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
         "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.26/stardew_valley.apworld",
-      "size": 565468,
-      "hash_sha256": "855b71ec6c1a3c25ef293b769e9f57cfb7f15b4acc1bc5389129afdb4b2eccdf",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.0.25",
-        "tag_version": "8.0.25",
-        "created_at": "2026-08-08T00:50:30Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
@@ -83908,6 +83924,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.12.1a/ttyd.apworld",
+      "size": 1567351,
+      "hash_sha256": "ad685501f5850941cd085d2295d7ac8a486ad2968091e4b5e13f87981ed2b07d",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.12.0",
+        "tag_version": "0.12.0",
+        "created_at": "2026-06-21T08:32:56Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.2.0/ttyd.apworld",
       "size": 119481,
       "hash_sha256": "a4a89e9815505555c987ac7199b63fc3483247bc567b59d13b74d8492cb9fdae",
@@ -84163,19 +84192,6 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2026-04-21T08:18:22Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.12.1a/ttyd.apworld",
-      "size": 1567351,
-      "hash_sha256": "ad685501f5850941cd085d2295d7ac8a486ad2968091e4b5e13f87981ed2b07d",
-      "metadata": {
-        "game": "Paper Mario The Thousand Year Door",
-        "id": "ttyd",
-        "world_version": "0.12.0",
-        "tag_version": "0.12.0",
-        "created_at": "2026-06-21T08:32:56Z",
         "minimum_ap_version": "0.6.3"
       }
     },

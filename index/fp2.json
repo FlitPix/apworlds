@@ -39,6 +39,20 @@
       "title": "Version 0.1.2",
       "version_simple": "0.1.2",
       "world_version": "0.1.2"
+    },
+    "1.0.0": {
+      "created_at": "2026-07-19T18:08:03Z",
+      "download_url": "https://github.com/Knuxfan24/Freedom-Planet-2-Archipelago/releases/download/1.0.0/fp2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "bc13054e7b35d2c82a6ee7daf79c5cf2978d06c92aac4d1227234ff5cec3dd8b",
+      "minimum_ap_version": "0.6.5",
+      "prerelease": true,
+      "size": 1560531,
+      "source_url": "https://api.github.com/repos/Knuxfan24/Freedom-Planet-2-Archipelago",
+      "tag": "1.0.0",
+      "title": "Version 1.0.0 Prerelease 1",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
     }
   }
 }
