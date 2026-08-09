@@ -20763,6 +20763,22 @@
       }
     },
     {
+      "world": "https://github.com/ArsonAssassin/DWAP/releases/download/0.3.10/dw1.apworld",
+      "size": 13409,
+      "hash_sha256": "5086140c4e0bddc8ff33b1a9c294cc3d2fc88d95f4e958b4c0efd11da9dc7872",
+      "metadata": {
+        "game": "Digimon World",
+        "id": "dw1",
+        "world_version": "0.3.10",
+        "tag_version": "0.3.10",
+        "created_at": "2026-08-08T13:02:02Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/apworld/earthbound.apworld",
       "size": 350497,
       "hash_sha256": "019e72a9aa80050c778741dffd76cc06298c327960591a4de34c654d41395130",
@@ -26615,6 +26631,19 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2025-12-17T23:06:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/1.0.2/garfkart.apworld",
+      "size": 23112,
+      "hash_sha256": "46266aa5be369d3d15df5be5f683c3739691de9d067d353342549d2f5ba4925d",
+      "metadata": {
+        "game": "Garfield Kart - Furious Racing",
+        "id": "garfkart",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-07-13T06:35:16Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -64259,6 +64288,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.3.2/refunct.apworld",
+      "size": 20179,
+      "hash_sha256": "05add3b7629c467d1b4cc9f892a66ecde8953b0ac05880c47f90d2d8d069029b",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.3.2",
+        "tag_version": "1.3.2",
+        "created_at": "2026-08-08T19:00:50Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -78531,6 +78573,22 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2026-05-30T19:42:44Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.2.0-pre.1/tcg_card_shop_simulator.apworld",
+      "size": 30370,
+      "hash_sha256": "f7b03fd227d64d3ae27e6107505341b77d0916bbc03ee04f97aa73e65ec19611",
+      "metadata": {
+        "game": "TCG Card Shop Simulator",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-08-08T22:32:33Z",
         "minimum_ap_version": "0.6.5",
         "flags": [
           "prerelease"
