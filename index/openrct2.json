@@ -200,6 +200,18 @@
       "title": "Living in Potatoland (Idaho, not Ireland)",
       "version_simple": "0.1.20",
       "world_version": "0.1.20"
+    },
+    "v0.1.22-beta": {
+      "created_at": "2025-02-09T06:59:37Z",
+      "download_url": "https://github.com/Crazycolbster/rollercoaster-tycoon-randomizer/releases/download/v0.1.22-beta/openrct2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "37f958a53162296a2fac2fb7ca2b908e23f279a806d1f1004732810e516eb776",
+      "size": 1610130,
+      "source_url": "https://api.github.com/repos/Crazycolbster/rollercoaster-tycoon-randomizer",
+      "tag": "v0.1.22-beta",
+      "title": "The Penultimate* Release",
+      "version_simple": "0.1.20",
+      "world_version": "0.1.20"
     }
   }
 }

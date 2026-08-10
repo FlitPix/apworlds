@@ -29430,6 +29430,18 @@
       }
     },
     {
+      "world": "https://github.com/WritingHusky/haste_apworld/releases/download/v0.5.0/haste.apworld",
+      "size": 34666,
+      "hash_sha256": "1b6bc19da230cc1d504d371490b748aa8612775a6b05931551c778d79680332f",
+      "metadata": {
+        "game": "Haste",
+        "id": "haste",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-08-09T17:37:52Z"
+      }
+    },
+    {
       "world": "https://github.com/niieli/Niko-Archipelago/releases/download/0.1.0/hcniko.apworld",
       "size": 37018,
       "hash_sha256": "5eca73827feaa794774f9f69902dbef5a842c250d0b5c78309622a6de7acaeff",
@@ -52319,6 +52331,18 @@
       }
     },
     {
+      "world": "https://github.com/Crazycolbster/rollercoaster-tycoon-randomizer/releases/download/v0.1.22-beta/openrct2.apworld",
+      "size": 1610130,
+      "hash_sha256": "37f958a53162296a2fac2fb7ca2b908e23f279a806d1f1004732810e516eb776",
+      "metadata": {
+        "game": "OpenRCT2",
+        "id": "openrct2",
+        "world_version": "0.1.20",
+        "tag_version": "0.1.20",
+        "created_at": "2025-02-09T06:59:37Z"
+      }
+    },
+    {
       "world": "https://github.com/Silvris/Archipelago/releases/download/yml_0.0.1/options_select.apworld",
       "size": 17895,
       "hash_sha256": "f3c8f15d2241f652d5e6276dc8842201b4e485ace2413dc3e8b7bc6fa28ccadc",
@@ -71214,6 +71238,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.10/sm64hacks.apworld",
+      "size": 296721,
+      "hash_sha256": "a04164c6b7e0ddc3103d6fc4b694069bf13b554b8dfa641206d6ad18e1fc4c47",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.7",
+        "tag_version": "1.1.7",
+        "created_at": "2026-08-09T04:57:02Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.2/sm64hacks.apworld",
       "size": 294670,
       "hash_sha256": "a194e6093524c775e90f5b14adf4a829ee6f4959b444d0275a94bd3adccaa31d",
@@ -71335,22 +71375,6 @@
         "world_version": "1.1.7",
         "tag_version": "1.1.7",
         "created_at": "2026-06-16T23:40:57Z",
-        "minimum_ap_version": "0.6.3",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.10/sm64hacks.apworld",
-      "size": 296721,
-      "hash_sha256": "a04164c6b7e0ddc3103d6fc4b694069bf13b554b8dfa641206d6ad18e1fc4c47",
-      "metadata": {
-        "game": "SM64 Romhack",
-        "id": "sm64hacks",
-        "world_version": "1.1.7",
-        "tag_version": "1.1.7",
-        "created_at": "2026-08-09T04:57:02Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
