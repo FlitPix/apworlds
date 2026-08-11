@@ -106,6 +106,19 @@
       "title": "Little Witch Nobeta apworld 0.3.2-beta",
       "version_simple": "0.3.2",
       "world_version": "0.3.2"
+    },
+    "0.3.3": {
+      "created_at": "2026-08-10T17:30:25Z",
+      "download_url": "https://github.com/danielgruethling/Archipelago/releases/download/0.3.3/little_witch_nobeta.apworld",
+      "has_manifest": true,
+      "hash_sha256": "729601a636fab73a5e5c8e2b3eed98ce43b95cfa3b703e363f00d1547fc5dee6",
+      "minimum_ap_version": "0.6.7",
+      "size": 30049,
+      "source_url": "https://api.github.com/repos/danielgruethling/Archipelago",
+      "tag": "0.3.3",
+      "title": "Little Witch Nobeta apworld 0.3.3",
+      "version_simple": "0.3.3",
+      "world_version": "0.3.3"
     }
   }
 }
