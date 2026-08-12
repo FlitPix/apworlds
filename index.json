@@ -16732,6 +16732,22 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19c/deep_rock_galactic.apworld",
+      "size": 43898,
+      "hash_sha256": "cde23be712c5a94e21eb51ff7ed82eba40f5eafcade5e3fd0d4697aa04546620",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.0",
+        "tag_version": "0.19.0",
+        "created_at": "2026-08-04T22:39:03Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/StellatedCUBE/Delivering-Hope-Archipelago/releases/download/v0.1.0/DeliveringHope.apworld",
       "size": 14973,
       "hash_sha256": "3dcdaf6b0b3853e693a55ff2ec2dcb17d9fb1d30373884094459946dae631581",
@@ -24442,6 +24458,22 @@
       }
     },
     {
+      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v83.2/ffvcd.apworld",
+      "size": 1538173,
+      "hash_sha256": "620005cea7a8c50ed28ee3fce935e5a2ce74e57370e69715c24a39e949e6efe9",
+      "metadata": {
+        "game": "Final Fantasy V Career Day",
+        "id": "ffvcd",
+        "world_version": "83.2",
+        "tag_version": "83.2",
+        "created_at": "2026-08-10T00:51:24Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/gaithernOrg/FFXIITMAPArchipelago/releases/download/0.0.1/ffxiitm.apworld",
       "size": 42764,
       "hash_sha256": "5aa0b99e80ddab3ebb3d55e49cf39c6c06847409606b4b94d7cbeb0445892906",
@@ -26645,6 +26677,19 @@
         "tag_version": "0.5.3",
         "created_at": "2025-12-17T23:06:49Z",
         "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/v0.5.4-beta/garfkart.apworld",
+      "size": 18791,
+      "hash_sha256": "7d44788314df2d3541378b449df1caeece0365bc252971d2dbd56da5616233b2",
+      "metadata": {
+        "game": "Garfield Kart - Furious Racing",
+        "id": "garfkart",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-06-30T10:37:23Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -82671,6 +82716,32 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.1/tloz_st.apworld",
+      "size": 5159747,
+      "hash_sha256": "a7ed00f6ea34018ef0973bc6b1ed63cb4d755d33b0b38f53080d146c7d21a929",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-08-11T16:41:45Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.0/tloz_st.apworld",
+      "size": 5159704,
+      "hash_sha256": "ca389fa9bed0f54ba9ed43ac2a5edc4d0462fa0ac0a8f3f16a1edba2d4547a61",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-08-11T13:04:14Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
