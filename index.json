@@ -16706,6 +16706,22 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19c/deep_rock_galactic.apworld",
+      "size": 43898,
+      "hash_sha256": "cde23be712c5a94e21eb51ff7ed82eba40f5eafcade5e3fd0d4697aa04546620",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.0",
+        "tag_version": "0.19.0",
+        "created_at": "2026-08-04T22:39:03Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
       "size": 16029,
       "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
@@ -16729,22 +16745,6 @@
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
         "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19c/deep_rock_galactic.apworld",
-      "size": 43898,
-      "hash_sha256": "cde23be712c5a94e21eb51ff7ed82eba40f5eafcade5e3fd0d4697aa04546620",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.19.0",
-        "tag_version": "0.19.0",
-        "created_at": "2026-08-04T22:39:03Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -51768,6 +51768,19 @@
       }
     },
     {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.1/okamihd.apworld",
+      "size": 88019,
+      "hash_sha256": "14e82c41deba428ea4f2785a41603e20a743ff1ceedb21fb524fcfc271136f21",
+      "metadata": {
+        "game": "Okami HD",
+        "id": "okamihd",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-08-12T12:33:25Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/old_launcher-1.0.0/old_launcher.apworld",
       "size": 15494,
       "hash_sha256": "fc62e8bc849b44e6a46301baaab01f97ef61ee4d732ddb5d23d9a61c32531147",
@@ -62549,6 +62562,22 @@
         "world_version": "1.1.6.post2",
         "tag_version": "1.1.6.post2",
         "created_at": "2025-11-17T14:39:51Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.1.7/quake.apworld",
+      "size": 500292,
+      "hash_sha256": "9a1404c30f934abb903391be20381218e71f2cd1f87ea2226d247460199ba34e",
+      "metadata": {
+        "game": "Quake 1",
+        "id": "quake",
+        "world_version": "1.1.7",
+        "tag_version": "1.1.7",
+        "created_at": "2026-08-12T10:32:32Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark"
@@ -82565,6 +82594,32 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.0/tloz_st.apworld",
+      "size": 5159704,
+      "hash_sha256": "ca389fa9bed0f54ba9ed43ac2a5edc4d0462fa0ac0a8f3f16a1edba2d4547a61",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-08-11T13:04:14Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.1/tloz_st.apworld",
+      "size": 5159747,
+      "hash_sha256": "a7ed00f6ea34018ef0973bc6b1ed63cb4d755d33b0b38f53080d146c7d21a929",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-08-11T16:41:45Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -82716,32 +82771,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.1/tloz_st.apworld",
-      "size": 5159747,
-      "hash_sha256": "a7ed00f6ea34018ef0973bc6b1ed63cb4d755d33b0b38f53080d146c7d21a929",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.8.1",
-        "tag_version": "0.8.1",
-        "created_at": "2026-08-11T16:41:45Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.0/tloz_st.apworld",
-      "size": 5159704,
-      "hash_sha256": "ca389fa9bed0f54ba9ed43ac2a5edc4d0462fa0ac0a8f3f16a1edba2d4547a61",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.8.0",
-        "tag_version": "0.8.0",
-        "created_at": "2026-08-11T13:04:14Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
