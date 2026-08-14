@@ -8537,6 +8537,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-1/borderlands2.apworld",
+      "size": 64669,
+      "hash_sha256": "4b080c653edce061de44e0862799235f4651d3b9af31cd96be0f89b2ca0df87d",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "1",
+        "tag_version": "1",
+        "created_at": "2026-08-13T10:21:30Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8690,22 +8706,6 @@
         "tag_version": "0.5.4",
         "created_at": "2026-07-15T22:00:46Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-1/borderlands2.apworld",
-      "size": 64669,
-      "hash_sha256": "4b080c653edce061de44e0862799235f4651d3b9af31cd96be0f89b2ca0df87d",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "1",
-        "tag_version": "1",
-        "created_at": "2026-08-13T10:21:30Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -11375,6 +11375,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.1/civv.apworld",
+      "size": 455125,
+      "hash_sha256": "ac03d9fb371576bf28777835e11c1cf00bcd9e2ef09746dd2ab1937a3a2bba37",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.1",
+        "tag_version": "0.10.1",
+        "created_at": "2026-06-22T17:15:18Z"
+      }
+    },
+    {
       "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.2/civv.apworld",
       "size": 455336,
       "hash_sha256": "2a26b36e30a44be5877f3e265a7dc15b9e0704686b3ea4f967de383ea9f17338",
@@ -11756,18 +11768,6 @@
         "world_version": "0.9.8",
         "tag_version": "0.9.8",
         "created_at": "2026-02-06T20:46:56Z"
-      }
-    },
-    {
-      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.1/civv.apworld",
-      "size": 455125,
-      "hash_sha256": "ac03d9fb371576bf28777835e11c1cf00bcd9e2ef09746dd2ab1937a3a2bba37",
-      "metadata": {
-        "game": "Civilization V",
-        "id": "civv",
-        "world_version": "0.10.1",
-        "tag_version": "0.10.1",
-        "created_at": "2026-06-22T17:15:18Z"
       }
     },
     {
@@ -23716,6 +23716,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.1/ff1pr.apworld",
+      "size": 28126,
+      "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-06-19T17:09:15Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.2/ff1pr.apworld",
       "size": 28126,
       "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
@@ -23738,19 +23751,6 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-07-16T14:32:33Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.1/ff1pr.apworld",
-      "size": 28126,
-      "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
-      "metadata": {
-        "game": "FF1 Pixel Remaster",
-        "id": "ff1pr",
-        "world_version": "0.6.0",
-        "tag_version": "0.6.0",
-        "created_at": "2026-06-19T17:09:15Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -43889,6 +43889,19 @@
       }
     },
     {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-6.0.0/manual_taylorswiftdiscography_bennydreamly.apworld",
+      "size": 63848,
+      "hash_sha256": "0a74ea683f0577c0b77e2ad5f0181cb3ed984991687dd9bb4803198b59d7c3bd",
+      "metadata": {
+        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
+        "id": "manual_taylorswiftdiscography_bennydreamly",
+        "world_version": "6.0.0",
+        "tag_version": "6.0.0",
+        "created_at": "2026-07-10T20:12:34Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-6.0.1/manual_taylorswiftdiscography_bennydreamly.apworld",
       "size": 61385,
       "hash_sha256": "d94c95e89b9f671f2622bce33ef3a9c96fb9d5478867a85d5e9147d5ead1d5c3",
@@ -43924,19 +43937,6 @@
         "world_version": "6.2.0",
         "tag_version": "6.2.0",
         "created_at": "2026-08-07T18:19:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-6.0.0/manual_taylorswiftdiscography_bennydreamly.apworld",
-      "size": 63848,
-      "hash_sha256": "0a74ea683f0577c0b77e2ad5f0181cb3ed984991687dd9bb4803198b59d7c3bd",
-      "metadata": {
-        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
-        "id": "manual_taylorswiftdiscography_bennydreamly",
-        "world_version": "6.0.0",
-        "tag_version": "6.0.0",
-        "created_at": "2026-07-10T20:12:34Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -49287,19 +49287,6 @@
       }
     },
     {
-      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.8/mmzero3.apworld",
-      "size": 77650,
-      "hash_sha256": "aa87b16043eeea48e868b5501508278fb415241b6fb3e42bdf85fa10a5a1363c",
-      "metadata": {
-        "game": "Mega Man Zero 3",
-        "id": "mmzero3",
-        "world_version": "0.2.8",
-        "tag_version": "0.2.8",
-        "created_at": "2026-08-02T02:51:55Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.7/mmzero3.apworld",
       "size": 77155,
       "hash_sha256": "320e8f4c17221508060f40e96274b15afdf569f6df32cfe8519b5a04f2a223d4",
@@ -49309,6 +49296,19 @@
         "world_version": "0.2.7",
         "tag_version": "0.2.7",
         "created_at": "2026-06-09T19:06:00Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.8/mmzero3.apworld",
+      "size": 77650,
+      "hash_sha256": "aa87b16043eeea48e868b5501508278fb415241b6fb3e42bdf85fa10a5a1363c",
+      "metadata": {
+        "game": "Mega Man Zero 3",
+        "id": "mmzero3",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-08-02T02:51:55Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -51886,6 +51886,19 @@
         "world_version": "0.5.1",
         "tag_version": "0.5.1",
         "created_at": "2026-08-12T12:33:25Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.2/okamihd.apworld",
+      "size": 88778,
+      "hash_sha256": "f19592b3aefb67beacdc9339864628f3b5d8c75409bfbf356789cdcba1a5924f",
+      "metadata": {
+        "game": "Okami HD",
+        "id": "okamihd",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-08-13T21:34:27Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -54918,19 +54931,6 @@
       }
     },
     {
-      "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.6.2/parkitect.apworld",
-      "size": 303742,
-      "hash_sha256": "c9d6f4f49a146fbef2d678e84f93261aaf20cba3b033f8fd9412922b4a25b5f8",
-      "metadata": {
-        "game": "Parkitect",
-        "id": "parkitect",
-        "world_version": "1.6.2",
-        "tag_version": "1.6.2",
-        "created_at": "2026-08-13T09:48:41Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/CrusherRL/AP_Parkitect_World/releases/download/1.6.1/parkitect.apworld",
       "size": 303742,
       "hash_sha256": "c9d6f4f49a146fbef2d678e84f93261aaf20cba3b033f8fd9412922b4a25b5f8",
@@ -54940,6 +54940,19 @@
         "world_version": "1.6.1.post2",
         "tag_version": "1.6.1.post2",
         "created_at": "2026-08-13T09:44:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.6.2/parkitect.apworld",
+      "size": 303742,
+      "hash_sha256": "c9d6f4f49a146fbef2d678e84f93261aaf20cba3b033f8fd9412922b4a25b5f8",
+      "metadata": {
+        "game": "Parkitect",
+        "id": "parkitect",
+        "world_version": "1.6.2",
+        "tag_version": "1.6.2",
+        "created_at": "2026-08-13T09:48:41Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -62725,6 +62738,22 @@
         "world_version": "1.1.7",
         "tag_version": "1.1.7",
         "created_at": "2026-08-12T10:32:32Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.1.8/quake.apworld",
+      "size": 500292,
+      "hash_sha256": "9a1404c30f934abb903391be20381218e71f2cd1f87ea2226d247460199ba34e",
+      "metadata": {
+        "game": "Quake 1",
+        "id": "quake",
+        "world_version": "1.1.8",
+        "tag_version": "1.1.8",
+        "created_at": "2026-08-13T14:05:35Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark"
@@ -84048,6 +84077,19 @@
       }
     },
     {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.0/tracker.apworld",
+      "size": 167991,
+      "hash_sha256": "73aec556d91166a0dd7c840a49cb4d24408e48be515b99a08431974bd00ef303",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-11T18:49:48Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.1/tracker.apworld",
       "size": 169102,
       "hash_sha256": "5e8dce9dfde337b7ae0bd7ca41e30be8979a9bf1cdeb61d8f84fd5083f935121",
@@ -84083,19 +84125,6 @@
         "world_version": "0.3.3",
         "tag_version": "0.3.3",
         "created_at": "2026-07-30T06:28:03Z",
-        "minimum_ap_version": "0.6.2"
-      }
-    },
-    {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.0/tracker.apworld",
-      "size": 167991,
-      "hash_sha256": "73aec556d91166a0dd7c840a49cb4d24408e48be515b99a08431974bd00ef303",
-      "metadata": {
-        "game": "Universal Tracker",
-        "id": "tracker",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2026-07-11T18:49:48Z",
         "minimum_ap_version": "0.6.2"
       }
     },
