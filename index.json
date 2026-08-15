@@ -8709,6 +8709,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-2/borderlands2.apworld",
+      "size": 64690,
+      "hash_sha256": "cb182d16fe13a76cf8d0eb713659cecdc83a23652fc4cbe90097a6b1c59619a7",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2026-08-14T18:10:09Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -8956,6 +8972,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.15.2/brotato.apworld",
+      "size": 43701,
+      "hash_sha256": "f7a09431346f9f04b6bf1e846336796d6ccf23ed335d16113b512a5e61edefa7",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-08-14T04:04:28Z"
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.2.0/brotato.apworld",
       "size": 17355,
       "hash_sha256": "58eab0a0a6062cb23b55b8ef1f520510f1bfdd9904bd22e28415dfbfaa7a684c",
@@ -9187,18 +9215,6 @@
         "tag_version": "0.9.1",
         "created_at": "2025-07-18T01:16:55Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.15.2/brotato.apworld",
-      "size": 43701,
-      "hash_sha256": "f7a09431346f9f04b6bf1e846336796d6ccf23ed335d16113b512a5e61edefa7",
-      "metadata": {
-        "game": "Brotato",
-        "id": "brotato",
-        "world_version": "0.15.0",
-        "tag_version": "0.15.0",
-        "created_at": "2026-08-14T04:04:28Z"
       }
     },
     {
@@ -21453,6 +21469,19 @@
       }
     },
     {
+      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/enderlilies-v0.8/enderlilies.apworld",
+      "size": 87347,
+      "hash_sha256": "58271963b8ef318a934a27bec3f11cb34217614e2414a1596dd3a116027b6480",
+      "metadata": {
+        "game": "Ender Lilies",
+        "id": "enderlilies",
+        "world_version": "0.8",
+        "tag_version": "0.8",
+        "created_at": "2025-05-11T14:58:10Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.1/enderlilies.apworld",
       "size": 61133,
       "hash_sha256": "6045c672cfca36b0a4227f58f9dbbfc1f07e59aadc6c866c437d8ce715803098",
@@ -21543,19 +21572,6 @@
         "world_version": "0.8",
         "tag_version": "0.8",
         "created_at": "2024-12-27T22:43:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/enderlilies-v0.8/enderlilies.apworld",
-      "size": 87347,
-      "hash_sha256": "58271963b8ef318a934a27bec3f11cb34217614e2414a1596dd3a116027b6480",
-      "metadata": {
-        "game": "Ender Lilies",
-        "id": "enderlilies",
-        "world_version": "0.8",
-        "tag_version": "0.8",
-        "created_at": "2025-05-11T14:58:10Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -34876,6 +34892,19 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.5/ladx_beta.apworld",
+      "size": 370822,
+      "hash_sha256": "99025e5f9e075789465425a0503fd50d25e9484240d824d4d1cdb37c6e9b3dd7",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.4.5",
+        "tag_version": "13.4.5",
+        "created_at": "2026-08-14T18:13:26Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
