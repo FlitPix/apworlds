@@ -6966,6 +6966,23 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.6.4/bg3.apworld",
+      "size": 655520,
+      "hash_sha256": "529ef4ecd81f0ee0786986d12d88ede5e30da6dbd6ef0e3358b121ad4d253117",
+      "metadata": {
+        "game": "Baldur's Gate 3",
+        "id": "bg3",
+        "world_version": "0.6.3",
+        "tag_version": "0.6.3",
+        "created_at": "2026-08-03T03:07:29Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cynichill/APBingo/releases/download/0.1.0/Bingo.apworld",
       "size": 14220,
       "hash_sha256": "b2ce957dce41d6b3b45a24e0a276d15948284d02243c40f6692e1424764d0776",
@@ -8553,6 +8570,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-2/borderlands2.apworld",
+      "size": 64690,
+      "hash_sha256": "cb182d16fe13a76cf8d0eb713659cecdc83a23652fc4cbe90097a6b1c59619a7",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2026-08-14T18:10:09Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8706,22 +8739,6 @@
         "tag_version": "0.5.4",
         "created_at": "2026-07-15T22:00:46Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-2/borderlands2.apworld",
-      "size": 64690,
-      "hash_sha256": "cb182d16fe13a76cf8d0eb713659cecdc83a23652fc4cbe90097a6b1c59619a7",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "2",
-        "tag_version": "2",
-        "created_at": "2026-08-14T18:10:09Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -34521,6 +34538,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.5/ladx_beta.apworld",
+      "size": 370822,
+      "hash_sha256": "99025e5f9e075789465425a0503fd50d25e9484240d824d4d1cdb37c6e9b3dd7",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.4.5",
+        "tag_version": "13.4.5",
+        "created_at": "2026-08-14T18:13:26Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -34892,19 +34922,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.5/ladx_beta.apworld",
-      "size": 370822,
-      "hash_sha256": "99025e5f9e075789465425a0503fd50d25e9484240d824d4d1cdb37c6e9b3dd7",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.4.5",
-        "tag_version": "13.4.5",
-        "created_at": "2026-08-14T18:13:26Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
