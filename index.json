@@ -7658,6 +7658,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-100/borderlands2.apworld",
+      "size": 63251,
+      "hash_sha256": "2b6cf1fe46faefb4c8807993239d79d2936156038de0ba7f4247586df389bbfe",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "100",
+        "tag_version": "100",
+        "created_at": "2026-08-16T20:31:24Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-22/borderlands2.apworld",
       "size": 33142,
       "hash_sha256": "bc343303a2c704ce5b137677c3ec42b7f204f69085b71546009223f3e4290e2d",
@@ -8755,22 +8771,6 @@
       }
     },
     {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-100/borderlands2.apworld",
-      "size": 63251,
-      "hash_sha256": "2b6cf1fe46faefb4c8807993239d79d2936156038de0ba7f4247586df389bbfe",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "100",
-        "tag_version": "100",
-        "created_at": "2026-08-16T20:31:24Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/cd-fixes/brotato.apworld",
       "size": 43928,
       "hash_sha256": "83ce5785250abdaf34ad9875d378324230a5974053e4243509e370a2e167828a",
@@ -9498,6 +9498,19 @@
       }
     },
     {
+      "world": "https://github.com/vicr123/Archipelago/releases/download/20260816-1/candybox2.apworld",
+      "size": 26263,
+      "hash_sha256": "be54bc07358fd9d292d7777cd7d7917a1cd2aad9255e8c580e3be6e1c22085c9",
+      "metadata": {
+        "game": "Candy Box 2",
+        "id": "candybox2",
+        "world_version": "1.20260816.1",
+        "tag_version": "1.20260816.1",
+        "created_at": "2026-08-16T12:30:41Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/latest/candybox2.apworld",
       "size": 12332,
       "hash_sha256": "157a99688b065d1dbdd580a36a10e93ca985199896ec40ac3e8134ca4ae9d21b",
@@ -9900,19 +9913,6 @@
         "world_version": "0.0.0.post9",
         "tag_version": "0.0.0.post9",
         "created_at": "2025-04-29T13:05:21Z"
-      }
-    },
-    {
-      "world": "https://github.com/vicr123/Archipelago/releases/download/20260816-1/candybox2.apworld",
-      "size": 26263,
-      "hash_sha256": "be54bc07358fd9d292d7777cd7d7917a1cd2aad9255e8c580e3be6e1c22085c9",
-      "metadata": {
-        "game": "Candy Box 2",
-        "id": "candybox2",
-        "world_version": "1.20260816.1",
-        "tag_version": "1.20260816.1",
-        "created_at": "2026-08-16T12:30:41Z",
-        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -16137,6 +16137,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.6.0/dc1.apworld",
+      "size": 41089,
+      "hash_sha256": "74c5102753656dd60c510f54392a4dd6830e167a858603eda6ea600d27d49362",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-08-17T01:09:04Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DC2AP/releases/download/0.0.1/dc2.apworld",
       "size": 52154,
       "hash_sha256": "d4615813efa2f112097438694e9791af6bb95b7f032c034af3e3d96f207b5c4e",
@@ -21550,6 +21563,19 @@
         "world_version": "4.4.0",
         "tag_version": "4.4.0",
         "created_at": "2026-04-29T20:29:41Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.4rev070326/earthbound.apworld",
+      "size": 367317,
+      "hash_sha256": "456048944e0c6f0a20aee7807f9a70ed6d4448aa22a1ad068507195e1a986d97",
+      "metadata": {
+        "game": "EarthBound",
+        "id": "earthbound",
+        "world_version": "4.4.0",
+        "tag_version": "4.4.0",
+        "created_at": "2026-07-11T17:26:27Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -64231,6 +64257,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v.1.4.0/refunct.apworld",
+      "size": 20138,
+      "hash_sha256": "8c7b233878ed26ad591e7f7900cc0e78e79fd8bf3cf05e35d58fb5fd7f857144",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-08-16T18:25:33Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.0.1/refunct.apworld",
       "size": 4260,
       "hash_sha256": "2c64d10fd3e65742c4311ce47ccd66fd64d0df2f629ea1f4bd3480abca91c9da",
@@ -64813,19 +64852,6 @@
         "world_version": "1.3.2",
         "tag_version": "1.3.2",
         "created_at": "2026-08-08T19:00:50Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v.1.4.0/refunct.apworld",
-      "size": 20138,
-      "hash_sha256": "8c7b233878ed26ad591e7f7900cc0e78e79fd8bf3cf05e35d58fb5fd7f857144",
-      "metadata": {
-        "game": "Refunct",
-        "id": "refunct",
-        "world_version": "1.4.0",
-        "tag_version": "1.4.0",
-        "created_at": "2026-08-16T18:25:33Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -70318,6 +70344,18 @@
         "tag_version": "1.5.1",
         "created_at": "2025-01-25T02:41:47Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.1/sims4.apworld",
+      "size": 250890,
+      "hash_sha256": "c2d007171479ef3b078d2fc725ee034b62940d1a676d1c6a27bbf7fb8ed2c53c",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-08-17T04:28:26Z"
       }
     },
     {
