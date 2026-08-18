@@ -39583,6 +39583,22 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-6.1.0-1/manual_blocktales_wolfboi008.apworld",
+      "size": 92418,
+      "hash_sha256": "3198ed87eac7dffb6ff4777d0657b92eee9d4a491c3dc2ef7946f8fcf42b1199",
+      "metadata": {
+        "game": "Manual_BlockTales_WolfBoi008",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "6.1.0.post1",
+        "tag_version": "6.1.0.post1",
+        "created_at": "2026-05-27T15:21:12Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Archipelago_Manuals/releases/download/cmz-0.4/manual_castleminerz_garbo.apworld",
       "size": 40155,
       "hash_sha256": "1f708c1131a2aa12ab79d5a38e417f708460707fd3c309dee4f870e7688191af",
@@ -70266,6 +70282,18 @@
       }
     },
     {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.1/sims4.apworld",
+      "size": 250890,
+      "hash_sha256": "c2d007171479ef3b078d2fc725ee034b62940d1a676d1c6a27bbf7fb8ed2c53c",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-08-17T04:28:26Z"
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Archipelago/releases/download/sims-1.5.1/sims4.apworld",
       "size": 35754,
       "hash_sha256": "7d01350c1e5acacabc577b4ef96f026090ab0af1b6dcdf36c0f73bab20383e37",
@@ -70344,18 +70372,6 @@
         "tag_version": "1.5.1",
         "created_at": "2025-01-25T02:41:47Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.1/sims4.apworld",
-      "size": 250890,
-      "hash_sha256": "c2d007171479ef3b078d2fc725ee034b62940d1a676d1c6a27bbf7fb8ed2c53c",
-      "metadata": {
-        "game": "The Sims 4",
-        "id": "sims4",
-        "world_version": "2.0.1",
-        "tag_version": "2.0.1",
-        "created_at": "2026-08-17T04:28:26Z"
       }
     },
     {
@@ -71298,6 +71314,18 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-07-05T17:47:21Z"
+      }
+    },
+    {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v1.1.0/sly2.apworld",
+      "size": 3609212,
+      "hash_sha256": "b9e3332ea994734ab2b53dae03ef762cfd38c570aca8f5ba3beda1d983d48377",
+      "metadata": {
+        "game": "Sly 2: Band of Thieves",
+        "id": "sly2",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-08-17T18:35:12Z"
       }
     },
     {
