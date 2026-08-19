@@ -341,6 +341,7 @@
     "v0.6.0": {
       "created_at": "2026-08-17T01:09:04Z",
       "download_url": "https://github.com/Lizardman175/DC1AP/releases/download/v0.6.0/dc1.apworld",
+      "failed_to_load": "No module named 'rule_builder'",
       "has_manifest": true,
       "hash_sha256": "74c5102753656dd60c510f54392a4dd6830e167a858603eda6ea600d27d49362",
       "minimum_ap_version": "0.6.5",
