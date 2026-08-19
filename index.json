@@ -24708,6 +24708,22 @@
       }
     },
     {
+      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v83.3/ffvcd.apworld",
+      "size": 1540366,
+      "hash_sha256": "c010a1848361166a98264fb89a4ed40c6d9c37406cad5af322c6712f8d86e2e5",
+      "metadata": {
+        "game": "Final Fantasy V Career Day",
+        "id": "ffvcd",
+        "world_version": "83.3",
+        "tag_version": "83.3",
+        "created_at": "2026-08-17T13:14:55Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/gaithernOrg/FFXIITMAPArchipelago/releases/download/0.0.1/ffxiitm.apworld",
       "size": 42764,
       "hash_sha256": "5aa0b99e80ddab3ebb3d55e49cf39c6c06847409606b4b94d7cbeb0445892906",
@@ -32057,6 +32073,19 @@
         "world_version": "0.2.0",
         "tag_version": "0.2.0",
         "created_at": "2026-08-15T19:17:42Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/narramoment/Archipelago/releases/download/0.2.1/jakii.apworld",
+      "size": 407257,
+      "hash_sha256": "66822ebe15148431dba35bb3c64ad24128652cb9782d5ffa352358fedfc8c1d5",
+      "metadata": {
+        "game": "Jak II",
+        "id": "jakii",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-08-16T20:24:55Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -82949,6 +82978,19 @@
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.5-alpha/tloz_ph.apworld",
+      "size": 2595153,
+      "hash_sha256": "db6ea09a0a96c9bd27455564d47c676d6b5b4e851e957e5b111cced92227cf4d",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.5",
+        "tag_version": "0.9.5",
+        "created_at": "2026-08-18T19:57:35Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
