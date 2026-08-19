@@ -49143,6 +49143,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.3/mmx2.apworld",
+      "size": 57870,
+      "hash_sha256": "30ee067670399c32edc4c7872ff006045a9b455e8d0110f7e97afd93040c05d9",
+      "metadata": {
+        "game": "Mega Man X2",
+        "id": "mmx2",
+        "world_version": "2.0.3",
+        "tag_version": "2.0.3",
+        "created_at": "2026-08-19T02:04:01Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx3-v0.2.5/mmx3.apworld",
       "size": 36956,
       "hash_sha256": "b115e391a8194b899717e4cd1332eab9cf5f69f00cc5f3651c83a50e84ab14ad",
@@ -82547,6 +82560,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.5-alpha/tloz_ph.apworld",
+      "size": 2595153,
+      "hash_sha256": "db6ea09a0a96c9bd27455564d47c676d6b5b4e851e957e5b111cced92227cf4d",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.5",
+        "tag_version": "0.9.5",
+        "created_at": "2026-08-18T19:57:35Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -82981,15 +83007,15 @@
       }
     },
     {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.5-alpha/tloz_ph.apworld",
-      "size": 2595153,
-      "hash_sha256": "db6ea09a0a96c9bd27455564d47c676d6b5b4e851e957e5b111cced92227cf4d",
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.6-alpha/tloz_ph.apworld",
+      "size": 2595154,
+      "hash_sha256": "e4085f404b52face7ba582585de5cd111a93ca2a59eed8dd891a7d3bd92be7c9",
       "metadata": {
         "game": "The Legend of Zelda - Phantom Hourglass",
         "id": "tloz_ph",
-        "world_version": "0.9.5",
-        "tag_version": "0.9.5",
-        "created_at": "2026-08-18T19:57:35Z",
+        "world_version": "0.9.6",
+        "tag_version": "0.9.6",
+        "created_at": "2026-08-19T09:19:49Z",
         "minimum_ap_version": "0.6.3"
       }
     },
