@@ -14939,6 +14939,22 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03i/cuphead.apworld",
+      "size": 114514,
+      "hash_sha256": "3c1496eb1d5382f81c74b1402f33fb47dad1ad0f6af574ed9085e4543775d167",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20020810",
+        "tag_version": "0.2.20020810",
+        "created_at": "2026-08-20T00:26:46Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -15091,22 +15107,6 @@
         "flags": [
           "supports_deathlink",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03i/cuphead.apworld",
-      "size": 114514,
-      "hash_sha256": "3c1496eb1d5382f81c74b1402f33fb47dad1ad0f6af574ed9085e4543775d167",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.20020810",
-        "tag_version": "0.2.20020810",
-        "created_at": "2026-08-20T00:26:46Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "supports_deathlink"
         ]
       }
     },
@@ -16856,6 +16856,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19/deep_rock_galactic.apworld",
+      "size": 43898,
+      "hash_sha256": "cde23be712c5a94e21eb51ff7ed82eba40f5eafcade5e3fd0d4697aa04546620",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.0",
+        "tag_version": "0.19.0",
+        "created_at": "2026-08-19T17:49:13Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
       "size": 43891,
       "hash_sha256": "b6be29223331eb90dc4ac55bb8cd00890c399da770db3ba5bd1985140fde7008",
@@ -16943,19 +16956,6 @@
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
         "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19/deep_rock_galactic.apworld",
-      "size": 43898,
-      "hash_sha256": "cde23be712c5a94e21eb51ff7ed82eba40f5eafcade5e3fd0d4697aa04546620",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.19.0",
-        "tag_version": "0.19.0",
-        "created_at": "2026-08-19T17:49:13Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -20891,6 +20891,22 @@
       }
     },
     {
+      "world": "https://github.com/ArsonAssassin/DWAP/releases/download/0.3.11/dw1.apworld",
+      "size": 61019,
+      "hash_sha256": "ebaea334cad6c1e241ef23e68caa658e94950b63ce4b7f289ef155da7952a6f2",
+      "metadata": {
+        "game": "Digimon World",
+        "id": "dw1",
+        "world_version": "0.3.11",
+        "tag_version": "0.3.11",
+        "created_at": "2026-08-08T13:03:46Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DWAP/releases/download/0.3.2/dw1.apworld",
       "size": 14855,
       "hash_sha256": "7c8bb2b87e65ff9af4690dfc027b614f4e52d44ccaf5b19b0911a10d7a25ba11",
@@ -21012,22 +21028,6 @@
         "world_version": "0.3.9",
         "tag_version": "0.3.9",
         "created_at": "2025-08-11T08:29:54Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/ArsonAssassin/DWAP/releases/download/0.3.11/dw1.apworld",
-      "size": 61019,
-      "hash_sha256": "ebaea334cad6c1e241ef23e68caa658e94950b63ce4b7f289ef155da7952a6f2",
-      "metadata": {
-        "game": "Digimon World",
-        "id": "dw1",
-        "world_version": "0.3.11",
-        "tag_version": "0.3.11",
-        "created_at": "2026-08-08T13:03:46Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -83260,6 +83260,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.2/tloz_st.apworld",
+      "size": 5160249,
+      "hash_sha256": "71858c85f2d35e2dece7a51cb22ea5b2ace452910f9af9ee7e76d8c10c8cf38f",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.8.2",
+        "tag_version": "0.8.2",
+        "created_at": "2026-08-19T15:52:53Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -83411,19 +83424,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.2/tloz_st.apworld",
-      "size": 5160249,
-      "hash_sha256": "71858c85f2d35e2dece7a51cb22ea5b2ace452910f9af9ee7e76d8c10c8cf38f",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.8.2",
-        "tag_version": "0.8.2",
-        "created_at": "2026-08-19T15:52:53Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
