@@ -130,6 +130,19 @@
       "title": "Psychonauts AP World v0.9.3-BETA",
       "version_simple": "0.9.3",
       "world_version": "0.9.3"
+    },
+    "v1.0.0": {
+      "created_at": "2026-08-22T01:19:58Z",
+      "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v1.0.0/psychonauts.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fc7cc59113092b8d35361b197413cf8cebd4825a21fe4f01ee4556492095b610",
+      "minimum_ap_version": "0.6.5",
+      "size": 77577,
+      "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
+      "tag": "v1.0.0",
+      "title": "Psychonauts AP World v1.0.0",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
     }
   }
 }
