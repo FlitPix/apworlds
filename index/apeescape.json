@@ -341,6 +341,19 @@
       "version_simple": "0.9.1",
       "world_version": "0.9.1"
     },
+    "v0.9.10": {
+      "created_at": "2026-08-22T00:15:00Z",
+      "download_url": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.10/apeescape.apworld",
+      "has_manifest": true,
+      "hash_sha256": "99953018c1b63ea0fc6690ada591e56fb46feb18ce7521ac3586ec0dacb677da",
+      "minimum_ap_version": "0.6.4",
+      "size": 427337,
+      "source_url": "https://api.github.com/repos/Thedragon005/Archipelago-Ape-Escape",
+      "tag": "v0.9.10",
+      "title": "Archipelago v0.9.10",
+      "version_simple": "0.9.10",
+      "world_version": "0.9.10"
+    },
     "v0.9.2": {
       "created_at": "2025-09-30T14:30:40Z",
       "download_url": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.2/apeescape.apworld",

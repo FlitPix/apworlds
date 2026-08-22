@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 540,
-  "total_versions": 6624,
+  "total_versions": 6628,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -182,7 +182,7 @@
     "lobotomycorporation": false,
     "lol": false,
     "loonyland": false,
-    "lor": false,
+    "lor": true,
     "lrff13": true,
     "luigismansion": true,
     "lunacid": true,
