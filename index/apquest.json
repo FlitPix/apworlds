@@ -93,6 +93,19 @@
       "title": "APQuest 1.0.1: Hotfix for 0.6.5 RC1",
       "version_simple": "1.0.1",
       "world_version": "1.0.1"
+    },
+    "apquest_boss_health_fix": {
+      "created_at": "2026-08-22T04:56:54Z",
+      "download_url": "https://github.com/NewSoupVi/Archipelago/releases/download/apquest_boss_health_fix/apquest.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a5d05c28ba7ca2ef07324ce8f71055707984c6a588d86ad00819f86d44f169a1",
+      "minimum_ap_version": "0.6.7",
+      "size": 5279639,
+      "source_url": "https://api.github.com/repos/NewSoupVi/Archipelago",
+      "tag": "apquest_boss_health_fix",
+      "title": "APQuest - Normal Mode Boss Health Fix",
+      "version_simple": "2.0.0",
+      "world_version": "2.0.0"
     }
   }
 }

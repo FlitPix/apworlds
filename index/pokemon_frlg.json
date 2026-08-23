@@ -609,6 +609,19 @@
       "title": "Pok\u00e9mon FireRed/LeafGreen 1.0.4",
       "version_simple": "1.0.4",
       "world_version": "1.0.4"
+    },
+    "1.1.0": {
+      "created_at": "2026-08-22T16:11:38Z",
+      "download_url": "https://github.com/vyneras/Archipelago/releases/download/1.1.0/pokemon_frlg.apworld",
+      "has_manifest": true,
+      "hash_sha256": "11ed4d06c83f69993ae3fbe577f25a2d82fc7f2960ee824299fa4aadb25daca5",
+      "minimum_ap_version": "0.6.7",
+      "size": 1557593,
+      "source_url": "https://api.github.com/repos/vyneras/Archipelago",
+      "tag": "1.1.0",
+      "title": "Pok\u00e9mon FireRed/LeafGreen 1.1.0",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
     }
   }
 }

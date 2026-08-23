@@ -136,6 +136,30 @@
       "version_simple": "0.10.7",
       "world_version": "0.10.7"
     },
+    "v0.10.8": {
+      "created_at": "2026-08-22T21:11:31Z",
+      "download_url": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.8/civv.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e5afbc8fcc404e2e2d800925baf93a792e44bf75e207f70a4005129f88a0c7c4",
+      "size": 456915,
+      "source_url": "https://api.github.com/repos/1313e/Civ-V-AP-World",
+      "tag": "v0.10.8",
+      "title": "APWorld v0.10.8",
+      "version_simple": "0.10.8",
+      "world_version": "0.10.8"
+    },
+    "v0.10.9": {
+      "created_at": "2026-08-22T22:22:19Z",
+      "download_url": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.9/civv.apworld",
+      "has_manifest": true,
+      "hash_sha256": "40aac471b08e178d15c57498b4f98a28b59041a3de9b9e2bba3d31c452c75807",
+      "size": 457015,
+      "source_url": "https://api.github.com/repos/1313e/Civ-V-AP-World",
+      "tag": "v0.10.9",
+      "title": "APWorld v0.10.9",
+      "version_simple": "0.10.9",
+      "world_version": "0.10.9"
+    },
     "v0.2.0": {
       "created_at": "2025-07-14T15:47:43Z",
       "download_url": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.2.0/civv.apworld",
