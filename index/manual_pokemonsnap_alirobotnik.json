@@ -63,6 +63,18 @@
       "title": "Version 1.4.1",
       "version_simple": "1.4.1",
       "world_version": "1.4.1"
+    },
+    "V1.4.2": {
+      "created_at": "2026-01-17T18:27:27Z",
+      "download_url": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/releases/download/V1.4.2/manual_pokemonsnap_alirobotnik.apworld",
+      "has_manifest": false,
+      "hash_sha256": "60f9d8a66a7a9c42213da3deb9d354ed867894e732aff9b41ea889e8a5b1c097",
+      "size": 57823,
+      "source_url": "https://api.github.com/repos/AliRobotnik/PokemonSnap-Archipelago-Manual",
+      "tag": "V1.4.2",
+      "title": "Version 1.4.2",
+      "version_simple": "1.4.2",
+      "world_version": "1.4.2"
     }
   }
 }

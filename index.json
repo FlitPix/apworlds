@@ -43135,6 +43135,19 @@
       }
     },
     {
+      "world": "https://github.com/Miro-n1/archipelago_manuals/releases/download/PLA_1.06/manual_PLA_miro.apworld",
+      "size": 71591,
+      "hash_sha256": "cb65c450262ed11b6bdd3d5110948e1f629475de1cd23f78f23c5e06a1d310ea",
+      "metadata": {
+        "game": "Manual_PLA_Miro",
+        "id": "manual_PLA_miro",
+        "world_version": "1.6",
+        "tag_version": "1.6",
+        "created_at": "2026-08-23T20:36:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Miro-n1/archipelago_manuals/releases/download/PLA_1.1.0/manual_PLA_miro.apworld",
       "size": 49199,
       "hash_sha256": "617f7aa67bcbc6ed18f1aa0186a47b320e7cf1ee0a440e4b8f3f7909cf08729e",
@@ -43157,19 +43170,6 @@
         "world_version": "1.1.1",
         "tag_version": "1.1.1",
         "created_at": "2024-06-22T20:11:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Miro-n1/archipelago_manuals/releases/download/PLA_1.06/manual_PLA_miro.apworld",
-      "size": 71591,
-      "hash_sha256": "cb65c450262ed11b6bdd3d5110948e1f629475de1cd23f78f23c5e06a1d310ea",
-      "metadata": {
-        "game": "Manual_PLA_Miro",
-        "id": "manual_PLA_miro",
-        "world_version": "1.6",
-        "tag_version": "1.6",
-        "created_at": "2026-08-23T20:36:51Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -43480,6 +43480,19 @@
         "world_version": "1.4.1",
         "tag_version": "1.4.1",
         "created_at": "2024-08-31T04:47:25Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/releases/download/V1.4.2/manual_pokemonsnap_alirobotnik.apworld",
+      "size": 57823,
+      "hash_sha256": "60f9d8a66a7a9c42213da3deb9d354ed867894e732aff9b41ea889e8a5b1c097",
+      "metadata": {
+        "game": "Manual_PokemonSnap_AliRobotnik",
+        "id": "manual_pokemonsnap_alirobotnik",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2026-01-17T18:27:27Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -72367,6 +72380,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.11/sm64hacks.apworld",
+      "size": 300435,
+      "hash_sha256": "c6ef812a8255251eb4715369c3bfa5283a8e3eaf58b3ae4c45d18297b2a2ca40",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.11",
+        "tag_version": "1.1.11",
+        "created_at": "2026-08-24T03:19:32Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.1/smrpg.apworld",
       "size": 1396945,
       "hash_sha256": "0e09816e2c5143d99b775c263a2ab358aaddff32f681214123db7ab27ec3d189",
@@ -83742,6 +83771,19 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.3/tloz_st.apworld",
+      "size": 5160350,
+      "hash_sha256": "5d2b470f065d784d0d4aaf1a7ce06ebe2c6df57545513784af720c6d06139c02",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.8.3",
+        "tag_version": "0.8.3",
+        "created_at": "2026-08-24T08:33:23Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
