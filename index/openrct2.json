@@ -194,10 +194,11 @@
       "download_url": "https://github.com/Crazycolbster/rollercoaster-tycoon-randomizer/releases/download/v0.1.21-beta/openrct2.apworld",
       "has_manifest": true,
       "hash_sha256": "8a302b2d7f1d444086cabbbd1c48ee4fa9223f3a351b23394418429e2421ea7a",
+      "prerelease": true,
       "size": 1603632,
       "source_url": "https://api.github.com/repos/Crazycolbster/rollercoaster-tycoon-randomizer",
       "tag": "v0.1.21-beta",
-      "title": "Living in Potatoland (Idaho, not Ireland)",
+      "title": "[NOT THE LATEST RELEASE] Living in Potatoland (Idaho, not Ireland)",
       "version_simple": "0.1.20",
       "world_version": "0.1.20"
     },
@@ -212,6 +213,18 @@
       "title": "The Penultimate* Release",
       "version_simple": "0.1.20",
       "world_version": "0.1.20"
+    },
+    "v0.1.22.1-beta": {
+      "created_at": "2026-08-23T20:06:49Z",
+      "download_url": "https://github.com/Crazycolbster/rollercoaster-tycoon-randomizer/releases/download/v0.1.22.1-beta/openrct2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fdf71568bd3cb4a4e22765974d04b57ef94f5942710f22f008262b9d3417b1b7",
+      "size": 1610435,
+      "source_url": "https://api.github.com/repos/Crazycolbster/rollercoaster-tycoon-randomizer",
+      "tag": "v0.1.22.1-beta",
+      "title": "I Lied!",
+      "version_simple": "0.1.22",
+      "world_version": "0.1.22"
     }
   }
 }

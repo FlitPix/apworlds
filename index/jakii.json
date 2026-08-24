@@ -111,6 +111,19 @@
       "title": "Jak II AP World v0.2.1",
       "version_simple": "0.2.1",
       "world_version": "0.2.1"
+    },
+    "0.2.2": {
+      "created_at": "2026-08-23T00:18:29Z",
+      "download_url": "https://github.com/narramoment/Archipelago/releases/download/0.2.2/jakii.apworld",
+      "has_manifest": false,
+      "hash_sha256": "52be760e49e6cd83216557a6a7a1c8bc7f8654e7bf4970e038e99f6164962d49",
+      "prerelease": true,
+      "size": 411363,
+      "source_url": "https://api.github.com/repos/narramoment/Archipelago",
+      "tag": "0.2.2",
+      "title": "Jak II AP World v0.2.2",
+      "version_simple": "0.2.2",
+      "world_version": "0.2.2"
     }
   }
 }
