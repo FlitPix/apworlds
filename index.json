@@ -37180,6 +37180,23 @@
       }
     },
     {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-eta.2/lor.apworld",
+      "size": 31643,
+      "hash_sha256": "8d544d31ea5d0cac150e46ce0091057b87d3b209129936e6358d29b756583bb4",
+      "metadata": {
+        "game": "Library of Ruina",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-08-25T10:57:41Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Bartz24/ArchipelagoLR/releases/download/0.1.0/lrff13.apworld",
       "size": 165530,
       "hash_sha256": "2cec278b85d57bba4d35bf9789a624b4fa2c5c80496737d51180bd4eacf1561e",
@@ -41214,6 +41231,19 @@
         "world_version": "5.0.0",
         "tag_version": "5.0.0",
         "created_at": "2025-11-14T23:54:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/GA-6.0.0/manual_glassanimals_bennydreamly.apworld",
+      "size": 63820,
+      "hash_sha256": "87d518fb1f1a0cd9dc3cb875d5664d0d04460507dd15c681812c8faaa4c80260",
+      "metadata": {
+        "game": "Manual_GlassAnimals_bennydreamly",
+        "id": "manual_glassanimals_bennydreamly",
+        "world_version": "6.0.0",
+        "tag_version": "6.0.0",
+        "created_at": "2026-08-25T02:18:21Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -66615,6 +66645,22 @@
       }
     },
     {
+      "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.21.1/reventure.apworld",
+      "size": 26508,
+      "hash_sha256": "0e75ba9e03ab2ad645f6c778f7b003a46181e6f94a9513a6d2cdd93d8b9062d7",
+      "metadata": {
+        "game": "Reventure",
+        "id": "reventure",
+        "world_version": "0.21.1",
+        "tag_version": "0.21.1",
+        "created_at": "2026-08-24T16:31:28Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.4.0/reventure.apworld",
       "size": 20536,
       "hash_sha256": "01ca76c499a4f2a5aed856391272d52785c371994d5dcacb6de2942cab9073a5",
@@ -66736,22 +66782,6 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2024-03-04T21:45:01Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.21.1/reventure.apworld",
-      "size": 26508,
-      "hash_sha256": "0e75ba9e03ab2ad645f6c778f7b003a46181e6f94a9513a6d2cdd93d8b9062d7",
-      "metadata": {
-        "game": "Reventure",
-        "id": "reventure",
-        "world_version": "0.21.1",
-        "tag_version": "0.21.1",
-        "created_at": "2026-08-24T16:31:28Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -72460,6 +72490,22 @@
         "world_version": "1.1.7",
         "tag_version": "1.1.7",
         "created_at": "2026-06-16T23:40:57Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.12/sm64hacks.apworld",
+      "size": 300415,
+      "hash_sha256": "3770a6b594a23cfd5751e0ce39b118a80393c2aeb5e0e051df46b0413d63567c",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.11",
+        "tag_version": "1.1.11",
+        "created_at": "2026-08-25T06:10:55Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
@@ -83496,6 +83542,19 @@
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.7-alpha/tloz_ph.apworld",
+      "size": 2595281,
+      "hash_sha256": "3cb3dec7a83affb2cd14cfd155ea21c898d58bcf0a9494f5241c078f308728fa",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.7",
+        "tag_version": "0.9.7",
+        "created_at": "2026-08-25T07:28:37Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {

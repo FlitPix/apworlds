@@ -160,6 +160,19 @@
       "version_simple": "0.9.6",
       "world_version": "0.9.6"
     },
+    "ph-v0.9.7-alpha": {
+      "created_at": "2026-08-25T07:28:37Z",
+      "download_url": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.7-alpha/tloz_ph.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3cb3dec7a83affb2cd14cfd155ea21c898d58bcf0a9494f5241c078f308728fa",
+      "minimum_ap_version": "0.6.3",
+      "size": 2595281,
+      "source_url": "https://api.github.com/repos/carrotinator/Archipelago",
+      "tag": "ph-v0.9.7-alpha",
+      "title": "Phantom Hourglass AP v9.7",
+      "version_simple": "0.9.7",
+      "world_version": "0.9.7"
+    },
     "tloz_ph-v0.8.2-alpha": {
       "created_at": "2026-01-31T10:54:58Z",
       "download_url": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
