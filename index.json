@@ -43860,6 +43860,19 @@
       }
     },
     {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.1.4/manual_residentevil4_vincentssin.apworld",
+      "size": 93887,
+      "hash_sha256": "2bf07c850fab1d7546275a5383f748af498457507e1b79c4242e2c75878988c1",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.1.4",
+        "tag_version": "2.1.4",
+        "created_at": "2026-05-03T18:27:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Archipelago_Manuals/releases/download/re5-1.0.5/manual_residentevil5_garbo.apworld",
       "size": 58784,
       "hash_sha256": "8af2ad2eb467377c27d1a43755c839dc88c89ebddf2ba06880fb4926a02b0e19",
@@ -51616,6 +51629,19 @@
         "world_version": "0.6.2",
         "tag_version": "0.6.2",
         "created_at": "2026-08-06T20:20:22Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.3/nine_sols.apworld",
+      "size": 3661019,
+      "hash_sha256": "83fc069b97a9a1931add37bca2cf02b14215177dfff1f96d5955ba8dd1bfe29b",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.6.3",
+        "tag_version": "0.6.3",
+        "created_at": "2026-08-24T13:47:36Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -63378,6 +63404,22 @@
       }
     },
     {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.1.9/quake.apworld",
+      "size": 553734,
+      "hash_sha256": "334713ec947bdec70249677cd06f15da551279b8484b5c5db07020ee95aa0b1a",
+      "metadata": {
+        "game": "Quake 1",
+        "id": "quake",
+        "world_version": "1.1.9",
+        "tag_version": "1.1.9",
+        "created_at": "2026-08-14T07:35:27Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.2/rabi_ribi.apworld",
       "size": 212640,
       "hash_sha256": "5b4c142af7e252d5a1a487424120edc8edaed0987e1a38f1fbc95789ee152463",
@@ -65283,6 +65325,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.5.1/refunct.apworld",
+      "size": 20247,
+      "hash_sha256": "ee04e72f6ca1365c2f735ec27c20b2dccf25d45a75e0402e4e04d285b9d1b0e4",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.5.1",
+        "tag_version": "1.5.1",
+        "created_at": "2026-08-24T16:40:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -66681,6 +66736,22 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2024-03-04T21:45:01Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Droppel/ReventureEndingRando/releases/download/0.21.1/reventure.apworld",
+      "size": 26508,
+      "hash_sha256": "0e75ba9e03ab2ad645f6c778f7b003a46181e6f94a9513a6d2cdd93d8b9062d7",
+      "metadata": {
+        "game": "Reventure",
+        "id": "reventure",
+        "world_version": "0.21.1",
+        "tag_version": "0.21.1",
+        "created_at": "2026-08-24T16:31:28Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -72252,6 +72323,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.11/sm64hacks.apworld",
+      "size": 300435,
+      "hash_sha256": "c6ef812a8255251eb4715369c3bfa5283a8e3eaf58b3ae4c45d18297b2a2ca40",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.11",
+        "tag_version": "1.1.11",
+        "created_at": "2026-08-24T03:19:32Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.2/sm64hacks.apworld",
       "size": 294670,
       "hash_sha256": "a194e6093524c775e90f5b14adf4a829ee6f4959b444d0275a94bd3adccaa31d",
@@ -72373,22 +72460,6 @@
         "world_version": "1.1.7",
         "tag_version": "1.1.7",
         "created_at": "2026-06-16T23:40:57Z",
-        "minimum_ap_version": "0.6.3",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.11/sm64hacks.apworld",
-      "size": 300435,
-      "hash_sha256": "c6ef812a8255251eb4715369c3bfa5283a8e3eaf58b3ae4c45d18297b2a2ca40",
-      "metadata": {
-        "game": "SM64 Romhack",
-        "id": "sm64hacks",
-        "world_version": "1.1.11",
-        "tag_version": "1.1.11",
-        "created_at": "2026-08-24T03:19:32Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
@@ -78682,6 +78753,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.2/stardew_valley.apworld",
+      "size": 580720,
+      "hash_sha256": "27a9b8b1ddd07d1ad82500485c36549e020b4d6c2ba1da189dba2163f4d19c26",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.2",
+        "tag_version": "8.1.2",
+        "created_at": "2026-08-24T16:12:25Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -83620,6 +83707,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.3/tloz_st.apworld",
+      "size": 5160350,
+      "hash_sha256": "5d2b470f065d784d0d4aaf1a7ce06ebe2c6df57545513784af720c6d06139c02",
+      "metadata": {
+        "game": "The Legend of Zelda - Spirit Tracks",
+        "id": "tloz_st",
+        "world_version": "0.8.3",
+        "tag_version": "0.8.3",
+        "created_at": "2026-08-24T08:33:23Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/v0.1.0/tloz_st.apworld",
       "size": 55528,
       "hash_sha256": "dade621c34b78c43c4c18731d5cff5525caa53674438057cec25f31869fd4433",
@@ -83771,19 +83871,6 @@
         "tag_version": "0.5.1",
         "created_at": "2025-11-24T21:32:48Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.3/tloz_st.apworld",
-      "size": 5160350,
-      "hash_sha256": "5d2b470f065d784d0d4aaf1a7ce06ebe2c6df57545513784af720c6d06139c02",
-      "metadata": {
-        "game": "The Legend of Zelda - Spirit Tracks",
-        "id": "tloz_st",
-        "world_version": "0.8.3",
-        "tag_version": "0.8.3",
-        "created_at": "2026-08-24T08:33:23Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
