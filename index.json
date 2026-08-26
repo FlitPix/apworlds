@@ -72411,6 +72411,38 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.13/sm64hacks.apworld",
+      "size": 300578,
+      "hash_sha256": "eff467a901317d20ce625053a3a26fffe983b4e106c43eb37ccb8b54e236afdc",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.11",
+        "tag_version": "1.1.11",
+        "created_at": "2026-08-25T17:48:05Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.14/sm64hacks.apworld",
+      "size": 300580,
+      "hash_sha256": "442672097b6af744a5c596cf011179351a942e7a94d8da7112da5278e90ed696",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.11",
+        "tag_version": "1.1.11",
+        "created_at": "2026-08-25T22:28:21Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.2/sm64hacks.apworld",
       "size": 294670,
       "hash_sha256": "a194e6093524c775e90f5b14adf4a829ee6f4959b444d0275a94bd3adccaa31d",
@@ -72532,38 +72564,6 @@
         "world_version": "1.1.7",
         "tag_version": "1.1.7",
         "created_at": "2026-06-16T23:40:57Z",
-        "minimum_ap_version": "0.6.3",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.14/sm64hacks.apworld",
-      "size": 300580,
-      "hash_sha256": "442672097b6af744a5c596cf011179351a942e7a94d8da7112da5278e90ed696",
-      "metadata": {
-        "game": "SM64 Romhack",
-        "id": "sm64hacks",
-        "world_version": "1.1.11",
-        "tag_version": "1.1.11",
-        "created_at": "2026-08-25T22:28:21Z",
-        "minimum_ap_version": "0.6.3",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.13/sm64hacks.apworld",
-      "size": 300578,
-      "hash_sha256": "eff467a901317d20ce625053a3a26fffe983b4e106c43eb37ccb8b54e236afdc",
-      "metadata": {
-        "game": "SM64 Romhack",
-        "id": "sm64hacks",
-        "world_version": "1.1.11",
-        "tag_version": "1.1.11",
-        "created_at": "2026-08-25T17:48:05Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
