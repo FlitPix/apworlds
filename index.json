@@ -12937,6 +12937,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.0/cotnd.apworld",
+      "size": 21966609,
+      "hash_sha256": "a60484b4510d005f54939f1792e07e3d0fcc48893b83e1db405a8f871ebdb00d",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-08-25T18:28:02Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -37129,6 +37142,23 @@
       }
     },
     {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-eta.2/lor.apworld",
+      "size": 31643,
+      "hash_sha256": "8d544d31ea5d0cac150e46ce0091057b87d3b209129936e6358d29b756583bb4",
+      "metadata": {
+        "game": "Library of Ruina",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-08-25T10:57:41Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
       "size": 25615,
       "hash_sha256": "49c786c6f6f7a853a069fedb0750b607e2115dae2f369f6239dcc7475b49935c",
@@ -37173,23 +37203,6 @@
         "tag_version": "1.0.0",
         "created_at": "2026-07-13T11:30:59Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-eta.2/lor.apworld",
-      "size": 31643,
-      "hash_sha256": "8d544d31ea5d0cac150e46ce0091057b87d3b209129936e6358d29b756583bb4",
-      "metadata": {
-        "game": "Library of Ruina",
-        "id": "lor",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-08-25T10:57:41Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "after_dark",
           "prerelease"
@@ -61329,6 +61342,19 @@
       }
     },
     {
+      "world": "https://github.com/vyneras/Archipelago/releases/download/1.1.1/pokemon_frlg.apworld",
+      "size": 1557609,
+      "hash_sha256": "9283a3e40251715ce158ef868e228427e291e1847c9c85791e19cd390baf81b7",
+      "metadata": {
+        "game": "Pokemon FireRed and LeafGreen",
+        "id": "pokemon_frlg",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-08-25T21:59:01Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/pokepinball_v0.0.1/pokemon_pinball.apworld",
       "size": 27058,
       "hash_sha256": "7996004a72a59dc4c6fdec12af181c4b21bcf6977f2eadebb5cb55ac17e55b5c",
@@ -72369,6 +72395,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.12/sm64hacks.apworld",
+      "size": 300415,
+      "hash_sha256": "3770a6b594a23cfd5751e0ce39b118a80393c2aeb5e0e051df46b0413d63567c",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.11",
+        "tag_version": "1.1.11",
+        "created_at": "2026-08-25T06:10:55Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.2/sm64hacks.apworld",
       "size": 294670,
       "hash_sha256": "a194e6093524c775e90f5b14adf4a829ee6f4959b444d0275a94bd3adccaa31d",
@@ -72497,15 +72539,31 @@
       }
     },
     {
-      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.12/sm64hacks.apworld",
-      "size": 300415,
-      "hash_sha256": "3770a6b594a23cfd5751e0ce39b118a80393c2aeb5e0e051df46b0413d63567c",
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.14/sm64hacks.apworld",
+      "size": 300580,
+      "hash_sha256": "442672097b6af744a5c596cf011179351a942e7a94d8da7112da5278e90ed696",
       "metadata": {
         "game": "SM64 Romhack",
         "id": "sm64hacks",
         "world_version": "1.1.11",
         "tag_version": "1.1.11",
-        "created_at": "2026-08-25T06:10:55Z",
+        "created_at": "2026-08-25T22:28:21Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.13/sm64hacks.apworld",
+      "size": 300578,
+      "hash_sha256": "eff467a901317d20ce625053a3a26fffe983b4e106c43eb37ccb8b54e236afdc",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.11",
+        "tag_version": "1.1.11",
+        "created_at": "2026-08-25T17:48:05Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
@@ -83111,6 +83169,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.7-alpha/tloz_ph.apworld",
+      "size": 2595281,
+      "hash_sha256": "3cb3dec7a83affb2cd14cfd155ea21c898d58bcf0a9494f5241c078f308728fa",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.7",
+        "tag_version": "0.9.7",
+        "created_at": "2026-08-25T07:28:37Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/tloz_ph-v0.8.2-alpha/tloz_ph.apworld",
       "size": 2572009,
       "hash_sha256": "3a939a364960b4e321f2bf9b88b1403aeae32141273dc91f157af47f366463a3",
@@ -83542,19 +83613,6 @@
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.7-alpha/tloz_ph.apworld",
-      "size": 2595281,
-      "hash_sha256": "3cb3dec7a83affb2cd14cfd155ea21c898d58bcf0a9494f5241c078f308728fa",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.9.7",
-        "tag_version": "0.9.7",
-        "created_at": "2026-08-25T07:28:37Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
