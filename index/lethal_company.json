@@ -378,6 +378,18 @@
       "version_simple": "0.7.12",
       "world_version": "0.7.12"
     },
+    "v0.7.13": {
+      "created_at": "2026-08-26T21:07:55Z",
+      "download_url": "https://github.com/T0r1nn/APLC/releases/download/v0.7.13/lethal_company.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3760bc5d8aaf52ff8fb5cd9faf574201601fd0f91c7b03a3e5cee6a6725f405c",
+      "size": 455308,
+      "source_url": "https://api.github.com/repos/T0r1nn/APLC",
+      "tag": "v0.7.13",
+      "title": "v0.7.13",
+      "version_simple": "0.7.13",
+      "world_version": "0.7.13"
+    },
     "v0.7.5-beta": {
       "created_at": "2025-08-23T20:04:20Z",
       "download_url": "https://github.com/T0r1nn/APLC/releases/download/v0.7.5-beta/lethal_company.apworld",

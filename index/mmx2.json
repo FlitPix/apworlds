@@ -147,6 +147,19 @@
       "title": "Mega Man X2 v2.0.3",
       "version_simple": "2.0.3",
       "world_version": "2.0.3"
+    },
+    "mmx2-v2.0.4": {
+      "created_at": "2026-08-26T18:30:29Z",
+      "download_url": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.4/mmx2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "96823f804a6dbdd0c1164570bde2d41688ad0165a0ca5314bbab57d204983e30",
+      "minimum_ap_version": "0.6.7",
+      "size": 57869,
+      "source_url": "https://api.github.com/repos/TheLX5/Archipelago",
+      "tag": "mmx2-v2.0.4",
+      "title": "Mega Man X2 v2.0.4",
+      "version_simple": "2.0.4",
+      "world_version": "2.0.4"
     }
   }
 }

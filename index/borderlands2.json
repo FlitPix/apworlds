@@ -771,6 +771,19 @@
       "version_simple": "2",
       "world_version": "2"
     },
+    "experiment-3": {
+      "created_at": "2026-08-26T19:53:50Z",
+      "download_url": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-3/borderlands2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "6d283210e4ed003c95ac654e6fea6ba75348b32d3493e46167fb8833e7b5e07c",
+      "prerelease": true,
+      "size": 65439,
+      "source_url": "https://api.github.com/repos/EdricY/Bouncy-Loot-God",
+      "tag": "experiment-3",
+      "title": "experimental: fully unlocked with some fixes",
+      "version_simple": "3",
+      "world_version": "3"
+    },
     "v0.0": {
       "created_at": "2025-11-22T21:38:08Z",
       "download_url": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
