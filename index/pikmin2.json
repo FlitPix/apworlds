@@ -267,6 +267,30 @@
       "title": "v0.8.0",
       "version_simple": "0.8.0",
       "world_version": "0.8.0"
+    },
+    "v0.8.0r2": {
+      "created_at": "2026-08-27T02:57:06Z",
+      "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.0/pikmin2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "aa0f60e7094cb635e0f57cb3c989024a93b7c5fa72ba696ae32b00cc97aa8aca",
+      "size": 1394985,
+      "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
+      "tag": "v0.8.0r2",
+      "title": "v0.8.0 (patched)",
+      "version_simple": "0.8.0",
+      "world_version": "0.8.0"
+    },
+    "v0.8.1": {
+      "created_at": "2026-08-27T02:57:06Z",
+      "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.1/pikmin2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "9ece69f8a14d366c4da511dedfa248c176fc94bb1b15888d714d7f224eacb090",
+      "size": 1394983,
+      "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
+      "tag": "v0.8.1",
+      "title": "v0.8.1",
+      "version_simple": "0.8.1",
+      "world_version": "0.8.1"
     }
   }
 }

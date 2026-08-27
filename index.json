@@ -5815,6 +5815,19 @@
       }
     },
     {
+      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.13.1/banjo_tooie.apworld",
+      "size": 295637,
+      "hash_sha256": "d8d28ebfb7782b80b0bcb7c3f2cb85277c9bd5bc759aafd432305099276d2a22",
+      "metadata": {
+        "game": "Banjo Tooie",
+        "id": "banjo_tooie",
+        "world_version": "4.13.1",
+        "tag_version": "4.13.1",
+        "created_at": "2026-08-26T14:12:14Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.2/banjo_tooie.apworld",
       "size": 204710,
       "hash_sha256": "6946e77d1a31eb6b289eeba6cecc0f46f6af9ec96eaf41e341469e5cff531860",
@@ -5994,19 +6007,6 @@
         "tag_version": "4.9",
         "created_at": "2025-08-16T03:40:18Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.13.1/banjo_tooie.apworld",
-      "size": 295637,
-      "hash_sha256": "d8d28ebfb7782b80b0bcb7c3f2cb85277c9bd5bc759aafd432305099276d2a22",
-      "metadata": {
-        "game": "Banjo Tooie",
-        "id": "banjo_tooie",
-        "world_version": "4.13.1",
-        "tag_version": "4.13.1",
-        "created_at": "2026-08-26T14:12:14Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -8666,6 +8666,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-3/borderlands2.apworld",
+      "size": 65439,
+      "hash_sha256": "6d283210e4ed003c95ac654e6fea6ba75348b32d3493e46167fb8833e7b5e07c",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "3",
+        "tag_version": "3",
+        "created_at": "2026-08-26T19:53:50Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.0/borderlands2.apworld",
       "size": 9497,
       "hash_sha256": "7ec9582a26233f63bbba7717671b0c796d5b88e73ea6b19fe0aeccbfa225b8e1",
@@ -8832,22 +8848,6 @@
         "tag_version": "0.5.5",
         "created_at": "2026-08-16T18:08:47Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-3/borderlands2.apworld",
-      "size": 65439,
-      "hash_sha256": "6d283210e4ed003c95ac654e6fea6ba75348b32d3493e46167fb8833e7b5e07c",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "3",
-        "tag_version": "3",
-        "created_at": "2026-08-26T19:53:50Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -35993,6 +35993,18 @@
       }
     },
     {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.13/lethal_company.apworld",
+      "size": 455308,
+      "hash_sha256": "3760bc5d8aaf52ff8fb5cd9faf574201601fd0f91c7b03a3e5cee6a6725f405c",
+      "metadata": {
+        "game": "Lethal Company",
+        "id": "lethal_company",
+        "world_version": "0.7.13",
+        "tag_version": "0.7.13",
+        "created_at": "2026-08-26T21:07:55Z"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.5-beta/lethal_company.apworld",
       "size": 498880,
       "hash_sha256": "9266cdefaedf7f050aeb1489c1b68ecf879e053e84e875f3d1ecfadbbf34af2f",
@@ -36083,18 +36095,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.13/lethal_company.apworld",
-      "size": 455308,
-      "hash_sha256": "3760bc5d8aaf52ff8fb5cd9faf574201601fd0f91c7b03a3e5cee6a6725f405c",
-      "metadata": {
-        "game": "Lethal Company",
-        "id": "lethal_company",
-        "world_version": "0.7.13",
-        "tag_version": "0.7.13",
-        "created_at": "2026-08-26T21:07:55Z"
       }
     },
     {
@@ -51795,6 +51795,18 @@
       }
     },
     {
+      "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_10/no100f.apworld",
+      "size": 157315,
+      "hash_sha256": "ae252013a655f3d52e638064c02ebdf68d336b7b84d2eea813aa9079fb7d9a1f",
+      "metadata": {
+        "game": "Scooby-Doo! Night of 100 Frights",
+        "id": "no100f",
+        "world_version": "10",
+        "tag_version": "10",
+        "created_at": "2026-08-27T02:39:10Z"
+      }
+    },
+    {
       "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_2/no100f.apworld",
       "size": 220145,
       "hash_sha256": "eacdeaeabd139cdd2e8e0230ed259904bab6a4fa1594036b3590906d30fc51e2",
@@ -51953,18 +51965,6 @@
         "world_version": "1",
         "tag_version": "1",
         "created_at": "2026-08-15T18:08:31Z"
-      }
-    },
-    {
-      "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_10/no100f.apworld",
-      "size": 157315,
-      "hash_sha256": "ae252013a655f3d52e638064c02ebdf68d336b7b84d2eea813aa9079fb7d9a1f",
-      "metadata": {
-        "game": "Scooby-Doo! Night of 100 Frights",
-        "id": "no100f",
-        "world_version": "10",
-        "tag_version": "10",
-        "created_at": "2026-08-27T02:39:10Z"
       }
     },
     {
@@ -56047,6 +56047,19 @@
       }
     },
     {
+      "world": "https://github.com/lagdotcom/Archipelago/releases/download/phst2-0.1.3/phantasy_star_2.apworld",
+      "size": 49461,
+      "hash_sha256": "e6e8ecabd6dfac637b257846f9ca8da2d817d1b20493e072dfd175e29a93ca44",
+      "metadata": {
+        "game": "Phantasy Star II",
+        "id": "phantasy_star_2",
+        "world_version": "0.1.3",
+        "tag_version": "0.1.3",
+        "created_at": "2026-08-27T08:27:22Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Pharcryption-APWorld/releases/download/release1/pharcryption.apworld",
       "size": 4746,
       "hash_sha256": "3d07b6fe46817e830335d9e1b181c66d9e24e25034287c5867de2be53c271a31",
@@ -56520,6 +56533,30 @@
       "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.0/pikmin2.apworld",
       "size": 1394937,
       "hash_sha256": "06831e6297c36c87edf5bda1814274f9376234562c56f7ba4e75084b8f580ed3",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-08-27T02:57:06Z"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.1/pikmin2.apworld",
+      "size": 1394983,
+      "hash_sha256": "9ece69f8a14d366c4da511dedfa248c176fc94bb1b15888d714d7f224eacb090",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-08-27T02:57:06Z"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.0/pikmin2.apworld",
+      "size": 1394985,
+      "hash_sha256": "aa0f60e7094cb635e0f57cb3c989024a93b7c5fa72ba696ae32b00cc97aa8aca",
       "metadata": {
         "game": "Pikmin 2",
         "id": "pikmin2",
@@ -78990,6 +79027,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.3/stardew_valley.apworld",
+      "size": 580720,
+      "hash_sha256": "27a9b8b1ddd07d1ad82500485c36549e020b4d6c2ba1da189dba2163f4d19c26",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.2",
+        "tag_version": "8.1.2",
+        "created_at": "2026-08-27T17:10:29Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -85534,6 +85587,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.13.0/ttyd.apworld",
+      "size": 1596240,
+      "hash_sha256": "c7697bc8dd0d17cf1a2cd4f5a49a697881c33325a61040484953555533bb094f",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-08-20T03:19:55Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.2.0/ttyd.apworld",
       "size": 119481,
       "hash_sha256": "a4a89e9815505555c987ac7199b63fc3483247bc567b59d13b74d8492cb9fdae",
@@ -85793,15 +85859,15 @@
       }
     },
     {
-      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.13.0/ttyd.apworld",
-      "size": 1596240,
-      "hash_sha256": "c7697bc8dd0d17cf1a2cd4f5a49a697881c33325a61040484953555533bb094f",
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.13.0a/ttyd.apworld",
+      "size": 1593806,
+      "hash_sha256": "ef2748c484b6fc665d839953ea5266ed974f6972d32c51d92297ae1370fc0f9e",
       "metadata": {
         "game": "Paper Mario The Thousand Year Door",
         "id": "ttyd",
         "world_version": "0.13.0",
         "tag_version": "0.13.0",
-        "created_at": "2026-08-20T03:19:55Z",
+        "created_at": "2026-08-27T14:20:53Z",
         "minimum_ap_version": "0.6.3"
       }
     },
