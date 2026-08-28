@@ -12992,6 +12992,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.0/cotnd.apworld",
+      "size": 21966544,
+      "hash_sha256": "afc9efc8e5603d1fee5c73823be182d326cbd88256a08bc71cb56d4bd0c6f385",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-08-25T18:28:02Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -15629,6 +15642,19 @@
         "tag_version": "2",
         "created_at": "2024-05-20T07:04:06Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v2.0.0/cvlod.apworld",
+      "size": 232385,
+      "hash_sha256": "2a21ad57d612ccdef2c06a202207df85089e51bc408ccb065d08a8bda74745ec",
+      "metadata": {
+        "game": "Castlevania - Legacy of Darkness",
+        "id": "cvlod",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-08-26T00:15:24Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -50920,6 +50946,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.36/musedash.apworld",
+      "size": 37216,
+      "hash_sha256": "a6f75d0f40365c7b89a3a5b0507224166ff079538d2ad5a5b110d233dc220648",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.36",
+        "tag_version": "1.5.36",
+        "created_at": "2026-07-31T09:48:08Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.1.0/mzm.apworld",
       "size": 91647,
       "hash_sha256": "067deb39ba7da2fd745157c70afc40608d6a51f1d003648e34d2e0fb0804399c",
@@ -56542,18 +56581,6 @@
       }
     },
     {
-      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.1/pikmin2.apworld",
-      "size": 1394983,
-      "hash_sha256": "9ece69f8a14d366c4da511dedfa248c176fc94bb1b15888d714d7f224eacb090",
-      "metadata": {
-        "game": "Pikmin 2",
-        "id": "pikmin2",
-        "world_version": "0.8.1",
-        "tag_version": "0.8.1",
-        "created_at": "2026-08-27T02:57:06Z"
-      }
-    },
-    {
       "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.0/pikmin2.apworld",
       "size": 1394985,
       "hash_sha256": "aa0f60e7094cb635e0f57cb3c989024a93b7c5fa72ba696ae32b00cc97aa8aca",
@@ -56562,6 +56589,18 @@
         "id": "pikmin2",
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
+        "created_at": "2026-08-27T02:57:06Z"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.1/pikmin2.apworld",
+      "size": 1394983,
+      "hash_sha256": "9ece69f8a14d366c4da511dedfa248c176fc94bb1b15888d714d7f224eacb090",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
         "created_at": "2026-08-27T02:57:06Z"
       }
     },
@@ -61492,6 +61531,19 @@
         "world_version": "1.1.1",
         "tag_version": "1.1.1",
         "created_at": "2026-08-25T21:59:01Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/vyneras/Archipelago/releases/download/1.1.2/pokemon_frlg.apworld",
+      "size": 1557719,
+      "hash_sha256": "e177d86a2f5092efdd16b8f99aeb20933e6db5af38a069375a02eb49fa9c5670",
+      "metadata": {
+        "game": "Pokemon FireRed and LeafGreen",
+        "id": "pokemon_frlg",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
+        "created_at": "2026-08-28T01:05:22Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -85600,6 +85652,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.13.0a/ttyd.apworld",
+      "size": 1593806,
+      "hash_sha256": "ef2748c484b6fc665d839953ea5266ed974f6972d32c51d92297ae1370fc0f9e",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-08-27T14:20:53Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.2.0/ttyd.apworld",
       "size": 119481,
       "hash_sha256": "a4a89e9815505555c987ac7199b63fc3483247bc567b59d13b74d8492cb9fdae",
@@ -85855,19 +85920,6 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2026-04-21T08:18:22Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.13.0a/ttyd.apworld",
-      "size": 1593806,
-      "hash_sha256": "ef2748c484b6fc665d839953ea5266ed974f6972d32c51d92297ae1370fc0f9e",
-      "metadata": {
-        "game": "Paper Mario The Thousand Year Door",
-        "id": "ttyd",
-        "world_version": "0.13.0",
-        "tag_version": "0.13.0",
-        "created_at": "2026-08-27T14:20:53Z",
         "minimum_ap_version": "0.6.3"
       }
     },

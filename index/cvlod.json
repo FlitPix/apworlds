@@ -43,6 +43,19 @@
       "version_simple": "0.1.0",
       "world_version": "0.1.0"
     },
+    "cvlod_v2.0.0": {
+      "created_at": "2026-08-26T00:15:24Z",
+      "download_url": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v2.0.0/cvlod.apworld",
+      "has_manifest": true,
+      "hash_sha256": "2a21ad57d612ccdef2c06a202207df85089e51bc408ccb065d08a8bda74745ec",
+      "minimum_ap_version": "0.6.3",
+      "size": 232385,
+      "source_url": "https://api.github.com/repos/LiquidCat64/LiquidCatipelago",
+      "tag": "cvlod_v2.0.0",
+      "title": "CVLoD apworld v2.0.0",
+      "version_simple": "2.0.0",
+      "world_version": "2.0.0"
+    },
     "cvlodbijcw&v_v1": {
       "created_at": "2024-01-31T20:07:07Z",
       "download_url": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlodbijcw%26v_v1/cvlod.apworld",
