@@ -1,8 +1,13 @@
 {
   "description": "The Legend of Zelda: Oracles of Seasons is one of the rare Capcom entries to the series.\nThe seasons in the world of Holodrum have been a mess since Onox captured Din, the Oracle of Seasons.\nGather the Essences of Nature, confront Onox and rescue Din to give nature some rest in Holodrum.",
+  "flags": [
+    "supports_deathlink",
+    "supports_movelink"
+  ],
   "game": "The Legend of Zelda - Oracle of Seasons",
   "github": "https://github.com/Dinopony/ArchipelagoOoS",
   "license": null,
+  "tracker": "https://github.com/OmegaZeron/Oracle-of-Seasons-AP-Poptracker-Pack/releases/latest",
   "versions": {
     "0.9a": {
       "created_at": "2024-02-27T18:00:55Z",
@@ -613,6 +618,20 @@
       "title": "Oracle of Seasons 20.1.9",
       "version_simple": "20.1.9",
       "world_version": "20.1.9"
+    },
+    "oos-22.0.0": {
+      "created_at": "2026-08-28T14:11:24Z",
+      "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-22.0.0/tloz_oos.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ee3b4a0e82f6a3d8d51f2efe7b636798bc3bbebcfdafb417adcda38ec19261fb",
+      "minimum_ap_version": "0.6.7",
+      "prerelease": true,
+      "size": 262434,
+      "source_url": "https://api.github.com/repos/Dinopony/ArchipelagoOoS",
+      "tag": "oos-22.0.0",
+      "title": "Oracle of Seasons 22.0.0",
+      "version_simple": "22.0.0",
+      "world_version": "22.0.0"
     },
     "oos-6.0": {
       "created_at": "2024-04-14T20:03:22Z",

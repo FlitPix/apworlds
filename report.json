@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 540,
-  "total_versions": 6683,
+  "total_versions": 6687,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -377,7 +377,7 @@
     "saving_princess": false,
     "scp": false,
     "seedling": false,
-    "severed_soul": false,
+    "severed_soul": true,
     "sgtpuzzles": true,
     "shadow_the_hedgehog": true,
     "shadowgate64": false,
