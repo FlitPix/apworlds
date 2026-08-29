@@ -49544,6 +49544,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.5/mmx2.apworld",
+      "size": 57983,
+      "hash_sha256": "9c0cefff987707e9b3e1c7a64d2e6397f431cb00ffbb11ec9ad974d5dc1aa4e3",
+      "metadata": {
+        "game": "Mega Man X2",
+        "id": "mmx2",
+        "world_version": "2.0.5",
+        "tag_version": "2.0.5",
+        "created_at": "2026-08-29T02:20:18Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx3-v0.2.5/mmx3.apworld",
       "size": 36956,
       "hash_sha256": "b115e391a8194b899717e4cd1332eab9cf5f69f00cc5f3651c83a50e84ab14ad",
@@ -56617,6 +56630,30 @@
         "id": "pikmin2",
         "world_version": "0.8.1",
         "tag_version": "0.8.1",
+        "created_at": "2026-08-27T02:57:06Z"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.1/pikmin2.apworld",
+      "size": 1396573,
+      "hash_sha256": "9c3a2351f7f4a0a4f66672d5f40ddf1ea113068c507d8060dceb6ffc1befa7bb",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-08-27T02:57:06Z"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.0/pikmin2.apworld",
+      "size": 1396575,
+      "hash_sha256": "98436bf49533c088500bc61d2bf4fbf6be036390e6407be591213dca9731b14a",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
         "created_at": "2026-08-27T02:57:06Z"
       }
     },
@@ -83167,6 +83204,24 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-22.0.0/tloz_oos.apworld",
+      "size": 262434,
+      "hash_sha256": "ee3b4a0e82f6a3d8d51f2efe7b636798bc3bbebcfdafb417adcda38ec19261fb",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "22.0.0",
+        "tag_version": "22.0.0",
+        "created_at": "2026-08-28T14:11:24Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -83411,24 +83466,6 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "supports_deathlink",
-          "supports_movelink",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-22.0.0/tloz_oos.apworld",
-      "size": 262434,
-      "hash_sha256": "ee3b4a0e82f6a3d8d51f2efe7b636798bc3bbebcfdafb417adcda38ec19261fb",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "22.0.0",
-        "tag_version": "22.0.0",
-        "created_at": "2026-08-28T14:11:24Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "supports_deathlink",
           "supports_movelink",
