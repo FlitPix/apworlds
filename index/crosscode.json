@@ -796,6 +796,19 @@
       "title": "0.9.7",
       "version_simple": "0.9.7",
       "world_version": "0.9.7"
+    },
+    "0.9.8-pre.1": {
+      "created_at": "2026-08-29T06:15:11Z",
+      "download_url": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.8-pre.1/crosscode.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ea54a4344a79e28ccbafb35276eb10cf3cc2dd812632a0b47805c53a39bdeb60",
+      "prerelease": true,
+      "size": 146479,
+      "source_url": "https://api.github.com/repos/CodeTriangle/CCMultiworldRandomizer",
+      "tag": "0.9.8-pre.1",
+      "title": "0.9.8 Prerelease 1",
+      "version_simple": "0.9.8",
+      "world_version": "0.9.8"
     }
   }
 }
