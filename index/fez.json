@@ -95,6 +95,20 @@
       "title": "v0.6.0",
       "version_simple": "0.6.0",
       "world_version": "0.6.0"
+    },
+    "v0.6.1": {
+      "created_at": "2026-08-30T09:10:35Z",
+      "download_url": "https://github.com/nhyldmar/fez-ap/releases/download/v0.6.1/fez.apworld",
+      "has_manifest": true,
+      "hash_sha256": "983a13e084fa06f740c3f614b2c6bfd13bf617ba3eedd8f74a612393224ec027",
+      "minimum_ap_version": "0.6.3",
+      "prerelease": true,
+      "size": 16283,
+      "source_url": "https://api.github.com/repos/nhyldmar/fez-ap",
+      "tag": "v0.6.1",
+      "title": "v0.6.1",
+      "version_simple": "0.6.1",
+      "world_version": "0.6.1"
     }
   }
 }
