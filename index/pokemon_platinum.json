@@ -135,6 +135,19 @@
       "title": "Release 0.1.8",
       "version_simple": "0.1.8",
       "world_version": "0.1.8"
+    },
+    "v0.2.0": {
+      "created_at": "2026-08-30T20:55:29Z",
+      "download_url": "https://github.com/ljtpetersen/platinum_archipelago/releases/download/v0.2.0/pokemon_platinum.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1fc5ab6c87e8be6728d2c6dbfa2d5516bc4abe1d0521b702feed6689f78396d9",
+      "minimum_ap_version": "0.6.7",
+      "size": 1326960,
+      "source_url": "https://api.github.com/repos/ljtpetersen/platinum_archipelago",
+      "tag": "v0.2.0",
+      "title": "Release 0.2.0",
+      "version_simple": "0.2.0",
+      "world_version": "0.2.0"
     }
   }
 }

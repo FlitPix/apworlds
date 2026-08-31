@@ -633,6 +633,34 @@
       "version_simple": "22.0.0",
       "world_version": "22.0.0"
     },
+    "oos-23.0.0": {
+      "created_at": "2026-08-30T17:35:26Z",
+      "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.0/tloz_oos.apworld",
+      "has_manifest": true,
+      "hash_sha256": "41eaec7ba066379cece1bf04a50476af2ece4c6ec3922aabd4e273ca096a81a6",
+      "minimum_ap_version": "0.6.7",
+      "prerelease": true,
+      "size": 263734,
+      "source_url": "https://api.github.com/repos/Dinopony/ArchipelagoOoS",
+      "tag": "oos-23.0.0",
+      "title": "Oracle of Seasons 23.0.0",
+      "version_simple": "23.0.0",
+      "world_version": "23.0.0"
+    },
+    "oos-23.0.1": {
+      "created_at": "2026-08-30T17:58:39Z",
+      "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.1/tloz_oos.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a19b13b9c9b93e939b20ca80fffa6e53b1025d208fd363539103d3e933001c16",
+      "minimum_ap_version": "0.6.7",
+      "prerelease": true,
+      "size": 263736,
+      "source_url": "https://api.github.com/repos/Dinopony/ArchipelagoOoS",
+      "tag": "oos-23.0.1",
+      "title": "Oracle of Seasons 23.0.1",
+      "version_simple": "23.0.1",
+      "world_version": "23.0.1"
+    },
     "oos-6.0": {
       "created_at": "2024-04-14T20:03:22Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",

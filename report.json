@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 540,
-  "total_versions": 6699,
+  "total_versions": 6711,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -348,7 +348,7 @@
     "pokemon_crystal": true,
     "pokemon_frlg": true,
     "pokemon_pinball": true,
-    "pokemon_platinum": false,
+    "pokemon_platinum": true,
     "PokemonStadium": false,
     "pokepark": true,
     "powerwashsimulator": true,

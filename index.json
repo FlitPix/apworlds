@@ -3440,6 +3440,19 @@
       }
     },
     {
+      "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
+      "size": 97048,
+      "hash_sha256": "e9ce302ee8ed897654ad04fc8f78c022c1df8c89211ee7495d5714522ed19cc2",
+      "metadata": {
+        "game": "Aquaria",
+        "id": "aquaria",
+        "world_version": "1.5.2.post6",
+        "tag_version": "1.5.2.post6",
+        "created_at": "2025-04-02T23:17:49Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/FlySniper/Archipelago/releases/download/apollago-0.1.0/archipollago.apworld",
       "size": 37094,
       "hash_sha256": "9aa96d541c4a3946836b1738ba7dc56199246f14bf5e5efdfbf2a2e4e3704cef",
@@ -12193,6 +12206,22 @@
       }
     },
     {
+      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.4.0/clair_obscur.apworld",
+      "size": 63906,
+      "hash_sha256": "a35183c208f52c5a6a6bfa3c8b488a1614534226b0790bbe518a9894f76d91cd",
+      "metadata": {
+        "game": "Clair Obscur Expedition 33",
+        "id": "clair_obscur",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-08-30T20:56:16Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nullctipus/ArchipelagoClusterTruck/releases/download/1.0.0/cluster_truck.apworld",
       "size": 4505,
       "hash_sha256": "f6197a4ad6fd61bf9e46df1ebcf2ef72fe83ca23ff6ccd864d508f81ed05eea0",
@@ -13027,6 +13056,19 @@
         "world_version": "0.8.0",
         "tag_version": "0.8.0",
         "created_at": "2026-08-25T18:28:02Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.1/cotnd.apworld",
+      "size": 21970574,
+      "hash_sha256": "a114a74fd2ab79be4ae298a20a628df29816a7039be6f222e712673587d303a3",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-08-30T22:18:50Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -45357,6 +45399,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WorldofWarcraft-Dungeons/releases/download/2026.08.30/manual_worldofwarcraftdungeons_chakraa.apworld",
+      "size": 68384,
+      "hash_sha256": "93cba57ba2d9c8fa22aa34e974f4def67936858fb53fbf63ede7358ecefb0a0a",
+      "metadata": {
+        "game": "Manual_WorldofWarcraftDungeons_Chakraa",
+        "id": "manual_worldofwarcraftdungeons_chakraa",
+        "world_version": "2026.8.30",
+        "tag_version": "2026.8.30",
+        "created_at": "2026-08-31T00:09:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WorldofWarcraft-Leveling/releases/download/2025.11.10/manual_worldofwarcraftleveling_chakraa.apworld",
       "size": 58097,
       "hash_sha256": "78522a1fbff0c148d3e1d30f83671a30e8b51e41cdcbf138265440a8aaa9a21f",
@@ -46532,6 +46587,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.3.1/medievil.apworld",
+      "size": 34190,
+      "hash_sha256": "7d0cb8cdead47f94b1786ee377627fa1cde027667d1d3660e2c9abc68e5abe08",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-08-30T19:43:07Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.1/medievil2.apworld",
       "size": 13553,
       "hash_sha256": "cefd4b5b02da1b467ee3e2508c5d9af5096f100f16f07d8dd1d5d92cfc72f6e6",
@@ -46926,6 +46994,19 @@
         "world_version": "0.2.3",
         "tag_version": "0.2.3",
         "created_at": "2026-07-29T10:42:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.2.4/medievil2.apworld",
+      "size": 25301,
+      "hash_sha256": "58e32d904b0ac1b9f2daab9136e2d0bd8d70aab85846d68d1def3a0d3e819f23",
+      "metadata": {
+        "game": "Medievil 2",
+        "id": "medievil2",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-08-30T19:43:10Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -50105,6 +50186,19 @@
         "world_version": "0.3.3",
         "tag_version": "0.3.3",
         "created_at": "2026-08-26T00:36:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.3.4/mmzero3.apworld",
+      "size": 96555,
+      "hash_sha256": "152c50eba9711c2d056cfd7019e1cef6f47c83abf65776001333c746c3606c8f",
+      "metadata": {
+        "game": "Mega Man Zero 3",
+        "id": "mmzero3",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-08-30T17:32:38Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -61891,6 +61985,19 @@
       }
     },
     {
+      "world": "https://github.com/ljtpetersen/platinum_archipelago/releases/download/v0.2.0/pokemon_platinum.apworld",
+      "size": 1326960,
+      "hash_sha256": "1fc5ab6c87e8be6728d2c6dbfa2d5516bc4abe1d0521b702feed6689f78396d9",
+      "metadata": {
+        "game": "Pokemon Platinum",
+        "id": "pokemon_platinum",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-08-30T20:55:29Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.1.0/PokemonStadium.apworld",
       "size": 34083,
       "hash_sha256": "001c351cab459db20247a723bcbeb6939f66cb4f662189c5d092f4cbe4750bff",
@@ -67402,6 +67509,22 @@
         "world_version": "0.5.2b0",
         "tag_version": "0.5.2b0",
         "created_at": "2026-02-27T00:55:51Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/PhantomOfAres/ArchipelagoRimworld/releases/download/v0.6.1-alpha/rimworld.apworld",
+      "size": 29112,
+      "hash_sha256": "0470202f75bf770caadef5062f2a13945a1893ad70cf7be5832b74fcd44b6e8c",
+      "metadata": {
+        "game": "Rimworld",
+        "id": "rimworld",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-08-30T17:57:02Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "after_dark"
         ]
@@ -83581,6 +83704,42 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.1/tloz_oos.apworld",
+      "size": 263736,
+      "hash_sha256": "a19b13b9c9b93e939b20ca80fffa6e53b1025d208fd363539103d3e933001c16",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "23.0.1",
+        "tag_version": "23.0.1",
+        "created_at": "2026-08-30T17:58:39Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.0/tloz_oos.apworld",
+      "size": 263734,
+      "hash_sha256": "41eaec7ba066379cece1bf04a50476af2ece4c6ec3922aabd4e273ca096a81a6",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "23.0.0",
+        "tag_version": "23.0.0",
+        "created_at": "2026-08-30T17:35:26Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.3-alpha/tloz_ph.apworld",
       "size": 2572164,
       "hash_sha256": "7dea2153bc516775401f8ffb303930cb276b857ad45d7c71ab9c6b428d1ba73c",
@@ -88324,6 +88483,18 @@
         "world_version": "3.5.5",
         "tag_version": "3.5.5",
         "created_at": "2026-08-05T02:16:42Z"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.6/ultrakill.apworld",
+      "size": 50282,
+      "hash_sha256": "8c14832b9d70427c7a0f42187df7603e87be4db072ac56655893659709ada622",
+      "metadata": {
+        "game": "ULTRAKILL",
+        "id": "ultrakill",
+        "world_version": "3.5.6",
+        "tag_version": "3.5.6",
+        "created_at": "2026-08-30T22:15:35Z"
       }
     },
     {

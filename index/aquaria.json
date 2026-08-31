@@ -64,6 +64,18 @@
       "title": "Aquaria randomizer v1.5.2",
       "version_simple": "1.5.2",
       "world_version": "1.5.2.post5"
+    },
+    "v1.5.2-Releaser6": {
+      "created_at": "2025-04-02T23:17:49Z",
+      "download_url": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
+      "has_manifest": false,
+      "hash_sha256": "e9ce302ee8ed897654ad04fc8f78c022c1df8c89211ee7495d5714522ed19cc2",
+      "size": 97048,
+      "source_url": "https://api.github.com/repos/tioui/Aquaria_Randomizer",
+      "tag": "v1.5.2-Releaser6",
+      "title": "Aquaria randomizer v1.5.2",
+      "version_simple": "1.5.2",
+      "world_version": "1.5.2.post6"
     }
   }
 }
