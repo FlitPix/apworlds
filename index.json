@@ -4194,6 +4194,22 @@
       }
     },
     {
+      "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v1.0.0-rc4/astalon.apworld",
+      "size": 455196,
+      "hash_sha256": "b9487258b254826009bbe21fcf0415e76654968c5147c329abdd756f1306a5c0",
+      "metadata": {
+        "game": "Astalon",
+        "id": "astalon",
+        "world_version": "0.99.4",
+        "tag_version": "0.99.4",
+        "created_at": "2026-08-31T01:01:04Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ThatOneGuy27/Archipelago-aus/releases/download/v1.1-beta/aus.apworld",
       "size": 14954,
       "hash_sha256": "727548d83eac4fce58370b62825739c6c8c2f881d6955bd3fc48320315815075",
@@ -6645,6 +6661,22 @@
         "world_version": "0.7.1",
         "tag_version": "0.7.1",
         "created_at": "2026-08-09T20:04:38Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.8.0/bfm.apworld",
+      "size": 4932614,
+      "hash_sha256": "a6d17c57780b3fe06d56730c050b30e544c0b5dd8fbfb46b3d4e184724e4df8b",
+      "metadata": {
+        "game": "Brave Fencer Musashi",
+        "id": "bfm",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-08-31T04:33:39Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "tracker_included"
@@ -12215,6 +12247,22 @@
         "world_version": "0.4.0",
         "tag_version": "0.4.0",
         "created_at": "2026-08-30T20:56:16Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.4.1/clair_obscur.apworld",
+      "size": 63954,
+      "hash_sha256": "983783578847fedadcbeb7561324430efe187a9a7da97dedb5f3c2c17372cec1",
+      "metadata": {
+        "game": "Clair Obscur Expedition 33",
+        "id": "clair_obscur",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-08-31T12:20:16Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "after_dark"
@@ -83452,6 +83500,42 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.0/tloz_oos.apworld",
+      "size": 263734,
+      "hash_sha256": "41eaec7ba066379cece1bf04a50476af2ece4c6ec3922aabd4e273ca096a81a6",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "23.0.0",
+        "tag_version": "23.0.0",
+        "created_at": "2026-08-30T17:35:26Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.1/tloz_oos.apworld",
+      "size": 263736,
+      "hash_sha256": "a19b13b9c9b93e939b20ca80fffa6e53b1025d208fd363539103d3e933001c16",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "23.0.1",
+        "tag_version": "23.0.1",
+        "created_at": "2026-08-30T17:58:39Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -83696,42 +83780,6 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "supports_deathlink",
-          "supports_movelink",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.1/tloz_oos.apworld",
-      "size": 263736,
-      "hash_sha256": "a19b13b9c9b93e939b20ca80fffa6e53b1025d208fd363539103d3e933001c16",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "23.0.1",
-        "tag_version": "23.0.1",
-        "created_at": "2026-08-30T17:58:39Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "supports_deathlink",
-          "supports_movelink",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.0/tloz_oos.apworld",
-      "size": 263734,
-      "hash_sha256": "41eaec7ba066379cece1bf04a50476af2ece4c6ec3922aabd4e273ca096a81a6",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "23.0.0",
-        "tag_version": "23.0.0",
-        "created_at": "2026-08-30T17:35:26Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "supports_deathlink",
           "supports_movelink",
@@ -89734,6 +89782,19 @@
         "tag_version": "0.2.3",
         "created_at": "2025-09-19T22:51:28Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.2.4-alpha/westofloathing.apworld",
+      "size": 30370,
+      "hash_sha256": "1664eb765dbf0d7248cd47793aaacbf666929527818fc72a452f6f973cb64d70",
+      "metadata": {
+        "game": "West of Loathing",
+        "id": "westofloathing",
+        "world_version": "0.2.4",
+        "tag_version": "0.2.4",
+        "created_at": "2026-08-30T23:00:15Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
