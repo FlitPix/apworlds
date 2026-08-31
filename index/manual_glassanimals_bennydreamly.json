@@ -67,6 +67,7 @@
     "GA-6.0.0": {
       "created_at": "2026-08-25T02:18:21Z",
       "download_url": "https://github.com/benny-dreamly/Manuals/releases/download/GA-6.0.0/manual_glassanimals_bennydreamly.apworld",
+      "failed_to_load": "'Event Stars_event tried to copy a location named Stars% but its misspelled or does not exist.'",
       "has_manifest": false,
       "hash_sha256": "87d518fb1f1a0cd9dc3cb875d5664d0d04460507dd15c681812c8faaa4c80260",
       "size": 63820,
