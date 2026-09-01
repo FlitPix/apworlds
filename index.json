@@ -28686,6 +28686,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.2/grinch.apworld",
+      "size": 60100,
+      "hash_sha256": "383c9b440381e755195508a4f6336d70d8674ce5f78964dea49b0b64b974cdf6",
+      "metadata": {
+        "game": "The Grinch",
+        "id": "grinch",
+        "world_version": "1.6.2",
+        "tag_version": "1.6.2",
+        "created_at": "2026-08-30T23:04:11Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/cjmang/Archipelago/releases/download/0.1.0-alpha/gstla.apworld",
       "size": 423011,
       "hash_sha256": "bf202c029df370f29525cd0aa7645e6a6408955f5a42c853dfa62e83bffe45f1",
@@ -37582,6 +37595,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Bartz24/ArchipelagoLR/releases/download/0.5.1/lrff13.apworld",
+      "size": 67478,
+      "hash_sha256": "4a841d8fe49daa6cb7203ae6dbb9e226d43a6059b843f2b0148a9ce49a73e73f",
+      "metadata": {
+        "game": "Lightning Returns: Final Fantasy XIII",
+        "id": "lrff13",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-09-01T02:54:53Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
