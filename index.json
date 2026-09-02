@@ -15243,6 +15243,22 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03j/cuphead.apworld",
+      "size": 114913,
+      "hash_sha256": "256ad6a12fdc54caf2447729de619fbf95c7961be8cbab3a644e1b415fbe1178",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20020910",
+        "tag_version": "0.2.20020910",
+        "created_at": "2026-09-02T01:05:12Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -15395,22 +15411,6 @@
         "flags": [
           "supports_deathlink",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03j/cuphead.apworld",
-      "size": 114913,
-      "hash_sha256": "256ad6a12fdc54caf2447729de619fbf95c7961be8cbab3a644e1b415fbe1178",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.20020910",
-        "tag_version": "0.2.20020910",
-        "created_at": "2026-09-02T01:05:12Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "supports_deathlink"
         ]
       }
     },
@@ -26663,6 +26663,21 @@
         "world_version": "1.1.7",
         "tag_version": "1.1.7",
         "created_at": "2026-05-16T17:42:26Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.8/flipwitch.apworld",
+      "size": 71183,
+      "hash_sha256": "c7cf357f1c667d59f229d8efcdc82576263d93013f0b946899a176bd3f82b19d",
+      "metadata": {
+        "game": "Flipwitch Forbidden Sex Hex",
+        "id": "flipwitch",
+        "world_version": "1.1.8",
+        "tag_version": "1.1.8",
+        "created_at": "2026-09-02T03:29:13Z",
         "flags": [
           "after_dark"
         ]
@@ -83835,6 +83850,42 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.4/tloz_oos.apworld",
+      "size": 263837,
+      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "23.0.4",
+        "tag_version": "23.0.4",
+        "created_at": "2026-09-02T15:02:22Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.1/tloz_oos.apworld",
+      "size": 263837,
+      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "23.0.4",
+        "tag_version": "23.0.4",
+        "created_at": "2026-08-30T17:58:39Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "supports_deathlink",
           "supports_movelink",
