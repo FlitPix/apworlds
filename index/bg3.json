@@ -343,6 +343,19 @@
       "title": "0.6.4 BETA",
       "version_simple": "0.6.3",
       "world_version": "0.6.3"
+    },
+    "v0.7.0": {
+      "created_at": "2026-09-03T05:13:32Z",
+      "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.7.0/bg3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "f450ddc921a1b3dae00dd38e21b11831196f70d783374c7110485181222699d1",
+      "minimum_ap_version": "0.6.2",
+      "size": 658926,
+      "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
+      "tag": "v0.7.0",
+      "title": "0.7.0",
+      "version_simple": "0.7.0",
+      "world_version": "0.7.0"
     }
   }
 }

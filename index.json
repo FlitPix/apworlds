@@ -4223,6 +4223,22 @@
       }
     },
     {
+      "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v1.0.0-rc5/astalon.apworld",
+      "size": 429625,
+      "hash_sha256": "746588a5270ebd148e90ee5fc112f37522eb9488028c76e5320db1b23dba94ee",
+      "metadata": {
+        "game": "Astalon",
+        "id": "astalon",
+        "world_version": "0.99.5",
+        "tag_version": "0.99.5",
+        "created_at": "2026-09-03T03:55:56Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ThatOneGuy27/Archipelago-aus/releases/download/v1.1-beta/aus.apworld",
       "size": 14954,
       "hash_sha256": "727548d83eac4fce58370b62825739c6c8c2f881d6955bd3fc48320315815075",
@@ -7127,6 +7143,22 @@
         "flags": [
           "after_dark",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.7.0/bg3.apworld",
+      "size": 658926,
+      "hash_sha256": "f450ddc921a1b3dae00dd38e21b11831196f70d783374c7110485181222699d1",
+      "metadata": {
+        "game": "Baldur's Gate 3",
+        "id": "bg3",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-09-03T05:13:32Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
         ]
       }
     },
@@ -17250,6 +17282,22 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.20/deep_rock_galactic.apworld",
+      "size": 45693,
+      "hash_sha256": "4a9d476d7b85350e65b1822f07faaf10b81bfe7d846c76aeb8258074da2501d7",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.1",
+        "tag_version": "0.19.1",
+        "created_at": "2026-09-02T20:48:34Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
       "size": 16029,
       "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
@@ -17273,22 +17321,6 @@
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
         "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.20/deep_rock_galactic.apworld",
-      "size": 45693,
-      "hash_sha256": "4a9d476d7b85350e65b1822f07faaf10b81bfe7d846c76aeb8258074da2501d7",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.19.1",
-        "tag_version": "0.19.1",
-        "created_at": "2026-09-02T20:48:34Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
