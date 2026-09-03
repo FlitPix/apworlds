@@ -17276,6 +17276,22 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.20/deep_rock_galactic.apworld",
+      "size": 45693,
+      "hash_sha256": "4a9d476d7b85350e65b1822f07faaf10b81bfe7d846c76aeb8258074da2501d7",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.1",
+        "tag_version": "0.19.1",
+        "created_at": "2026-09-02T20:48:34Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/StellatedCUBE/Delivering-Hope-Archipelago/releases/download/v0.1.0/DeliveringHope.apworld",
       "size": 14973,
       "hash_sha256": "3dcdaf6b0b3853e693a55ff2ec2dcb17d9fb1d30373884094459946dae631581",
@@ -83606,6 +83622,42 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.1/tloz_oos.apworld",
+      "size": 263837,
+      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "23.0.4",
+        "tag_version": "23.0.4",
+        "created_at": "2026-08-30T17:58:39Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.4/tloz_oos.apworld",
+      "size": 263837,
+      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
+      "metadata": {
+        "game": "The Legend of Zelda - Oracle of Seasons",
+        "id": "tloz_oos",
+        "world_version": "23.0.4",
+        "tag_version": "23.0.4",
+        "created_at": "2026-09-02T15:02:22Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
       "size": 134082,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
@@ -83850,42 +83902,6 @@
         "tag_version": "9.4",
         "created_at": "2025-04-25T14:29:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "supports_deathlink",
-          "supports_movelink",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.4/tloz_oos.apworld",
-      "size": 263837,
-      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "23.0.4",
-        "tag_version": "23.0.4",
-        "created_at": "2026-09-02T15:02:22Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "supports_deathlink",
-          "supports_movelink",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.1/tloz_oos.apworld",
-      "size": 263837,
-      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
-      "metadata": {
-        "game": "The Legend of Zelda - Oracle of Seasons",
-        "id": "tloz_oos",
-        "world_version": "23.0.4",
-        "tag_version": "23.0.4",
-        "created_at": "2026-08-30T17:58:39Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "supports_deathlink",
           "supports_movelink",
