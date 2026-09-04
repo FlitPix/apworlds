@@ -30233,6 +30233,18 @@
       }
     },
     {
+      "world": "https://github.com/WritingHusky/haste_apworld/releases/download/v0.5.1/haste.apworld",
+      "size": 34940,
+      "hash_sha256": "93a753072917937ab24592fb4a50ed95122b6c18422f9cd08cc22739b1134d6a",
+      "metadata": {
+        "game": "Haste",
+        "id": "haste",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-09-03T23:24:37Z"
+      }
+    },
+    {
       "world": "https://github.com/niieli/Niko-Archipelago/releases/download/0.1.0/hcniko.apworld",
       "size": 37018,
       "hash_sha256": "5eca73827feaa794774f9f69902dbef5a842c250d0b5c78309622a6de7acaeff",
@@ -66033,6 +66045,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.6.0/refunct.apworld",
+      "size": 20384,
+      "hash_sha256": "e17f04ef79665e52dc18a196b80687ccb0476a9e5e32f6b2f06e256d9c2fab72",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-09-03T20:29:59Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -66358,6 +66383,21 @@
         "world_version": "0.3.3",
         "tag_version": "0.3.3",
         "created_at": "2026-02-01T06:34:42Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.3.5/residentevil2remake.apworld",
+      "size": 99490,
+      "hash_sha256": "a1177a58a1bb2cc37fb5dc9d79baa10cdc6d81727d72b75f3f58b0f882adbc72",
+      "metadata": {
+        "game": "Resident Evil 2 Remake",
+        "id": "residentevil2remake",
+        "world_version": "0.3.5",
+        "tag_version": "0.3.5",
+        "created_at": "2026-09-03T22:22:54Z",
         "flags": [
           "after_dark"
         ]
@@ -79556,6 +79596,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.4/stardew_valley_8.1.4.apworld",
+      "size": 580902,
+      "hash_sha256": "daf1345dca19ec4aa9b422a302ebd1085cfb41f5d8aea94c403772b5313ccf8f",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.4",
+        "tag_version": "8.1.4",
+        "created_at": "2026-09-04T01:53:30Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -91277,6 +91333,19 @@
         "world_version": "0.2.5",
         "tag_version": "0.2.5",
         "created_at": "2026-08-29T14:39:30Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.7/xenobladex.apworld",
+      "size": 7280903,
+      "hash_sha256": "9a0309a37e64c5cd91b07dbc74d1a9d2c96359e82ecccadb5f0afb5b37cd7f13",
+      "metadata": {
+        "game": "Xenoblade X",
+        "id": "xenobladex",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-09-03T17:44:42Z",
         "minimum_ap_version": "0.6.7"
       }
     },
