@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 540,
-  "total_versions": 6735,
+  "total_versions": 6738,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -290,7 +290,7 @@
     "mindustry": false,
     "minecraft": true,
     "minecraft-dig": false,
-    "minishoot": false,
+    "minishoot": true,
     "minit": true,
     "mk64": false,
     "mm3": true,
