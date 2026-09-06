@@ -2380,6 +2380,19 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.1.0/ape_escape_3.apworld",
+      "size": 149845,
+      "hash_sha256": "77d57cc3e913cc9d639e33ef022307fa08f1172513d7a20dc4cfe76734254afc",
+      "metadata": {
+        "game": "Ape Escape 3",
+        "id": "ape_escape_3",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-09-04T14:39:06Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.3.0/apeescape.apworld",
       "size": 181274,
       "hash_sha256": "9ccc189c239d744a190f6e8eb6ca34c74d37490cde0723159d931dc6828da145",
@@ -4245,6 +4258,22 @@
         "world_version": "0.99.5",
         "tag_version": "0.99.5",
         "created_at": "2026-09-03T03:55:56Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v1.0.0-rc6/astalon.apworld",
+      "size": 429685,
+      "hash_sha256": "a2ab37cc1fd3092991b9d5b4fc1a00eac50fdcaf7b3204e43ef9d1034eea4935",
+      "metadata": {
+        "game": "Astalon",
+        "id": "astalon",
+        "world_version": "0.99.6",
+        "tag_version": "0.99.6",
+        "created_at": "2026-09-05T22:57:31Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
@@ -7883,6 +7912,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-102/borderlands2.apworld",
+      "size": 65840,
+      "hash_sha256": "6b3025e07a51593e3d5dabf451f512ec4627469698122c47b0c41a88a01e39bc",
+      "metadata": {
+        "game": "Borderlands 2",
+        "id": "borderlands2",
+        "world_version": "102",
+        "tag_version": "102",
+        "created_at": "2026-09-05T06:20:48Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-22/borderlands2.apworld",
       "size": 33142,
       "hash_sha256": "bc343303a2c704ce5b137677c3ec42b7f204f69085b71546009223f3e4290e2d",
@@ -8993,22 +9038,6 @@
         "tag_version": "0.5.5",
         "created_at": "2026-08-16T18:08:47Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-102/borderlands2.apworld",
-      "size": 65840,
-      "hash_sha256": "6b3025e07a51593e3d5dabf451f512ec4627469698122c47b0c41a88a01e39bc",
-      "metadata": {
-        "game": "Borderlands 2",
-        "id": "borderlands2",
-        "world_version": "102",
-        "tag_version": "102",
-        "created_at": "2026-09-05T06:20:48Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -15520,6 +15549,22 @@
         "flags": [
           "supports_deathlink",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03k/cuphead.apworld",
+      "size": 114925,
+      "hash_sha256": "60dd618dd71954d56ff58a35d10857e2c33d8dc26a13667bb4280fee98334418",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20021010",
+        "tag_version": "0.2.20021010",
+        "created_at": "2026-09-05T21:29:51Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
         ]
       }
     },
@@ -48790,6 +48835,19 @@
       }
     },
     {
+      "world": "https://github.com/TheNooodle/MinishootRandomizer/releases/download/v0.6.1/minishoot.apworld",
+      "size": 36565,
+      "hash_sha256": "d82f11af2f3952824b25582431b02fce1eca87e5b718cbc0f479ea374182f25f",
+      "metadata": {
+        "game": "Minishoot Adventures",
+        "id": "minishoot",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-09-06T00:02:21Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/qwint/APMinit/releases/download/v0.0.1/minit.apworld",
       "size": 110058,
       "hash_sha256": "9d34eaaf1a9954dc9023acac35a2e263f9fc7019af482a18292156d92ec2addd",
@@ -56503,6 +56561,22 @@
         "tag_version": "0.6.1",
         "created_at": "2026-08-21T17:38:19Z",
         "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.6.2/peak.apworld",
+      "size": 97764,
+      "hash_sha256": "3531269d22be840f4056cd8f03b39644dbf3965b024be4b05dfc43686c47e1c7",
+      "metadata": {
+        "game": "PEAK",
+        "id": "peak",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2026-09-05T18:01:44Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -79707,6 +79781,22 @@
         "world_version": "8.1.4",
         "tag_version": "8.1.4",
         "created_at": "2026-09-04T01:53:30Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.15/stardew_valley.apworld",
+      "size": 580920,
+      "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.5",
+        "tag_version": "8.1.5",
+        "created_at": "2026-09-06T01:41:14Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
