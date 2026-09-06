@@ -15397,6 +15397,22 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03k/cuphead.apworld",
+      "size": 114925,
+      "hash_sha256": "60dd618dd71954d56ff58a35d10857e2c33d8dc26a13667bb4280fee98334418",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20021010",
+        "tag_version": "0.2.20021010",
+        "created_at": "2026-09-05T21:29:51Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -15549,22 +15565,6 @@
         "flags": [
           "supports_deathlink",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03k/cuphead.apworld",
-      "size": 114925,
-      "hash_sha256": "60dd618dd71954d56ff58a35d10857e2c33d8dc26a13667bb4280fee98334418",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.20021010",
-        "tag_version": "0.2.20021010",
-        "created_at": "2026-09-05T21:29:51Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "supports_deathlink"
         ]
       }
     },
