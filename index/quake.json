@@ -303,6 +303,18 @@
       "title": "Ironwail AP 1.1.9",
       "version_simple": "1.1.9",
       "world_version": "1.1.9"
+    },
+    "1.2.0": {
+      "created_at": "2026-09-07T07:42:58Z",
+      "download_url": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.0/quake.apworld",
+      "has_manifest": false,
+      "hash_sha256": "334713ec947bdec70249677cd06f15da551279b8484b5c5db07020ee95aa0b1a",
+      "size": 553734,
+      "source_url": "https://api.github.com/repos/randomcodegen/ironwail_ap",
+      "tag": "1.2.0",
+      "title": "Ironwail AP 1.2.0",
+      "version_simple": "1.2.0",
+      "world_version": "1.2.0"
     }
   }
 }
