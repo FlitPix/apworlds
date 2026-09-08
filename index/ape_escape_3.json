@@ -436,6 +436,19 @@
       "title": "v2.1.0",
       "version_simple": "2.1.0",
       "world_version": "2.1.0"
+    },
+    "v2.1.0r3": {
+      "created_at": "2026-09-04T14:39:06Z",
+      "download_url": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.1.0/ape_escape_3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "919c89df1d056d89ad77f3b61d35ad886aba0cbe9a1fbe9c5a496446bd93e108",
+      "minimum_ap_version": "0.6.3",
+      "size": 149841,
+      "source_url": "https://api.github.com/repos/aidanii24/ae3-archipelago",
+      "tag": "v2.1.0r3",
+      "title": "v2.1.0",
+      "version_simple": "2.1.0",
+      "world_version": "2.1.0"
     }
   }
 }
