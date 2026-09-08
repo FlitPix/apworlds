@@ -13301,6 +13301,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.1/cotnd.apworld",
+      "size": 22111612,
+      "hash_sha256": "8455340c51941960055cffede6ba22023cb055c4a2df9cec715fdf59c52e7ef5",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-08-30T22:18:50Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -64441,6 +64454,38 @@
       }
     },
     {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.1/quake.apworld",
+      "size": 546364,
+      "hash_sha256": "2614c755cb9429e88b8195551427d85c43e1bcdbedf846d9c62fec6010f84f42",
+      "metadata": {
+        "game": "Quake 1",
+        "id": "quake",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-09-08T12:04:08Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.0/quake.apworld",
+      "size": 546364,
+      "hash_sha256": "2614c755cb9429e88b8195551427d85c43e1bcdbedf846d9c62fec6010f84f42",
+      "metadata": {
+        "game": "Quake 1",
+        "id": "quake",
+        "world_version": "1.2.0.post2",
+        "tag_version": "1.2.0.post2",
+        "created_at": "2026-09-07T07:42:58Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.2/rabi_ribi.apworld",
       "size": 212640,
       "hash_sha256": "5b4c142af7e252d5a1a487424120edc8edaed0987e1a38f1fbc95789ee152463",
@@ -79939,7 +79984,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.15/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.5/stardew_valley.apworld",
       "size": 580920,
       "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
       "metadata": {
@@ -79955,7 +80000,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.5/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.15/stardew_valley.apworld",
       "size": 580920,
       "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
       "metadata": {
