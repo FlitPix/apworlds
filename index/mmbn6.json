@@ -63,6 +63,18 @@
       "title": "Beta v0.2.0",
       "version_simple": "0.2.0",
       "world_version": "0.2.0"
+    },
+    "v0.2.1": {
+      "created_at": "2026-09-07T20:47:15Z",
+      "download_url": "https://github.com/RischDev/Archipelago/releases/download/v0.2.1/mmbn6.apworld",
+      "has_manifest": true,
+      "hash_sha256": "73e8ee67ab80f6b2c7c6610e4fd3cb8f662a2c43814dcc9e6a7e1417828111a4",
+      "size": 470888,
+      "source_url": "https://api.github.com/repos/RischDev/Archipelago",
+      "tag": "v0.2.1",
+      "title": "Archipelago v0.2.1",
+      "version_simple": "0.2.1",
+      "world_version": "0.2.1"
     }
   }
 }

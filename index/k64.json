@@ -138,6 +138,19 @@
       "version_simple": "0.3.2",
       "world_version": "0.3.2"
     },
+    "k64_0.4.0": {
+      "created_at": "2026-09-09T01:23:32Z",
+      "download_url": "https://github.com/Silvris/Archipelago/releases/download/k64_0.4.0/k64.apworld",
+      "has_manifest": true,
+      "hash_sha256": "70ed999936204d9dfb43da718a35e3a98c4f90e5081eadec7d163841ce4a2e62",
+      "minimum_ap_version": "0.6.7",
+      "size": 51596,
+      "source_url": "https://api.github.com/repos/Silvris/Archipelago",
+      "tag": "k64_0.4.0",
+      "title": "Kirby 64 - The Crystal Shards APWorld v0.4.0",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0"
+    },
     "k64_v0.1.0": {
       "created_at": "2024-10-01T22:02:17Z",
       "download_url": "https://github.com/Silvris/Archipelago/releases/download/k64_v0.1.0/k64.apworld",

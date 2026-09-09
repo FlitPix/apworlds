@@ -13314,6 +13314,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.2/cotnd.apworld",
+      "size": 3997319,
+      "hash_sha256": "90cde93ac946a4cd8076c3dd1528677dab9de33098590c909bc710dca34e60d7",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.8.2",
+        "tag_version": "0.8.2",
+        "created_at": "2026-09-09T01:16:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -14688,6 +14701,22 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-05-21T22:20:48Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.18.1/crystal_project.apworld",
+      "size": 214147,
+      "hash_sha256": "3bf11e98093174eb2439df10e13caac0836a0bbb3f9ba53a91b42800081f97d6",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.18.0",
+        "tag_version": "0.18.0",
+        "created_at": "2026-09-06T15:52:28Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "tracker_included"
         ]
@@ -33405,6 +33434,19 @@
       }
     },
     {
+      "world": "https://github.com/Silvris/Archipelago/releases/download/k64_0.4.0/k64.apworld",
+      "size": 51596,
+      "hash_sha256": "70ed999936204d9dfb43da718a35e3a98c4f90e5081eadec7d163841ce4a2e62",
+      "metadata": {
+        "game": "Kirby 64 - The Crystal Shards",
+        "id": "k64",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-09-09T01:23:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Silvris/Archipelago/releases/download/kdl3_3.0.0-beta1/kdl3.apworld",
       "size": 117575,
       "hash_sha256": "e91b23f3da5d171d85b638b103d2d6e9bea99d7672ab7b634835ae6609de11cd",
@@ -49784,6 +49826,18 @@
       }
     },
     {
+      "world": "https://github.com/RischDev/Archipelago/releases/download/v0.2.1/mmbn6.apworld",
+      "size": 470888,
+      "hash_sha256": "73e8ee67ab80f6b2c7c6610e4fd3cb8f662a2c43814dcc9e6a7e1417828111a4",
+      "metadata": {
+        "game": "MegaMan Battle Network 6",
+        "id": "mmbn6",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-09-07T20:47:15Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx-v0.1.2/mmx.apworld",
       "size": 31064,
       "hash_sha256": "61683e9e0e5e2bf40189ccf3ff9a034f57da5627fef027f38422405f149d58b5",
@@ -56725,6 +56779,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.6.2/peak.apworld",
+      "size": 98418,
+      "hash_sha256": "9e80132f85b7e39f672a6720a8784b58d7937089ce1d23bbb0829fa9c012451a",
+      "metadata": {
+        "game": "PEAK",
+        "id": "peak",
+        "world_version": "0.6.2.post2",
+        "tag_version": "0.6.2.post2",
+        "created_at": "2026-09-05T18:01:44Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -64454,22 +64521,6 @@
       }
     },
     {
-      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.1/quake.apworld",
-      "size": 546364,
-      "hash_sha256": "2614c755cb9429e88b8195551427d85c43e1bcdbedf846d9c62fec6010f84f42",
-      "metadata": {
-        "game": "Quake 1",
-        "id": "quake",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2026-09-08T12:04:08Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.0/quake.apworld",
       "size": 546364,
       "hash_sha256": "2614c755cb9429e88b8195551427d85c43e1bcdbedf846d9c62fec6010f84f42",
@@ -64479,6 +64530,22 @@
         "world_version": "1.2.0.post2",
         "tag_version": "1.2.0.post2",
         "created_at": "2026-09-07T07:42:58Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.1/quake.apworld",
+      "size": 546364,
+      "hash_sha256": "2614c755cb9429e88b8195551427d85c43e1bcdbedf846d9c62fec6010f84f42",
+      "metadata": {
+        "game": "Quake 1",
+        "id": "quake",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-09-08T12:04:08Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark"
