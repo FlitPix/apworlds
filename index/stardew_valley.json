@@ -1179,6 +1179,20 @@
       "version_simple": "8.1.5",
       "world_version": "8.1.5"
     },
+    "8.1.6": {
+      "created_at": "2026-09-09T16:56:53Z",
+      "download_url": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.6/stardew_valley.apworld",
+      "has_manifest": true,
+      "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
+      "minimum_ap_version": "0.6.7",
+      "prerelease": true,
+      "size": 580920,
+      "source_url": "https://api.github.com/repos/agilbert1412/StardewArchipelago",
+      "tag": "8.1.6",
+      "title": "8.1.6 - Pre-Release",
+      "version_simple": "8.1.5",
+      "world_version": "8.1.5"
+    },
     "8.15": {
       "created_at": "2026-09-06T01:41:14Z",
       "download_url": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.15/stardew_valley.apworld",

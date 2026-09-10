@@ -57416,6 +57416,19 @@
       }
     },
     {
+      "world": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v0.9.1/pikmin2.apworld",
+      "size": 5967624,
+      "hash_sha256": "bc09ac0a3a3eff36d99d8d6dc492fbcf40218f82361f56773112b5f173a89d9f",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "0.9.1",
+        "tag_version": "0.9.1",
+        "created_at": "2026-09-08T20:12:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/1.0.1/pizza_tower.apworld",
       "size": 27618,
       "hash_sha256": "d6fbff7c45a5667a0987838049c30f1162a2e1ee123b36845f3cf1417163267c",
@@ -80083,6 +80096,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.6/stardew_valley.apworld",
+      "size": 580920,
+      "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.5",
+        "tag_version": "8.1.5",
+        "created_at": "2026-09-09T16:56:53Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.0.0/stick_ranger.apworld",
       "size": 8857,
       "hash_sha256": "3c4088879ba6795db0cd0b36ddef1ad7d6aeb3db1e58fa08367027104d792d95",
@@ -91830,6 +91859,19 @@
         "world_version": "0.2.7",
         "tag_version": "0.2.7",
         "created_at": "2026-09-03T17:44:42Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.8/xenobladex.apworld",
+      "size": 7284311,
+      "hash_sha256": "0bd0d2851b4f0f1aacaa779c043c9d60b621de2b299aef3c210542a3c127777b",
+      "metadata": {
+        "game": "Xenoblade X",
+        "id": "xenobladex",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-09-09T16:13:55Z",
         "minimum_ap_version": "0.6.7"
       }
     },
