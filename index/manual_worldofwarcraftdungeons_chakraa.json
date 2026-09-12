@@ -113,6 +113,18 @@
       "title": "2026.08.30 - Dungeon Pool Fixes",
       "version_simple": "2026.8.30",
       "world_version": "2026.8.30"
+    },
+    "2026.09.12": {
+      "created_at": "2026-09-12T14:35:28Z",
+      "download_url": "https://github.com/ChakraaThePanda/Archipelago-Manual-WorldofWarcraft-Dungeons/releases/download/2026.09.12/manual_worldofwarcraftdungeons_chakraa.apworld",
+      "has_manifest": false,
+      "hash_sha256": "332ac62a5b2107d9e7f914a0cacb6dc63163353bb449220f67799ca08006810b",
+      "size": 69259,
+      "source_url": "https://api.github.com/repos/ChakraaThePanda/Archipelago-Manual-WorldofWarcraft-Dungeons",
+      "tag": "2026.09.12",
+      "title": "2026.09.12 - Mythic+ Game Mode",
+      "version_simple": "2026.9.12",
+      "world_version": "2026.9.12"
     }
   }
 }

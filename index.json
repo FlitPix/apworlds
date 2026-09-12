@@ -14500,6 +14500,22 @@
       }
     },
     {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.18.2/crystal_project.apworld",
+      "size": 214147,
+      "hash_sha256": "3bf11e98093174eb2439df10e13caac0836a0bbb3f9ba53a91b42800081f97d6",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.18.0",
+        "tag_version": "0.18.0",
+        "created_at": "2026-09-06T15:52:28Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.5.0/crystal_project.apworld",
       "size": 242135,
       "hash_sha256": "364cf700e1b81b87404be45fb83d8e5c7a20f5e6607c1ba5357a621d2e2b4d7d",
@@ -14717,22 +14733,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-05-21T22:20:48Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "tracker_included"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.18.2/crystal_project.apworld",
-      "size": 214147,
-      "hash_sha256": "3bf11e98093174eb2439df10e13caac0836a0bbb3f9ba53a91b42800081f97d6",
-      "metadata": {
-        "game": "Crystal Project",
-        "id": "crystal_project",
-        "world_version": "0.18.0",
-        "tag_version": "0.18.0",
-        "created_at": "2026-09-06T15:52:28Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "tracker_included"
         ]
@@ -15953,6 +15953,19 @@
         "id": "cv_dos",
         "world_version": "3.0.1",
         "tag_version": "3.0.1",
+        "created_at": "2026-07-11T17:26:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos3.0.2/cv_dos.apworld",
+      "size": 95462,
+      "hash_sha256": "200c1bec30875ddec8d3937deda7935f0abb282509bda4c9dc2675410fe77720",
+      "metadata": {
+        "game": "Castlevania: Dawn of Sorrow",
+        "id": "cv_dos",
+        "world_version": "3.0.2",
+        "tag_version": "3.0.2",
         "created_at": "2026-07-11T17:26:27Z",
         "minimum_ap_version": "0.6.7"
       }
@@ -30794,6 +30807,19 @@
       }
     },
     {
+      "world": "https://github.com/niieli/Niko-Archipelago/releases/download/0.8.5/hcniko.apworld",
+      "size": 44425,
+      "hash_sha256": "521667a4e4f5eeb5f2df1c215b15550bd72197c806fe145d83ef919d03741b27",
+      "metadata": {
+        "game": "Here Comes Niko!",
+        "id": "hcniko",
+        "world_version": "0.8.5",
+        "tag_version": "0.8.5",
+        "created_at": "2026-09-12T12:19:26Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Minish-Link/HeroCore-Archipelago/releases/download/v0.1.0/herocore.apworld",
       "size": 7369,
       "hash_sha256": "68b360d1c9c791313a1e0ff64b2624abee853359e9c8db319ee1028836aed316",
@@ -41659,6 +41685,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Fellowship/releases/download/2026.09.12/manual_fellowship_chakraa.apworld",
+      "size": 63654,
+      "hash_sha256": "94a112920f5c4df5c639db02918c4db89a9279b098d49955589c8ffc2f74cc64",
+      "metadata": {
+        "game": "Manual_Fellowship_Chakraa",
+        "id": "manual_fellowship_chakraa",
+        "world_version": "2026.9.12",
+        "tag_version": "2026.9.12",
+        "created_at": "2026-09-12T14:35:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/pizie11/FFXIVBMB/releases/download/0.3/manual_ffxivbmb_pizzie.apworld",
       "size": 51899,
       "hash_sha256": "25a635a4c979c5d8996756aa43541c1ab16b12f76031cacc3801e69330e4e77f",
@@ -45325,6 +45364,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-TheVault/releases/download/2026.09.12/manual_thevault_chakraa.apworld",
+      "size": 58684,
+      "hash_sha256": "7350c7d3c3fe9e8c441b11baca13e95b0e0005f05d768632a5efa6703837537e",
+      "metadata": {
+        "game": "Manual_TheVault_Chakraa",
+        "id": "manual_thevault_chakraa",
+        "world_version": "2026.9.12",
+        "tag_version": "2026.9.12",
+        "created_at": "2026-09-12T14:35:53Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/muffinjets/Manual_TheWrathofCortex_MuffinJets/releases/download/v1.0.1/Manual_TheWrathofCortex_MuffinJets.apworld",
       "size": 46577,
       "hash_sha256": "5e54e3496c3e5035e99d8fa31c348f64ebf751556fdb3adfd38d31e6c4693819",
@@ -45753,6 +45805,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WatchAShow/releases/download/2026.09.12/manual_watchashow_chakraa.apworld",
+      "size": 84500,
+      "hash_sha256": "9097b1735cb759c593a77ce87d1484ccde138daf7971b74fb13cf528b6ed2c27",
+      "metadata": {
+        "game": "Manual_WatchAShow_Chakraa",
+        "id": "manual_watchashow_chakraa",
+        "world_version": "2026.9.12",
+        "tag_version": "2026.9.12",
+        "created_at": "2026-09-12T14:36:01Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ManNamedGarbo/Wizard101-APManual/releases/download/release1/manual_wizard101freetoplay_garbo.apworld",
       "size": 60318,
       "hash_sha256": "798dfe3fa5ebc344191bd29e8875b105ea7843a45b7d02c6cd5be681c770fed9",
@@ -45927,6 +45992,19 @@
         "world_version": "2026.8.30",
         "tag_version": "2026.8.30",
         "created_at": "2026-08-31T00:09:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WorldofWarcraft-Dungeons/releases/download/2026.09.12/manual_worldofwarcraftdungeons_chakraa.apworld",
+      "size": 69259,
+      "hash_sha256": "332ac62a5b2107d9e7f914a0cacb6dc63163353bb449220f67799ca08006810b",
+      "metadata": {
+        "game": "Manual_WorldofWarcraftDungeons_Chakraa",
+        "id": "manual_worldofwarcraftdungeons_chakraa",
+        "world_version": "2026.9.12",
+        "tag_version": "2026.9.12",
+        "created_at": "2026-09-12T14:35:28Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -64618,6 +64696,21 @@
         "tag_version": "1.2.1",
         "created_at": "2026-09-08T12:04:08Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.2/quake.apworld",
+      "size": 546385,
+      "hash_sha256": "48c96f5b623b1815883fc0640ec2c40149761e12faacfdfb43a90f94418814a6",
+      "metadata": {
+        "game": "Quake 1",
+        "id": "quake",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-09-12T07:11:12Z",
         "flags": [
           "after_dark"
         ]
@@ -91985,6 +92078,19 @@
         "world_version": "0.2.9",
         "tag_version": "0.2.9",
         "created_at": "2026-09-10T13:14:12Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.10/xenobladex.apworld",
+      "size": 7284514,
+      "hash_sha256": "70117ec98f7a9f68e51fc8474e90dbad7627fd4cacf49a235554f3e025c01a29",
+      "metadata": {
+        "game": "Xenoblade X",
+        "id": "xenobladex",
+        "world_version": "0.2.10",
+        "tag_version": "0.2.10",
+        "created_at": "2026-09-12T10:48:17Z",
         "minimum_ap_version": "0.6.7"
       }
     },
