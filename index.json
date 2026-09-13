@@ -16114,6 +16114,19 @@
       }
     },
     {
+      "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v2.0.1/cvlod.apworld",
+      "size": 232508,
+      "hash_sha256": "761c6855748722b95918547f0a240fa9bb718d06ae890e44e376b38b1088ca22",
+      "metadata": {
+        "game": "Castlevania - Legacy of Darkness",
+        "id": "cvlod",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-08-26T00:15:24Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.1.0/dark_souls_2.apworld",
       "size": 45065,
       "hash_sha256": "e51b0513382de30c65193cc789f6c52f5a662ecbd017ed851141e23733dc49eb",
@@ -45766,6 +45779,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WatchAShow/releases/download/2026.09.12/manual_watchashow_chakraa.apworld",
+      "size": 84500,
+      "hash_sha256": "9097b1735cb759c593a77ce87d1484ccde138daf7971b74fb13cf528b6ed2c27",
+      "metadata": {
+        "game": "Manual_WatchAShow_Chakraa",
+        "id": "manual_watchashow_chakraa",
+        "world_version": "2026.9.12",
+        "tag_version": "2026.9.12",
+        "created_at": "2026-09-12T14:36:01Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WatchAShow/releases/download/3.0/manual_watchashow_chakraa.apworld",
       "size": 43416,
       "hash_sha256": "a07cb4dcd7dbc5a955508644f89cb650d47d7f366ac95269ffce004b0407595c",
@@ -45801,19 +45827,6 @@
         "world_version": "4.1",
         "tag_version": "4.1",
         "created_at": "2025-02-10T18:49:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WatchAShow/releases/download/2026.09.12/manual_watchashow_chakraa.apworld",
-      "size": 84500,
-      "hash_sha256": "9097b1735cb759c593a77ce87d1484ccde138daf7971b74fb13cf528b6ed2c27",
-      "metadata": {
-        "game": "Manual_WatchAShow_Chakraa",
-        "id": "manual_watchashow_chakraa",
-        "world_version": "2026.9.12",
-        "tag_version": "2026.9.12",
-        "created_at": "2026-09-12T14:36:01Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -91978,6 +91991,19 @@
       }
     },
     {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.10/xenobladex.apworld",
+      "size": 7284514,
+      "hash_sha256": "70117ec98f7a9f68e51fc8474e90dbad7627fd4cacf49a235554f3e025c01a29",
+      "metadata": {
+        "game": "Xenoblade X",
+        "id": "xenobladex",
+        "world_version": "0.2.10",
+        "tag_version": "0.2.10",
+        "created_at": "2026-09-12T10:48:17Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.2/xenobladex.apworld",
       "size": 7273671,
       "hash_sha256": "7699cc72449cedddfdfe3b848cc381228ffcc5ccc9e87a45add93d6de9fc4394",
@@ -92078,19 +92104,6 @@
         "world_version": "0.2.9",
         "tag_version": "0.2.9",
         "created_at": "2026-09-10T13:14:12Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.10/xenobladex.apworld",
-      "size": 7284514,
-      "hash_sha256": "70117ec98f7a9f68e51fc8474e90dbad7627fd4cacf49a235554f3e025c01a29",
-      "metadata": {
-        "game": "Xenoblade X",
-        "id": "xenobladex",
-        "world_version": "0.2.10",
-        "tag_version": "0.2.10",
-        "created_at": "2026-09-12T10:48:17Z",
         "minimum_ap_version": "0.6.7"
       }
     },
