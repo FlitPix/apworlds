@@ -71563,6 +71563,18 @@
       }
     },
     {
+      "world": "https://github.com/devoidlazarus/SIGNALISArchipelagoRandomizer/releases/download/v0.2.0/signalis.apworld",
+      "size": 8441,
+      "hash_sha256": "b628b49c0d229c00aa36bd84ec375eda37d0a1f78fc86676f84fb8875c23303e",
+      "metadata": {
+        "game": "Signalis",
+        "id": "signalis",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-09-14T04:11:47Z"
+      }
+    },
+    {
       "world": "https://github.com/nmize1/Archipelago/releases/download/v0.1.0b/simpsonshitnrun.apworld",
       "size": 42000,
       "hash_sha256": "51d25205d1ec6243e6950582d6d8d40cba4a6f616f810e28c94c4b1937a364c6",
@@ -85343,6 +85355,19 @@
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.10.0-alpha/tloz_ph.apworld",
+      "size": 2630545,
+      "hash_sha256": "42ebb148fdb413d27e3d3fdeb9941cb84aa03bfe5509acbca7c28eb7fe25346d",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.9.7",
+        "tag_version": "0.9.7",
+        "created_at": "2026-09-14T10:55:20Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {

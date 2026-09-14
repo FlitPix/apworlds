@@ -1,7 +1,7 @@
 {
   "total_repositories": 443,
   "total_packages": 542,
-  "total_versions": 6786,
+  "total_versions": 6788,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -386,7 +386,7 @@
     "shapez_2": true,
     "shining_itd": true,
     "shivers": false,
-    "signalis": false,
+    "signalis": true,
     "simpsonshitnrun": true,
     "sims4": true,
     "slotlock": true,
