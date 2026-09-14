@@ -20658,6 +20658,19 @@
       }
     },
     {
+      "world": "https://github.com/alextric234/ArchipelagoDredge/releases/download/dredge_0.5.2/dredge.apworld",
+      "size": 24357,
+      "hash_sha256": "815d312ffac736f5f53b851024eb1318541dbcc1e4a7c03f790db2f61024d71a",
+      "metadata": {
+        "game": "Dredge",
+        "id": "dredge",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-09-13T18:19:13Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/FHAUKEM/Archipelago-DSP/releases/download/v0.0.2/dsp.apworld",
       "size": 19746,
       "hash_sha256": "c19a9930fb63c6a752da1488d24135eea17783a6f287f8fd341e891c43c68811",
