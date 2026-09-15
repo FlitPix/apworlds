@@ -16101,6 +16101,19 @@
       }
     },
     {
+      "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v2.0.2/cvlod.apworld",
+      "size": 232518,
+      "hash_sha256": "38bc673dc4ac0925ab55e986003de8e9a10a7b697963a1f93b98f46f848fb347",
+      "metadata": {
+        "game": "Castlevania - Legacy of Darkness",
+        "id": "cvlod",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2026-08-26T00:15:24Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlodbijcw%26v_v1/cvlod.apworld",
       "size": 91528,
       "hash_sha256": "3978f5f4a78f34af6b01504c394b65c4f961453b030c700f0c3c04c52d771b65",
@@ -16124,19 +16137,6 @@
         "tag_version": "2",
         "created_at": "2024-05-20T07:04:06Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v2.0.2/cvlod.apworld",
-      "size": 232518,
-      "hash_sha256": "38bc673dc4ac0925ab55e986003de8e9a10a7b697963a1f93b98f46f848fb347",
-      "metadata": {
-        "game": "Castlevania - Legacy of Darkness",
-        "id": "cvlod",
-        "world_version": "2.0.2",
-        "tag_version": "2.0.2",
-        "created_at": "2026-08-26T00:15:24Z",
-        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -41659,6 +41659,19 @@
       }
     },
     {
+      "world": "https://github.com/JBtheShadow/APManuals/releases/download/v1.1.0/manual_fantasylife_jbtheshadow.apworld",
+      "size": 133789,
+      "hash_sha256": "c9a62ea7bb94694af91fe7c983038a0a34e4f7381f8cf75b8fb346f1cd5a545d",
+      "metadata": {
+        "game": "Manual_FantasyLife_JBtheShadow",
+        "id": "manual_fantasylife_jbtheshadow",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-09-15T13:50:46Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Fellowship/releases/download/2025.09.02/manual_fellowship_chakraa.apworld",
       "size": 52550,
       "hash_sha256": "068794b4134f38b3fbe7e0203004e9bf59d6da7810fa54f1587a88bd6365e99e",
@@ -42655,6 +42668,19 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-07-29T05:18:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.5.1/manual_mariokartworld_greengamefire.apworld",
+      "size": 82014,
+      "hash_sha256": "00f3ece5c47d2767b2d94cd0e8c317488cc5028ca29a365452e686f97bb95170",
+      "metadata": {
+        "game": "Manual_MarioKartWorld_Greengamefire",
+        "id": "manual_mariokartworld_greengamefire",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-09-15T04:51:41Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -48161,6 +48187,19 @@
         "tag_version": "1.0.0",
         "created_at": "2024-07-03T21:21:03Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.2B/megamix.apworld",
+      "size": 41298,
+      "hash_sha256": "5560ef696773bb48c48931a0c5847d00805ebab5678b319e8dcd380b51182cf8",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.5.2",
+        "tag_version": "1.5.2",
+        "created_at": "2026-09-15T14:30:25Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {

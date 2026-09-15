@@ -87,6 +87,18 @@
       "title": "Fantasy Life 3DS Manual v1.0.1",
       "version_simple": "1.0.1",
       "world_version": "1.0.1"
+    },
+    "v1.1.0": {
+      "created_at": "2026-09-15T13:50:46Z",
+      "download_url": "https://github.com/JBtheShadow/APManuals/releases/download/v1.1.0/manual_fantasylife_jbtheshadow.apworld",
+      "has_manifest": false,
+      "hash_sha256": "c9a62ea7bb94694af91fe7c983038a0a34e4f7381f8cf75b8fb346f1cd5a545d",
+      "size": 133789,
+      "source_url": "https://api.github.com/repos/JBtheShadow/APManuals",
+      "tag": "v1.1.0",
+      "title": "Fantasy Life 3DS Manual v1.1.0",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
     }
   }
 }
