@@ -62,6 +62,18 @@
       "title": " SIGNALIS Archipelago Randomizer v0.2.0",
       "version_simple": "0.2.0",
       "world_version": "0.2.0"
+    },
+    "v0.2.5": {
+      "created_at": "2026-09-15T00:08:21Z",
+      "download_url": "https://github.com/devoidlazarus/SIGNALISArchipelagoRandomizer/releases/download/v0.2.5/signalis.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3456886bc59272ec64a3714a49e63cd1f49c2a33ffc9da39e6b4079cdc540640",
+      "size": 8592,
+      "source_url": "https://api.github.com/repos/devoidlazarus/SIGNALISArchipelagoRandomizer",
+      "tag": "v0.2.5",
+      "title": " SIGNALIS Archipelago Randomizer v0.2.5",
+      "version_simple": "0.2.5",
+      "world_version": "0.2.5"
     }
   }
 }
