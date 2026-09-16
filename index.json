@@ -17588,6 +17588,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.20/deep_rock_galactic.apworld",
+      "size": 45713,
+      "hash_sha256": "62f543c37fc3bb4b5cce36e33b264240c7ab29d980ea11d9da681a227317c516",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.20.1",
+        "tag_version": "0.20.1",
+        "created_at": "2026-09-02T20:48:34Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
       "size": 16029,
       "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
@@ -17611,19 +17624,6 @@
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
         "minimum_ap_version": "0.6.6"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.20/deep_rock_galactic.apworld",
-      "size": 45713,
-      "hash_sha256": "62f543c37fc3bb4b5cce36e33b264240c7ab29d980ea11d9da681a227317c516",
-      "metadata": {
-        "game": "Deep Rock Galactic",
-        "id": "deep_rock_galactic",
-        "world_version": "0.20.1",
-        "tag_version": "0.20.1",
-        "created_at": "2026-09-02T20:48:34Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -80504,6 +80504,19 @@
         "world_version": "1.5.0.post2",
         "tag_version": "1.5.0.post2",
         "created_at": "2025-06-08T15:03:25Z"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.6.0/stick_ranger.apworld",
+      "size": 30894,
+      "hash_sha256": "8866f2af18655d36d0b70e5becdfdf4a85b0f99e5ee6e2d7d5e91f92ed8d3e77",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-09-16T12:28:57Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
