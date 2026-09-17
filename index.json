@@ -15516,6 +15516,22 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03l/cuphead.apworld",
+      "size": 114576,
+      "hash_sha256": "8bee1485e4d1b0267a14e0fce8b517cd17aa80246c5c537258c31f05292c345e",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20021110",
+        "tag_version": "0.2.20021110",
+        "created_at": "2026-09-16T20:53:05Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -15668,22 +15684,6 @@
         "flags": [
           "supports_deathlink",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03l/cuphead.apworld",
-      "size": 114576,
-      "hash_sha256": "8bee1485e4d1b0267a14e0fce8b517cd17aa80246c5c537258c31f05292c345e",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.20021110",
-        "tag_version": "0.2.20021110",
-        "created_at": "2026-09-16T20:53:05Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "supports_deathlink"
         ]
       }
     },
@@ -64850,6 +64850,21 @@
       }
     },
     {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.3/quake.apworld",
+      "size": 546267,
+      "hash_sha256": "ceb55c4c9e6ff0be447e9f0845bddba97353803df7ff60fcd797a2f762a767dd",
+      "metadata": {
+        "game": "Quake 1",
+        "id": "quake",
+        "world_version": "1.2.3",
+        "tag_version": "1.2.3",
+        "created_at": "2026-09-17T11:11:24Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.4.2/rabi_ribi.apworld",
       "size": 212640,
       "hash_sha256": "5b4c142af7e252d5a1a487424120edc8edaed0987e1a38f1fbc95789ee152463",
@@ -80558,6 +80573,19 @@
         "world_version": "1.7.0",
         "tag_version": "1.7.0",
         "created_at": "2026-09-16T17:39:19Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.0/stick_ranger.apworld",
+      "size": 42550,
+      "hash_sha256": "ffffa5aec4292178db741306419d3aecc8ca813d71af5c45578f9d8482aed799",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.0",
+        "tag_version": "1.8.0",
+        "created_at": "2026-09-17T13:07:07Z",
         "minimum_ap_version": "0.6.7"
       }
     },
