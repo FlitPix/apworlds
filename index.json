@@ -15672,6 +15672,22 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03l/cuphead.apworld",
+      "size": 114576,
+      "hash_sha256": "8bee1485e4d1b0267a14e0fce8b517cd17aa80246c5c537258c31f05292c345e",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20021110",
+        "tag_version": "0.2.20021110",
+        "created_at": "2026-09-16T20:53:05Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Metaruler/ArchipelagoCR/releases/download/V0.1.0/custom_robo.apworld",
       "size": 78766,
       "hash_sha256": "17a69e47a7e245944530e60ddee0ba8a23585bfe02272ef376fb97ee64c8dc31",
@@ -62612,6 +62628,19 @@
       }
     },
     {
+      "world": "https://github.com/vyneras/Archipelago/releases/download/1.1.3/pokemon_frlg.apworld",
+      "size": 1557819,
+      "hash_sha256": "9455c0fa943e3c96c702cbdde588df45c05b6ce7df66271aac85c82044ee78ba",
+      "metadata": {
+        "game": "Pokemon FireRed and LeafGreen",
+        "id": "pokemon_frlg",
+        "world_version": "1.1.3",
+        "tag_version": "1.1.3",
+        "created_at": "2026-09-16T19:20:02Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/pokepinball_v0.0.1/pokemon_pinball.apworld",
       "size": 27058,
       "hash_sha256": "7996004a72a59dc4c6fdec12af181c4b21bcf6977f2eadebb5cb55ac17e55b5c",
@@ -80516,6 +80545,19 @@
         "world_version": "1.6.0",
         "tag_version": "1.6.0",
         "created_at": "2026-09-16T12:28:57Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.7.0/stick_ranger.apworld",
+      "size": 40051,
+      "hash_sha256": "ac3a0bface0f75e389dbba24ecb9c077a1c4868971e4701e531a5f3cecda236e",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.7.0",
+        "tag_version": "1.7.0",
+        "created_at": "2026-09-16T17:39:19Z",
         "minimum_ap_version": "0.6.7"
       }
     },
