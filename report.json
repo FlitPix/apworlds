@@ -1,7 +1,7 @@
 {
-  "total_repositories": 443,
-  "total_packages": 543,
-  "total_versions": 6813,
+  "total_repositories": 441,
+  "total_packages": 542,
+  "total_versions": 6815,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -247,7 +247,7 @@
     "manual_pokemonplatinum_linneus": false,
     "manual_pokemonsnap_alirobotnik": false,
     "manual_powerwashsimulator_hallojasper": false,
-    "manual_residentevil4_vincentssin": false,
+    "manual_residentevil4_vincentssin": true,
     "manual_residentevil5_garbo": false,
     "manual_riftofthenecrodancer_axxroy": false,
     "manual_skylandersgiants_thisguyhere": true,
@@ -450,7 +450,6 @@
     "tyrian": true,
     "ufo50": true,
     "ultrakill": true,
-    "ut99": true,
     "vampire_survivors": true,
     "vespadian": false,
     "voidstranger": true,

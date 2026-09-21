@@ -43722,6 +43722,32 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.4/manual_onemorenight_wolfboi008.apworld",
+      "size": 72369,
+      "hash_sha256": "5383ce85a275a64ff5f50b08b1c8b152cde0182fcfc4cbf5e25f9ab5d2882575",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.4",
+        "tag_version": "2.3.4",
+        "created_at": "2026-09-21T12:11:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.3/manual_onemorenight_wolfboi008.apworld",
+      "size": 72378,
+      "hash_sha256": "2e62e8715897303ae4cbaec092c2542e970f70fd7ef5e76a74b7b1e2f0dffa4e",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.3",
+        "tag_version": "2.3.3",
+        "created_at": "2026-09-21T10:54:35Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/nicopop/ManualApworlds/releases/download/6.4.0/manual_outerwilds_nicopopxd.apworld",
       "size": 73676,
       "hash_sha256": "d6f034c2e7a17a3d1f4a53f83d24c1a35f17f82c01a48539257ad408220bdffe",
@@ -44852,6 +44878,19 @@
         "tag_version": "2.1.4",
         "created_at": "2026-05-03T18:27:57Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.2.0/manual_residentevil4_vincentssin.apworld",
+      "size": 97840,
+      "hash_sha256": "292b0662df68f85a173e75008a5a20519894df222a44777a2baf31c4ed5c7977",
+      "metadata": {
+        "game": "Manual_ResidentEvil4_VincentsSin",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2026-09-21T05:25:57Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -89856,21 +89895,6 @@
       }
     },
     {
-      "world": "https://github.com/soaringjupiter/UT99-Archipelago/releases/download/v0.0.1/ut99.apworld",
-      "size": 21714,
-      "hash_sha256": "01278bc88b369098538e80891c4708eea69cef8ae94a83c4b00a06bcff7efbb5",
-      "metadata": {
-        "game": "Unreal Tournament 1999",
-        "id": "ut99",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2025-05-16T16:24:40Z",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v.0.1/vampire_survivors.apworld",
       "size": 27782,
       "hash_sha256": "7660301af0920510d6531f713f3ed04a7f1dd64efb31847a3ad1d183b1ef4c1a",
@@ -94911,10 +94935,6 @@
     "ultrakill": {
       "game": "ULTRAKILL",
       "description": "MANKIND IS DEAD. BLOOD IS FUEL. HELL IS FULL."
-    },
-    "ut99": {
-      "game": "Unreal Tournament 1999",
-      "description": ""
     },
     "vampire_survivors": {
       "game": "Vampire Survivors",
