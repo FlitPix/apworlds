@@ -75,6 +75,18 @@
       "title": "Custom Robo AP V0.3",
       "version_simple": "0.3",
       "world_version": "0.3"
+    },
+    "V1.0": {
+      "created_at": "2026-09-21T01:14:24Z",
+      "download_url": "https://github.com/Metaruler/ArchipelagoCR/releases/download/V1.0/custom_robo.apworld",
+      "has_manifest": false,
+      "hash_sha256": "05398870aef5927d7d958c1a3e0bbfd97b806c064dd3591fc436a010dc2eeea5",
+      "size": 118817,
+      "source_url": "https://api.github.com/repos/Metaruler/ArchipelagoCR",
+      "tag": "V1.0",
+      "title": "Custom Robo AP V1.0",
+      "version_simple": "1.0",
+      "world_version": "1.0"
     }
   }
 }
