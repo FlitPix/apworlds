@@ -7234,6 +7234,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.7.1/bg3.apworld",
+      "size": 691469,
+      "hash_sha256": "c64f909f69d82b828234e78da29abc306fc79afe697db8cad5a7c13854235649",
+      "metadata": {
+        "game": "Baldur's Gate 3",
+        "id": "bg3",
+        "world_version": "0.7.1",
+        "tag_version": "0.7.1",
+        "created_at": "2026-09-22T08:13:34Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cynichill/APBingo/releases/download/0.1.0/Bingo.apworld",
       "size": 14220,
       "hash_sha256": "b2ce957dce41d6b3b45a24e0a276d15948284d02243c40f6692e1424764d0776",
@@ -14234,6 +14250,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.8/crosscode.apworld",
+      "size": 146547,
+      "hash_sha256": "d4df2d66cbb0d34ddd74a57c2102cec1addf4df24ebe32b418cd0a577870a600",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.9.8",
+        "tag_version": "0.9.8",
+        "created_at": "2026-09-22T07:26:10Z"
       }
     },
     {
@@ -43604,6 +43632,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.5/manual_onemorenight_wolfboi008.apworld",
+      "size": 72379,
+      "hash_sha256": "f3a1505fc1b1a54cce934b9d55b7c21279e76d0c7c5f1364ebb24fb7031cc1cd",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.5",
+        "tag_version": "2.3.5",
+        "created_at": "2026-09-21T14:01:22Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -43745,19 +43786,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.5/manual_onemorenight_wolfboi008.apworld",
-      "size": 72379,
-      "hash_sha256": "f3a1505fc1b1a54cce934b9d55b7c21279e76d0c7c5f1364ebb24fb7031cc1cd",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.3.5",
-        "tag_version": "2.3.5",
-        "created_at": "2026-09-21T14:01:22Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -58756,6 +58784,18 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.1/plateup.apworld",
+      "size": 35762,
+      "hash_sha256": "ba767e83cf808eb6b27f7887d12a2bb75ed15d3a651545130c1e4e8ad4cabd9c",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.7.1",
+        "tag_version": "0.2.7.1",
+        "created_at": "2026-09-22T14:06:43Z"
       }
     },
     {
