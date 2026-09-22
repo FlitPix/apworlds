@@ -43578,6 +43578,32 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.3/manual_onemorenight_wolfboi008.apworld",
+      "size": 72378,
+      "hash_sha256": "2e62e8715897303ae4cbaec092c2542e970f70fd7ef5e76a74b7b1e2f0dffa4e",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.3",
+        "tag_version": "2.3.3",
+        "created_at": "2026-09-21T10:54:35Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.4/manual_onemorenight_wolfboi008.apworld",
+      "size": 72369,
+      "hash_sha256": "5383ce85a275a64ff5f50b08b1c8b152cde0182fcfc4cbf5e25f9ab5d2882575",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.4",
+        "tag_version": "2.3.4",
+        "created_at": "2026-09-21T12:11:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -43722,28 +43748,15 @@
       }
     },
     {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.4/manual_onemorenight_wolfboi008.apworld",
-      "size": 72369,
-      "hash_sha256": "5383ce85a275a64ff5f50b08b1c8b152cde0182fcfc4cbf5e25f9ab5d2882575",
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.5/manual_onemorenight_wolfboi008.apworld",
+      "size": 72379,
+      "hash_sha256": "f3a1505fc1b1a54cce934b9d55b7c21279e76d0c7c5f1364ebb24fb7031cc1cd",
       "metadata": {
         "game": "Manual_OneMoreNight_WolfBoi008",
         "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.3.4",
-        "tag_version": "2.3.4",
-        "created_at": "2026-09-21T12:11:04Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.3/manual_onemorenight_wolfboi008.apworld",
-      "size": 72378,
-      "hash_sha256": "2e62e8715897303ae4cbaec092c2542e970f70fd7ef5e76a74b7b1e2f0dffa4e",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.3.3",
-        "tag_version": "2.3.3",
-        "created_at": "2026-09-21T10:54:35Z",
+        "world_version": "2.3.5",
+        "tag_version": "2.3.5",
+        "created_at": "2026-09-21T14:01:22Z",
         "maximum_ap_version": "0.6.99"
       }
     },
