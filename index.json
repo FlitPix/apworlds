@@ -393,6 +393,18 @@
       }
     },
     {
+      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v1.2.2/against_the_storm.apworld",
+      "size": 20353,
+      "hash_sha256": "799ad04f9ca06f8bbee076686d52d8b890d1179834ba2b5f793b2c9df6a0b663",
+      "metadata": {
+        "game": "Against the Storm",
+        "id": "against_the_storm",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-08-27T00:57:10Z"
+      }
+    },
+    {
       "world": "https://github.com/qwint/ap-air-delivery/releases/download/0.1.0/air_delivery.apworld",
       "size": 4362,
       "hash_sha256": "cf7be615990b5948b9b7e0429cf94fa67c6195e6cfe9772df9e74bae26790fd3",
@@ -14238,6 +14250,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.8/crosscode.apworld",
+      "size": 146547,
+      "hash_sha256": "d4df2d66cbb0d34ddd74a57c2102cec1addf4df24ebe32b418cd0a577870a600",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.9.8",
+        "tag_version": "0.9.8",
+        "created_at": "2026-09-22T07:26:10Z"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.8-pre.1/crosscode.apworld",
       "size": 146479,
       "hash_sha256": "ea54a4344a79e28ccbafb35276eb10cf3cc2dd812632a0b47805c53a39bdeb60",
@@ -14250,18 +14274,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.8/crosscode.apworld",
-      "size": 146547,
-      "hash_sha256": "d4df2d66cbb0d34ddd74a57c2102cec1addf4df24ebe32b418cd0a577870a600",
-      "metadata": {
-        "game": "CrossCode",
-        "id": "crosscode",
-        "world_version": "0.9.8",
-        "tag_version": "0.9.8",
-        "created_at": "2026-09-22T07:26:10Z"
       }
     },
     {
@@ -17706,6 +17718,19 @@
         "tag_version": "0.18.0",
         "created_at": "2026-03-12T13:48:26Z",
         "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.20/deep_rock_galactic.apworld",
+      "size": 45714,
+      "hash_sha256": "6eca9694ea3eae0dec0c40854b122ec4f12fbb9a8f3c024b69ad54809838e549",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.20.1",
+        "tag_version": "0.20.1",
+        "created_at": "2026-09-02T20:48:34Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -58774,6 +58799,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.1/plateup.apworld",
+      "size": 35762,
+      "hash_sha256": "ba767e83cf808eb6b27f7887d12a2bb75ed15d3a651545130c1e4e8ad4cabd9c",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.7.1",
+        "tag_version": "0.2.7.1",
+        "created_at": "2026-09-22T14:06:43Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
       "size": 15365,
       "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
@@ -58784,18 +58821,6 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.1/plateup.apworld",
-      "size": 35762,
-      "hash_sha256": "ba767e83cf808eb6b27f7887d12a2bb75ed15d3a651545130c1e4e8ad4cabd9c",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.2.7.1",
-        "tag_version": "0.2.7.1",
-        "created_at": "2026-09-22T14:06:43Z"
       }
     },
     {
@@ -63055,6 +63080,19 @@
         "world_version": "0.2.1",
         "tag_version": "0.2.1",
         "created_at": "2026-09-21T00:50:04Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/ljtpetersen/platinum_archipelago/releases/download/v0.2.2/pokemon_platinum.apworld",
+      "size": 1330044,
+      "hash_sha256": "56c3e0b16c244642779475db25de9cd0b513b6a9a6eeef7532744c99c5a0e0cf",
+      "metadata": {
+        "game": "Pokemon Platinum",
+        "id": "pokemon_platinum",
+        "world_version": "0.2.2",
+        "tag_version": "0.2.2",
+        "created_at": "2026-09-22T18:47:38Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -87289,6 +87327,19 @@
         "world_version": "0.3.3",
         "tag_version": "0.3.3",
         "created_at": "2026-07-30T06:28:03Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.4/tracker.apworld",
+      "size": 173726,
+      "hash_sha256": "2978cabdac919ba19a7fddb0ed0cf79bee5553f29a6b681f2941a79e0ba02f75",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-09-23T03:05:11Z",
         "minimum_ap_version": "0.6.2"
       }
     },
