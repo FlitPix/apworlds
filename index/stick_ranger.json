@@ -131,6 +131,32 @@
       "title": "1.8.0",
       "version_simple": "1.8.0",
       "world_version": "1.8.0"
+    },
+    "1.8.1": {
+      "created_at": "2026-09-23T05:43:50Z",
+      "download_url": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.1/stick_ranger.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1d6808efcb46b19918452510f51bc3c6d6fc82ea3386c61b2aab957671c490b6",
+      "minimum_ap_version": "0.6.7",
+      "size": 43088,
+      "source_url": "https://api.github.com/repos/Kryen112/AP_Stick_Ranger",
+      "tag": "1.8.1",
+      "title": "1.8.1",
+      "version_simple": "1.8.1",
+      "world_version": "1.8.1"
+    },
+    "1.8.2": {
+      "created_at": "2026-09-23T07:05:47Z",
+      "download_url": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.2/stick_ranger.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b4bda396e778d33dacf187d79627966b0878705efece6b4328edde39e8deaf78",
+      "minimum_ap_version": "0.6.7",
+      "size": 43088,
+      "source_url": "https://api.github.com/repos/Kryen112/AP_Stick_Ranger",
+      "tag": "1.8.2",
+      "title": "1.8.2",
+      "version_simple": "1.8.2",
+      "world_version": "1.8.2"
     }
   }
 }
