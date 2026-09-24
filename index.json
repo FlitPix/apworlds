@@ -3443,6 +3443,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.26/apworld_manager.apworld",
+      "size": 542937,
+      "hash_sha256": "0f0ec633e2a632d5a9355b0845c54858e873eb4dafc138946655060c502fea86",
+      "metadata": {
+        "game": "APWorld Manager",
+        "id": "apworld_manager",
+        "world_version": "0.0.26",
+        "tag_version": "0.0.26",
+        "created_at": "2026-09-24T00:26:00Z"
+      }
+    },
+    {
       "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
       "size": 94112,
       "hash_sha256": "b7fa1c29a74a0e727637d23b755cb5ed9b6292a5a6fe9f96cbf99e5e5a08d181",
@@ -41846,6 +41858,19 @@
       }
     },
     {
+      "world": "https://github.com/JBtheShadow/APManuals/releases/download/v1.2.0/manual_fantasylife_jbtheshadow.apworld",
+      "size": 153346,
+      "hash_sha256": "6e5649ae668aab49df89fb814c7185a2cd60d734d0a5e7a646341c3e938be32d",
+      "metadata": {
+        "game": "Manual_FantasyLife_JBtheShadow",
+        "id": "manual_fantasylife_jbtheshadow",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-09-23T15:45:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Fellowship/releases/download/2025.09.02/manual_fellowship_chakraa.apworld",
       "size": 52550,
       "hash_sha256": "068794b4134f38b3fbe7e0203004e9bf59d6da7810fa54f1587a88bd6365e99e",
@@ -43811,6 +43836,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.6/manual_onemorenight_wolfboi008.apworld",
+      "size": 72738,
+      "hash_sha256": "1773a5cda711712249667ff8b53f466dbe3f1c2c1bdbcbf84269d7c73a32c164",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.6",
+        "tag_version": "2.3.6",
+        "created_at": "2026-09-21T19:03:12Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -80851,19 +80889,6 @@
       }
     },
     {
-      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.2/stick_ranger.apworld",
-      "size": 43088,
-      "hash_sha256": "b4bda396e778d33dacf187d79627966b0878705efece6b4328edde39e8deaf78",
-      "metadata": {
-        "game": "Stick Ranger",
-        "id": "stick_ranger",
-        "world_version": "1.8.2",
-        "tag_version": "1.8.2",
-        "created_at": "2026-09-23T07:05:47Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.1/stick_ranger.apworld",
       "size": 43088,
       "hash_sha256": "1d6808efcb46b19918452510f51bc3c6d6fc82ea3386c61b2aab957671c490b6",
@@ -80873,6 +80898,19 @@
         "world_version": "1.8.1",
         "tag_version": "1.8.1",
         "created_at": "2026-09-23T05:43:50Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.2/stick_ranger.apworld",
+      "size": 43088,
+      "hash_sha256": "b4bda396e778d33dacf187d79627966b0878705efece6b4328edde39e8deaf78",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.2",
+        "tag_version": "1.8.2",
+        "created_at": "2026-09-23T07:05:47Z",
         "minimum_ap_version": "0.6.7"
       }
     },
