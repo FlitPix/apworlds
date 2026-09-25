@@ -41524,6 +41524,19 @@
       }
     },
     {
+      "world": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.1.6/manual_dbdsurven_wabadjakk.apworld",
+      "size": 60380,
+      "hash_sha256": "954137d63509c02435ebfeb6fbda6697a5271d04ebdf4cc52752991b369f39bf",
+      "metadata": {
+        "game": "Manual_DbDSurvEN_Wabadjakk",
+        "id": "manual_dbdsurven_wabadjakk",
+        "world_version": "1.1.6",
+        "tag_version": "1.1.6",
+        "created_at": "2025-08-02T17:09:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.0.0/manual_dbdsurvfr_wabadjakk.apworld",
       "size": 59040,
       "hash_sha256": "0f147776df4ecf31c94723ea7b47fb9eab7ec8180fb9066a25471065cb533248",
@@ -41597,6 +41610,19 @@
         "id": "manual_dbdsurvfr_wabadjakk",
         "world_version": "1.1.4",
         "tag_version": "1.1.4",
+        "created_at": "2025-08-02T17:09:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.1.6/manual_dbdsurvfr_wabadjakk.apworld",
+      "size": 61289,
+      "hash_sha256": "aa59ff883931bd7f606b7a13639147fbe6593deee83ab22c1ec0e14cfebaf4f3",
+      "metadata": {
+        "game": "Manual_DbDSurvFR_Wabadjakk",
+        "id": "manual_dbdsurvfr_wabadjakk",
+        "world_version": "1.1.6",
+        "tag_version": "1.1.6",
         "created_at": "2025-08-02T17:09:15Z",
         "maximum_ap_version": "0.6.99"
       }
@@ -52175,6 +52201,19 @@
         "world_version": "1.5.36",
         "tag_version": "1.5.36",
         "created_at": "2026-07-31T09:48:08Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.37/musedash.apworld",
+      "size": 37412,
+      "hash_sha256": "ffa29ace3b096e20c4719772d1022b2bc68c9c350146b540dcd6ed34716c4a34",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.37",
+        "tag_version": "1.5.37",
+        "created_at": "2026-09-25T09:39:06Z",
         "minimum_ap_version": "0.6.3"
       }
     },

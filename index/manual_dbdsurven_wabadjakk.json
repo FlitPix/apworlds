@@ -75,6 +75,18 @@
       "title": "Dead by Daylight Survivor Manual V.1.1.4",
       "version_simple": "1.1.4",
       "world_version": "1.1.4"
+    },
+    "V.1.1.6": {
+      "created_at": "2025-08-02T17:09:15Z",
+      "download_url": "https://github.com/Wabadjakk/AP_manual_DbDSurv/releases/download/V.1.1.6/manual_dbdsurven_wabadjakk.apworld",
+      "has_manifest": false,
+      "hash_sha256": "954137d63509c02435ebfeb6fbda6697a5271d04ebdf4cc52752991b369f39bf",
+      "size": 60380,
+      "source_url": "https://api.github.com/repos/Wabadjakk/AP_manual_DbDSurv",
+      "tag": "V.1.1.6",
+      "title": "Dead by Daylight Survivor Manual V.1.1.6",
+      "version_simple": "1.1.6",
+      "world_version": "1.1.6"
     }
   }
 }
