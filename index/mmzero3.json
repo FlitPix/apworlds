@@ -279,6 +279,19 @@
       "title": "Mega Man Zero 3 APWorld v0.3.5",
       "version_simple": "0.3.5",
       "world_version": "0.3.5"
+    },
+    "v0.3.6": {
+      "created_at": "2026-09-25T02:25:48Z",
+      "download_url": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.3.6/mmzero3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "518ce5a125d711c02b37129bf0e947c3626a4d88b703dffadbbc87b523e591f5",
+      "minimum_ap_version": "0.6.7",
+      "size": 114695,
+      "source_url": "https://api.github.com/repos/brodieberger/MMZero3Archipelago",
+      "tag": "v0.3.6",
+      "title": "Mega Man Zero 3 APWorld v0.3.6",
+      "version_simple": "0.3.6",
+      "world_version": "0.3.6"
     }
   }
 }

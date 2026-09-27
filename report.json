@@ -1,7 +1,7 @@
 {
   "total_repositories": 441,
   "total_packages": 543,
-  "total_versions": 6837,
+  "total_versions": 6841,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -153,7 +153,7 @@
     "ittle_dew_2": false,
     "jakanddaxter": true,
     "jakii": true,
-    "jet_island": false,
+    "jet_island": true,
     "jigsaw": true,
     "junko": true,
     "k64": true,
@@ -300,7 +300,7 @@
     "mmx2": true,
     "mmx3": true,
     "mmx4": false,
-    "mmzero3": false,
+    "mmzero3": true,
     "momodoramoonlitfarewell": false,
     "monster_sanctuary": false,
     "monsterhunterfrontier": false,
