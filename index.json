@@ -63033,6 +63033,19 @@
       }
     },
     {
+      "world": "https://github.com/vyneras/Archipelago/releases/download/1.1.4/pokemon_frlg.apworld",
+      "size": 1558009,
+      "hash_sha256": "f612f4be7c1f8f77c6d6410e75c60645274b5129a37ac23c02c3e1616a88c4b9",
+      "metadata": {
+        "game": "Pokemon FireRed and LeafGreen",
+        "id": "pokemon_frlg",
+        "world_version": "1.1.4",
+        "tag_version": "1.1.4",
+        "created_at": "2026-09-28T16:44:01Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/pokepinball_v0.0.1/pokemon_pinball.apworld",
       "size": 27058,
       "hash_sha256": "7996004a72a59dc4c6fdec12af181c4b21bcf6977f2eadebb5cb55ac17e55b5c",
@@ -81068,6 +81081,71 @@
         "world_version": "1.8.2",
         "tag_version": "1.8.2",
         "created_at": "2026-09-23T07:05:47Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.7/stick_ranger.apworld",
+      "size": 46338,
+      "hash_sha256": "4eef6e0f3e32f3a93f162ef1ef6995bbbb945c63dddd3ee5297a29899c9860bc",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.7",
+        "tag_version": "1.8.7",
+        "created_at": "2026-09-28T15:02:45Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.6/stick_ranger.apworld",
+      "size": 46340,
+      "hash_sha256": "33bd0d643f68cb70aa16406f03f5a3fc8050f7ae2eb97bfe3992dcda88b5f2a2",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.6",
+        "tag_version": "1.8.6",
+        "created_at": "2026-09-28T14:13:15Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.5/stick_ranger.apworld",
+      "size": 46340,
+      "hash_sha256": "308eddb3b4195a38b1834235b96f24f67b47dfb6fce5134d62b4947c3af4c6c4",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.5",
+        "tag_version": "1.8.5",
+        "created_at": "2026-09-28T12:46:29Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.4/stick_ranger.apworld",
+      "size": 43088,
+      "hash_sha256": "9bdb9feaa74d2deceb2e10bb95f7696d88ce56f1ccffde8552140d1cd073bb5c",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.4",
+        "tag_version": "1.8.4",
+        "created_at": "2026-09-28T11:26:11Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.3/stick_ranger.apworld",
+      "size": 43088,
+      "hash_sha256": "b36792ad26b43fb25b22882d6ec869f05af94ca050bf0da3ef136fdbb668ed5d",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.3",
+        "tag_version": "1.8.3",
+        "created_at": "2026-09-28T07:16:49Z",
         "minimum_ap_version": "0.6.7"
       }
     },
