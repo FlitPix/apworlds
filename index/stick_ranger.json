@@ -1,5 +1,5 @@
 {
-  "description": "",
+  "description": "Stick Ranger is a unique 2D action RPG developed by Dan-Ball.\nAssemble a team of rangers, customize their classes, and battle through a variety of stages filled with enemies.",
   "game": "Stick Ranger",
   "github": "https://github.com/Kryen112/AP_Stick_Ranger",
   "license": "MIT",
@@ -157,6 +157,19 @@
       "title": "1.8.2",
       "version_simple": "1.8.2",
       "world_version": "1.8.2"
+    },
+    "1.8.3": {
+      "created_at": "2026-09-28T07:16:49Z",
+      "download_url": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.3/stick_ranger.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b36792ad26b43fb25b22882d6ec869f05af94ca050bf0da3ef136fdbb668ed5d",
+      "minimum_ap_version": "0.6.7",
+      "size": 43088,
+      "source_url": "https://api.github.com/repos/Kryen112/AP_Stick_Ranger",
+      "tag": "1.8.3",
+      "title": "1.8.3",
+      "version_simple": "1.8.3",
+      "world_version": "1.8.3"
     }
   }
 }
