@@ -159,6 +159,30 @@
       "title": "Archipelago Randomizer v1.7.5.1",
       "version_simple": "1.7.5.1",
       "world_version": "1.7.5.1"
+    },
+    "AP-v1.7.5.1r2": {
+      "created_at": "2025-08-22T13:22:18Z",
+      "download_url": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.7.5.1/momodoramoonlitfarewell.apworld",
+      "has_manifest": false,
+      "hash_sha256": "dd2ed383e096ed846cf3b465bd1155cd1c4d980c07ce2b041f404b7a578b8c55",
+      "size": 11726,
+      "source_url": "https://api.github.com/repos/alditoOt/Momodora-Moonlit-Farewell-Randomizer",
+      "tag": "AP-v1.7.5.1r2",
+      "title": "Archipelago Randomizer v1.7.5.1",
+      "version_simple": "1.7.5.1",
+      "world_version": "1.7.5.1.post2"
+    },
+    "AP-v1.8.0": {
+      "created_at": "2026-09-29T02:14:28Z",
+      "download_url": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.8.0/momodoramoonlitfarewell.apworld",
+      "has_manifest": false,
+      "hash_sha256": "dd2ed383e096ed846cf3b465bd1155cd1c4d980c07ce2b041f404b7a578b8c55",
+      "size": 11726,
+      "source_url": "https://api.github.com/repos/alditoOt/Momodora-Moonlit-Farewell-Randomizer",
+      "tag": "AP-v1.8.0",
+      "title": "Archipelago Randomizer v1.8.0",
+      "version_simple": "1.8.0",
+      "world_version": "1.8.0"
     }
   }
 }
