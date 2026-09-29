@@ -51494,19 +51494,6 @@
       }
     },
     {
-      "world": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.8.0/momodoramoonlitfarewell.apworld",
-      "size": 11726,
-      "hash_sha256": "dd2ed383e096ed846cf3b465bd1155cd1c4d980c07ce2b041f404b7a578b8c55",
-      "metadata": {
-        "game": "Momodora Moonlit Farewell",
-        "id": "momodoramoonlitfarewell",
-        "world_version": "1.8.0",
-        "tag_version": "1.8.0",
-        "created_at": "2026-09-29T02:14:28Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.7.5.1/momodoramoonlitfarewell.apworld",
       "size": 11726,
       "hash_sha256": "dd2ed383e096ed846cf3b465bd1155cd1c4d980c07ce2b041f404b7a578b8c55",
@@ -51516,6 +51503,19 @@
         "world_version": "1.7.5.1.post2",
         "tag_version": "1.7.5.1.post2",
         "created_at": "2025-08-22T13:22:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.8.0/momodoramoonlitfarewell.apworld",
+      "size": 11726,
+      "hash_sha256": "dd2ed383e096ed846cf3b465bd1155cd1c4d980c07ce2b041f404b7a578b8c55",
+      "metadata": {
+        "game": "Momodora Moonlit Farewell",
+        "id": "momodoramoonlitfarewell",
+        "world_version": "1.8.0",
+        "tag_version": "1.8.0",
+        "created_at": "2026-09-29T02:14:28Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -81215,6 +81215,45 @@
       }
     },
     {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.11/stick_ranger.apworld",
+      "size": 50216,
+      "hash_sha256": "a4a3e564b3346dedf20c887e53f27313493ecc7490cebd7497f9bae74083ed37",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.11",
+        "tag_version": "1.8.11",
+        "created_at": "2026-09-29T15:47:47Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.10/stick_ranger.apworld",
+      "size": 48008,
+      "hash_sha256": "6b0540e0b12f2252e79072f08de3234281c628ec651095f44d33613fd6a12546",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.10",
+        "tag_version": "1.8.10",
+        "created_at": "2026-09-29T09:11:31Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.9/stick_ranger.apworld",
+      "size": 48007,
+      "hash_sha256": "b51d9c3ee7a4b1974b59e26239eb539b1c803aa79c76e43f122e4abe0cacdb30",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.9",
+        "tag_version": "1.8.9",
+        "created_at": "2026-09-29T08:50:31Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Ninjakakes/Archipelago/releases/download/sj_v0.1.10/superjunkoid.apworld",
       "size": 1582271,
       "hash_sha256": "7e747eac28bac6911db0b440f346eb27ffa59a8813f6fee7d9db413da7baee76",
@@ -93606,6 +93645,22 @@
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.2.0/zork_grand_inquisitor.apworld",
       "size": 1143021,
       "hash_sha256": "1eb2589169ee01f60ed3c0e2119367a07d6bcdb26c2d1a7ba07bce5ab58396f5",
+      "metadata": {
+        "game": "Zork Grand Inquisitor",
+        "id": "zork_grand_inquisitor",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2026-06-20T02:50:48Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.2.0/zork_grand_inquisitor.apworld",
+      "size": 1144443,
+      "hash_sha256": "d68210bd15b431f88fd9290542e77bcb4a86625ac91aa8969cbdb42a458699a2",
       "metadata": {
         "game": "Zork Grand Inquisitor",
         "id": "zork_grand_inquisitor",
