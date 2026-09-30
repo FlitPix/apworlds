@@ -1,8 +1,6 @@
 {
   "description": "Zork: Grand Inquisitor is a 1997 point-and-click adventure game for PC.\nMagic has been banned from the great Underground Empire of Zork. By edict of the Grand Inquisitor Mir Yannick, the\nEmpire has been sealed off and the practice of mystic arts declared punishable by \"Totemization\" (a very bad thing).\nThe only way to restore magic to the kingdom is to find three hidden artifacts: The Coconut of Quendor, The Cube of\nFoundation, and The Skull of Yoruk.",
-  "flags": [
-    "tracker_included"
-  ],
+  "flags": [],
   "game": "Zork Grand Inquisitor",
   "github": "https://github.com/SerpentAI/Archipelago",
   "license": null,
@@ -271,6 +269,19 @@
       "title": "Zork Grand Inquisitor - 2.2.0",
       "version_simple": "2.2.0",
       "world_version": "2.2.0"
+    },
+    "zgi-v3.0.0": {
+      "created_at": "2026-09-30T02:55:25Z",
+      "download_url": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v3.0.0/zork_grand_inquisitor.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c93047be42cf43df8eab529126289d6d8c3b90bcd8d54d980ffcb6370e0b91f9",
+      "minimum_ap_version": "0.6.7",
+      "size": 1168064,
+      "source_url": "https://api.github.com/repos/SerpentAI/Archipelago",
+      "tag": "zgi-v3.0.0",
+      "title": "Zork Grand Inquisitor - 3.0.0",
+      "version_simple": "3.0.0",
+      "world_version": "3.0.0"
     }
   }
 }
