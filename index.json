@@ -35842,6 +35842,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.6/ladx_beta.apworld",
+      "size": 370187,
+      "hash_sha256": "02c714e1f4e5465e066c5dab7e5aa867f996b46eea13a04cb07d03ba9e4a2b79",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.4.6",
+        "tag_version": "13.4.6",
+        "created_at": "2026-09-29T20:02:25Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -36213,19 +36226,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.6/ladx_beta.apworld",
-      "size": 370187,
-      "hash_sha256": "02c714e1f4e5465e066c5dab7e5aa867f996b46eea13a04cb07d03ba9e4a2b79",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.4.6",
-        "tag_version": "13.4.6",
-        "created_at": "2026-09-29T20:02:25Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -43815,6 +43815,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.4.0/manual_onemorenight_wolfboi008.apworld",
+      "size": 74979,
+      "hash_sha256": "06b9a61ed8203fa2bb1e791018ea506f92e74267417eff551a72ee5e07424a73",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.4.0",
+        "tag_version": "2.4.0",
+        "created_at": "2026-09-21T19:03:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -43959,15 +43972,28 @@
       }
     },
     {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.4.0/manual_onemorenight_wolfboi008.apworld",
-      "size": 74979,
-      "hash_sha256": "06b9a61ed8203fa2bb1e791018ea506f92e74267417eff551a72ee5e07424a73",
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.4.2/manual_onemorenight_wolfboi008.apworld",
+      "size": 74962,
+      "hash_sha256": "44ffe6470d000407682445df6e981f6bf27a2d19467778aaaecebce37e540f21",
       "metadata": {
         "game": "Manual_OneMoreNight_WolfBoi008",
         "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.4.0",
-        "tag_version": "2.4.0",
-        "created_at": "2026-09-21T19:03:12Z",
+        "world_version": "2.4.2",
+        "tag_version": "2.4.2",
+        "created_at": "2026-09-30T04:34:42Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.4.1/manual_onemorenight_wolfboi008.apworld",
+      "size": 74968,
+      "hash_sha256": "698a9f980e55e55f0b01c98932037fe5623a61bf5a9c7f0f5f180cbce48f5bd8",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.4.1",
+        "tag_version": "2.4.1",
+        "created_at": "2026-09-30T03:17:20Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -48574,19 +48600,6 @@
       }
     },
     {
-      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
-      "size": 470162,
-      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
-      "metadata": {
-        "game": "Hatsune Miku Project Diva Mega Mix+",
-        "id": "megamix",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2024-07-03T21:21:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.3B/megamix.apworld",
       "size": 41349,
       "hash_sha256": "9743e53ccc352ab7d06cbc0e5dd720ecbc1ad4114f068bf2c8d1693138462ba2",
@@ -48597,6 +48610,19 @@
         "tag_version": "1.5.3",
         "created_at": "2026-09-15T14:30:25Z",
         "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
+      "size": 470162,
+      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2024-07-03T21:21:03Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -58914,6 +58940,18 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.2/plateup.apworld",
+      "size": 37843,
+      "hash_sha256": "84eff36c5387f7997317dc0e435e787b30a6838fbd9015e0b91e3a0f6ca66d80",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.7.2",
+        "tag_version": "0.2.7.2",
+        "created_at": "2026-08-07T05:00:24Z"
       }
     },
     {
