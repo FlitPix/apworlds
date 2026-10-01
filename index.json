@@ -37064,6 +37064,21 @@
       }
     },
     {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.8.0-rc2/lethal_company.apworld",
+      "size": 456178,
+      "hash_sha256": "0aeeff23bb156c79fecb4f068054a50428a83436171e0d63bebef27e5cf2a616",
+      "metadata": {
+        "game": "Lethal Company",
+        "id": "lethal_company",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-10-01T01:45:14Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Xtruh/LiesOfAP/releases/download/0.1.0/liesofp.apworld",
       "size": 200858,
       "hash_sha256": "a5cde334a36fccaa7d1dba48d71930ea8c8254a6201af56f13a969eefa200040",
@@ -43828,6 +43843,32 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.4.1/manual_onemorenight_wolfboi008.apworld",
+      "size": 74968,
+      "hash_sha256": "698a9f980e55e55f0b01c98932037fe5623a61bf5a9c7f0f5f180cbce48f5bd8",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.4.1",
+        "tag_version": "2.4.1",
+        "created_at": "2026-09-30T03:17:20Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.4.2/manual_onemorenight_wolfboi008.apworld",
+      "size": 74962,
+      "hash_sha256": "44ffe6470d000407682445df6e981f6bf27a2d19467778aaaecebce37e540f21",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.4.2",
+        "tag_version": "2.4.2",
+        "created_at": "2026-09-30T04:34:42Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -43969,32 +44010,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.4.2/manual_onemorenight_wolfboi008.apworld",
-      "size": 74962,
-      "hash_sha256": "44ffe6470d000407682445df6e981f6bf27a2d19467778aaaecebce37e540f21",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.4.2",
-        "tag_version": "2.4.2",
-        "created_at": "2026-09-30T04:34:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.4.1/manual_onemorenight_wolfboi008.apworld",
-      "size": 74968,
-      "hash_sha256": "698a9f980e55e55f0b01c98932037fe5623a61bf5a9c7f0f5f180cbce48f5bd8",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.4.1",
-        "tag_version": "2.4.1",
-        "created_at": "2026-09-30T03:17:20Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -58930,6 +58945,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.2/plateup.apworld",
+      "size": 37843,
+      "hash_sha256": "84eff36c5387f7997317dc0e435e787b30a6838fbd9015e0b91e3a0f6ca66d80",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.7.2",
+        "tag_version": "0.2.7.2",
+        "created_at": "2026-08-07T05:00:24Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
       "size": 15365,
       "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
@@ -58940,18 +58967,6 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.2/plateup.apworld",
-      "size": 37843,
-      "hash_sha256": "84eff36c5387f7997317dc0e435e787b30a6838fbd9015e0b91e3a0f6ca66d80",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.2.7.2",
-        "tag_version": "0.2.7.2",
-        "created_at": "2026-08-07T05:00:24Z"
       }
     },
     {
