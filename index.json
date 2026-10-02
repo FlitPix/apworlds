@@ -14290,6 +14290,21 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.10.0-pre.1/crosscode.apworld",
+      "size": 148825,
+      "hash_sha256": "fd5c25611ec3dadb7dc66a49acb3ba1ca95fded6a635ed1c70fa92b84d7c0785",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-10-02T06:59:14Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.10.0/crystal_project.apworld",
       "size": 121628,
       "hash_sha256": "c08233dcd23ea893a51c6bebe64dd39bdc39962f145515725e0f16329a6ce393",
@@ -27898,6 +27913,19 @@
         "tag_version": "0.5.2",
         "created_at": "2026-06-30T10:37:23Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/FeluciaPS/GarfieldKartAP/releases/download/1.1.0/garfkart.apworld",
+      "size": 22932,
+      "hash_sha256": "ef4d2dc42bbc884c3f470418d92e489ac88955d92834ac22c853880d3bfda2f4",
+      "metadata": {
+        "game": "Garfield Kart - Furious Racing",
+        "id": "garfkart",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-10-02T05:49:37Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -62299,6 +62327,19 @@
       }
     },
     {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/6.0.1/pokemon_crystal.apworld",
+      "size": 982622,
+      "hash_sha256": "81d96ab38a4efdb5cb0d3e67f80e3664ccd889401ea0d3a5ad592db84bd49b5f",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "6.0.1",
+        "tag_version": "6.0.1",
+        "created_at": "2026-10-02T11:15:00Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/vyneras/Archipelago/releases/download/0.1.0-alpha/pokemon_frlg.apworld",
       "size": 648964,
       "hash_sha256": null,
@@ -80855,22 +80896,6 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.15/stardew_valley.apworld",
-      "size": 580920,
-      "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.1.5",
-        "tag_version": "8.1.5",
-        "created_at": "2026-09-06T01:41:14Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.7/stardew_valley.apworld",
       "size": 583943,
       "hash_sha256": "44c4a38ebf8ad67f8c14c329798b7aef6d64f69cd858dca2a453eaa9692f1275",
@@ -80880,6 +80905,22 @@
         "world_version": "8.1.7",
         "tag_version": "8.1.7",
         "created_at": "2026-10-02T03:30:57Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.15/stardew_valley.apworld",
+      "size": 580920,
+      "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.5",
+        "tag_version": "8.1.5",
+        "created_at": "2026-09-06T01:41:14Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
