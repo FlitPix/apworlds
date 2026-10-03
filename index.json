@@ -13408,6 +13408,21 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.10.0-pre.2/crosscode.apworld",
+      "size": 149029,
+      "hash_sha256": "499d1a354267c783f02e064dca7d7353a27c07f5027adc553bbcef682ccb8050",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-10-02T20:22:11Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -14299,21 +14314,6 @@
         "world_version": "0.9.8",
         "tag_version": "0.9.8",
         "created_at": "2026-08-29T06:15:11Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.10.0-pre.2/crosscode.apworld",
-      "size": 149029,
-      "hash_sha256": "499d1a354267c783f02e064dca7d7353a27c07f5027adc553bbcef682ccb8050",
-      "metadata": {
-        "game": "CrossCode",
-        "id": "crosscode",
-        "world_version": "0.10.0",
-        "tag_version": "0.10.0",
-        "created_at": "2026-10-02T20:22:11Z",
         "flags": [
           "prerelease"
         ]
@@ -73270,6 +73270,19 @@
         "tag_version": "0.6.4",
         "created_at": "2024-12-30T09:43:21Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.11.0/slotlock.apworld",
+      "size": 128256,
+      "hash_sha256": "6836fa2466b19717d40ab9a21f11ec247b834e56acaf6f1f402f303aab1e7b8c",
+      "metadata": {
+        "game": "SlotLock",
+        "id": "slotlock",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-10-03T07:33:44Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
