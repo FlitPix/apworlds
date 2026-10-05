@@ -72,6 +72,19 @@
       "version_simple": "0.10.2",
       "world_version": "0.10.2"
     },
+    "0.11.0": {
+      "created_at": "2026-10-04T22:00:34Z",
+      "download_url": "https://github.com/pseudoregalia-modding/pseudoregalia-archipelago/releases/download/0.11.0/pseudoregalia.apworld",
+      "has_manifest": true,
+      "hash_sha256": "9d38052319dae0ad26a3039b03ff710832defa4b8d4239d5c20ffa50d00dabcc",
+      "minimum_ap_version": "0.6.7",
+      "size": 44268,
+      "source_url": "https://api.github.com/repos/pseudoregalia-modding/pseudoregalia-archipelago",
+      "tag": "0.11.0",
+      "title": "In-Game Client Settings",
+      "version_simple": "0.11.0",
+      "world_version": "0.11.0"
+    },
     "0.2.0": {
       "created_at": "2023-09-22T16:19:39Z",
       "download_url": "https://github.com/pseudoregalia-modding/pseudoregalia-archipelago/releases/download/0.2.0/pseudoregalia.apworld",
