@@ -13478,6 +13478,21 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.10.0-pre.3/crosscode.apworld",
+      "size": 149138,
+      "hash_sha256": "bfd6d0975dc39ecd297a448577ba2139c476e74259d47fee8e13ae33eb80c7b7",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-10-05T08:05:31Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.4.0/crosscode.apworld",
       "size": 97267,
       "hash_sha256": "eae51060a81e5904f9b5719e88add1f47ee024a2324981e3384d439101969dc2",
@@ -14369,21 +14384,6 @@
         "world_version": "0.9.8",
         "tag_version": "0.9.8",
         "created_at": "2026-08-29T06:15:11Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.10.0-pre.3/crosscode.apworld",
-      "size": 149138,
-      "hash_sha256": "bfd6d0975dc39ecd297a448577ba2139c476e74259d47fee8e13ae33eb80c7b7",
-      "metadata": {
-        "game": "CrossCode",
-        "id": "crosscode",
-        "world_version": "0.10.0",
-        "tag_version": "0.10.0",
-        "created_at": "2026-10-05T08:05:31Z",
         "flags": [
           "prerelease"
         ]
@@ -44007,6 +44007,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.5.0/manual_onemorenight_wolfboi008.apworld",
+      "size": 75755,
+      "hash_sha256": "6c18d4592bd881f52fdf0c162aad06cb57a90428c97678dff67b3786b59f6ced",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.5.0",
+        "tag_version": "2.5.0",
+        "created_at": "2026-09-30T05:40:28Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -44148,19 +44161,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.5.0/manual_onemorenight_wolfboi008.apworld",
-      "size": 75755,
-      "hash_sha256": "6c18d4592bd881f52fdf0c162aad06cb57a90428c97678dff67b3786b59f6ced",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "2.5.0",
-        "tag_version": "2.5.0",
-        "created_at": "2026-09-30T05:40:28Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -73199,6 +73199,19 @@
       }
     },
     {
+      "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.11.2/slotlock.apworld",
+      "size": 128615,
+      "hash_sha256": "3da82dd106d6bdd24f81356fdfebdbb692f407ade3536d9ff59a6f9018d42da1",
+      "metadata": {
+        "game": "SlotLock",
+        "id": "slotlock",
+        "world_version": "0.11.2",
+        "tag_version": "0.11.2",
+        "created_at": "2026-10-06T01:13:22Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.3.0/slotlock.apworld",
       "size": 14183,
       "hash_sha256": "7bfe5a5ef7e7c7a4a2b9e615e9cf57b55cdf27e7def8ec183278e51ed491b1f1",
@@ -73469,19 +73482,6 @@
         "tag_version": "0.6.4",
         "created_at": "2024-12-30T09:43:21Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/gjgfuj/SlotLock/releases/download/slotlockv0.11.2/slotlock.apworld",
-      "size": 128615,
-      "hash_sha256": "3da82dd106d6bdd24f81356fdfebdbb692f407ade3536d9ff59a6f9018d42da1",
-      "metadata": {
-        "game": "SlotLock",
-        "id": "slotlock",
-        "world_version": "0.11.2",
-        "tag_version": "0.11.2",
-        "created_at": "2026-10-06T01:13:22Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -81336,6 +81336,19 @@
       }
     },
     {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.12/stick_ranger.apworld",
+      "size": 56952,
+      "hash_sha256": "d9de8924af34f2996fa687dbcd80757541c9376bad162b7c13acad8764ac219c",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.12",
+        "tag_version": "1.8.12",
+        "created_at": "2026-10-05T15:07:23Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.2/stick_ranger.apworld",
       "size": 43088,
       "hash_sha256": "b4bda396e778d33dacf187d79627966b0878705efece6b4328edde39e8deaf78",
@@ -81436,19 +81449,6 @@
         "world_version": "1.8.9",
         "tag_version": "1.8.9",
         "created_at": "2026-09-29T08:50:31Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.12/stick_ranger.apworld",
-      "size": 56952,
-      "hash_sha256": "d9de8924af34f2996fa687dbcd80757541c9376bad162b7c13acad8764ac219c",
-      "metadata": {
-        "game": "Stick Ranger",
-        "id": "stick_ranger",
-        "world_version": "1.8.12",
-        "tag_version": "1.8.12",
-        "created_at": "2026-10-05T15:07:23Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -85833,6 +85833,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.10.1/tloz_ph.apworld",
+      "size": 2632160,
+      "hash_sha256": "e78ed642438168cf088cb0415b02bbfe3df7dd6621c8e58b9090062850e23cef",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.10.1",
+        "tag_version": "0.10.1",
+        "created_at": "2026-10-05T08:27:22Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.3-alpha/tloz_ph.apworld",
       "size": 2572164,
       "hash_sha256": "7dea2153bc516775401f8ffb303930cb276b857ad45d7c71ab9c6b428d1ba73c",
@@ -86433,19 +86446,6 @@
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.10.1/tloz_ph.apworld",
-      "size": 2632160,
-      "hash_sha256": "e78ed642438168cf088cb0415b02bbfe3df7dd6621c8e58b9090062850e23cef",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.10.1",
-        "tag_version": "0.10.1",
-        "created_at": "2026-10-05T08:27:22Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
