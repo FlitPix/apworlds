@@ -50231,6 +50231,19 @@
       }
     },
     {
+      "world": "https://github.com/Edsploration/MK64-Archipelago/releases/download/mk64/0.2.7/mk64.apworld",
+      "size": 126365,
+      "hash_sha256": "dfc404a449d3003895c0ea9ccca075c0099ed0acbae89a845ec26224309de7f7",
+      "metadata": {
+        "game": "Mario Kart 64",
+        "id": "mk64",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-04-12T10:07:42Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Silvris/Archipelago/releases/download/mm3_0.0.1/mm3.apworld",
       "size": 77279,
       "hash_sha256": "e59a6fb7bc6083737d19a69724d70b5d97a0dcde116407c8223fcfa394caeadd",
