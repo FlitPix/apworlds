@@ -33135,6 +33135,22 @@
       }
     },
     {
+      "world": "https://github.com/ArchipelaGOAL/Archipelago/releases/download/v1.2.1/jakanddaxter.apworld",
+      "size": 107318,
+      "hash_sha256": "4e50943195b0914583a437d510a8c83fac24b50388011ffdff37a6b612604fc9",
+      "metadata": {
+        "game": "Jak and Daxter The Precursor Legacy",
+        "id": "jakanddaxter",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-06-07T16:21:30Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/narramoment/Archipelago/releases/download/0.0.1/jakii.apworld",
       "size": 97924,
       "hash_sha256": "f1c2c821df1ddac68ba8448356b29ed504752e7cfeb22486d7515a0baf638360",
@@ -33276,6 +33292,19 @@
         "world_version": "0.2.3",
         "tag_version": "0.2.3",
         "created_at": "2026-09-03T03:53:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/narramoment/Archipelago/releases/download/1.0.0/jakii.apworld",
+      "size": 434378,
+      "hash_sha256": "28e5538d2585a5b71005c343377f516de160ff4c95ce2b27ca4e63e5a2f39b14",
+      "metadata": {
+        "game": "Jak II",
+        "id": "jakii",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-10-05T05:10:11Z",
         "maximum_ap_version": "0.6.99"
       }
     },
