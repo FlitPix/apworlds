@@ -719,6 +719,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.6/albw.apworld",
+      "size": 26440772,
+      "hash_sha256": "920a8f539f7a5cb03b6e129ad8244519530860a7ec1d85b780b5315483993ee7",
+      "metadata": {
+        "game": "A Link Between Worlds",
+        "id": "albw",
+        "world_version": "0.3.6",
+        "tag_version": "0.3.6",
+        "created_at": "2026-10-09T14:13:12Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.0/am2r.apworld",
       "size": 33004,
       "hash_sha256": "8d10309d941f39d8223bedb6cecc636bc509ec5f4815b05341538b703e745c69",
