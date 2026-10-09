@@ -1,7 +1,7 @@
 {
   "total_repositories": 441,
   "total_packages": 545,
-  "total_versions": 6874,
+  "total_versions": 6876,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -380,7 +380,7 @@
     "severed_soul": true,
     "sgtpuzzles": true,
     "shadow_the_hedgehog": true,
-    "shadowgate64": false,
+    "shadowgate64": true,
     "shahrazad": false,
     "shapez": false,
     "shapez_2": true,

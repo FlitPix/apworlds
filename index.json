@@ -38519,6 +38519,19 @@
       }
     },
     {
+      "world": "https://github.com/Bartz24/ArchipelagoLR/releases/download/0.5.2/lrff13.apworld",
+      "size": 67779,
+      "hash_sha256": "227b0d1c43f7e3b76fcc9763d3bfb16650c450dd687bc29052cd732283788045",
+      "metadata": {
+        "game": "Lightning Returns: Final Fantasy XIII",
+        "id": "lrff13",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-10-08T19:19:53Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/BootsinSoots/Archipelago/releases/download/0.1.0/luigismansion.apworld",
       "size": 232279,
       "hash_sha256": "bfddb1f8d2e52169d9cd32652fa53b86e9dee481a4d8b477d09c4c16b22efc40",
@@ -71702,6 +71715,19 @@
         "tag_version": "0.1",
         "created_at": "2025-04-03T14:31:19Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jjjj12212/Archipelago-Shadowgate64/releases/download/V1.0.1/shadowgate64.apworld",
+      "size": 71221,
+      "hash_sha256": "1499c76d4e373d309a107393b52b533a1290f4c3f6fb5c6fe7792a4187507386",
+      "metadata": {
+        "game": "Shadowgate 64",
+        "id": "shadowgate64",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-10-08T21:32:40Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
