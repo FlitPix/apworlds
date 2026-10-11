@@ -69675,6 +69675,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.17.0/rotn.apworld",
+      "size": 17632,
+      "hash_sha256": "35c352405d1a61f6c61474aab2f5ab47b283115c1ce739b4e0d6258da3af3c08",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.17.0",
+        "tag_version": "0.17.0",
+        "created_at": "2026-06-12T01:41:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.2/rotn.apworld",
       "size": 23898,
       "hash_sha256": "13d37ba93b971cdf8d47f7673725577e6640408c9a7cef6b420d564c5258e402",
@@ -69903,19 +69916,6 @@
         "world_version": "0.9.0",
         "tag_version": "0.9.0",
         "created_at": "2026-01-10T20:10:42Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.17.0/rotn.apworld",
-      "size": 17632,
-      "hash_sha256": "35c352405d1a61f6c61474aab2f5ab47b283115c1ce739b4e0d6258da3af3c08",
-      "metadata": {
-        "game": "Rift of the Necrodancer",
-        "id": "rotn",
-        "world_version": "0.17.0",
-        "tag_version": "0.17.0",
-        "created_at": "2026-06-12T01:41:46Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -78979,6 +78979,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S3AP/releases/download/1.4.0/spyro3.apworld",
+      "size": 71353,
+      "hash_sha256": "d231a9b4aa9da02035c383795b1ab1fb98e1af92fde9495dce26add969fa5f7b",
+      "metadata": {
+        "game": "Spyro 3",
+        "id": "spyro3",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-10-10T21:10:44Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S3AP/releases/download/open_world_test/spyro3.apworld",
       "size": 43547,
       "hash_sha256": "ac25ad05c48a53b800ae8423eb1f611e8ba52085ae2215a02d8926d804dd3aa8",
@@ -78992,19 +79005,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S3AP/releases/download/1.4.0/spyro3.apworld",
-      "size": 71353,
-      "hash_sha256": "d231a9b4aa9da02035c383795b1ab1fb98e1af92fde9495dce26add969fa5f7b",
-      "metadata": {
-        "game": "Spyro 3",
-        "id": "spyro3",
-        "world_version": "1.4.0",
-        "tag_version": "1.4.0",
-        "created_at": "2026-10-10T21:10:44Z",
-        "minimum_ap_version": "0.6.6"
       }
     },
     {
@@ -88117,6 +88117,19 @@
         "world_version": "0.3.4",
         "tag_version": "0.3.4",
         "created_at": "2026-09-23T03:05:11Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.5/tracker.apworld",
+      "size": 189869,
+      "hash_sha256": "2be410ba3dba3f28798ed5530e687c6dfeedb1036d09f1d605fb6d9c4ff1acce",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.3.5",
+        "tag_version": "0.3.5",
+        "created_at": "2026-10-11T04:45:18Z",
         "minimum_ap_version": "0.6.2"
       }
     },
