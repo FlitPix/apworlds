@@ -111,6 +111,18 @@
       "title": "K-On! After School Live!! Archipelago v1.1.4",
       "version_simple": "1.1.4",
       "world_version": "1.1.4"
+    },
+    "v1.1.5": {
+      "created_at": "2026-10-12T19:51:56Z",
+      "download_url": "https://github.com/dannybonz/k-on_archipelago/releases/download/v1.1.5/kon.apworld",
+      "has_manifest": true,
+      "hash_sha256": "866f12781d39e21d1785a379eb35ed4bd81e7465e503d586657c1517b2108849",
+      "size": 28951,
+      "source_url": "https://api.github.com/repos/dannybonz/k-on_archipelago",
+      "tag": "v1.1.5",
+      "title": "K-On! After School Live!! Archipelago v1.1.5",
+      "version_simple": "1.1.5",
+      "world_version": "1.1.5"
     }
   }
 }

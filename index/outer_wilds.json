@@ -563,6 +563,19 @@
       "title": "v1.3.0",
       "version_simple": "1.3.0",
       "world_version": "1.3.0"
+    },
+    "v1.3.1": {
+      "created_at": "2026-10-12T18:54:20Z",
+      "download_url": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.3.1/outer_wilds.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3aa979ca82e158755d7472302e3675fab4db87bcfa461095667544e777742859",
+      "minimum_ap_version": "0.5.0",
+      "size": 88981,
+      "source_url": "https://api.github.com/repos/Ixrec/OuterWildsArchipelagoRandomizer",
+      "tag": "v1.3.1",
+      "title": "v1.3.1",
+      "version_simple": "1.3.1",
+      "world_version": "1.3.1"
     }
   }
 }
