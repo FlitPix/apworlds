@@ -688,6 +688,19 @@
       "title": "v0.3.9 (\"Please unban this game\" update)",
       "version_simple": "0.3.9",
       "world_version": "0.3.9"
+    },
+    "0.4.0": {
+      "created_at": "2026-10-13T16:00:43Z",
+      "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.4.0/pokemon_bw.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e58b8c4c68e3460231f70517d37754e43ea0fa3855cab62ea0a1f583754501f7",
+      "minimum_ap_version": "0.6.7",
+      "size": 1400888,
+      "source_url": "https://api.github.com/repos/BlastSlimey/PokemonBWAP",
+      "tag": "0.4.0",
+      "title": "v0.4.0: Advanced Dataplandosanity",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0"
     }
   }
 }

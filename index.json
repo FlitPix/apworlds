@@ -17470,6 +17470,19 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.13.0.1/deathlinkipelago.apworld",
+      "size": 3428,
+      "hash_sha256": "961cad6ce40e8e66e05bd8060187fe21a1b75e62e649db8aa08560d6b61edc3d",
+      "metadata": {
+        "game": "DeathLinkipelago",
+        "id": "deathlinkipelago",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2025-08-13T23:57:19Z",
+        "minimum_ap_version": "0.5.2"
+      }
+    },
+    {
       "world": "https://github.com/roseasromeo/DeathsDoorAPWorld/releases/download/v0.1.0/deaths_door.apworld",
       "size": 64835,
       "hash_sha256": "913cf747830326029a0a5d5eb31796ffd8740100f468d7e92155d73ca6543728",
@@ -61050,6 +61063,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.4.0/pokemon_bw.apworld",
+      "size": 1400888,
+      "hash_sha256": "e58b8c4c68e3460231f70517d37754e43ea0fa3855cab62ea0a1f583754501f7",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-10-13T16:00:43Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/AliceMousie/Archipelago/releases/download/0.1/pokemon_crystal.apworld",
       "size": 152500,
       "hash_sha256": "d31c76e065d7de7245b3d41444388c73d5aaed3edcebb795b8d9d0fda4ef4350",
@@ -66846,6 +66872,19 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-07-10T07:14:36Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.6.1/rac3.apworld",
+      "size": 2916355,
+      "hash_sha256": "2b771f9d44966836007c0c7a7558a0ad8cf6644a6ce351375f64e630dd791d8e",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-10-13T05:00:50Z",
         "minimum_ap_version": "0.5.0"
       }
     },
@@ -73401,6 +73440,18 @@
         "tag_version": "1.5.1",
         "created_at": "2025-01-25T02:41:47Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.1.0-beta1/sims4.apworld",
+      "size": 259393,
+      "hash_sha256": "512aac64098f276199fc051c6bb5e84b75240280250b52a1e5a88416dc29d027",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "2.0.99",
+        "tag_version": "2.0.99",
+        "created_at": "2026-10-13T16:51:27Z"
       }
     },
     {
