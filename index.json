@@ -10504,6 +10504,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.12.0/casualtiesunknown.apworld",
+      "size": 98311,
+      "hash_sha256": "c28edb83d3b4aadaf3dc8a9b231aa4d5a76149f0738bac89df0a0acc550e54ef",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.12.0",
+        "tag_version": "0.12.0",
+        "created_at": "2026-10-12T05:43:00Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.2.0/casualtiesunknown.apworld",
       "size": 44285,
       "hash_sha256": "0d7389820011b49f8dc5ef3324b38ba4d0c8de1e9bec7f575733dcfe73c2afc0",
@@ -11006,19 +11019,6 @@
         "world_version": "0.9.3",
         "tag_version": "0.9.3",
         "created_at": "2026-04-27T03:07:23Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.12.0/casualtiesunknown.apworld",
-      "size": 98311,
-      "hash_sha256": "c28edb83d3b4aadaf3dc8a9b231aa4d5a76149f0738bac89df0a0acc550e54ef",
-      "metadata": {
-        "game": "Casualties: Unknown",
-        "id": "casualtiesunknown",
-        "world_version": "0.12.0",
-        "tag_version": "0.12.0",
-        "created_at": "2026-10-12T05:43:00Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -15159,6 +15159,22 @@
         "world_version": "3.0.2",
         "tag_version": "3.0.2",
         "created_at": "2026-08-05T02:55:03Z",
+        "minimum_ap_version": "0.6.0",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v3.1.0-Crystalis/crystalis.apworld",
+      "size": 88172,
+      "hash_sha256": "d254180a00ebc0ad4fdc07b1e5ba980c3f0b0ae836cfdb696f0f393428343af8",
+      "metadata": {
+        "game": "Crystalis",
+        "id": "crystalis",
+        "world_version": "3.1.0",
+        "tag_version": "3.1.0",
+        "created_at": "2026-10-12T18:44:34Z",
         "minimum_ap_version": "0.6.0",
         "flags": [
           "supports_deathlink"
@@ -20993,6 +21009,19 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-09-19T20:43:39Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/alextric234/ArchipelagoDredge/releases/download/dredge_0.7.0/dredge.apworld",
+      "size": 39990,
+      "hash_sha256": "4d9f9235648d708563d5f2eff194e1a6720581d7ff15522ee3574fea3c8bb370",
+      "metadata": {
+        "game": "Dredge",
+        "id": "dredge",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-10-12T15:05:00Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -51704,6 +51733,19 @@
       }
     },
     {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.4.1/mmzero3.apworld",
+      "size": 205650,
+      "hash_sha256": "9d8aace911098d3b86732b8a0ba151e0ba82a1d426a1ced61fe4d9bcd9cc1064",
+      "metadata": {
+        "game": "Mega Man Zero 3",
+        "id": "mmzero3",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-10-13T01:40:36Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.0.1/momodoramoonlitfarewell.apworld",
       "size": 6741,
       "hash_sha256": "8302e91462092ec8ef6a30a9aae0a45818641ce181a3cd13687eacf963eed23f",
@@ -71843,6 +71885,22 @@
       }
     },
     {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.5.2/shadow_the_hedgehog.apworld",
+      "size": 287226,
+      "hash_sha256": "ce0fce4aa44e09180aa3090e4cc01c39650ed9cb4ffa4ba9e280237537495b98",
+      "metadata": {
+        "game": "Shadow The Hedgehog",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-10-12T20:12:50Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/choatix/Archipelago/releases/download/shadow0.3.0/shadow_the_hedgehog.apworld",
       "size": 750070,
       "hash_sha256": "83d34e78e002b50bef8d897ac60d892f91f399f1be31bbca15a3b268e6196760",
@@ -71869,22 +71927,6 @@
         "tag_version": "0.3.0.post2",
         "created_at": "2025-11-23T19:55:13Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.5.2/shadow_the_hedgehog.apworld",
-      "size": 287226,
-      "hash_sha256": "ce0fce4aa44e09180aa3090e4cc01c39650ed9cb4ffa4ba9e280237537495b98",
-      "metadata": {
-        "game": "Shadow The Hedgehog",
-        "id": "shadow_the_hedgehog",
-        "world_version": "0.5.2",
-        "tag_version": "0.5.2",
-        "created_at": "2026-10-12T20:12:50Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
         ]
@@ -86113,6 +86155,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.10.2/tloz_ph.apworld",
+      "size": 2632188,
+      "hash_sha256": "a2b36a025993d244ab965c234c8ba27cc9db553ceec6bd722f245b8ad3069981",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.10.2",
+        "tag_version": "0.10.2",
+        "created_at": "2026-10-12T06:38:59Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.3-alpha/tloz_ph.apworld",
       "size": 2572164,
       "hash_sha256": "7dea2153bc516775401f8ffb303930cb276b857ad45d7c71ab9c6b428d1ba73c",
@@ -86713,19 +86768,6 @@
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
-      }
-    },
-    {
-      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.10.2/tloz_ph.apworld",
-      "size": 2632188,
-      "hash_sha256": "a2b36a025993d244ab965c234c8ba27cc9db553ceec6bd722f245b8ad3069981",
-      "metadata": {
-        "game": "The Legend of Zelda - Phantom Hourglass",
-        "id": "tloz_ph",
-        "world_version": "0.10.2",
-        "tag_version": "0.10.2",
-        "created_at": "2026-10-12T06:38:59Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
