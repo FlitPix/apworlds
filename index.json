@@ -9671,6 +9671,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.17.0/brotato.apworld",
+      "size": 48999,
+      "hash_sha256": "3608fd4bf34dd7d3836396d60ee8b3f58615dfdbedf3020414daa4e488d32945",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.17.0",
+        "tag_version": "0.17.0",
+        "created_at": "2026-10-14T02:42:44Z"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/20250326-1/candybox2.apworld",
       "size": 12330,
       "hash_sha256": "e68a35ae48f13574b9c1c03c776ce6f518d6b36a0facabd04c04aca7fc6da892",
@@ -17301,6 +17313,19 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.13.0.1/deathlinkipelago.apworld",
+      "size": 3428,
+      "hash_sha256": "961cad6ce40e8e66e05bd8060187fe21a1b75e62e649db8aa08560d6b61edc3d",
+      "metadata": {
+        "game": "DeathLinkipelago",
+        "id": "deathlinkipelago",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2025-08-13T23:57:19Z",
+        "minimum_ap_version": "0.5.2"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.2/deathlinkipelago.apworld",
       "size": 6549,
       "hash_sha256": "27ff1d36f4f0aad6dc33e7c359d4ccb380586f27fa16a726657df5c8e9d17ce8",
@@ -17467,19 +17492,6 @@
         "tag_version": "0.9.1",
         "created_at": "2025-04-09T03:07:31Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.13.0.1/deathlinkipelago.apworld",
-      "size": 3428,
-      "hash_sha256": "961cad6ce40e8e66e05bd8060187fe21a1b75e62e649db8aa08560d6b61edc3d",
-      "metadata": {
-        "game": "DeathLinkipelago",
-        "id": "deathlinkipelago",
-        "world_version": "0.13.0",
-        "tag_version": "0.13.0",
-        "created_at": "2025-08-13T23:57:19Z",
-        "minimum_ap_version": "0.5.2"
       }
     },
     {
@@ -66889,6 +66901,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.6.1/rac3.apworld",
+      "size": 2916003,
+      "hash_sha256": "f7eb3ed44b31f51f649901f03f1775f4dbca517cf6af8c13d60f9e30cd060c34",
+      "metadata": {
+        "game": "Ratchet & Clank 3",
+        "id": "rac3",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-10-13T05:00:50Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.1.0/rain_world.apworld",
       "size": 209071,
       "hash_sha256": "736ac7cc0cf86d56de825740273e59ab2bc0cd5c1833b5b8683fefb91219131c",
@@ -73362,6 +73387,18 @@
       }
     },
     {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.1.0-beta1/sims4.apworld",
+      "size": 259393,
+      "hash_sha256": "512aac64098f276199fc051c6bb5e84b75240280250b52a1e5a88416dc29d027",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "2.0.99",
+        "tag_version": "2.0.99",
+        "created_at": "2026-10-13T16:51:27Z"
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Archipelago/releases/download/sims-1.5.1/sims4.apworld",
       "size": 35754,
       "hash_sha256": "7d01350c1e5acacabc577b4ef96f026090ab0af1b6dcdf36c0f73bab20383e37",
@@ -73440,18 +73477,6 @@
         "tag_version": "1.5.1",
         "created_at": "2025-01-25T02:41:47Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.1.0-beta1/sims4.apworld",
-      "size": 259393,
-      "hash_sha256": "512aac64098f276199fc051c6bb5e84b75240280250b52a1e5a88416dc29d027",
-      "metadata": {
-        "game": "The Sims 4",
-        "id": "sims4",
-        "world_version": "2.0.99",
-        "tag_version": "2.0.99",
-        "created_at": "2026-10-13T16:51:27Z"
       }
     },
     {
@@ -88956,6 +88981,19 @@
         "world_version": "0.9.1",
         "tag_version": "0.9.1",
         "created_at": "2026-04-21T08:18:22Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.14.1/ttyd.apworld",
+      "size": 1618282,
+      "hash_sha256": "11541f7c8adc12e78cbf6b9b3da56718cff13ca6ca84bbb66b8b41b31210ac35",
+      "metadata": {
+        "game": "Paper Mario The Thousand Year Door",
+        "id": "ttyd",
+        "world_version": "0.14.1",
+        "tag_version": "0.14.1",
+        "created_at": "2026-10-13T23:28:23Z",
         "minimum_ap_version": "0.6.3"
       }
     },
