@@ -9683,6 +9683,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.17.1/brotato.apworld",
+      "size": 48999,
+      "hash_sha256": "ad7126f65d5c947526ca20b6ec40e75e6a37ea94d8ab1518b08506a8c3177054",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.17.1",
+        "tag_version": "0.17.1",
+        "created_at": "2026-10-15T03:21:31Z"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/20250326-1/candybox2.apworld",
       "size": 12330,
       "hash_sha256": "e68a35ae48f13574b9c1c03c776ce6f518d6b36a0facabd04c04aca7fc6da892",
@@ -15779,6 +15791,22 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03m/cuphead.apworld",
+      "size": 115997,
+      "hash_sha256": "947825f836e097b770afef21a1863ee68f6c6213233c3043663e79a916d84943",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "0.2.20021210",
+        "tag_version": "0.2.20021210",
+        "created_at": "2026-10-14T04:34:26Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -15931,22 +15959,6 @@
         "flags": [
           "supports_deathlink",
           "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03m/cuphead.apworld",
-      "size": 115997,
-      "hash_sha256": "947825f836e097b770afef21a1863ee68f6c6213233c3043663e79a916d84943",
-      "metadata": {
-        "game": "Cuphead",
-        "id": "cuphead",
-        "world_version": "0.2.20021210",
-        "tag_version": "0.2.20021210",
-        "created_at": "2026-10-14T04:34:26Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "supports_deathlink"
         ]
       }
     },
