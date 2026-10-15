@@ -433,6 +433,19 @@
       "title": "RaC3 APWorld v0.6.1",
       "version_simple": "0.6.1",
       "world_version": "0.6.1"
+    },
+    "v0.6.2": {
+      "created_at": "2026-10-15T08:04:19Z",
+      "download_url": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.6.2/rac3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d401bce23859a672cb0640d31f485b9757b1cc58d595afc42c275933de380eda",
+      "minimum_ap_version": "0.5.0",
+      "size": 2916716,
+      "source_url": "https://api.github.com/repos/Taoshix/Archipelago-RaC3",
+      "tag": "v0.6.2",
+      "title": "RaC3 APWorld v0.6.2",
+      "version_simple": "0.6.1",
+      "world_version": "0.6.1"
     }
   }
 }
