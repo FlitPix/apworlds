@@ -280,6 +280,19 @@
       "version_simple": "13.4.6",
       "world_version": "13.4.6"
     },
+    "13.5.0": {
+      "created_at": "2026-10-15T21:05:40Z",
+      "download_url": "https://github.com/threeandthreee/Archipelago/releases/download/13.5.0/ladx_beta.apworld",
+      "has_manifest": true,
+      "hash_sha256": "02c714e1f4e5465e066c5dab7e5aa867f996b46eea13a04cb07d03ba9e4a2b79",
+      "minimum_ap_version": "0.6.4",
+      "size": 370187,
+      "source_url": "https://api.github.com/repos/threeandthreee/Archipelago",
+      "tag": "13.5.0",
+      "title": "AP LADX Beta 13.5.0",
+      "version_simple": "13.4.6",
+      "world_version": "13.4.6"
+    },
     "v10.0": {
       "created_at": "2024-12-12T15:23:44Z",
       "download_url": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
