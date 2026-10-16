@@ -36190,6 +36190,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.5.0/ladx_beta.apworld",
+      "size": 370187,
+      "hash_sha256": "02c714e1f4e5465e066c5dab7e5aa867f996b46eea13a04cb07d03ba9e4a2b79",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.4.6",
+        "tag_version": "13.4.6",
+        "created_at": "2026-10-15T21:05:40Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -36561,19 +36574,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.5.0/ladx_beta.apworld",
-      "size": 370187,
-      "hash_sha256": "02c714e1f4e5465e066c5dab7e5aa867f996b46eea13a04cb07d03ba9e4a2b79",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.4.6",
-        "tag_version": "13.4.6",
-        "created_at": "2026-10-15T21:05:40Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
