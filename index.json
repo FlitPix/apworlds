@@ -20225,6 +20225,19 @@
       }
     },
     {
+      "world": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v2.0.0/dome_keeper.apworld",
+      "size": 134051,
+      "hash_sha256": "64e46562e2f96eaab77d3050bb2df56eb4d1a00e5c9c99823dc7dd38b46105f1",
+      "metadata": {
+        "game": "Dome Keeper",
+        "id": "dome_keeper",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-10-11T15:27:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/DragonWolfLeo/Archipelago-DST/releases/download/dst-v1.3.2/dontstarvetogether.apworld",
       "size": 76427,
       "hash_sha256": "a8684a320ee1cf02a683db489060fc1d7867e60f1d189143980ae3b8ba6d648e",
@@ -36203,6 +36216,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.0/ladx_beta.apworld",
+      "size": 372270,
+      "hash_sha256": "f09776da12e29f1a8aa5ea65363782fcdd04ccc208a2dc0c86dbe40afbea0034",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.6.0",
+        "tag_version": "13.6.0",
+        "created_at": "2026-10-16T17:39:10Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -36574,19 +36600,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.0/ladx_beta.apworld",
-      "size": 372270,
-      "hash_sha256": "f09776da12e29f1a8aa5ea65363782fcdd04ccc208a2dc0c86dbe40afbea0034",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.6.0",
-        "tag_version": "13.6.0",
-        "created_at": "2026-10-16T17:39:10Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -38555,6 +38568,23 @@
       }
     },
     {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-eta.3/lor.apworld",
+      "size": 31643,
+      "hash_sha256": "8d544d31ea5d0cac150e46ce0091057b87d3b209129936e6358d29b756583bb4",
+      "metadata": {
+        "game": "Library of Ruina",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-10-16T11:14:39Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
       "size": 25615,
       "hash_sha256": "49c786c6f6f7a853a069fedb0750b607e2115dae2f369f6239dcc7475b49935c",
@@ -38599,23 +38629,6 @@
         "tag_version": "1.0.0",
         "created_at": "2026-07-13T11:30:59Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-eta.3/lor.apworld",
-      "size": 31643,
-      "hash_sha256": "8d544d31ea5d0cac150e46ce0091057b87d3b209129936e6358d29b756583bb4",
-      "metadata": {
-        "game": "Library of Ruina",
-        "id": "lor",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-10-16T11:14:39Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "after_dark",
           "prerelease"
@@ -78331,6 +78344,18 @@
         "world_version": "2.1.0",
         "tag_version": "2.1.0",
         "created_at": "2026-07-19T04:23:21Z"
+      }
+    },
+    {
+      "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V2.1.1/spiritvalley.apworld",
+      "size": 61893,
+      "hash_sha256": "cddf43a5cbc569f3afb6780f63fd22034d46bd4e249c97fb7f8d8903643ff69e",
+      "metadata": {
+        "game": "Spirit Valley",
+        "id": "spiritvalley",
+        "world_version": "2.1.1",
+        "tag_version": "2.1.1",
+        "created_at": "2026-10-17T05:09:12Z"
       }
     },
     {

@@ -231,6 +231,18 @@
       "title": "Spirit Valley Archipelago V2.1.0",
       "version_simple": "2.1.0",
       "world_version": "2.1.0"
+    },
+    "V2.1.1": {
+      "created_at": "2026-10-17T05:09:12Z",
+      "download_url": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V2.1.1/spiritvalley.apworld",
+      "has_manifest": true,
+      "hash_sha256": "cddf43a5cbc569f3afb6780f63fd22034d46bd4e249c97fb7f8d8903643ff69e",
+      "size": 61893,
+      "source_url": "https://api.github.com/repos/DotsofdarknessArchipelago/Spirit-Valley-Archipelago",
+      "tag": "V2.1.1",
+      "title": "Spirit Valley Archipelago V2.1.1",
+      "version_simple": "2.1.1",
+      "world_version": "2.1.1"
     }
   }
 }
