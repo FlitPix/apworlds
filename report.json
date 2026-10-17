@@ -1,7 +1,7 @@
 {
   "total_repositories": 441,
-  "total_packages": 546,
-  "total_versions": 6916,
+  "total_packages": 545,
+  "total_versions": 6922,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -330,7 +330,6 @@
     "paint": true,
     "papermario": false,
     "parkitect": false,
-    "password": false,
     "peak": true,
     "phantasy_star_2": true,
     "pharcryption": true,
