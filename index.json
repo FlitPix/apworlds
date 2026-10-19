@@ -17211,6 +17211,22 @@
       }
     },
     {
+      "world": "https://github.com/ArsonAssassin/DC2AP/releases/download/0.1.0.0/dc2.apworld",
+      "size": 77248,
+      "hash_sha256": "64e56de089fd29c45843b58fd0bb23fa855e7df030a327f08b76d3b7b9586e75",
+      "metadata": {
+        "game": "Dark Cloud 2",
+        "id": "dc2",
+        "world_version": "0.1.0.0",
+        "tag_version": "0.1.0.0",
+        "created_at": "2026-10-18T20:37:55Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SunCat-s-Archipelago/DeathLink-Text-Client/releases/download/1.0/deathlink_text_client.apworld",
       "size": 4555,
       "hash_sha256": "c5b6304a363c67668d4f1bdbfc5925f96b4cc0ecfa574e4d1f781ed5717879b7",
@@ -36229,6 +36245,32 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.1/ladx_beta.apworld",
+      "size": 372880,
+      "hash_sha256": "19c942a48b3f0680c17bcae5e627de7f765a8bedc3e5091b48f86a0794530429",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.6.1",
+        "tag_version": "13.6.1",
+        "created_at": "2026-10-18T06:07:45Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.2/ladx_beta.apworld",
+      "size": 373007,
+      "hash_sha256": "44ff7787621497d2ae9b37532a5541be3b933c936f7a3937c34bd69576ac184e",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.6.2",
+        "tag_version": "13.6.2",
+        "created_at": "2026-10-18T12:50:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -36600,32 +36642,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.2/ladx_beta.apworld",
-      "size": 373007,
-      "hash_sha256": "44ff7787621497d2ae9b37532a5541be3b933c936f7a3937c34bd69576ac184e",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.6.2",
-        "tag_version": "13.6.2",
-        "created_at": "2026-10-18T12:50:24Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.1/ladx_beta.apworld",
-      "size": 372880,
-      "hash_sha256": "19c942a48b3f0680c17bcae5e627de7f765a8bedc3e5091b48f86a0794530429",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.6.1",
-        "tag_version": "13.6.1",
-        "created_at": "2026-10-18T06:07:45Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -48155,6 +48171,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.4.0/medievil.apworld",
+      "size": 36834,
+      "hash_sha256": "21ee8aabd03df420f14907246eaaad2538a8de141084bef1b4fe002ae3a9c8b2",
+      "metadata": {
+        "game": "Medievil",
+        "id": "medievil",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-10-18T18:44:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.0.1/medievil2.apworld",
       "size": 13553,
       "hash_sha256": "cefd4b5b02da1b467ee3e2508c5d9af5096f100f16f07d8dd1d5d92cfc72f6e6",
@@ -56726,6 +56755,19 @@
         "world_version": "1.3.1",
         "tag_version": "1.3.1",
         "created_at": "2026-10-12T18:54:20Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.4.0/outer_wilds.apworld",
+      "size": 94952,
+      "hash_sha256": "eb967b1c30455e5a9f7aa1afea3bcf72f9167ed4c74d9caf67768ba4c972f28a",
+      "metadata": {
+        "game": "Outer Wilds",
+        "id": "outer_wilds",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-10-18T16:37:00Z",
         "minimum_ap_version": "0.5.0"
       }
     },
@@ -79044,6 +79086,20 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
+      "size": 73640,
+      "hash_sha256": "304511f2afc16dded822ff4a843ce20e847d607835c898e6ed9e572246397d21",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2026-10-19T00:14:43Z",
+        "minimum_ap_version": "0.6.6",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/S3AP/releases/download/0.0.1/spyro3.apworld",
       "size": 30477,
       "hash_sha256": "6aa47ee49c270d6587fec285ca70062a530aa45b351a7aa79e9b0d1a60f1d8b8",
@@ -81752,6 +81808,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.10/stardew_valley.apworld",
+      "size": 585052,
+      "hash_sha256": "f631e1df8fe0bd8ff43b35528b057c842a59162e9e5a079524185be4f8a66eee",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.10",
+        "tag_version": "8.1.10",
+        "created_at": "2026-10-18T02:45:01Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.2/stardew_valley.apworld",
       "size": 580720,
       "hash_sha256": "27a9b8b1ddd07d1ad82500485c36549e020b4d6c2ba1da189dba2163f4d19c26",
@@ -81873,22 +81945,6 @@
         "world_version": "8.1.5",
         "tag_version": "8.1.5",
         "created_at": "2026-09-06T01:41:14Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.10/stardew_valley.apworld",
-      "size": 585052,
-      "hash_sha256": "f631e1df8fe0bd8ff43b35528b057c842a59162e9e5a079524185be4f8a66eee",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.1.10",
-        "tag_version": "8.1.10",
-        "created_at": "2026-10-18T02:45:01Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
