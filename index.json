@@ -59600,6 +59600,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.3/plateup.apworld",
+      "size": 38248,
+      "hash_sha256": "fe4feea4113278f3efdac366b8d982915478a484d38b1ae741a2c0daa09dcfa1",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.7.3",
+        "tag_version": "0.2.7.3",
+        "created_at": "2026-10-19T19:41:41Z"
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/aplok_v010/plok.apworld",
       "size": 27287,
       "hash_sha256": "18f68733febdebbac0e3e8c83ec3e8ccacfd367066b1be24900f902c960dd7db",
@@ -61323,6 +61335,19 @@
         "world_version": "0.4.1",
         "tag_version": "0.4.1",
         "created_at": "2026-10-13T16:00:43Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.4.2/pokemon_bw.apworld",
+      "size": 1408882,
+      "hash_sha256": "fde300c8afdb236752fd3c835ae087bcfb421653908b5d734c8c0dd6838e3cad",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-10-19T22:59:57Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -91786,6 +91811,18 @@
         "world_version": "0.9.2.2",
         "tag_version": "0.9.2.2",
         "created_at": "2026-04-08T23:58:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.11.4/voidstranger.apworld",
+      "size": 21138,
+      "hash_sha256": "a8dd5dee754449ef80885459a2b65e078c9c08c2ffc87332f56625dd5021be03",
+      "metadata": {
+        "game": "Void Stranger",
+        "id": "voidstranger",
+        "world_version": "0.11.4",
+        "tag_version": "0.11.4",
+        "created_at": "2026-10-19T20:51:28Z"
       }
     },
     {

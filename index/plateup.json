@@ -622,6 +622,18 @@
       "version_simple": "0.2.7.2",
       "world_version": "0.2.7.2"
     },
+    "0.2.7.3": {
+      "created_at": "2026-10-19T19:41:41Z",
+      "download_url": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.3/plateup.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fe4feea4113278f3efdac366b8d982915478a484d38b1ae741a2c0daa09dcfa1",
+      "size": 38248,
+      "source_url": "https://api.github.com/repos/CazIsABoi/Archipelago",
+      "tag": "0.2.7.3",
+      "title": "Archipelago 0.2.7.3",
+      "version_simple": "0.2.7.3",
+      "world_version": "0.2.7.3"
+    },
     "v0.1.4.2": {
       "created_at": "2025-02-26T20:49:30Z",
       "download_url": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",

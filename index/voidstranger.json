@@ -40,6 +40,18 @@
       "version_simple": "0.11.3",
       "world_version": "0.11.3"
     },
+    "v0.11.4": {
+      "created_at": "2026-10-19T20:51:28Z",
+      "download_url": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.11.4/voidstranger.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a8dd5dee754449ef80885459a2b65e078c9c08c2ffc87332f56625dd5021be03",
+      "size": 21138,
+      "source_url": "https://api.github.com/repos/CriminalPancake/void-stranger-ap",
+      "tag": "v0.11.4",
+      "title": "v0.11.4",
+      "version_simple": "0.11.4",
+      "world_version": "0.11.4"
+    },
     "v0.8.4.9": {
       "created_at": "2025-08-18T02:48:49Z",
       "download_url": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.8.4.9/voidstranger.apworld",

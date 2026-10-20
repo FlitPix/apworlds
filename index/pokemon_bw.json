@@ -714,6 +714,19 @@
       "title": "v0.4.1: \"After all, there were still critical bugs\" update",
       "version_simple": "0.4.1",
       "world_version": "0.4.1"
+    },
+    "0.4.2": {
+      "created_at": "2026-10-19T22:59:57Z",
+      "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.4.2/pokemon_bw.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fde300c8afdb236752fd3c835ae087bcfb421653908b5d734c8c0dd6838e3cad",
+      "minimum_ap_version": "0.6.7",
+      "size": 1408882,
+      "source_url": "https://api.github.com/repos/BlastSlimey/PokemonBWAP",
+      "tag": "0.4.2",
+      "title": "v0.4.2: \"Shinyfixsanity\" update",
+      "version_simple": "0.4.2",
+      "world_version": "0.4.2"
     }
   }
 }
