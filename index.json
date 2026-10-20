@@ -20270,6 +20270,19 @@
       }
     },
     {
+      "world": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v2.0.1/dome_keeper.apworld",
+      "size": 134149,
+      "hash_sha256": "8b37a58f024cb0090bc18ceeffdb612a4b7a570919700745f1db4665d1cb8008",
+      "metadata": {
+        "game": "Dome Keeper",
+        "id": "dome_keeper",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-10-20T12:29:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/DragonWolfLeo/Archipelago-DST/releases/download/dst-v1.3.2/dontstarvetogether.apworld",
       "size": 76427,
       "hash_sha256": "a8684a320ee1cf02a683db489060fc1d7867e60f1d189143980ae3b8ba6d648e",
@@ -59587,6 +59600,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.3/plateup.apworld",
+      "size": 38248,
+      "hash_sha256": "fe4feea4113278f3efdac366b8d982915478a484d38b1ae741a2c0daa09dcfa1",
+      "metadata": {
+        "game": "plateup",
+        "id": "plateup",
+        "world_version": "0.2.7.3",
+        "tag_version": "0.2.7.3",
+        "created_at": "2026-10-19T19:41:41Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/v0.1.4.2/plateup.apworld",
       "size": 15365,
       "hash_sha256": "c8a1ebd559d3a3f4761dbe9d066ad5c02df43fd2191b06ac19397f6154a19a88",
@@ -59597,18 +59622,6 @@
         "tag_version": "0.1.4b2",
         "created_at": "2025-02-26T20:49:30Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.3/plateup.apworld",
-      "size": 38248,
-      "hash_sha256": "fe4feea4113278f3efdac366b8d982915478a484d38b1ae741a2c0daa09dcfa1",
-      "metadata": {
-        "game": "plateup",
-        "id": "plateup",
-        "world_version": "0.2.7.3",
-        "tag_version": "0.2.7.3",
-        "created_at": "2026-10-19T19:41:41Z"
       }
     },
     {
@@ -91728,6 +91741,18 @@
       }
     },
     {
+      "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.11.4/voidstranger.apworld",
+      "size": 21138,
+      "hash_sha256": "a8dd5dee754449ef80885459a2b65e078c9c08c2ffc87332f56625dd5021be03",
+      "metadata": {
+        "game": "Void Stranger",
+        "id": "voidstranger",
+        "world_version": "0.11.4",
+        "tag_version": "0.11.4",
+        "created_at": "2026-10-19T20:51:28Z"
+      }
+    },
+    {
       "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.8.4.9/voidstranger.apworld",
       "size": 14619,
       "hash_sha256": "9a6867ea442ea18161e4839ee1dd7dbfe48342c975e009f5364e0c7d51ddac5e",
@@ -91811,18 +91836,6 @@
         "world_version": "0.9.2.2",
         "tag_version": "0.9.2.2",
         "created_at": "2026-04-08T23:58:34Z"
-      }
-    },
-    {
-      "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.11.4/voidstranger.apworld",
-      "size": 21138,
-      "hash_sha256": "a8dd5dee754449ef80885459a2b65e078c9c08c2ffc87332f56625dd5021be03",
-      "metadata": {
-        "game": "Void Stranger",
-        "id": "voidstranger",
-        "world_version": "0.11.4",
-        "tag_version": "0.11.4",
-        "created_at": "2026-10-19T20:51:28Z"
       }
     },
     {
