@@ -253,6 +253,19 @@
       "title": "Nice.",
       "version_simple": "0.6.6",
       "world_version": "0.6.6"
+    },
+    "v0.7.0": {
+      "created_at": "2026-10-21T05:44:44Z",
+      "download_url": "https://github.com/qwint/APMinit/releases/download/v0.7.0/minit.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d949cbb36eef1970798f261ff5ac9aa063912c8d5528680cd937b4f44eaeda16",
+      "minimum_ap_version": "0.6.7",
+      "size": 41861,
+      "source_url": "https://api.github.com/repos/qwint/APMinit",
+      "tag": "v0.7.0",
+      "title": "New Patcher",
+      "version_simple": "0.7.0",
+      "world_version": "0.7.0"
     }
   }
 }

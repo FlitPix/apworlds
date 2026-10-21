@@ -37479,6 +37479,18 @@
       }
     },
     {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.8.0/lethal_company.apworld",
+      "size": 32471,
+      "hash_sha256": "57fb13846c92c1a3c4e06dd69029e469a1359115a66da52760f4bdeda9bf6d22",
+      "metadata": {
+        "game": "Lethal Company",
+        "id": "lethal_company",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-10-21T01:20:33Z"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/v0.8.0-pre-1/lethal_company.apworld",
       "size": 500198,
       "hash_sha256": "d768100d7bd2c8722832c5682e40e39f48f84fc828a424aee1c2443b5181118a",
@@ -37521,18 +37533,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.8.0/lethal_company.apworld",
-      "size": 32471,
-      "hash_sha256": "57fb13846c92c1a3c4e06dd69029e469a1359115a66da52760f4bdeda9bf6d22",
-      "metadata": {
-        "game": "Lethal Company",
-        "id": "lethal_company",
-        "world_version": "0.8.0",
-        "tag_version": "0.8.0",
-        "created_at": "2026-10-21T01:20:33Z"
       }
     },
     {
@@ -50492,6 +50492,19 @@
       }
     },
     {
+      "world": "https://github.com/qwint/APMinit/releases/download/v0.7.0/minit.apworld",
+      "size": 41861,
+      "hash_sha256": "d949cbb36eef1970798f261ff5ac9aa063912c8d5528680cd937b4f44eaeda16",
+      "metadata": {
+        "game": "Minit",
+        "id": "minit",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-10-21T05:44:44Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Edsploration/MK64-Archipelago/releases/download/mk64/0.2/mk64.apworld",
       "size": 125991,
       "hash_sha256": "36283bb308fdbcce0bc5d4335450ea48209553207261094505462d40aa6d7483",
@@ -58700,6 +58713,21 @@
       "world": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v1.0.0/pikmin2.apworld",
       "size": 6156700,
       "hash_sha256": "8a6514f56de28cb70fb6ceb34d5e4a4d4dc589c9447239360f140cac5343d3fe",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-09-16T04:32:01Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v1.0.0/pikmin2.apworld",
+      "size": 6156744,
+      "hash_sha256": "fb768de0880430085aabfe3be74f79a8aaeeb55ff67fdf0ce47669b12b4d8a43",
       "metadata": {
         "game": "Pikmin 2",
         "id": "pikmin2",
@@ -75510,6 +75538,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.15/sm64hacks.apworld",
+      "size": 302873,
+      "hash_sha256": "6fd618e9195f8113e2969cd870cf2f342962f5c24dfa22354b6feb1f67c87bf3",
+      "metadata": {
+        "game": "SM64 Romhack",
+        "id": "sm64hacks",
+        "world_version": "1.1.15",
+        "tag_version": "1.1.15",
+        "created_at": "2026-10-20T19:52:56Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.2/sm64hacks.apworld",
       "size": 294670,
       "hash_sha256": "a194e6093524c775e90f5b14adf4a829ee6f4959b444d0275a94bd3adccaa31d",
@@ -75631,22 +75675,6 @@
         "world_version": "1.1.7",
         "tag_version": "1.1.7",
         "created_at": "2026-06-16T23:40:57Z",
-        "minimum_ap_version": "0.6.3",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.15/sm64hacks.apworld",
-      "size": 302873,
-      "hash_sha256": "6fd618e9195f8113e2969cd870cf2f342962f5c24dfa22354b6feb1f67c87bf3",
-      "metadata": {
-        "game": "SM64 Romhack",
-        "id": "sm64hacks",
-        "world_version": "1.1.15",
-        "tag_version": "1.1.15",
-        "created_at": "2026-10-20T19:52:56Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "unready"
