@@ -4,6 +4,18 @@
   "github": "https://github.com/vgm5/Night_Of_100_Frights_ap_world",
   "license": null,
   "versions": {
+    "Release1.4.1": {
+      "created_at": "2026-10-23T01:26:43Z",
+      "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release1.4.1/no100f.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1d0c78065491b119be230cb9c0daa8eeb733805e4178a91f0a055b2bd3f02ceb",
+      "size": 158591,
+      "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
+      "tag": "Release1.4.1",
+      "title": "Bugfix Release v1.4.1 | Logic Fix | Full",
+      "version_simple": "1.4.1",
+      "world_version": "1.4.1"
+    },
     "Release_1_3_0": {
       "created_at": "2025-08-29T23:31:00Z",
       "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_0/no100f.apworld",
