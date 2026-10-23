@@ -217,6 +217,19 @@
       "title": "Major Release v1.4.0 | Rev 1 Implementation | Full",
       "version_simple": "1",
       "world_version": "1"
+    },
+    "Release_1_4_2": {
+      "created_at": "2026-10-23T13:28:01Z",
+      "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_4_2/no100f.apworld",
+      "has_manifest": true,
+      "hash_sha256": "7578884166d8f3f7dc308ea84c7e7984395803b19af0b44b5116ba34ed62983e",
+      "minimum_ap_version": "0.6.6",
+      "size": 158872,
+      "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
+      "tag": "Release_1_4_2",
+      "title": "Bugfix Release v1.4.2 | Logic Fixes | Full",
+      "version_simple": "1.4.2",
+      "world_version": "1.4.2"
     }
   }
 }

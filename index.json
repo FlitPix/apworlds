@@ -12381,6 +12381,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.10/civv.apworld",
+      "size": 457019,
+      "hash_sha256": "2df9375679edfbfbb5ee0a37bdfefd7729abeb6197c6893a2bbe9040b081554e",
+      "metadata": {
+        "game": "Civilization V",
+        "id": "civv",
+        "world_version": "0.10.10",
+        "tag_version": "0.10.10",
+        "created_at": "2026-10-23T09:17:01Z"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/ckd-v0.0.1/ckd.apworld",
       "size": 217567,
       "hash_sha256": "53671f3f057ead0462a4f5b570d96c0014858ae78fbb573471b83bcc6ec06943",
@@ -36342,6 +36354,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.3/ladx_beta.apworld",
+      "size": 373168,
+      "hash_sha256": "0b3eb21e9e4aaddb0283d34656ba3af6a80822d4be8a02e8d64b038ce3701354",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.6.3",
+        "tag_version": "13.6.3",
+        "created_at": "2026-10-22T04:20:26Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -36713,19 +36738,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.3/ladx_beta.apworld",
-      "size": 373168,
-      "hash_sha256": "0b3eb21e9e4aaddb0283d34656ba3af6a80822d4be8a02e8d64b038ce3701354",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.6.3",
-        "tag_version": "13.6.3",
-        "created_at": "2026-10-22T04:20:26Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -53851,6 +53863,18 @@
       }
     },
     {
+      "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release1.4.1/no100f.apworld",
+      "size": 158591,
+      "hash_sha256": "1d0c78065491b119be230cb9c0daa8eeb733805e4178a91f0a055b2bd3f02ceb",
+      "metadata": {
+        "game": "Scooby-Doo! Night of 100 Frights",
+        "id": "no100f",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-10-23T01:26:43Z"
+      }
+    },
+    {
       "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_0/no100f.apworld",
       "size": 216707,
       "hash_sha256": "c7a73db59222d8761aa6528118924eca25b97a3f3e6fde3dd3e74ba64d9abda0",
@@ -54062,15 +54086,16 @@
       }
     },
     {
-      "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release1.4.1/no100f.apworld",
-      "size": 158591,
-      "hash_sha256": "1d0c78065491b119be230cb9c0daa8eeb733805e4178a91f0a055b2bd3f02ceb",
+      "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_4_2/no100f.apworld",
+      "size": 158872,
+      "hash_sha256": "7578884166d8f3f7dc308ea84c7e7984395803b19af0b44b5116ba34ed62983e",
       "metadata": {
         "game": "Scooby-Doo! Night of 100 Frights",
         "id": "no100f",
-        "world_version": "1.4.1",
-        "tag_version": "1.4.1",
-        "created_at": "2026-10-23T01:26:43Z"
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2026-10-23T13:28:01Z",
+        "minimum_ap_version": "0.6.6"
       }
     },
     {
@@ -58854,6 +58879,21 @@
       "world": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v1.0.0/pikmin2.apworld",
       "size": 6156748,
       "hash_sha256": "4708e71a58e0c2ded293019d678d84fd4ab548f1a1e4a5a7a7fb19aadc21c483",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-09-16T04:32:01Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v1.0.0/pikmin2.apworld",
+      "size": 6156764,
+      "hash_sha256": "f67bf4a87b45ac005dc8dbd13a66137cc0b97c7819f4afbc0b55983aed648ec9",
       "metadata": {
         "game": "Pikmin 2",
         "id": "pikmin2",
@@ -84157,6 +84197,19 @@
         "id": "tevi",
         "world_version": "0.7.5",
         "tag_version": "0.7.5",
+        "created_at": "2026-07-01T18:38:52Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.6.5/tevi.apworld",
+      "size": 85054,
+      "hash_sha256": "c8cf4149265303406ba7397db2cfb049da2a43ecf80a846279dab78f5426910d",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "0.7.6",
+        "tag_version": "0.7.6",
         "created_at": "2026-07-01T18:38:52Z",
         "minimum_ap_version": "0.6.4"
       }

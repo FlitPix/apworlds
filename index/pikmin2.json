@@ -379,6 +379,19 @@
       "title": "v1.0.0 (pre-release)",
       "version_simple": "1.0.0",
       "world_version": "1.0.0"
+    },
+    "v1.0.0r5": {
+      "created_at": "2026-09-16T04:32:01Z",
+      "download_url": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v1.0.0/pikmin2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "f67bf4a87b45ac005dc8dbd13a66137cc0b97c7819f4afbc0b55983aed648ec9",
+      "prerelease": true,
+      "size": 6156764,
+      "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
+      "tag": "v1.0.0r5",
+      "title": "v1.0.0 (pre-release)",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
     }
   }
 }
