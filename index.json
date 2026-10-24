@@ -14787,6 +14787,22 @@
       }
     },
     {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.19.0/crystal_project.apworld",
+      "size": 213164,
+      "hash_sha256": "b10d8ab85dee8f0a3b2c226f159a5055115b5ac0dcc6e3de7fb1407636fef600",
+      "metadata": {
+        "game": "Crystal Project",
+        "id": "crystal_project",
+        "world_version": "0.19.0",
+        "tag_version": "0.19.0",
+        "created_at": "2026-10-23T22:28:20Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.5.0/crystal_project.apworld",
       "size": 242135,
       "hash_sha256": "364cf700e1b81b87404be45fb83d8e5c7a20f5e6607c1ba5357a621d2e2b4d7d",
@@ -15004,22 +15020,6 @@
         "tag_version": "0.4.post2",
         "created_at": "2025-05-21T22:20:48Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "tracker_included"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.19.0/crystal_project.apworld",
-      "size": 213164,
-      "hash_sha256": "b10d8ab85dee8f0a3b2c226f159a5055115b5ac0dcc6e3de7fb1407636fef600",
-      "metadata": {
-        "game": "Crystal Project",
-        "id": "crystal_project",
-        "world_version": "0.19.0",
-        "tag_version": "0.19.0",
-        "created_at": "2026-10-23T22:28:20Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "tracker_included"
         ]
@@ -79430,6 +79430,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
+      "size": 75546,
+      "hash_sha256": "8b74abb21db86d9c49521685370a44c5efe44ff87aec3a975f6af705f447a467",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "2.2.0.post2",
+        "tag_version": "2.2.0.post2",
+        "created_at": "2026-10-19T00:14:43Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
