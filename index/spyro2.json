@@ -289,6 +289,19 @@
       "version_simple": "2.2.0",
       "world_version": "2.2.0.post2"
     },
+    "2.2.0r3": {
+      "created_at": "2026-10-19T00:14:43Z",
+      "download_url": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "bc01222dbb69229bffe7c5cb1783d8789684d7a5fde1791c121f0c5aaed1f221",
+      "minimum_ap_version": "0.6.6",
+      "size": 73638,
+      "source_url": "https://api.github.com/repos/Uroogla/S2AP",
+      "tag": "2.2.0r3",
+      "title": "v2.2.0/2.2.1",
+      "version_simple": "2.2.1",
+      "world_version": "2.2.1"
+    },
     "full_gemsanity_31_10_25": {
       "created_at": "2025-10-11T17:37:59Z",
       "download_url": "https://github.com/Uroogla/S2AP/releases/download/full_gemsanity_31_10_25/spyro2.apworld",

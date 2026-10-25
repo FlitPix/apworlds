@@ -435,6 +435,19 @@
       "title": "v0.8.3",
       "version_simple": "0.8.2",
       "world_version": "0.8.2"
+    },
+    "v0.8.4": {
+      "created_at": "2026-10-21T14:16:08Z",
+      "download_url": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.4/cotnd.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c10d9a38a89a0f124def73a1eedac8eb63125ba9cce222b7d86e498cf7b9195b",
+      "minimum_ap_version": "0.6.7",
+      "size": 4000029,
+      "source_url": "https://api.github.com/repos/lastingParadox/Archipelago-CotND",
+      "tag": "v0.8.4",
+      "title": "Archipelago v0.8.4",
+      "version_simple": "0.8.4",
+      "world_version": "0.8.4"
     }
   }
 }

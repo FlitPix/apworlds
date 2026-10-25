@@ -13526,6 +13526,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.4/cotnd.apworld",
+      "size": 4000029,
+      "hash_sha256": "c10d9a38a89a0f124def73a1eedac8eb63125ba9cce222b7d86e498cf7b9195b",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.8.4",
+        "tag_version": "0.8.4",
+        "created_at": "2026-10-21T14:16:08Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.10.0-pre.1/crosscode.apworld",
       "size": 148825,
       "hash_sha256": "fd5c25611ec3dadb7dc66a49acb3ba1ca95fded6a635ed1c70fa92b84d7c0785",
@@ -19673,6 +19686,32 @@
         "world_version": "1.5.8",
         "tag_version": "1.5.8",
         "created_at": "2026-06-21T20:26:45Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.1/dk64.apworld",
+      "size": 1915239,
+      "hash_sha256": "cf271f6fd4cab079a84205628cb8a2061db3c1369df8065d08689a29ca58b947",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-10-24T21:10:31Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.0/dk64.apworld",
+      "size": 1915235,
+      "hash_sha256": "0cde9bd895d8b26f79aa9a95b15fe4021e89ae54fe45ff35ea70038fad0782b5",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-10-24T17:59:59Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -58922,6 +58961,21 @@
       }
     },
     {
+      "world": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v1.0.0/pikmin2.apworld",
+      "size": 6126649,
+      "hash_sha256": "38d493339914f186aeecd2b01fe0e9f69143d14e113fff3feec4cefde2a53231",
+      "metadata": {
+        "game": "Pikmin 2",
+        "id": "pikmin2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-09-16T04:32:01Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/unsafetyskizzers/Archipelago/releases/download/1.0.1/pizza_tower.apworld",
       "size": 27618,
       "hash_sha256": "d6fbff7c45a5667a0987838049c30f1162a2e1ee123b36845f3cf1417163267c",
@@ -68419,6 +68473,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.8.0c/refunct.apworld",
+      "size": 20598,
+      "hash_sha256": "776cb07b834b2c90a7f5de65f64718e081d980ca1e5c321119fbe9c6a1926dc0",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.8.0",
+        "tag_version": "1.8.0",
+        "created_at": "2026-10-24T21:07:33Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.1/residentevil2remake.apworld",
       "size": 38734,
       "hash_sha256": "af06e495fa78441bf0b03683af20f8d94dafb5f35506ae2d1ee0a8b89f569b32",
@@ -74016,7 +74083,10 @@
         "id": "sims4",
         "world_version": "2.0.99",
         "tag_version": "2.0.99",
-        "created_at": "2026-10-13T16:51:27Z"
+        "created_at": "2026-10-13T16:51:27Z",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -79336,6 +79406,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
+      "size": 75546,
+      "hash_sha256": "8b74abb21db86d9c49521685370a44c5efe44ff87aec3a975f6af705f447a467",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "2.2.0.post2",
+        "tag_version": "2.2.0.post2",
+        "created_at": "2026-10-19T00:14:43Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S2AP/releases/download/full_gemsanity_31_10_25/spyro2.apworld",
       "size": 30729,
       "hash_sha256": "140e609154fe0bd3d5d15d6eea5948bd54ed750f4439fbecce2e069885ec86ab",
@@ -79434,14 +79517,15 @@
     },
     {
       "world": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
-      "size": 75546,
-      "hash_sha256": "8b74abb21db86d9c49521685370a44c5efe44ff87aec3a975f6af705f447a467",
+      "size": 73638,
+      "hash_sha256": "bc01222dbb69229bffe7c5cb1783d8789684d7a5fde1791c121f0c5aaed1f221",
       "metadata": {
         "game": "Spyro 2",
         "id": "spyro2",
-        "world_version": "2.2.0.post2",
-        "tag_version": "2.2.0.post2",
+        "world_version": "2.2.1",
+        "tag_version": "2.2.1",
         "created_at": "2026-10-19T00:14:43Z",
+        "minimum_ap_version": "0.6.6",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -89169,6 +89253,19 @@
         "world_version": "0.3.5",
         "tag_version": "0.3.5",
         "created_at": "2026-10-11T04:45:18Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.6/tracker.apworld",
+      "size": 192318,
+      "hash_sha256": "39e9bc0f733aa7cd96fd57052b1c04233804862ac8543c6f4675af5f2f5cb750",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.3.6",
+        "tag_version": "0.3.6",
+        "created_at": "2026-10-25T02:41:15Z",
         "minimum_ap_version": "0.6.2"
       }
     },
