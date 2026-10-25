@@ -19690,19 +19690,6 @@
       }
     },
     {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.1/dk64.apworld",
-      "size": 1915239,
-      "hash_sha256": "cf271f6fd4cab079a84205628cb8a2061db3c1369df8065d08689a29ca58b947",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "2.0.1",
-        "tag_version": "2.0.1",
-        "created_at": "2026-10-24T21:10:31Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.0/dk64.apworld",
       "size": 1915235,
       "hash_sha256": "0cde9bd895d8b26f79aa9a95b15fe4021e89ae54fe45ff35ea70038fad0782b5",
@@ -19712,6 +19699,19 @@
         "world_version": "2.0.0",
         "tag_version": "2.0.0",
         "created_at": "2026-10-24T17:59:59Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.1/dk64.apworld",
+      "size": 1915239,
+      "hash_sha256": "cf271f6fd4cab079a84205628cb8a2061db3c1369df8065d08689a29ca58b947",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-10-24T21:10:31Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -79419,6 +79419,20 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
+      "size": 73638,
+      "hash_sha256": "bc01222dbb69229bffe7c5cb1783d8789684d7a5fde1791c121f0c5aaed1f221",
+      "metadata": {
+        "game": "Spyro 2",
+        "id": "spyro2",
+        "world_version": "2.2.1",
+        "tag_version": "2.2.1",
+        "created_at": "2026-10-19T00:14:43Z",
+        "minimum_ap_version": "0.6.6",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S2AP/releases/download/full_gemsanity_31_10_25/spyro2.apworld",
       "size": 30729,
       "hash_sha256": "140e609154fe0bd3d5d15d6eea5948bd54ed750f4439fbecce2e069885ec86ab",
@@ -79513,20 +79527,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
-      "size": 73638,
-      "hash_sha256": "bc01222dbb69229bffe7c5cb1783d8789684d7a5fde1791c121f0c5aaed1f221",
-      "metadata": {
-        "game": "Spyro 2",
-        "id": "spyro2",
-        "world_version": "2.2.1",
-        "tag_version": "2.2.1",
-        "created_at": "2026-10-19T00:14:43Z",
-        "minimum_ap_version": "0.6.6",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
