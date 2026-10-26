@@ -9711,6 +9711,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.17.2/brotato.apworld",
+      "size": 48999,
+      "hash_sha256": "d3ec463e76c65d089884c679bd962484eaec3eff4474e47a6aaaecb9d7f82426",
+      "metadata": {
+        "game": "Brotato",
+        "id": "brotato",
+        "world_version": "0.17.2",
+        "tag_version": "0.17.2",
+        "created_at": "2026-10-26T05:34:18Z"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/20250326-1/candybox2.apworld",
       "size": 12330,
       "hash_sha256": "e68a35ae48f13574b9c1c03c776ce6f518d6b36a0facabd04c04aca7fc6da892",
@@ -19737,6 +19749,19 @@
         "world_version": "2.0.2",
         "tag_version": "2.0.2",
         "created_at": "2026-10-25T18:49:11Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.3/dk64.apworld",
+      "size": 1915285,
+      "hash_sha256": "7c3328afcefeb0e7f4d18a63358b79df5c800eb58d0f188f6494040dda42becc",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "2.0.3",
+        "tag_version": "2.0.3",
+        "created_at": "2026-10-26T15:27:42Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -36447,6 +36472,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.4/ladx_beta.apworld",
+      "size": 373179,
+      "hash_sha256": "7653208792bf531ce27fb6c63e3e9ae09e7b5009688b9fc765ecb775db5f0a7e",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.6.4",
+        "tag_version": "13.6.4",
+        "created_at": "2026-10-25T20:11:23Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -36818,19 +36856,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.4/ladx_beta.apworld",
-      "size": 373179,
-      "hash_sha256": "7653208792bf531ce27fb6c63e3e9ae09e7b5009688b9fc765ecb775db5f0a7e",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.6.4",
-        "tag_version": "13.6.4",
-        "created_at": "2026-10-25T20:11:23Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -73469,6 +73494,18 @@
       }
     },
     {
+      "world": "https://github.com/devoidlazarus/SIGNALISArchipelagoRandomizer/releases/download/v0.2.6/signalis.apworld",
+      "size": 8592,
+      "hash_sha256": "3456886bc59272ec64a3714a49e63cd1f49c2a33ffc9da39e6b4079cdc540640",
+      "metadata": {
+        "game": "Signalis",
+        "id": "signalis",
+        "world_version": "0.2.6",
+        "tag_version": "0.2.6",
+        "created_at": "2026-09-15T00:08:21Z"
+      }
+    },
+    {
       "world": "https://github.com/nmize1/Archipelago/releases/download/v0.1.0b/simpsonshitnrun.apworld",
       "size": 42000,
       "hash_sha256": "51d25205d1ec6243e6950582d6d8d40cba4a6f616f810e28c94c4b1937a364c6",
@@ -78432,6 +78469,19 @@
       }
     },
     {
+      "world": "https://github.com/DDR-Khat/Spelunky2-Archipelago/releases/download/0.5.0/spelunky2.apworld",
+      "size": 22095,
+      "hash_sha256": "ceff35de1729f4e990a90636f251888afb23752623acb65bba30dabb2c13fedb",
+      "metadata": {
+        "game": "Spelunky 2",
+        "id": "spelunky2",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-10-26T14:12:25Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/spineraks-org/ArchipelagoSpinball/releases/download/v0.0.1/spinball.apworld",
       "size": 247683,
       "hash_sha256": "fab2b899fb2e87241f8b629dad54718c28d20dcf88b73e4cc8ff63b814590de6",
@@ -82292,6 +82342,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.11/stardew_valley.apworld",
+      "size": 585305,
+      "hash_sha256": "0a5c07daed89de8e1fd64ea67c3bf53c180ca97b43fe8f0ea955f2fba8bc81cd",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.10",
+        "tag_version": "8.1.10",
+        "created_at": "2026-10-26T03:00:41Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.2/stardew_valley.apworld",
       "size": 580720,
       "hash_sha256": "27a9b8b1ddd07d1ad82500485c36549e020b4d6c2ba1da189dba2163f4d19c26",
@@ -82413,22 +82479,6 @@
         "world_version": "8.1.5",
         "tag_version": "8.1.5",
         "created_at": "2026-09-06T01:41:14Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.11/stardew_valley.apworld",
-      "size": 585305,
-      "hash_sha256": "0a5c07daed89de8e1fd64ea67c3bf53c180ca97b43fe8f0ea955f2fba8bc81cd",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.1.10",
-        "tag_version": "8.1.10",
-        "created_at": "2026-10-26T03:00:41Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
