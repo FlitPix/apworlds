@@ -10466,6 +10466,18 @@
       }
     },
     {
+      "world": "https://github.com/sitskin/apCassetteBeasts/releases/download/v0.0.7/cassette_beasts.apworld",
+      "size": 30362,
+      "hash_sha256": "daddecede6f9f925d5e63322b183f311a0e3021a7332c0bce0ec74b779031f26",
+      "metadata": {
+        "game": "Cassette Beasts",
+        "id": "cassette_beasts",
+        "world_version": "0.0.7",
+        "tag_version": "0.0.7",
+        "created_at": "2026-10-25T16:43:38Z"
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.1.0/casualtiesunknown.apworld",
       "size": 39654,
       "hash_sha256": "38f48159201547050674dcb025d9e8a0894fc7356626d21aded8fcf3c41a5530",
@@ -19712,6 +19724,19 @@
         "world_version": "2.0.1",
         "tag_version": "2.0.1",
         "created_at": "2026-10-24T21:10:31Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.2/dk64.apworld",
+      "size": 1915211,
+      "hash_sha256": "00e94fd1d526178a68ff8a5051bdfa52db5143e2165618ea3cd075deaf572ac0",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2026-10-25T18:49:11Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -36793,6 +36818,19 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.4/ladx_beta.apworld",
+      "size": 373179,
+      "hash_sha256": "7653208792bf531ce27fb6c63e3e9ae09e7b5009688b9fc765ecb775db5f0a7e",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.6.4",
+        "tag_version": "13.6.4",
+        "created_at": "2026-10-25T20:11:23Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -82375,6 +82413,22 @@
         "world_version": "8.1.5",
         "tag_version": "8.1.5",
         "created_at": "2026-09-06T01:41:14Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.11/stardew_valley.apworld",
+      "size": 585305,
+      "hash_sha256": "0a5c07daed89de8e1fd64ea67c3bf53c180ca97b43fe8f0ea955f2fba8bc81cd",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.10",
+        "tag_version": "8.1.10",
+        "created_at": "2026-10-26T03:00:41Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"

@@ -75,6 +75,18 @@
       "title": "v0.0.6",
       "version_simple": "0.0.6",
       "world_version": "0.0.6"
+    },
+    "v0.0.7": {
+      "created_at": "2026-10-25T16:43:38Z",
+      "download_url": "https://github.com/sitskin/apCassetteBeasts/releases/download/v0.0.7/cassette_beasts.apworld",
+      "has_manifest": true,
+      "hash_sha256": "daddecede6f9f925d5e63322b183f311a0e3021a7332c0bce0ec74b779031f26",
+      "size": 30362,
+      "source_url": "https://api.github.com/repos/sitskin/apCassetteBeasts",
+      "tag": "v0.0.7",
+      "title": "v0.0.7",
+      "version_simple": "0.0.7",
+      "world_version": "0.0.7"
     }
   }
 }
