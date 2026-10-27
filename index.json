@@ -89387,19 +89387,6 @@
       }
     },
     {
-      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.8/tracker.apworld",
-      "size": 193587,
-      "hash_sha256": "2661cac9e4e337ab260f514c068724e15532d0500dcbc48616b0a26d6ac5b466",
-      "metadata": {
-        "game": "Universal Tracker",
-        "id": "tracker",
-        "world_version": "0.3.8",
-        "tag_version": "0.3.8",
-        "created_at": "2026-10-27T03:14:16Z",
-        "minimum_ap_version": "0.6.2"
-      }
-    },
-    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.7/tracker.apworld",
       "size": 193551,
       "hash_sha256": "f228ac2d6a880d31fba4e7d3dc6ac0ec4c553b6908beb8bfff48394d426529f4",
@@ -89409,6 +89396,19 @@
         "world_version": "0.3.7",
         "tag_version": "0.3.7",
         "created_at": "2026-10-27T02:03:24Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.8/tracker.apworld",
+      "size": 193587,
+      "hash_sha256": "2661cac9e4e337ab260f514c068724e15532d0500dcbc48616b0a26d6ac5b466",
+      "metadata": {
+        "game": "Universal Tracker",
+        "id": "tracker",
+        "world_version": "0.3.8",
+        "tag_version": "0.3.8",
+        "created_at": "2026-10-27T03:14:16Z",
         "minimum_ap_version": "0.6.2"
       }
     },
