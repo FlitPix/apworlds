@@ -19779,6 +19779,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.5/dk64.apworld",
+      "size": 1916038,
+      "hash_sha256": "8430fe66c6ed3cf159bec173e3843cf596ee34db7f41264a004156a720e800d3",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "2.0.5",
+        "tag_version": "2.0.5",
+        "created_at": "2026-10-27T18:55:46Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.0.0/dkc.apworld",
       "size": 56776,
       "hash_sha256": "15d2d8a12aad3d4e068bd805e8f0da29b132cbaca62ae022c3c0f4f80cc439e4",
@@ -61745,6 +61758,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.4.3/pokemon_bw.apworld",
+      "size": 1409044,
+      "hash_sha256": "e845812b068207d1b1081e0d0400440182789cc5ddcf0234faf151efa228fb45",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.4.3",
+        "tag_version": "0.4.3",
+        "created_at": "2026-10-28T00:57:45Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/AliceMousie/Archipelago/releases/download/0.1/pokemon_crystal.apworld",
       "size": 152500,
       "hash_sha256": "d31c76e065d7de7245b3d41444388c73d5aaed3edcebb795b8d9d0fda4ef4350",
@@ -78979,6 +79005,18 @@
         "world_version": "2.1.1",
         "tag_version": "2.1.1",
         "created_at": "2026-10-17T05:09:12Z"
+      }
+    },
+    {
+      "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V2.1.2/spiritvalley.apworld",
+      "size": 54304,
+      "hash_sha256": "ec326132aaf39a1e8ce09deeaaa23567a663d1b6c9100c27d8c552d276738b37",
+      "metadata": {
+        "game": "Spirit Valley",
+        "id": "spiritvalley",
+        "world_version": "2.1.2",
+        "tag_version": "2.1.2",
+        "created_at": "2026-10-28T03:04:50Z"
       }
     },
     {
