@@ -11087,6 +11087,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.12.1/casualtiesunknown.apworld",
+      "size": 95394,
+      "hash_sha256": "3d6d431b4a6be0db2994a64c14db4495ce8783d9febb1e714374b2e9455db9a1",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.12.1",
+        "tag_version": "0.12.1",
+        "created_at": "2026-10-29T02:44:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -44765,6 +44778,22 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0-RC1/manual_onemorenight_wolfboi008.apworld",
+      "size": 77822,
+      "hash_sha256": "3773c59829c78ab52d38268aeafbfa37e490e10ebc1d4c3a76ddbc7a69db7c32",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.0.0rc1",
+        "tag_version": "3.0.0rc1",
+        "created_at": "2026-10-22T22:26:43Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/nicopop/ManualApworlds/releases/download/6.4.0/manual_outerwilds_nicopopxd.apworld",
       "size": 73676,
       "hash_sha256": "d6f034c2e7a17a3d1f4a53f83d24c1a35f17f82c01a48539257ad408220bdffe",
@@ -54899,6 +54928,19 @@
         "world_version": "0.5.3",
         "tag_version": "0.5.3",
         "created_at": "2026-09-10T18:31:29Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.4/okamihd.apworld",
+      "size": 90608,
+      "hash_sha256": "dfa81d7568b24fccda4b271bf4643c01ba320638a5a4dc9aeaa5953ecbab63c4",
+      "metadata": {
+        "game": "Okami HD",
+        "id": "okamihd",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2026-10-28T20:53:30Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -67013,6 +67055,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Panda291/Archipelago/releases/download/v0.3.0/rac1.apworld",
+      "size": 99092,
+      "hash_sha256": "52975aee70a1dfe80b95cfc8e1e970d855a80190b44d5fd6f96cbeb467b80e70",
+      "metadata": {
+        "game": "Ratchet & Clank",
+        "id": "rac1",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-10-05T06:15:20Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {

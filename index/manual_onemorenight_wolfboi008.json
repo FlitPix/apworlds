@@ -438,6 +438,19 @@
       "version_simple": "2.5.0",
       "world_version": "2.5.0"
     },
+    "3.0.0-RC1": {
+      "created_at": "2026-10-22T22:26:43Z",
+      "download_url": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0-RC1/manual_onemorenight_wolfboi008.apworld",
+      "has_manifest": false,
+      "hash_sha256": "3773c59829c78ab52d38268aeafbfa37e490e10ebc1d4c3a76ddbc7a69db7c32",
+      "prerelease": true,
+      "size": 77822,
+      "source_url": "https://api.github.com/repos/WolfBoi008/One-More-Night",
+      "tag": "3.0.0-RC1",
+      "title": "Version 3.0.0 RC1",
+      "version_simple": "3.0.0",
+      "world_version": "3.0.0rc1"
+    },
     "pre-1.5.0": {
       "created_at": "2025-11-09T15:40:29Z",
       "download_url": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
