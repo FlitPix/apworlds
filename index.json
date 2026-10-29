@@ -10581,6 +10581,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.12.1/casualtiesunknown.apworld",
+      "size": 95394,
+      "hash_sha256": "3d6d431b4a6be0db2994a64c14db4495ce8783d9febb1e714374b2e9455db9a1",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.12.1",
+        "tag_version": "0.12.1",
+        "created_at": "2026-10-29T02:44:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.2.0/casualtiesunknown.apworld",
       "size": 44285,
       "hash_sha256": "0d7389820011b49f8dc5ef3324b38ba4d0c8de1e9bec7f575733dcfe73c2afc0",
@@ -11083,19 +11096,6 @@
         "world_version": "0.9.3",
         "tag_version": "0.9.3",
         "created_at": "2026-04-27T03:07:23Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.12.1/casualtiesunknown.apworld",
-      "size": 95394,
-      "hash_sha256": "3d6d431b4a6be0db2994a64c14db4495ce8783d9febb1e714374b2e9455db9a1",
-      "metadata": {
-        "game": "Casualties: Unknown",
-        "id": "casualtiesunknown",
-        "world_version": "0.12.1",
-        "tag_version": "0.12.1",
-        "created_at": "2026-10-29T02:44:54Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -44618,6 +44618,22 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0-RC1/manual_onemorenight_wolfboi008.apworld",
+      "size": 77822,
+      "hash_sha256": "3773c59829c78ab52d38268aeafbfa37e490e10ebc1d4c3a76ddbc7a69db7c32",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.0.0rc1",
+        "tag_version": "3.0.0rc1",
+        "created_at": "2026-10-22T22:26:43Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -44778,14 +44794,30 @@
       }
     },
     {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0-RC1/manual_onemorenight_wolfboi008.apworld",
-      "size": 77822,
-      "hash_sha256": "3773c59829c78ab52d38268aeafbfa37e490e10ebc1d4c3a76ddbc7a69db7c32",
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0-RC2/manual_onemorenight_wolfboi008.apworld",
+      "size": 77901,
+      "hash_sha256": "181cc6c3d678e6e877f066426acd6fb6387e44466c0e0cccb11a9dfca5981fcc",
       "metadata": {
         "game": "Manual_OneMoreNight_WolfBoi008",
         "id": "manual_onemorenight_wolfboi008",
-        "world_version": "3.0.0rc1",
-        "tag_version": "3.0.0rc1",
+        "world_version": "3.0.0rc2",
+        "tag_version": "3.0.0rc2",
+        "created_at": "2026-10-22T22:26:43Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0-RC1/manual_onemorenight_wolfboi008.apworld",
+      "size": 77831,
+      "hash_sha256": "1aa863192bb91d06c228d44d513b5f32b5f03de622de6f177099d6bf6cf1d957",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.0.0.post2",
+        "tag_version": "3.0.0.post2",
         "created_at": "2026-10-22T22:26:43Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
