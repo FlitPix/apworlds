@@ -132,6 +132,19 @@
       "version_simple": "0.17.0",
       "world_version": "0.17.0"
     },
+    "v0.18.0": {
+      "created_at": "2026-06-12T01:41:46Z",
+      "download_url": "https://github.com/studkid/RiftArchipelago/releases/download/v0.18.0/rotn.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d3bbac1e1e5d38134ae0fda1678c3b8f831775d68c3df4e8b6e43b1722df1ee0",
+      "minimum_ap_version": "0.6.3",
+      "size": 17772,
+      "source_url": "https://api.github.com/repos/studkid/RiftArchipelago",
+      "tag": "v0.18.0",
+      "title": "v0.18.0",
+      "version_simple": "0.17.0",
+      "world_version": "0.17.0"
+    },
     "v0.2": {
       "created_at": "2025-04-07T10:56:12Z",
       "download_url": "https://github.com/studkid/RiftArchipelago/releases/download/v0.2/rotn.apworld",

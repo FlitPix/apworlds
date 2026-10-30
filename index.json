@@ -36537,6 +36537,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.5/ladx_beta.apworld",
+      "size": 373273,
+      "hash_sha256": "8fe2e935b76317e41eb5767cf8c185362f46d56d3703bda0ac57bd2bf676a825",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.6.5",
+        "tag_version": "13.6.5",
+        "created_at": "2026-10-30T01:37:10Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -36908,19 +36921,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.5/ladx_beta.apworld",
-      "size": 373273,
-      "hash_sha256": "8fe2e935b76317e41eb5767cf8c185362f46d56d3703bda0ac57bd2bf676a825",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.6.5",
-        "tag_version": "13.6.5",
-        "created_at": "2026-10-30T01:37:10Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -44692,6 +44692,22 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0-RC2/manual_onemorenight_wolfboi008.apworld",
+      "size": 77916,
+      "hash_sha256": "38d34d6d762d7ade0f69abe9401d0578c84dc38c8106d92b8232fcf61b7d3dcc",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.0.0.post2",
+        "tag_version": "3.0.0.post2",
+        "created_at": "2026-10-22T22:26:43Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -44845,22 +44861,6 @@
         "world_version": "3.0.0.post1",
         "tag_version": "3.0.0.post1",
         "created_at": "2026-10-22T22:17:26Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0-RC2/manual_onemorenight_wolfboi008.apworld",
-      "size": 77916,
-      "hash_sha256": "38d34d6d762d7ade0f69abe9401d0578c84dc38c8106d92b8232fcf61b7d3dcc",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "3.0.0.post2",
-        "tag_version": "3.0.0.post2",
-        "created_at": "2026-10-22T22:26:43Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -53244,6 +53244,19 @@
         "world_version": "1.5.37",
         "tag_version": "1.5.37",
         "created_at": "2026-09-25T09:39:06Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.38/musedash.apworld",
+      "size": 37532,
+      "hash_sha256": "b82b127c8e2c31b7114aa64db28fa45d727cf95cff88a588f928f8060c4c7536",
+      "metadata": {
+        "game": "Muse Dash",
+        "id": "musedash",
+        "world_version": "1.5.38",
+        "tag_version": "1.5.38",
+        "created_at": "2026-10-30T13:10:33Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -71063,6 +71076,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.18.0/rotn.apworld",
+      "size": 17772,
+      "hash_sha256": "d3bbac1e1e5d38134ae0fda1678c3b8f831775d68c3df4e8b6e43b1722df1ee0",
+      "metadata": {
+        "game": "Rift of the Necrodancer",
+        "id": "rotn",
+        "world_version": "0.17.0",
+        "tag_version": "0.17.0",
+        "created_at": "2026-06-12T01:41:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/dgrossmann144/Archipelago/releases/download/AlphaRelease/rusted_moss.apworld",
       "size": 46349,
       "hash_sha256": "185e14db1e838b42e5db16bbc95891c6648ab99d04b0b4dc5fcf91f5394b38bc",
@@ -78429,6 +78455,19 @@
       }
     },
     {
+      "world": "https://github.com/Tranquilite0/Archipelago-SoulBlazer/releases/download/v0.7.0/soulblazer.apworld",
+      "size": 99003,
+      "hash_sha256": "236c609ecba0739bdcb5dfb6302d64d3ee6c0e4e0b180f5fbf533d22587a65ec",
+      "metadata": {
+        "game": "Soul Blazer",
+        "id": "soulblazer",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-10-30T04:09:33Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/rm-steele/Archipelago/releases/download/v0.1.0/spelclassic.apworld",
       "size": 9606,
       "hash_sha256": "07464eb5da3490ae9edf2173e704c9feafb3178b4bddd0cbb235845ccd7e8cd0",
@@ -82551,6 +82590,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.12/stardew_valley.apworld",
+      "size": 585308,
+      "hash_sha256": "99f094507402cd5463050c993319b5054e65aab5f91ebbb3659bb1d9dd673262",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.12",
+        "tag_version": "8.1.12",
+        "created_at": "2026-10-30T02:44:14Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.2/stardew_valley.apworld",
       "size": 580720,
       "hash_sha256": "27a9b8b1ddd07d1ad82500485c36549e020b4d6c2ba1da189dba2163f4d19c26",
@@ -82672,22 +82727,6 @@
         "world_version": "8.1.5",
         "tag_version": "8.1.5",
         "created_at": "2026-09-06T01:41:14Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.12/stardew_valley.apworld",
-      "size": 585308,
-      "hash_sha256": "99f094507402cd5463050c993319b5054e65aab5f91ebbb3659bb1d9dd673262",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.1.12",
-        "tag_version": "8.1.12",
-        "created_at": "2026-10-30T02:44:14Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
