@@ -1,7 +1,7 @@
 {
   "total_repositories": 441,
-  "total_packages": 546,
-  "total_versions": 6997,
+  "total_packages": 547,
+  "total_versions": 7000,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -269,7 +269,7 @@
     "Manual_TheWrathofCortex_MuffinJets": false,
     "manual_thmusic_awesome7285": true,
     "manual_vampiresurvivors_jones": false,
-    "manual_watchashow_chakraa": false,
+    "manual_watchashow_chakraa": true,
     "manual_wizard101freetoplay_garbo": false,
     "manual_worldofwarcraftdungeons_chakraa": false,
     "manual_worldofwarcraftleveling_chakraa": false,
