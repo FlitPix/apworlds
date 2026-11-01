@@ -1,7 +1,7 @@
 {
   "total_repositories": 441,
   "total_packages": 547,
-  "total_versions": 7003,
+  "total_versions": 7008,
   "manifest_ready": {
     "actraiser": true,
     "adofai": false,
@@ -458,7 +458,7 @@
     "waterywords": false,
     "webfishing": false,
     "westofloathing": true,
-    "wl": false,
+    "wl": true,
     "wl4": true,
     "wordipelago": true,
     "x2wotc": true,

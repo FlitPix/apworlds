@@ -1,8 +1,12 @@
 {
   "description": "A golden pyramid has been discovered deep in the jungle, and Wario has set\nout to rob it. But when he enters, he finds the Golden Diva's curse has\ntaken away his moves! To escape with his life and more importantly, the\ntreasure, Wario must find his abilities to defeat the passage bosses and\nthe Golden Diva.",
+  "flags": [
+    "supports_deathlink"
+  ],
   "game": "Wario Land 4",
   "github": "https://github.com/lilDavid/Archipelago-Wario-Land-4/",
   "license": "MIT",
+  "tracker": "https://github.com/JackTHerbert/wl4_jth/releases/latest",
   "versions": {
     "2.1.1": {
       "created_at": "2024-07-02T20:38:39Z",
@@ -241,6 +245,32 @@
       "title": "3.4.0",
       "version_simple": "3.4.0",
       "world_version": "3.4.0"
+    },
+    "3.5.0": {
+      "created_at": "2026-11-01T14:04:35Z",
+      "download_url": "https://github.com/lilDavid/Archipelago-Wario-Land-4/releases/download/3.5.0/wl4.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b2c982f33be674c5b5caa577e60186bc70684978aeaa743c0ee98c67290ad45b",
+      "minimum_ap_version": "0.6.7",
+      "size": 65365,
+      "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Wario-Land-4",
+      "tag": "3.5.0",
+      "title": "3.5.0",
+      "version_simple": "3.5.0",
+      "world_version": "3.5.0"
+    },
+    "3.5.1": {
+      "created_at": "2026-11-01T14:38:25Z",
+      "download_url": "https://github.com/lilDavid/Archipelago-Wario-Land-4/releases/download/3.5.1/wl4.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1ef076da78d9f1f75b80dfaa87d0cc045bb53b9cdeed4a60914c9d1094716127",
+      "minimum_ap_version": "0.6.7",
+      "size": 65385,
+      "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Wario-Land-4",
+      "tag": "3.5.1",
+      "title": "3.5.1",
+      "version_simple": "3.5.1",
+      "world_version": "3.5.1"
     }
   }
 }
