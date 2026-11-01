@@ -13576,6 +13576,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.5/cotnd.apworld",
+      "size": 4000939,
+      "hash_sha256": "72a40b49a79358847dd3be0c14199c2f5a518836359fcb19b6552a3d9d629f88",
+      "metadata": {
+        "game": "Crypt of the NecroDancer",
+        "id": "cotnd",
+        "world_version": "0.8.5",
+        "tag_version": "0.8.5",
+        "created_at": "2026-10-21T14:16:08Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.10.0-pre.1/crosscode.apworld",
       "size": 148825,
       "hash_sha256": "fd5c25611ec3dadb7dc66a49acb3ba1ca95fded6a635ed1c70fa92b84d7c0785",
@@ -36550,6 +36563,19 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.6/ladx_beta.apworld",
+      "size": 373302,
+      "hash_sha256": "a4761e84ffd711ec66897456c27c93ef6c6911a4339573c439aff7bd9aed0cb4",
+      "metadata": {
+        "game": "Links Awakening DX Beta",
+        "id": "ladx_beta",
+        "world_version": "13.6.6",
+        "tag_version": "13.6.6",
+        "created_at": "2026-10-31T13:04:44Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/v10.0/ladx_beta.apworld",
       "size": 319792,
       "hash_sha256": "8681f1b7ad02a2759fb79ae0a21253207949a3eb6c697ede5aa6facd321f1bd2",
@@ -36921,19 +36947,6 @@
         "tag_version": "12.5",
         "created_at": "2025-09-02T05:58:25Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.6/ladx_beta.apworld",
-      "size": 373302,
-      "hash_sha256": "a4761e84ffd711ec66897456c27c93ef6c6911a4339573c439aff7bd9aed0cb4",
-      "metadata": {
-        "game": "Links Awakening DX Beta",
-        "id": "ladx_beta",
-        "world_version": "13.6.6",
-        "tag_version": "13.6.6",
-        "created_at": "2026-10-31T13:04:44Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -68777,6 +68790,19 @@
         "world_version": "1.8.0",
         "tag_version": "1.8.0",
         "created_at": "2026-10-24T21:07:33Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.8.0d/refunct.apworld",
+      "size": 20598,
+      "hash_sha256": "776cb07b834b2c90a7f5de65f64718e081d980ca1e5c321119fbe9c6a1926dc0",
+      "metadata": {
+        "game": "Refunct",
+        "id": "refunct",
+        "world_version": "1.8.0",
+        "tag_version": "1.8.0",
+        "created_at": "2026-10-31T23:13:35Z",
         "minimum_ap_version": "0.6.7"
       }
     },
