@@ -19818,19 +19818,6 @@
       }
     },
     {
-      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.7/dk64.apworld",
-      "size": 1916665,
-      "hash_sha256": "e0add28d51847366e1f8bb6454df38f74352ce8817790676eeb6d75ffb62379d",
-      "metadata": {
-        "game": "",
-        "id": "dk64",
-        "world_version": "2.0.7",
-        "tag_version": "2.0.7",
-        "created_at": "2026-10-28T01:42:58Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.6/dk64.apworld",
       "size": 1916610,
       "hash_sha256": "399ead94cd5ff9f93dd24a7cd0f3de31d112a71eef49424543c3cdf0537b1d9a",
@@ -19839,6 +19826,19 @@
         "id": "dk64",
         "world_version": "2.0.6",
         "tag_version": "2.0.6",
+        "created_at": "2026-10-28T01:42:58Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.7/dk64.apworld",
+      "size": 1916665,
+      "hash_sha256": "e0add28d51847366e1f8bb6454df38f74352ce8817790676eeb6d75ffb62379d",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "2.0.7",
+        "tag_version": "2.0.7",
         "created_at": "2026-10-28T01:42:58Z",
         "minimum_ap_version": "0.6.5"
       }
@@ -57332,6 +57332,19 @@
         "tag_version": "1.4.0",
         "created_at": "2026-10-18T16:37:00Z",
         "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.4.1/outer_wilds.apworld",
+      "size": 97149,
+      "hash_sha256": "bd3a013ba8a4bd4b1c91b108fa48b39e7818fce7f268181aca832bb1e752f1f7",
+      "metadata": {
+        "game": "Outer Wilds",
+        "id": "outer_wilds",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-11-02T18:12:27Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {

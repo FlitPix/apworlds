@@ -589,6 +589,19 @@
       "title": "v1.4.0",
       "version_simple": "1.4.0",
       "world_version": "1.4.0"
+    },
+    "v1.4.1": {
+      "created_at": "2026-11-02T18:12:27Z",
+      "download_url": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.4.1/outer_wilds.apworld",
+      "has_manifest": true,
+      "hash_sha256": "bd3a013ba8a4bd4b1c91b108fa48b39e7818fce7f268181aca832bb1e752f1f7",
+      "minimum_ap_version": "0.6.7",
+      "size": 97149,
+      "source_url": "https://api.github.com/repos/Ixrec/OuterWildsArchipelagoRandomizer",
+      "tag": "v1.4.1",
+      "title": "v1.4.1",
+      "version_simple": "1.4.1",
+      "world_version": "1.4.1"
     }
   }
 }
