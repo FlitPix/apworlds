@@ -10413,6 +10413,19 @@
       }
     },
     {
+      "world": "https://github.com/vicr123/Archipelago/releases/download/20261104-1/candybox2.apworld",
+      "size": 32010,
+      "hash_sha256": "d75decff02dd638142c4452f0ea2703090a98b37ddb19b8fa75316851feb3738",
+      "metadata": {
+        "game": "Candy Box 2",
+        "id": "candybox2",
+        "world_version": "1.20261104.1",
+        "tag_version": "1.20261104.1",
+        "created_at": "2026-11-04T08:24:07Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/sitskin/apCassetteBeasts/releases/download/v0.0.1/cassette_beasts.apworld",
       "size": 27408,
       "hash_sha256": "25840b3c3c81af13f4145b3bf92bf1d825a03f4b1599700da3415123496cf5b0",
@@ -10615,6 +10628,19 @@
         "world_version": "0.12.1",
         "tag_version": "0.12.1",
         "created_at": "2026-11-03T00:04:36Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.12.3/casualtiesunknown.apworld",
+      "size": 95257,
+      "hash_sha256": "64617c34b2320e147fa1e739f3434539f2866c465f52ebd91937254f7a17ec38",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.12.3",
+        "tag_version": "0.12.3",
+        "created_at": "2026-11-03T19:36:58Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -11121,19 +11147,6 @@
         "world_version": "0.9.3",
         "tag_version": "0.9.3",
         "created_at": "2026-04-27T03:07:23Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.12.3/casualtiesunknown.apworld",
-      "size": 95257,
-      "hash_sha256": "64617c34b2320e147fa1e739f3434539f2866c465f52ebd91937254f7a17ec38",
-      "metadata": {
-        "game": "Casualties: Unknown",
-        "id": "casualtiesunknown",
-        "world_version": "0.12.3",
-        "tag_version": "0.12.3",
-        "created_at": "2026-11-03T19:36:58Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -14581,6 +14594,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.10.0/crosscode.apworld",
+      "size": 149267,
+      "hash_sha256": "d318f0c290969657f2cda9f3f969fb288b2fa8592dc91ad77c084b22215e6709",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-11-04T05:42:14Z"
       }
     },
     {
@@ -44784,6 +44809,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0/manual_onemorenight_wolfboi008.apworld",
+      "size": 77916,
+      "hash_sha256": "38d34d6d762d7ade0f69abe9401d0578c84dc38c8106d92b8232fcf61b7d3dcc",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.0.0",
+        "tag_version": "3.0.0",
+        "created_at": "2026-11-03T20:52:19Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0-RC1/manual_onemorenight_wolfboi008.apworld",
       "size": 77822,
       "hash_sha256": "3773c59829c78ab52d38268aeafbfa37e490e10ebc1d4c3a76ddbc7a69db7c32",
@@ -44845,6 +44883,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.1/manual_onemorenight_wolfboi008.apworld",
+      "size": 77947,
+      "hash_sha256": "6f7560b4ac8312cac4f8edbeaf8461e29f749563a0de35ccd776aaaf83a94704",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.0.1",
+        "tag_version": "3.0.1",
+        "created_at": "2026-11-04T04:23:34Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -45005,32 +45056,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.1/manual_onemorenight_wolfboi008.apworld",
-      "size": 77947,
-      "hash_sha256": "6f7560b4ac8312cac4f8edbeaf8461e29f749563a0de35ccd776aaaf83a94704",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "3.0.1",
-        "tag_version": "3.0.1",
-        "created_at": "2026-11-04T04:23:34Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0/manual_onemorenight_wolfboi008.apworld",
-      "size": 77916,
-      "hash_sha256": "38d34d6d762d7ade0f69abe9401d0578c84dc38c8106d92b8232fcf61b7d3dcc",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "3.0.0",
-        "tag_version": "3.0.0",
-        "created_at": "2026-11-03T20:52:19Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -65353,6 +65378,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.9/pokepark.apworld",
+      "size": 83706,
+      "hash_sha256": "27fff8abc09fba8c7f7daa63612f4c58ef002d861a2b298709d8357de0b37040",
+      "metadata": {
+        "game": "PokePark",
+        "id": "pokepark",
+        "world_version": "1.2.9",
+        "tag_version": "1.2.9",
+        "created_at": "2026-11-04T13:16:04Z"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1/powerwashsimulator.apworld",
       "size": 11917,
       "hash_sha256": "c88117dc5d4eddea733e8f152b3ab1258b881e80a27e71d1363a770b06cace88",
@@ -83201,6 +83238,19 @@
       }
     },
     {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.13/stick_ranger.apworld",
+      "size": 54312,
+      "hash_sha256": "2dd9681e5ced980520e591ff81482ad3882f13caa442f9c75dfb09ce28fbfc00",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.13",
+        "tag_version": "1.8.13",
+        "created_at": "2026-11-03T21:33:57Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.2/stick_ranger.apworld",
       "size": 43088,
       "hash_sha256": "b4bda396e778d33dacf187d79627966b0878705efece6b4328edde39e8deaf78",
@@ -83305,15 +83355,15 @@
       }
     },
     {
-      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.13/stick_ranger.apworld",
-      "size": 54312,
-      "hash_sha256": "2dd9681e5ced980520e591ff81482ad3882f13caa442f9c75dfb09ce28fbfc00",
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/2.0.0/stick_ranger.apworld",
+      "size": 67291,
+      "hash_sha256": "7d4e399d6662bd3823ca8e0a1fb618d5219b8a724ea38d28a6c548720c9c12c5",
       "metadata": {
         "game": "Stick Ranger",
         "id": "stick_ranger",
-        "world_version": "1.8.13",
-        "tag_version": "1.8.13",
-        "created_at": "2026-11-03T21:33:57Z",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-11-04T17:15:59Z",
         "minimum_ap_version": "0.6.7"
       }
     },
