@@ -4,7 +4,7 @@
   "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent.",
   "game": "Manual_TheVault_Chakraa",
   "github": "https://github.com/ChakraaThePanda/Archipelago-Manual-TheVault",
-  "license": null,
+  "license": "MIT",
   "versions": {
     "1.0": {
       "created_at": "2025-01-07T03:45:44Z",
@@ -77,6 +77,19 @@
       "title": "2026.09.12 - Manual Update",
       "version_simple": "2026.9.12",
       "world_version": "2026.9.12"
+    },
+    "2026.11.03": {
+      "created_at": "2026-11-03T22:07:52Z",
+      "download_url": "https://github.com/ChakraaThePanda/Archipelago-Manual-TheVault/releases/download/2026.11.03/manual_thevault_chakraa.apworld",
+      "has_manifest": true,
+      "hash_sha256": "78fd1cb3fac4caca3a5d62bf710431e3b00bb3cffdc98ab8502bd1a944707222",
+      "minimum_ap_version": "0.6.7",
+      "size": 61464,
+      "source_url": "https://api.github.com/repos/ChakraaThePanda/Archipelago-Manual-TheVault",
+      "tag": "2026.11.03",
+      "title": "2026.11.03 - Extra Keys & Vault Stages",
+      "version_simple": "2026.11.3",
+      "world_version": "2026.11.3"
     }
   }
 }
