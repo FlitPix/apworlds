@@ -11125,6 +11125,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.12.3/casualtiesunknown.apworld",
+      "size": 95257,
+      "hash_sha256": "64617c34b2320e147fa1e739f3434539f2866c465f52ebd91937254f7a17ec38",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.12.3",
+        "tag_version": "0.12.3",
+        "created_at": "2026-11-03T19:36:58Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -42947,6 +42960,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Fellowship/releases/download/2026.11.03/manual_fellowship_chakraa.apworld",
+      "size": 64221,
+      "hash_sha256": "1b7bf9b200e01570b24385071c0cd9e40eb817b2e4d0269e1fbedba67de27008",
+      "metadata": {
+        "game": "Manual_Fellowship_Chakraa",
+        "id": "manual_fellowship_chakraa",
+        "world_version": "2026.11.3",
+        "tag_version": "2026.11.3",
+        "created_at": "2026-11-03T21:55:00Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/pizie11/FFXIVBMB/releases/download/0.3/manual_ffxivbmb_pizzie.apworld",
       "size": 51899,
       "hash_sha256": "25a635a4c979c5d8996756aa43541c1ab16b12f76031cacc3801e69330e4e77f",
@@ -44982,6 +45008,32 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.1/manual_onemorenight_wolfboi008.apworld",
+      "size": 77947,
+      "hash_sha256": "6f7560b4ac8312cac4f8edbeaf8461e29f749563a0de35ccd776aaaf83a94704",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.0.1",
+        "tag_version": "3.0.1",
+        "created_at": "2026-11-04T04:23:34Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.0.0/manual_onemorenight_wolfboi008.apworld",
+      "size": 77916,
+      "hash_sha256": "38d34d6d762d7ade0f69abe9401d0578c84dc38c8106d92b8232fcf61b7d3dcc",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.0.0",
+        "tag_version": "3.0.0",
+        "created_at": "2026-11-03T20:52:19Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/nicopop/ManualApworlds/releases/download/6.4.0/manual_outerwilds_nicopopxd.apworld",
       "size": 73676,
       "hash_sha256": "d6f034c2e7a17a3d1f4a53f83d24c1a35f17f82c01a48539257ad408220bdffe",
@@ -46836,6 +46888,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-TheVault/releases/download/2026.11.03/manual_thevault_chakraa.apworld",
+      "size": 61464,
+      "hash_sha256": "78fd1cb3fac4caca3a5d62bf710431e3b00bb3cffdc98ab8502bd1a944707222",
+      "metadata": {
+        "game": "Manual_TheVault_Chakraa",
+        "id": "manual_thevault_chakraa",
+        "world_version": "2026.11.3",
+        "tag_version": "2026.11.3",
+        "created_at": "2026-11-03T22:07:52Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/muffinjets/Manual_TheWrathofCortex_MuffinJets/releases/download/v1.0.1/Manual_TheWrathofCortex_MuffinJets.apworld",
       "size": 46577,
       "hash_sha256": "5e54e3496c3e5035e99d8fa31c348f64ebf751556fdb3adfd38d31e6c4693819",
@@ -47478,6 +47543,19 @@
         "tag_version": "2026.9.12",
         "created_at": "2026-09-12T14:35:28Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-WorldofWarcraft-Dungeons/releases/download/2026.11.03/manual_worldofwarcraftdungeons_chakraa.apworld",
+      "size": 69915,
+      "hash_sha256": "ca86db663896107a33e07d19833ecbf838b669d949ba127a1a18fdd8c2ed8ce6",
+      "metadata": {
+        "game": "Manual_WorldofWarcraftDungeons_Chakraa",
+        "id": "manual_worldofwarcraftdungeons_chakraa",
+        "world_version": "2026.11.3",
+        "tag_version": "2026.11.3",
+        "created_at": "2026-11-03T22:07:52Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -49662,19 +49740,6 @@
       }
     },
     {
-      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
-      "size": 470162,
-      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
-      "metadata": {
-        "game": "Hatsune Miku Project Diva Mega Mix+",
-        "id": "megamix",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2024-07-03T21:21:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.4/megamix.apworld",
       "size": 41435,
       "hash_sha256": "787b70c0cf2c8296d2f55b53fe42bdf7c9c370d008d779f5ebaa7c1542ddbb7e",
@@ -49685,6 +49750,19 @@
         "tag_version": "1.5.4",
         "created_at": "2026-11-03T16:20:42Z",
         "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/Beta/megamix.apworld",
+      "size": 470162,
+      "hash_sha256": "e78f376b7d48dde0498fb91afa76847ce0739f4b569d2ba2d8a1127875c2702d",
+      "metadata": {
+        "game": "Hatsune Miku Project Diva Mega Mix+",
+        "id": "megamix",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2024-07-03T21:21:03Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -53873,7 +53951,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.1.7/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.1.7/nine_sols.apworld",
       "size": 2895159,
       "hash_sha256": "5efb64588df03966d60437727fe8135d2c32c31d59a5ea266823f5eb5e341f00",
       "metadata": {
@@ -53886,7 +53964,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.2.0/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.2.0/nine_sols.apworld",
       "size": 2897173,
       "hash_sha256": "51eee8c6552e86448a823c4668001501aac619376eaf8a574a53ed593248956b",
       "metadata": {
@@ -53899,7 +53977,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.2.1/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.2.1/nine_sols.apworld",
       "size": 2897175,
       "hash_sha256": "adc67a4e325830bde42de92e09e933e70607dcb8dbfe405d7d09e220795ee17d",
       "metadata": {
@@ -53912,7 +53990,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.0/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.0/nine_sols.apworld",
       "size": 2911365,
       "hash_sha256": "1293d5881b471f2667c59450fceeeec86d6affb2eac3568d6f715857c52eec31",
       "metadata": {
@@ -53925,7 +54003,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.1/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.1/nine_sols.apworld",
       "size": 2911632,
       "hash_sha256": "afac3f11d5b9bceeff146190f9d6ae51d5c994d85272d924712bacae7b55c16d",
       "metadata": {
@@ -53938,7 +54016,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.2/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.2/nine_sols.apworld",
       "size": 2912478,
       "hash_sha256": "7b7b8aac78043d71ac9c5ab2f5b99d22daf07ccf6cda4b33f089b2110d24cd87",
       "metadata": {
@@ -53951,7 +54029,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.3/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.3/nine_sols.apworld",
       "size": 2913545,
       "hash_sha256": "a43c55bed16025c4a282f6ebff378d95738fde95bb629f10008b9eeca2a58ca0",
       "metadata": {
@@ -53964,7 +54042,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.4/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.4/nine_sols.apworld",
       "size": 2914291,
       "hash_sha256": "c4e4cbae7bc931925479ec3504341129794f4631c64ea58f6622632d1ec18ba4",
       "metadata": {
@@ -53977,7 +54055,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.5/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.5/nine_sols.apworld",
       "size": 2914291,
       "hash_sha256": "2f23eca451e1f56583fe69f9da4e55e64c2829104ecfddb301c4ff5eff1513a4",
       "metadata": {
@@ -53990,7 +54068,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.6/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.6/nine_sols.apworld",
       "size": 2914203,
       "hash_sha256": "aed2adbed8ae4f6bac81bfbfddd5846133707a566a735d7b4b0b3c162f948cd4",
       "metadata": {
@@ -54003,7 +54081,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.0/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.0/nine_sols.apworld",
       "size": 2919850,
       "hash_sha256": "65378d9ff62b407c89ebd6783227eae681361a47f38ebbba00e50dc7789d3875",
       "metadata": {
@@ -54016,7 +54094,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.1/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.1/nine_sols.apworld",
       "size": 2920015,
       "hash_sha256": "2ef0ac2aa44106300e90440597c6b165c5facfb3a85d674890ea1390cc0d790e",
       "metadata": {
@@ -54029,7 +54107,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.2/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.2/nine_sols.apworld",
       "size": 2923043,
       "hash_sha256": "588bdcc442bc2e7a7ebd58b02e8a3410897bd20536d7a7602bc0d2df239db1f3",
       "metadata": {
@@ -54042,7 +54120,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.3/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.3/nine_sols.apworld",
       "size": 2923964,
       "hash_sha256": "9f88b516e12192dbd354368b8a3e2c3814b71cab291fa39caf7f8d0c40e529b0",
       "metadata": {
@@ -54055,7 +54133,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.4/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.4/nine_sols.apworld",
       "size": 2924934,
       "hash_sha256": "5938249073f0bd33f484db6812cd820e22605e9e92620e3b4764670c381a5ac4",
       "metadata": {
@@ -54068,7 +54146,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.5/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.5/nine_sols.apworld",
       "size": 2579580,
       "hash_sha256": "521697fb11e298e011c2b043cd847ec98e63b7d92478967b6178dc01c9c2a939",
       "metadata": {
@@ -54081,7 +54159,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.6/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.6/nine_sols.apworld",
       "size": 2579580,
       "hash_sha256": "a89bd720a12648d40c8d0e72a9e8ad6e69cba76b98f8c25913a94768e4fd5815",
       "metadata": {
@@ -54094,7 +54172,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.0/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.0/nine_sols.apworld",
       "size": 2584608,
       "hash_sha256": "8c2de9a1a61589149aba2ec0da61262d30547f14fd91c564ebcc4f6bd163b581",
       "metadata": {
@@ -54107,7 +54185,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.1/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.1/nine_sols.apworld",
       "size": 2584648,
       "hash_sha256": "9244b782fd2cc9bca9e065b46b0899c62a20e6e219af6fb4b4c21ba426ad962c",
       "metadata": {
@@ -54120,7 +54198,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.2/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.2/nine_sols.apworld",
       "size": 2584979,
       "hash_sha256": "c2357358d443228236e30ae93ebf5f7cc109cef3e9ef461e9498514f1ef1d41b",
       "metadata": {
@@ -54133,7 +54211,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.3/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.3/nine_sols.apworld",
       "size": 2585016,
       "hash_sha256": "40cb5c894ac6330e563c76413d63a2647c941b4830447cf90799ee91bb1b685b",
       "metadata": {
@@ -54146,7 +54224,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.4/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.4/nine_sols.apworld",
       "size": 2585157,
       "hash_sha256": "c2894508c6bef04d5c80ccc228c8454cdebfb41ed3e6ba09cfd21391759cd6e4",
       "metadata": {
@@ -54159,7 +54237,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.5/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.5/nine_sols.apworld",
       "size": 2585159,
       "hash_sha256": "0ba8ad13d02228068b18f1065663d228801c58ce0797e79bcb2e8f808e93465d",
       "metadata": {
@@ -54172,7 +54250,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.6/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.6/nine_sols.apworld",
       "size": 2586237,
       "hash_sha256": "2be3b14006b2744a91f729bb03c9fd4805394a681fdb6ab861d3f80b38672708",
       "metadata": {
@@ -54185,7 +54263,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.7/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.7/nine_sols.apworld",
       "size": 2586358,
       "hash_sha256": "6d46a5d14dd8cdffd79122375e485280ae6a861742f640cdeb4ba44b07823392",
       "metadata": {
@@ -54198,7 +54276,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.0/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.0/nine_sols.apworld",
       "size": 3644379,
       "hash_sha256": "1ece9bbd2378d106aa159b2a1bbdcd5fc262e92d4ef1d1cbe492c6da20427af1",
       "metadata": {
@@ -54211,7 +54289,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.1/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.1/nine_sols.apworld",
       "size": 3635657,
       "hash_sha256": "551830d4c6622c2a04b715aa4df2469252e3a2249ca46a48edb15fb9feac66ac",
       "metadata": {
@@ -54224,7 +54302,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.2/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.2/nine_sols.apworld",
       "size": 3635781,
       "hash_sha256": "2104570b88aa25c94860d142f3e3dd6776b784cf99ddf59371fffd68186a3f91",
       "metadata": {
@@ -54237,7 +54315,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.3/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.3/nine_sols.apworld",
       "size": 3661019,
       "hash_sha256": "83fc069b97a9a1931add37bca2cf02b14215177dfff1f96d5955ba8dd1bfe29b",
       "metadata": {
@@ -54250,7 +54328,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.4/nine_sols.apworld",
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.4/nine_sols.apworld",
       "size": 3661548,
       "hash_sha256": "95881e42ad59deec954a0e036d8150c0e65f339b61223225bb139d80e0a56e6f",
       "metadata": {
@@ -56951,7 +57029,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.10/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.10/outer_wilds.apworld",
       "size": 129618,
       "hash_sha256": "734facaf2c6bb301c43641cb8d98ce097106bbf5b80f3c014c331687d8204609",
       "metadata": {
@@ -56964,7 +57042,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.11/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.11/outer_wilds.apworld",
       "size": 129778,
       "hash_sha256": "54a04a6de2a83d980acf0486c85a395488c023076b0ffb18a8bf6b250c79addc",
       "metadata": {
@@ -56977,7 +57055,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.12/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.12/outer_wilds.apworld",
       "size": 130449,
       "hash_sha256": "0439a81f199d3faf933580d3a7523a62dbb99d52a61209ef8e2f11144257ebb7",
       "metadata": {
@@ -56990,7 +57068,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.13/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.13/outer_wilds.apworld",
       "size": 130457,
       "hash_sha256": "ef872c467ea862578f5588238298e2ad1f660e1d7490795f046813df731ce09c",
       "metadata": {
@@ -57003,7 +57081,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.14/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.14/outer_wilds.apworld",
       "size": 131346,
       "hash_sha256": "7f77b2d4fbd8b398f036234815430cfca575723186794145b96084a712225879",
       "metadata": {
@@ -57016,7 +57094,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.15/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.15/outer_wilds.apworld",
       "size": 186151,
       "hash_sha256": "db5b811ed7eafe92ba449de96546f9ceb405ecc9bbbacc7431344d178c993a65",
       "metadata": {
@@ -57029,7 +57107,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.16/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.16/outer_wilds.apworld",
       "size": 187292,
       "hash_sha256": "d20fb662ffdc7224962b054b3bfb002e3d0bc09f89716dc63e881cfd5647ed63",
       "metadata": {
@@ -57042,7 +57120,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.17/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.17/outer_wilds.apworld",
       "size": 187896,
       "hash_sha256": "cc8c20967dc7f4ca6d2c11dfac511d8781872c14a4e1709154e02729b12494cf",
       "metadata": {
@@ -57055,7 +57133,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.18/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.18/outer_wilds.apworld",
       "size": 188620,
       "hash_sha256": "76aa416cdefdf90f421adcde35820b196d9d3d0ffd6f642cbb12e8bf1e976f97",
       "metadata": {
@@ -57068,7 +57146,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.19/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.19/outer_wilds.apworld",
       "size": 137164,
       "hash_sha256": "95a749fa5ec7b85ff1d50b385ce85268fb4c41bd62d75739ec916ea4ef457f07",
       "metadata": {
@@ -57110,7 +57188,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.20/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.20/outer_wilds.apworld",
       "size": 76752,
       "hash_sha256": "66cd9952db874dbc07a00cd826dcc9d563f5d616cf4036ddad8f8e05216113b9",
       "metadata": {
@@ -57123,7 +57201,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.3/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.3/outer_wilds.apworld",
       "size": 123076,
       "hash_sha256": "dba05ba408ba73474f34a0c47081af574a163127ef13261623229e7a42b4e36d",
       "metadata": {
@@ -57152,7 +57230,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.4/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.4/outer_wilds.apworld",
       "size": 129215,
       "hash_sha256": "f5af7afa2b8f95dc6ea08e4bee1683337b26b5e1643ec1f975a2fa06dbeb719c",
       "metadata": {
@@ -57165,7 +57243,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.5/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.5/outer_wilds.apworld",
       "size": 129618,
       "hash_sha256": "db08b66744d426ab4555b33370db4356630156d62a5659794aa9290bf71f94af",
       "metadata": {
@@ -57178,7 +57256,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.6/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.6/outer_wilds.apworld",
       "size": 129659,
       "hash_sha256": "fe4ddd06e41620ea22c478986f4b3e3b79d105543f89f0bde8267b7afae7a161",
       "metadata": {
@@ -57191,7 +57269,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.6.1/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.6.1/outer_wilds.apworld",
       "size": 129659,
       "hash_sha256": "fe4ddd06e41620ea22c478986f4b3e3b79d105543f89f0bde8267b7afae7a161",
       "metadata": {
@@ -57204,7 +57282,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.7/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.7/outer_wilds.apworld",
       "size": 129591,
       "hash_sha256": "f0801cb0366dfb4165cdec320dc0495273d91cc17be6d49ae54ba587ddd8c117",
       "metadata": {
@@ -57217,7 +57295,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.7.1/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.7.1/outer_wilds.apworld",
       "size": 129591,
       "hash_sha256": "f0801cb0366dfb4165cdec320dc0495273d91cc17be6d49ae54ba587ddd8c117",
       "metadata": {
@@ -57230,7 +57308,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.8/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.8/outer_wilds.apworld",
       "size": 129767,
       "hash_sha256": "c11e3dd4c3378f7c2039f04907d41b000feefc13e7b553da4ef52a882fc7484c",
       "metadata": {
@@ -57243,7 +57321,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v0.3.9/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v0.3.9/outer_wilds.apworld",
       "size": 129847,
       "hash_sha256": "f4bfa8912de10ede9cdc9dcb7443a494b979785eeac4afa075bfcd092d1f9af7",
       "metadata": {
@@ -57256,7 +57334,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.0.0/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.0.0/outer_wilds.apworld",
       "size": 84083,
       "hash_sha256": "e5e7736e0ef6e45014bf73abcea51b23e2602657a5919e194efbe44cbeaf3a15",
       "metadata": {
@@ -57269,7 +57347,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.0.1/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.0.1/outer_wilds.apworld",
       "size": 84107,
       "hash_sha256": "4b21a97bfe4f63a3e7ee7645e18870da838c7421ec7d8929b2671d4fbc93153e",
       "metadata": {
@@ -57282,7 +57360,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.1.0/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.1.0/outer_wilds.apworld",
       "size": 85522,
       "hash_sha256": "ac5a6b3a7af4e529dba7579843ac04119942d1a3c7e8320f680299cb3a6a5d21",
       "metadata": {
@@ -57295,7 +57373,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.2.0/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.2.0/outer_wilds.apworld",
       "size": 86304,
       "hash_sha256": "cdc44050bd084e7ba0adbdafaa76b426d13010f4d8d6ef4ae1fe7cdd33785e80",
       "metadata": {
@@ -57308,7 +57386,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.2.1/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.2.1/outer_wilds.apworld",
       "size": 86353,
       "hash_sha256": "4109418091ca4805e72372a23f87f412e41706878ad62eab67205d4f19ce3090",
       "metadata": {
@@ -57321,7 +57399,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.2.2/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.2.2/outer_wilds.apworld",
       "size": 86633,
       "hash_sha256": "b7ee9b7d4528b78cd268aa1606041f310b568be8ce368666e3413b3cb863cbed",
       "metadata": {
@@ -57334,7 +57412,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.3.0/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.3.0/outer_wilds.apworld",
       "size": 86645,
       "hash_sha256": "0cb3cfef2ef8ba57bc5762148c94588c745d98e906f59f1f66c5cbdcd8f1216d",
       "metadata": {
@@ -57347,7 +57425,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.3.1/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.3.1/outer_wilds.apworld",
       "size": 88981,
       "hash_sha256": "3aa979ca82e158755d7472302e3675fab4db87bcfa461095667544e777742859",
       "metadata": {
@@ -57360,7 +57438,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.4.0/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.4.0/outer_wilds.apworld",
       "size": 94952,
       "hash_sha256": "eb967b1c30455e5a9f7aa1afea3bcf72f9167ed4c74d9caf67768ba4c972f28a",
       "metadata": {
@@ -57373,7 +57451,7 @@
       }
     },
     {
-      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.4.1/outer_wilds.apworld",
+      "world": "https://github.com/IxrecsRandomizers/OuterWildsArchipelagoRandomizer/releases/download/v1.4.1/outer_wilds.apworld",
       "size": 97149,
       "hash_sha256": "bd3a013ba8a4bd4b1c91b108fa48b39e7818fce7f268181aca832bb1e752f1f7",
       "metadata": {
@@ -83223,6 +83301,19 @@
         "world_version": "1.8.9",
         "tag_version": "1.8.9",
         "created_at": "2026-09-29T08:50:31Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.13/stick_ranger.apworld",
+      "size": 54312,
+      "hash_sha256": "2dd9681e5ced980520e591ff81482ad3882f13caa442f9c75dfb09ce28fbfc00",
+      "metadata": {
+        "game": "Stick Ranger",
+        "id": "stick_ranger",
+        "world_version": "1.8.13",
+        "tag_version": "1.8.13",
+        "created_at": "2026-11-03T21:33:57Z",
         "minimum_ap_version": "0.6.7"
       }
     },
