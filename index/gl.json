@@ -431,6 +431,7 @@
     "v2.1.7r2": {
       "created_at": "2026-09-20T04:16:31Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.7/gl.apworld",
+      "failed_to_load": "cannot import name 'CollectionRule' from 'BaseClasses' (/home/runner/work/apworlds/apworlds/Archipelago/BaseClasses.py)",
       "has_manifest": true,
       "hash_sha256": "97559cb954dfed6ce8cac84d6e5e6ccf56f6c1b09f880a6880ff64cffb4707b4",
       "minimum_ap_version": "0.6.6",

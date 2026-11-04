@@ -91,7 +91,7 @@
     },
     "0.1.7": {
       "created_at": "2025-09-25T01:29:41Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.1.7/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.1.7/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "5efb64588df03966d60437727fe8135d2c32c31d59a5ea266823f5eb5e341f00",
       "minimum_ap_version": "0.5.0",
@@ -104,7 +104,7 @@
     },
     "0.2.0": {
       "created_at": "2025-10-09T18:47:13Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.2.0/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.2.0/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "51eee8c6552e86448a823c4668001501aac619376eaf8a574a53ed593248956b",
       "minimum_ap_version": "0.5.0",
@@ -117,7 +117,7 @@
     },
     "0.2.1": {
       "created_at": "2025-10-12T02:04:43Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.2.1/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.2.1/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "adc67a4e325830bde42de92e09e933e70607dcb8dbfe405d7d09e220795ee17d",
       "minimum_ap_version": "0.5.0",
@@ -130,7 +130,7 @@
     },
     "0.3.0": {
       "created_at": "2025-10-30T22:40:11Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.0/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.0/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "1293d5881b471f2667c59450fceeeec86d6affb2eac3568d6f715857c52eec31",
       "minimum_ap_version": "0.5.0",
@@ -143,7 +143,7 @@
     },
     "0.3.1": {
       "created_at": "2025-11-01T10:02:02Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.1/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.1/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "afac3f11d5b9bceeff146190f9d6ae51d5c994d85272d924712bacae7b55c16d",
       "minimum_ap_version": "0.5.0",
@@ -156,7 +156,7 @@
     },
     "0.3.2": {
       "created_at": "2025-11-07T13:08:06Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.2/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.2/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "7b7b8aac78043d71ac9c5ab2f5b99d22daf07ccf6cda4b33f089b2110d24cd87",
       "minimum_ap_version": "0.5.0",
@@ -169,7 +169,7 @@
     },
     "0.3.3": {
       "created_at": "2025-11-13T11:32:23Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.3/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.3/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "a43c55bed16025c4a282f6ebff378d95738fde95bb629f10008b9eeca2a58ca0",
       "minimum_ap_version": "0.5.0",
@@ -182,7 +182,7 @@
     },
     "0.3.4": {
       "created_at": "2025-11-23T16:47:42Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.4/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.4/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "c4e4cbae7bc931925479ec3504341129794f4631c64ea58f6622632d1ec18ba4",
       "minimum_ap_version": "0.5.0",
@@ -195,7 +195,7 @@
     },
     "0.3.5": {
       "created_at": "2025-11-24T14:15:25Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.5/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.5/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "2f23eca451e1f56583fe69f9da4e55e64c2829104ecfddb301c4ff5eff1513a4",
       "minimum_ap_version": "0.5.0",
@@ -208,7 +208,7 @@
     },
     "0.3.6": {
       "created_at": "2025-11-29T17:12:52Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.3.6/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.3.6/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "aed2adbed8ae4f6bac81bfbfddd5846133707a566a735d7b4b0b3c162f948cd4",
       "minimum_ap_version": "0.6.4",
@@ -221,7 +221,7 @@
     },
     "0.4.0": {
       "created_at": "2025-12-12T23:30:37Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.0/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.0/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "65378d9ff62b407c89ebd6783227eae681361a47f38ebbba00e50dc7789d3875",
       "minimum_ap_version": "0.6.4",
@@ -234,7 +234,7 @@
     },
     "0.4.1": {
       "created_at": "2025-12-15T13:19:19Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.1/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.1/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "2ef0ac2aa44106300e90440597c6b165c5facfb3a85d674890ea1390cc0d790e",
       "minimum_ap_version": "0.6.4",
@@ -247,7 +247,7 @@
     },
     "0.4.2": {
       "created_at": "2025-12-23T02:44:54Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.2/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.2/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "588bdcc442bc2e7a7ebd58b02e8a3410897bd20536d7a7602bc0d2df239db1f3",
       "minimum_ap_version": "0.6.4",
@@ -260,7 +260,7 @@
     },
     "0.4.3": {
       "created_at": "2025-12-30T05:44:33Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.3/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.3/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "9f88b516e12192dbd354368b8a3e2c3814b71cab291fa39caf7f8d0c40e529b0",
       "minimum_ap_version": "0.6.4",
@@ -273,7 +273,7 @@
     },
     "0.4.4": {
       "created_at": "2026-02-15T17:07:30Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.4/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.4/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "5938249073f0bd33f484db6812cd820e22605e9e92620e3b4764670c381a5ac4",
       "minimum_ap_version": "0.6.4",
@@ -286,7 +286,7 @@
     },
     "0.4.5": {
       "created_at": "2026-03-01T02:43:25Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.5/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.5/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "521697fb11e298e011c2b043cd847ec98e63b7d92478967b6178dc01c9c2a939",
       "minimum_ap_version": "0.6.4",
@@ -299,7 +299,7 @@
     },
     "0.4.6": {
       "created_at": "2026-03-02T14:04:40Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.6/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.4.6/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "a89bd720a12648d40c8d0e72a9e8ad6e69cba76b98f8c25913a94768e4fd5815",
       "minimum_ap_version": "0.6.4",
@@ -312,7 +312,7 @@
     },
     "0.5.0": {
       "created_at": "2026-04-02T19:52:04Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.0/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.0/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "8c2de9a1a61589149aba2ec0da61262d30547f14fd91c564ebcc4f6bd163b581",
       "minimum_ap_version": "0.6.4",
@@ -325,7 +325,7 @@
     },
     "0.5.1": {
       "created_at": "2026-04-03T16:00:54Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.1/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.1/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "9244b782fd2cc9bca9e065b46b0899c62a20e6e219af6fb4b4c21ba426ad962c",
       "minimum_ap_version": "0.6.4",
@@ -338,7 +338,7 @@
     },
     "0.5.2": {
       "created_at": "2026-04-13T21:44:33Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.2/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.2/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "c2357358d443228236e30ae93ebf5f7cc109cef3e9ef461e9498514f1ef1d41b",
       "minimum_ap_version": "0.6.4",
@@ -351,7 +351,7 @@
     },
     "0.5.3": {
       "created_at": "2026-04-16T01:48:34Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.3/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.3/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "40cb5c894ac6330e563c76413d63a2647c941b4830447cf90799ee91bb1b685b",
       "minimum_ap_version": "0.6.4",
@@ -364,7 +364,7 @@
     },
     "0.5.4": {
       "created_at": "2026-06-10T21:46:55Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.4/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.4/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "c2894508c6bef04d5c80ccc228c8454cdebfb41ed3e6ba09cfd21391759cd6e4",
       "minimum_ap_version": "0.6.4",
@@ -377,7 +377,7 @@
     },
     "0.5.5": {
       "created_at": "2026-06-11T00:24:45Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.5/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.5/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "0ba8ad13d02228068b18f1065663d228801c58ce0797e79bcb2e8f808e93465d",
       "minimum_ap_version": "0.6.4",
@@ -390,7 +390,7 @@
     },
     "0.5.6": {
       "created_at": "2026-06-23T16:21:29Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.6/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.6/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "2be3b14006b2744a91f729bb03c9fd4805394a681fdb6ab861d3f80b38672708",
       "minimum_ap_version": "0.6.4",
@@ -403,7 +403,7 @@
     },
     "0.5.7": {
       "created_at": "2026-07-02T15:37:47Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.7/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.5.7/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "6d46a5d14dd8cdffd79122375e485280ae6a861742f640cdeb4ba44b07823392",
       "minimum_ap_version": "0.6.4",
@@ -416,7 +416,7 @@
     },
     "0.6.0": {
       "created_at": "2026-07-04T16:03:25Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.0/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.0/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "1ece9bbd2378d106aa159b2a1bbdcd5fc262e92d4ef1d1cbe492c6da20427af1",
       "minimum_ap_version": "0.6.4",
@@ -429,7 +429,7 @@
     },
     "0.6.1": {
       "created_at": "2026-07-13T22:24:26Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.1/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.1/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "551830d4c6622c2a04b715aa4df2469252e3a2249ca46a48edb15fb9feac66ac",
       "minimum_ap_version": "0.6.4",
@@ -442,7 +442,7 @@
     },
     "0.6.2": {
       "created_at": "2026-08-06T20:20:22Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.2/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.2/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "2104570b88aa25c94860d142f3e3dd6776b784cf99ddf59371fffd68186a3f91",
       "minimum_ap_version": "0.6.4",
@@ -455,7 +455,7 @@
     },
     "0.6.3": {
       "created_at": "2026-08-24T13:47:36Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.3/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.3/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "83fc069b97a9a1931add37bca2cf02b14215177dfff1f96d5955ba8dd1bfe29b",
       "minimum_ap_version": "0.6.4",
@@ -468,7 +468,7 @@
     },
     "0.6.4": {
       "created_at": "2026-10-04T15:50:23Z",
-      "download_url": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.4/nine_sols.apworld",
+      "download_url": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.4/nine_sols.apworld",
       "has_manifest": true,
       "hash_sha256": "95881e42ad59deec954a0e036d8150c0e65f339b61223225bb139d80e0a56e6f",
       "minimum_ap_version": "0.6.4",

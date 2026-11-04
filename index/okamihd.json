@@ -264,6 +264,7 @@
     "0.5.4": {
       "created_at": "2026-10-28T20:53:30Z",
       "download_url": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.4/okamihd.apworld",
+      "failed_to_load": "No module named 'rule_builder'",
       "has_manifest": true,
       "hash_sha256": "dfa81d7568b24fccda4b271bf4643c01ba320638a5a4dc9aeaa5953ecbab63c4",
       "minimum_ap_version": "0.6.7",
