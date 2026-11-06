@@ -44911,6 +44911,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.1.0/manual_onemorenight_wolfboi008.apworld",
+      "size": 78418,
+      "hash_sha256": "278ee14a3196b4273d8482e148fb0ba13e0670ea840e57ffec4120ed3145f064",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.1.0",
+        "tag_version": "3.1.0",
+        "created_at": "2026-11-04T04:29:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/pre-1.5.0/manual_onemorenight_wolfboi008.apworld",
       "size": 62609,
       "hash_sha256": "7561178f71f1dda2b66506ee83459c1cc6c62b4ec7244c645ce4e2fba00dc4b8",
@@ -45068,19 +45081,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.1.0/manual_onemorenight_wolfboi008.apworld",
-      "size": 78418,
-      "hash_sha256": "278ee14a3196b4273d8482e148fb0ba13e0670ea840e57ffec4120ed3145f064",
-      "metadata": {
-        "game": "Manual_OneMoreNight_WolfBoi008",
-        "id": "manual_onemorenight_wolfboi008",
-        "world_version": "3.1.0",
-        "tag_version": "3.1.0",
-        "created_at": "2026-11-04T04:29:51Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -82967,6 +82967,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.13/stardew_valley.apworld",
+      "size": 585308,
+      "hash_sha256": "99f094507402cd5463050c993319b5054e65aab5f91ebbb3659bb1d9dd673262",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.12",
+        "tag_version": "8.1.12",
+        "created_at": "2026-11-06T02:54:02Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.2/stardew_valley.apworld",
       "size": 580720,
       "hash_sha256": "27a9b8b1ddd07d1ad82500485c36549e020b4d6c2ba1da189dba2163f4d19c26",
@@ -83088,22 +83104,6 @@
         "world_version": "8.1.5",
         "tag_version": "8.1.5",
         "created_at": "2026-09-06T01:41:14Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.13/stardew_valley.apworld",
-      "size": 585308,
-      "hash_sha256": "99f094507402cd5463050c993319b5054e65aab5f91ebbb3659bb1d9dd673262",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.1.12",
-        "tag_version": "8.1.12",
-        "created_at": "2026-11-06T02:54:02Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
@@ -95456,6 +95456,19 @@
         "world_version": "0.2.9",
         "tag_version": "0.2.9",
         "created_at": "2026-09-10T13:14:12Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.3.0/xenobladex.apworld",
+      "size": 7338866,
+      "hash_sha256": "4334a9f605e2011f19ce705cb0af8d165c62005faa649f16302c6ca4327aa084",
+      "metadata": {
+        "game": "Xenoblade X",
+        "id": "xenobladex",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-11-06T15:13:32Z",
         "minimum_ap_version": "0.6.7"
       }
     },

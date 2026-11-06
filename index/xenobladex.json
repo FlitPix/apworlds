@@ -393,6 +393,19 @@
       "title": "Xenoblade Chronicles X APWorld 0.2.9",
       "version_simple": "0.2.9",
       "world_version": "0.2.9"
+    },
+    "XenoX0.3.0": {
+      "created_at": "2026-11-06T15:13:32Z",
+      "download_url": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.3.0/xenobladex.apworld",
+      "has_manifest": true,
+      "hash_sha256": "4334a9f605e2011f19ce705cb0af8d165c62005faa649f16302c6ca4327aa084",
+      "minimum_ap_version": "0.6.7",
+      "size": 7338866,
+      "source_url": "https://api.github.com/repos/MaragonMH/Archipelago",
+      "tag": "XenoX0.3.0",
+      "title": "Xenoblade Chronicles X APWorld 0.3.0",
+      "version_simple": "0.3.0",
+      "world_version": "0.3.0"
     }
   }
 }
