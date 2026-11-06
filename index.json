@@ -37114,6 +37114,18 @@
       }
     },
     {
+      "world": "https://github.com/ZAPaDASH04/LEGO-Batman-APworld/releases/download/v1.0.2/lego_batman_1.apworld",
+      "size": 42547,
+      "hash_sha256": "70b512bcbe4d934ccc0c565c56af7da96cb46c3d88fd5fa9397f567bc469afc1",
+      "metadata": {
+        "game": "Lego Batman: The Video Game",
+        "id": "lego_batman_1",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-11-04T03:13:02Z"
+      }
+    },
+    {
       "world": "https://github.com/Mysteryem/Archipelago-TCS/releases/download/v0.1.0/lego_star_wars_tcs.apworld",
       "size": 68647,
       "hash_sha256": "0f98509bd6265fea27bb6bd0d97da040668c4429b837b32bab3ad6809452a105",
@@ -45056,6 +45068,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/3.1.0/manual_onemorenight_wolfboi008.apworld",
+      "size": 78418,
+      "hash_sha256": "278ee14a3196b4273d8482e148fb0ba13e0670ea840e57ffec4120ed3145f064",
+      "metadata": {
+        "game": "Manual_OneMoreNight_WolfBoi008",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "3.1.0",
+        "tag_version": "3.1.0",
+        "created_at": "2026-11-04T04:29:51Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -83063,6 +83088,22 @@
         "world_version": "8.1.5",
         "tag_version": "8.1.5",
         "created_at": "2026-09-06T01:41:14Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.13/stardew_valley.apworld",
+      "size": 585308,
+      "hash_sha256": "99f094507402cd5463050c993319b5054e65aab5f91ebbb3659bb1d9dd673262",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.12",
+        "tag_version": "8.1.12",
+        "created_at": "2026-11-06T02:54:02Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
