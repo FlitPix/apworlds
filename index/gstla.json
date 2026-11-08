@@ -115,6 +115,19 @@
       "title": "0.2.3-beta",
       "version_simple": "0.2.3",
       "world_version": "0.2.3"
+    },
+    "0.2.4-beta": {
+      "created_at": "2026-11-02T11:58:20Z",
+      "download_url": "https://github.com/cjmang/Archipelago/releases/download/0.2.4-beta/gstla.apworld",
+      "has_manifest": true,
+      "hash_sha256": "5b64899da304a619e8280045d0036114ae42dd1c3652f1330e7f051f81ea8c0b",
+      "minimum_ap_version": "0.6.7",
+      "size": 241431,
+      "source_url": "https://api.github.com/repos/cjmang/Archipelago",
+      "tag": "0.2.4-beta",
+      "title": "0.2.4-beta",
+      "version_simple": "0.2.4",
+      "world_version": "0.2.4"
     }
   }
 }

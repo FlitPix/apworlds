@@ -30077,6 +30077,19 @@
       }
     },
     {
+      "world": "https://github.com/cjmang/Archipelago/releases/download/0.2.4-beta/gstla.apworld",
+      "size": 241431,
+      "hash_sha256": "5b64899da304a619e8280045d0036114ae42dd1c3652f1330e7f051f81ea8c0b",
+      "metadata": {
+        "game": "Golden Sun The Lost Age",
+        "id": "gstla",
+        "world_version": "0.2.4",
+        "tag_version": "0.2.4",
+        "created_at": "2026-11-02T11:58:20Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/CoreZer0/TheGuardianLegend-AP/releases/download/v0.3.0/guardianlegend.apworld",
       "size": 56982,
       "hash_sha256": "f6be00b7eae9b18a1afa84d4089c9907501405131aba379ef63e5f7fcf16a6e8",
