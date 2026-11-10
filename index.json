@@ -10657,6 +10657,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.13.0-pre1/casualtiesunknown.apworld",
+      "size": 101210,
+      "hash_sha256": "17c430097b5623f6c445cdf06da0692230febc00b6264eec2b74b4b48daf2242",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-11-09T23:00:18Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.2.0/casualtiesunknown.apworld",
       "size": 44285,
       "hash_sha256": "0d7389820011b49f8dc5ef3324b38ba4d0c8de1e9bec7f575733dcfe73c2afc0",
@@ -11160,22 +11176,6 @@
         "tag_version": "0.9.3",
         "created_at": "2026-04-27T03:07:23Z",
         "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.13.0-pre1/casualtiesunknown.apworld",
-      "size": 101210,
-      "hash_sha256": "17c430097b5623f6c445cdf06da0692230febc00b6264eec2b74b4b48daf2242",
-      "metadata": {
-        "game": "Casualties: Unknown",
-        "id": "casualtiesunknown",
-        "world_version": "0.13.0",
-        "tag_version": "0.13.0",
-        "created_at": "2026-11-09T23:00:18Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -64045,6 +64045,19 @@
       }
     },
     {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/6.0.6/pokemon_crystal.apworld",
+      "size": 987531,
+      "hash_sha256": "ef1fe3eba0ae270022bf32bf7aae6498a89ae00885c75f1c6f5e7bce646161c1",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "6.0.6",
+        "tag_version": "6.0.6",
+        "created_at": "2026-11-10T18:38:00Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/vyneras/Archipelago/releases/download/0.1.0-alpha/pokemon_frlg.apworld",
       "size": 648964,
       "hash_sha256": null,
@@ -88589,6 +88602,19 @@
         "tag_version": "0.8.0",
         "created_at": "2026-01-27T11:46:46Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.10.3/tloz_ph.apworld",
+      "size": 2632190,
+      "hash_sha256": "c84326b2da67435beebbadd6009d16767cdac3d7435600c82ec5519a2e1af0a2",
+      "metadata": {
+        "game": "The Legend of Zelda - Phantom Hourglass",
+        "id": "tloz_ph",
+        "world_version": "0.10.3",
+        "tag_version": "0.10.3",
+        "created_at": "2026-11-10T17:53:50Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
