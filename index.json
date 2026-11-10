@@ -11163,6 +11163,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.13.0-pre1/casualtiesunknown.apworld",
+      "size": 101210,
+      "hash_sha256": "17c430097b5623f6c445cdf06da0692230febc00b6264eec2b74b4b48daf2242",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-11-09T23:00:18Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -19919,6 +19935,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.8/dk64.apworld",
+      "size": 1918680,
+      "hash_sha256": "ab3c942a0802f1ea6fb5b6aef19719333a5377cb549c09b602bc5c3d1c3b966e",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "2.0.8",
+        "tag_version": "2.0.8",
+        "created_at": "2026-11-10T01:12:28Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.0.0/dkc.apworld",
       "size": 56776,
       "hash_sha256": "15d2d8a12aad3d4e068bd805e8f0da29b132cbaca62ae022c3c0f4f80cc439e4",
@@ -20380,6 +20409,19 @@
         "world_version": "3.1.4",
         "tag_version": "3.1.4",
         "created_at": "2026-07-08T06:18:34Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.5/dkc2.apworld",
+      "size": 142819,
+      "hash_sha256": "a3a6bafb73c3b94d8bfa7b1c0d77e5dabf30e64acc924f22df19496c4ebff830",
+      "metadata": {
+        "game": "Donkey Kong Country 2",
+        "id": "dkc2",
+        "world_version": "3.1.5",
+        "tag_version": "3.1.5",
+        "created_at": "2026-11-10T04:34:07Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -62280,6 +62322,19 @@
         "world_version": "0.4.4",
         "tag_version": "0.4.4",
         "created_at": "2026-11-01T22:16:04Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.4.5/pokemon_bw.apworld",
+      "size": 1409023,
+      "hash_sha256": "8a400df90fbe2b2ca8a9e129f996b491de3b88f1c8ef146dc3a5dbe7c7bddfcd",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.4.5",
+        "tag_version": "0.4.5",
+        "created_at": "2026-11-09T22:58:20Z",
         "minimum_ap_version": "0.6.7"
       }
     },
