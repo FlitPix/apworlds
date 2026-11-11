@@ -11179,6 +11179,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.13.0-pre2/casualtiesunknown.apworld",
+      "size": 105344,
+      "hash_sha256": "f68a3df42c0cdeb7a188e8c6f11f4812dd9e8f6e037735e83617629f143fa12b",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-11-11T08:37:35Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -20604,6 +20620,32 @@
         "world_version": "2.0.2",
         "tag_version": "2.0.2",
         "created_at": "2026-10-20T22:15:50Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v2.1.1/dome_keeper.apworld",
+      "size": 139390,
+      "hash_sha256": "a49864c25f713b5783ca1efe96045ce02302f1170b0ef11925c613f7c9f52bae",
+      "metadata": {
+        "game": "Dome Keeper",
+        "id": "dome_keeper",
+        "world_version": "2.1.1",
+        "tag_version": "2.1.1",
+        "created_at": "2026-11-11T16:19:41Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v2.1.0/dome_keeper.apworld",
+      "size": 139212,
+      "hash_sha256": "ec820a5097eaa18b6b30a439015e395938cec97dbf36fcf34df5f017c315872c",
+      "metadata": {
+        "game": "Dome Keeper",
+        "id": "dome_keeper",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-11-10T23:50:45Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -75986,6 +76028,18 @@
       }
     },
     {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v1.2.0/sly2.apworld",
+      "size": 3505697,
+      "hash_sha256": "6006dd224e765f02bf36191306a68409d6c5f1426b9af5d4de26b397c4664536",
+      "metadata": {
+        "game": "Sly 2: Band of Thieves",
+        "id": "sly2",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-11-11T18:28:46Z"
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.1.0/sm64hacks.apworld",
       "size": 18419,
       "hash_sha256": "ad1a79658f6647b9db2516ae5d516cc086f783a98b8961d679972b2f77230908",
@@ -79205,6 +79259,19 @@
         "world_version": "0.1.1",
         "tag_version": "0.1.1",
         "created_at": "2025-03-13T19:38:12Z"
+      }
+    },
+    {
+      "world": "https://github.com/DDR-Khat/Spelunky2-Archipelago/releases/download/0.5.1/spelunky2.apworld",
+      "size": 22774,
+      "hash_sha256": "00c614db58859710489286ecf96816f53533bcc8cbd24b9ebabc732609759370",
+      "metadata": {
+        "game": "Spelunky 2",
+        "id": "spelunky2",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-11-11T12:56:34Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -83249,6 +83316,22 @@
         "world_version": "8.1.5",
         "tag_version": "8.1.5",
         "created_at": "2026-09-06T01:41:14Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.14/stardew_valley.apworld",
+      "size": 585198,
+      "hash_sha256": "67e183722104e02ef59c76ddbc7c8619d6adc796755385a5f1bf59a3d2f046a2",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.14",
+        "tag_version": "8.1.14",
+        "created_at": "2026-11-11T14:15:07Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
@@ -95627,6 +95710,19 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2026-11-06T15:13:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.3.1/xenobladex.apworld",
+      "size": 7338888,
+      "hash_sha256": "dfea379d02c01725b50a2ddd915214d66eb64b6c0374d3285d60b5e4747f7e2b",
+      "metadata": {
+        "game": "Xenoblade X",
+        "id": "xenobladex",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-11-11T17:28:15Z",
         "minimum_ap_version": "0.6.7"
       }
     },

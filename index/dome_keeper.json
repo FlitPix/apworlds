@@ -135,6 +135,30 @@
       "title": "Archipelago v2.0.2",
       "version_simple": "2.0.2",
       "world_version": "2.0.2"
+    },
+    "v2.1.0": {
+      "created_at": "2026-11-10T23:50:45Z",
+      "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v2.1.0/dome_keeper.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ec820a5097eaa18b6b30a439015e395938cec97dbf36fcf34df5f017c315872c",
+      "size": 139212,
+      "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
+      "tag": "v2.1.0",
+      "title": "Archipelago v2.1.0",
+      "version_simple": "2.1.0",
+      "world_version": "2.1.0"
+    },
+    "v2.1.1": {
+      "created_at": "2026-11-11T16:19:41Z",
+      "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v2.1.1/dome_keeper.apworld",
+      "has_manifest": false,
+      "hash_sha256": "a49864c25f713b5783ca1efe96045ce02302f1170b0ef11925c613f7c9f52bae",
+      "size": 139390,
+      "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
+      "tag": "v2.1.1",
+      "title": "Archipelago v2.1.1",
+      "version_simple": "2.1.1",
+      "world_version": "2.1.1"
     }
   }
 }
