@@ -11195,6 +11195,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.13.0-pre3/casualtiesunknown.apworld",
+      "size": 106957,
+      "hash_sha256": "c39f90e2ebf8e3694daf0b09b29f79173795d8aec263c20827224f34173225bd",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-11-12T07:09:41Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.1.0-alpha/cat_quest.apworld",
       "size": 7311,
       "hash_sha256": "386e44853b6e65c220c4cb939860cf81c0c55b622d1e908e06d898576d9ed014",
@@ -59206,6 +59222,19 @@
       }
     },
     {
+      "world": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.4.2/phoa.apworld",
+      "size": 25071,
+      "hash_sha256": "a6d0a11de1e5a3cfe6648003df3c4af2984df5a6b4521b6168ff062cbf247e90",
+      "metadata": {
+        "game": "Phoenotopia: Awakening",
+        "id": "phoa",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-10-21T19:33:17Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Poke714/Archipelago/releases/download/v0.1.0/pikmin.apworld",
       "size": 8984,
       "hash_sha256": "8a909e0b4dd392051298bb996b6a5831a9178d525ed0c0f5912fb9bff4d90cda",
@@ -83348,6 +83377,22 @@
         "world_version": "8.1.5",
         "tag_version": "8.1.5",
         "created_at": "2026-09-06T01:41:14Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.15/stardew_valley.apworld",
+      "size": 585198,
+      "hash_sha256": "67e183722104e02ef59c76ddbc7c8619d6adc796755385a5f1bf59a3d2f046a2",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.14",
+        "tag_version": "8.1.14",
+        "created_at": "2026-11-12T14:16:45Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
