@@ -10689,6 +10689,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.13.0-pre3/casualtiesunknown.apworld",
+      "size": 106957,
+      "hash_sha256": "c39f90e2ebf8e3694daf0b09b29f79173795d8aec263c20827224f34173225bd",
+      "metadata": {
+        "game": "Casualties: Unknown",
+        "id": "casualtiesunknown",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-11-12T07:09:41Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.2.0/casualtiesunknown.apworld",
       "size": 44285,
       "hash_sha256": "0d7389820011b49f8dc5ef3324b38ba4d0c8de1e9bec7f575733dcfe73c2afc0",
@@ -11195,15 +11211,15 @@
       }
     },
     {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.13.0-pre3/casualtiesunknown.apworld",
-      "size": 106957,
-      "hash_sha256": "c39f90e2ebf8e3694daf0b09b29f79173795d8aec263c20827224f34173225bd",
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.13.0-pre4/casualtiesunknown.apworld",
+      "size": 106956,
+      "hash_sha256": "ca6a8dc7ac450381f91c3e224310a2d9db62c412240261cf2949f0732e246124",
       "metadata": {
         "game": "Casualties: Unknown",
         "id": "casualtiesunknown",
         "world_version": "0.13.0",
         "tag_version": "0.13.0",
-        "created_at": "2026-11-12T07:09:41Z",
+        "created_at": "2026-11-13T04:28:28Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
@@ -54558,6 +54574,19 @@
       }
     },
     {
+      "world": "https://github.com/IxrecsRandomizers/NineSolsArchipelagoRandomizer/releases/download/0.6.5/nine_sols.apworld",
+      "size": 3662852,
+      "hash_sha256": "c851c1be8ef7b557b04d4c26ae72a876928f39563713e34758c0db63e23637b1",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.6.5",
+        "tag_version": "0.6.5",
+        "created_at": "2026-11-13T00:45:23Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release1.4.1/no100f.apworld",
       "size": 158591,
       "hash_sha256": "1d0c78065491b119be230cb9c0daa8eeb733805e4178a91f0a055b2bd3f02ceb",
@@ -83256,6 +83285,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.15/stardew_valley.apworld",
+      "size": 585198,
+      "hash_sha256": "67e183722104e02ef59c76ddbc7c8619d6adc796755385a5f1bf59a3d2f046a2",
+      "metadata": {
+        "game": "Stardew Valley",
+        "id": "stardew_valley",
+        "world_version": "8.1.14",
+        "tag_version": "8.1.14",
+        "created_at": "2026-11-12T14:16:45Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.2/stardew_valley.apworld",
       "size": 580720,
       "hash_sha256": "27a9b8b1ddd07d1ad82500485c36549e020b4d6c2ba1da189dba2163f4d19c26",
@@ -83377,22 +83422,6 @@
         "world_version": "8.1.5",
         "tag_version": "8.1.5",
         "created_at": "2026-09-06T01:41:14Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.15/stardew_valley.apworld",
-      "size": 585198,
-      "hash_sha256": "67e183722104e02ef59c76ddbc7c8619d6adc796755385a5f1bf59a3d2f046a2",
-      "metadata": {
-        "game": "Stardew Valley",
-        "id": "stardew_valley",
-        "world_version": "8.1.14",
-        "tag_version": "8.1.14",
-        "created_at": "2026-11-12T14:16:45Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
